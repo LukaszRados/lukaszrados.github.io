@@ -1,5 +1,5 @@
 <template>
-  <footer class="p-4 max-w-6xl mx-auto md:flex md:items-end lg:p-8">
+  <footer class="p-4 max-w-6xl mx-auto mt-8 mb-4 md:flex md:items-end lg:p-8">
     <div class="md:mr-8 lg:mr-16">
         <p>
             +31 614 439 619<br>

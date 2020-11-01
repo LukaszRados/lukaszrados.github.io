@@ -38,6 +38,13 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
   ],
+  /*
+  ** Router 
+  */
+  router: {
+    linkActiveClass: 'is-active',
+    base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/lukaszrados/' : undefined
+  },
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {},

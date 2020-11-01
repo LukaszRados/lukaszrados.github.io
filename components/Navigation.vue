@@ -5,7 +5,7 @@
       Front End Developer<br>
       Landscape Photographer
     </nuxt-link>
-    <nav class="flex items-center h-8">
+    <nav class="flex items-center h-10">
       <button type="button" class="text-0 focus:outline-none lg:hidden" @click="open = !open">
         <menu-icon :open="open" />
       </button>
@@ -14,9 +14,9 @@
         :class="{ 'hidden': !open }"
       >
         <li><nuxt-link to="/" class="link">gallery</nuxt-link></li>
-        <li><nuxt-link to="/" class="link">blog</nuxt-link></li>
-        <li><nuxt-link to="/" class="link">info</nuxt-link></li>
-        <li><nuxt-link to="/" class="link">polski?</nuxt-link></li>
+        <li><nuxt-link to="/blog" class="link">blog</nuxt-link></li>
+        <li><nuxt-link to="/contact" class="link">info</nuxt-link></li>
+        <li><nuxt-link to="/pl" class="link">polski?</nuxt-link></li>
       </ul>
     </nav>
   </header>
@@ -36,6 +36,7 @@ export default {
 .link {
   @apply inline-block text-lg ml-5;
 }
+.link.is-active,
 .link:hover {
   @apply underline;
 }
