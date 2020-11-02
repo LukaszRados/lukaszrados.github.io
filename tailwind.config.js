@@ -1,4 +1,7 @@
 module.exports = {
+    variants: {
+        width: ['responsive', 'hover'],
+    },
     theme: {
         extend: {
             fontFamily: {
