@@ -1,9 +1,22 @@
 <template>
   <header class="p-4 lg:flex lg:justify-between lg:p-8">
     <nuxt-link to="/" class="text-2xl leading-none inline-block mb-4 md:text-3xl lg:text-4xl">
-      Łukasz Rados<br>
-      Front End Developer<br>
-      Landscape Photographer
+      Łukasz Rados
+      <transition
+        enter-class="h-0 opacity-0"
+        enter-to-class="h-16 opacity-100"
+        enter-active-class="transition-all duration-300"
+        leave-class="opactiy-100 h-16"
+        leave-to-class="h-0 opacity-0"
+        leave-active-class="transition-all duration-300"
+      >
+        <div v-show="$route.name === 'index'">
+          <div class="h-16">
+            Front End Developer<br>
+            Landscape Photographer
+          </div>
+        </div>
+      </transition>
     </nuxt-link>
     <nav class="flex items-center h-10">
       <button type="button" class="text-0 focus:outline-none lg:hidden" @click="open = !open">
