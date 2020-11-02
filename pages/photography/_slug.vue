@@ -1,6 +1,6 @@
 <template>
-    <div class="ml-16 max-w-6xl lg:mx-auto lg:px-8 lg:my-16">
-        <nuxt-link to="/">
+    <div class="ml-16 max-w-6xl pr-4 lg:mx-auto lg:px-8 lg:my-16">
+        <nuxt-link to="/photography">
             <back-button />
         </nuxt-link>
         <h1 class="text-xl lg:text-2xl">{{ title }}</h1>
@@ -13,7 +13,7 @@
                 <photo-thumbnail :photo="photo" />
             </div>
         </div>
-    </div>    
+    </div>
 </template>
 
 <script>

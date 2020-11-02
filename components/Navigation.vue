@@ -1,21 +1,21 @@
 <template>
-  <header class="p-4 lg:flex lg:justify-between lg:p-8">
+  <header class="p-4 md:flex md:justify-between lg:p-8">
     <nuxt-link to="/" class="text-2xl leading-none inline-block mb-4 md:text-3xl lg:text-4xl lg:mb-0">
       Łukasz Rados
-      <div v-show="$route.name === 'index'">
+      <div v-show="$route.name === 'index' || $route.name === 'photography'">
         Front End Developer<br>
         Landscape Photographer
       </div>
     </nuxt-link>
     <nav class="flex items-center h-10 lg:h-auto">
-      <button type="button" class="text-0 focus:outline-none lg:hidden" @click="open = !open">
+      <button type="button" class="text-0 focus:outline-none md:hidden" @click="open = !open">
         <menu-icon :open="open" />
       </button>
       <ul
-        class="flex items-center overflow-hidden transition-width duration-300 lg:flex"
-        :class="{ 'w-0 lg:w-auto': !open, 'w-full': open }"
+        class="flex items-center overflow-hidden transition-width duration-300 md:flex"
+        :class="{ 'w-0 md:w-auto': !open, 'w-full': open }"
       >
-        <li><nuxt-link to="/" class="link">gallery</nuxt-link></li>
+        <li><nuxt-link to="/photography" class="link">gallery</nuxt-link></li>
         <li><nuxt-link to="/blog" class="link">blog</nuxt-link></li>
         <li><nuxt-link to="/contact" class="link">info</nuxt-link></li>
         <li><nuxt-link to="/pl" class="link">polski?</nuxt-link></li>
