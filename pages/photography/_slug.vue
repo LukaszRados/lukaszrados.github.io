@@ -3,11 +3,11 @@
         <nuxt-link to="/">
             <back-button />
         </nuxt-link>
-        <h1 class="text-xl lg:text-2xl">{{ gallery.title }}</h1>
+        <h1 class="text-xl lg:text-2xl">{{ title }}</h1>
         <div class="my-12 mr-4 md:flex md:flex-wrap md:items-center">
             <div
                 class="md:w-1/2 md:p-16"
-                v-for="photo in gallery.photos"
+                v-for="photo in photos"
                 :key="photo.url"
             >
                 <photo-thumbnail :photo="photo" />
@@ -21,9 +21,9 @@ export default {
     async asyncData({ $content, params }) {
         const gallery = await $content(`galleries/${params.slug}`).fetch()
         return {
-            gallery
+            ...gallery,
+            title: gallery.title.replace('<br>', ' ')
         }
     },
-
 }
 </script>

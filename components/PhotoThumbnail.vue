@@ -23,7 +23,23 @@ export default {
     },
 
     mounted () {
-        this.loaded = true
+        window.addEventListener('scroll', this.load, { passive: true })
+        this.load()
+    },
+
+    destroyed () {
+        if (!this.loaded) {
+            window.removeEventListener('scroll', this.load, { passive: true })
+        }
+    },
+
+    methods: {
+        load () {
+            if (this.$el.getBoundingClientRect().top - window.innerHeight < 100) {
+                this.loaded = true
+                window.removeEventListener('scroll', this.load, { passive: true })
+            }
+        }
     }
 }
 </script>
