@@ -12,8 +12,8 @@
         <menu-icon :open="open" />
       </button>
       <ul
-        class="flex items-center lg:flex"
-        :class="{ 'hidden': !open }"
+        class="flex items-center overflow-hidden transition-width duration-300 lg:flex"
+        :class="{ 'w-0 lg:w-auto': !open, 'w-full': open }"
       >
         <li><nuxt-link to="/" class="link">gallery</nuxt-link></li>
         <li><nuxt-link to="/blog" class="link">blog</nuxt-link></li>
