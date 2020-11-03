@@ -19,8 +19,8 @@
 
 <script>
 export default {
-    async asyncData({ $content, params }) {
-        const post = await $content(`posts/${params.slug}`).fetch()
+    async asyncData({ $content, params, app }) {
+        const post = await $content(`${app.i18n.locale}/posts/${params.slug}`).fetch()
         return {
             post
         }

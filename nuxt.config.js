@@ -37,10 +37,26 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    'nuxt-i18n'
   ],
-  /*
-  ** Router 
-  */
+
+  // i18n
+  i18n: {
+    locales: [{
+      code: 'pl',
+      file: 'pl.js',
+      name: 'Polish'
+    }, {
+      code: 'en',
+      file: 'en.js',
+      name: 'English'
+    }],
+    defaultLocale: 'pl',
+    langDir: 'lang/',
+    lazy: true,
+  },
+  
+  // Router
   router: {
     linkActiveClass: 'is-active',
     base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/lukaszrados/' : undefined

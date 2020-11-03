@@ -1,6 +1,6 @@
 <template>
   <header class="p-4 md:flex md:justify-between lg:p-8">
-    <nuxt-link to="/" class="text-2xl leading-none inline-block mb-4 md:text-3xl lg:text-4xl lg:mb-0">
+    <nuxt-link :to="localePath('/')" class="text-2xl leading-none inline-block mb-4 md:text-3xl lg:text-4xl lg:mb-0">
       Łukasz Rados
       <transition
         enter-class="h-0 opacity-0"
@@ -10,10 +10,10 @@
         leave-to-class="h-0 opacity-0"
         leave-active-class="transition-all duration-300"
       >
-        <div v-show="$route.name === 'index' || $route.name === 'photography'">
+        <div v-show="$route.name.startsWith('index_') || $route.name.startsWith('photography_')">
           <div class="h-16">
             Front End Developer<br>
-            Landscape Photographer
+            {{ $t('globals.photographer') }}
           </div>
         </div>
       </transition>
@@ -26,10 +26,11 @@
         class="flex items-center overflow-hidden transition-width duration-300 md:flex"
         :class="{ 'w-0 md:w-auto': !open, 'w-full': open }"
       >
-        <li><nuxt-link to="/photography" class="link">gallery</nuxt-link></li>
-        <li><nuxt-link to="/blog" class="link">blog</nuxt-link></li>
-        <li><nuxt-link to="/contact" class="link">info</nuxt-link></li>
-        <li><nuxt-link to="/pl" class="link">polski?</nuxt-link></li>
+        <li><nuxt-link :to="localePath('/photography')" class="link">{{ $t('navigation.photography') }}</nuxt-link></li>
+        <li><nuxt-link :to="localePath('/blog')" class="link">blog</nuxt-link></li>
+        <li><nuxt-link :to="localePath('/contact')" class="link">info</nuxt-link></li>
+        <li v-if="$i18n.locale === 'pl'"><nuxt-link :to="switchLocalePath('en')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">english?</nuxt-link></li>
+        <li v-if="$i18n.locale === 'en'"><nuxt-link :to="switchLocalePath('pl')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">polski?</nuxt-link></li>
       </ul>
     </nav>
   </header>

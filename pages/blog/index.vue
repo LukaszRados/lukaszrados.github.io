@@ -29,7 +29,7 @@
                                 class="hover:underline focus:outline-none"
                                 type="button"
                                 @click="currentCategory = post.category"
-                            >#{{ post.category }}</button>
+                            >#{{ $t(`blog.categories.${post.category}`) }}</button>
                         </span>
                     </div>
                     <p>{{ post.intro }}</p>
@@ -41,8 +41,8 @@
 
 <script>
 export default {
-    async asyncData ({ $content }) {
-        const posts = await $content('posts').sortBy('published_at', 'desc').fetch()
+    async asyncData ({ $content, app }) {
+        const posts = await $content(`${app.i18n.locale}/posts`).sortBy('published_at', 'desc').fetch()
         return {
             posts
         }
@@ -53,13 +53,13 @@ export default {
             currentCategory: '',
             categories: [{
                 slug: '',
-                title: 'all'
+                title: this.$t('blog.categories.all')
             }, {
                 slug: 'photography',
-                title: 'photography'
+                title: this.$t('blog.categories.photography')
             }, {
                 slug: 'coding',
-                title: 'coding'
+                title: this.$t('blog.categories.coding')
             }]
         }
     },

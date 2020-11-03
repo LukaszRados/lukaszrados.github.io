@@ -46,8 +46,8 @@ export default {
     }
   },
 
-  async asyncData({ $content, $app }) {
-    const galleries = await $content('galleries').fetch()
+  async asyncData({ $content, app }) {
+    const galleries = await $content(`${app.i18n.locale}/galleries`).fetch()
     return {
       chunks: galleries.reduce((output, value) => {
         if (output[output.length - 1].length % 3 === 0) {

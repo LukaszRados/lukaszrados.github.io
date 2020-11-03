@@ -34,8 +34,8 @@
 
 <script>
 export default {
-    async asyncData({ $content }) {
-        const page = await $content('contact').fetch()
+    async asyncData({ $content, app }) {
+        const page = await $content(`${app.i18n.locale}/contact`).fetch()
         return {
             ...page
         }

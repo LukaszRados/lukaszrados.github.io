@@ -35,8 +35,8 @@
 
 <script>
 export default {
-    async asyncData({ $content, params }) {
-        const gallery = await $content(`galleries/${params.slug}`).fetch()
+    async asyncData({ $content, params, app }) {
+        const gallery = await $content(`${app.i18n.locale}/galleries/${params.slug}`).fetch()
         return {
             ...gallery,
             title: gallery.title.replace('<br>', ' ')
