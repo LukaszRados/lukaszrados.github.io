@@ -36,10 +36,10 @@
 <script>
 export default {
     async asyncData({ $content, params, app }) {
-        const gallery = await $content(`${app.i18n.locale}/galleries/${params.slug}`).fetch()
+        const gallery = await $content(`galleries/${params.slug}`).fetch()
         return {
             ...gallery,
-            title: gallery.title.replace('<br>', ' ')
+            title: gallery[`title_${app.i18n.locale}`].replace('<br>', ' ')
         }
     },
 

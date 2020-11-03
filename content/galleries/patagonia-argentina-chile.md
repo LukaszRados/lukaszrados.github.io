@@ -1,4 +1,5 @@
 ---
 background: https://lukaszrados.pl/upload/photos/fitz-roy-argentyna-464.jpg
-title: Patagonia:<br>Argentyna i Chile
+title_en: Patagonia:<br>Argentina & Chile
+title_pl: Patagonia:<br>Argentyna i Chile
 ---

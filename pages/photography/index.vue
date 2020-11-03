@@ -19,7 +19,7 @@
           'card--inactive': activeColumn !== null && activeColumn  % 3 !== index,
         }"
       >
-        <h2 class="text-xl leading-tight mb-4 relative z-10" v-html="gallery.title"></h2>
+        <h2 class="text-xl leading-tight mb-4 relative z-10" v-html="gallery[`title_${$i18n.locale}`]"></h2>
         <div
           class="image"
           :style="`background-image: url(${gallery.background})`"
@@ -30,7 +30,7 @@
           :to="`/photography/${gallery.slug}`"
           class="absolute top-0 left-0 w-full h-full opacity-0 z-20"
         >
-          {{ gallery.title }}
+          {{ gallery[`title_${$i18n.locale}`] }}
         </nuxt-link>
       </div>
     </div>
@@ -47,7 +47,7 @@ export default {
   },
 
   async asyncData({ $content, app }) {
-    const galleries = await $content(`${app.i18n.locale}/galleries`).fetch()
+    const galleries = await $content(`galleries`).fetch()
     return {
       chunks: galleries.reduce((output, value) => {
         if (output[output.length - 1].length % 3 === 0) {
@@ -97,7 +97,7 @@ export default {
   }
 
   .row--active .card {
-    @apply h-96;
+    @apply h-112;
   }
 
   .card--active {
@@ -114,7 +114,7 @@ export default {
   }
 
   .row--active .card--active .image {
-    @apply w-2/3;
+    @apply w-8/12;
   }
 
   .image:after {

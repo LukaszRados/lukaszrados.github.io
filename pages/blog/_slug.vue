@@ -20,7 +20,7 @@
 <script>
 export default {
     async asyncData({ $content, params, app }) {
-        const post = await $content(`${app.i18n.locale}/posts/${params.slug}`).fetch()
+        const post = await $content(`posts/${app.i18n.locale}/${params.slug}`).fetch()
         return {
             post
         }

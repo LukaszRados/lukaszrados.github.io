@@ -42,7 +42,7 @@
 <script>
 export default {
     async asyncData ({ $content, app }) {
-        const posts = await $content(`${app.i18n.locale}/posts`).sortBy('published_at', 'desc').fetch()
+        const posts = await $content(`posts/${app.i18n.locale}`).sortBy('published_at', 'desc').fetch()
         return {
             posts
         }
