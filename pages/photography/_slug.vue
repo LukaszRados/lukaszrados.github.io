@@ -3,7 +3,7 @@
         <nuxt-link to="/photography">
             <back-button />
         </nuxt-link>
-        <h1 class="text-xl lg:text-2xl">{{ title }}</h1>
+        <h1 class="text-xl lg:text-2xl mt-4">{{ title }}</h1>
         <div class="my-12 mr-4 md:flex md:flex-wrap md:items-center">
             <div
                 class="md:w-1/2 md:p-16"

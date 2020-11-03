@@ -1,4 +1,4 @@
 <script>
-import About from '@/pages/photography/index'
-export default About
+import Photography from '@/pages/photography/index'
+export default Photography
 </script>

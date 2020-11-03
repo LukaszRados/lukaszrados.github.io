@@ -5,7 +5,7 @@
                 <nuxt-link to="/blog">
                     <back-button />
                 </nuxt-link>
-                <h1 class="text-xl lg:text-2xl mb-6">{{ post.title }}</h1>
+                <h1 class="text-xl lg:text-2xl mb-6 mt-4">{{ post.title }}</h1>
                 <p class="text-2xl lg:text-3xl">{{ post.intro }}</p>
             </div>
             <div class="content">

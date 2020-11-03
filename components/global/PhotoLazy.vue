@@ -1,8 +1,10 @@
 <template>
     <picture 
-        class="block relative w-full my-8 mx-auto max-w-1200 lg:my-16 transform transition-all duration-500 ease-in-out"
+        class="block relative w-full my-8 mx-auto lg:my-16 transform transition-all duration-500 ease-in-out"
         :class="{
-            'translate-y-20 opacity-0': !shown
+            'translate-y-20 opacity-0': !shown,
+            'max-w-1200': paddingBottom < 100,
+            'max-w-3xl': paddingBottom >= 100
         }"
     >
         <div class="h-0 w-full bg-gray-200" :style="`padding-bottom: ${paddingBottom}%`"></div>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <fade-in-section>
     <div
       class="row"
       :class="{
@@ -34,7 +34,7 @@
         </nuxt-link>
       </div>
     </div>
-  </div>
+  </fade-in-section>
 </template>
 
 <script>
