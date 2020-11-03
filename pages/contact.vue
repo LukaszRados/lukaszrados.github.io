@@ -10,8 +10,8 @@
                 <div class="w-64 lg:w-96 bg-gray-200 absolute top-0 right-0 mt-32 lg:mt-32 lg:-mr-16">
                     <div class="h-0 w-full" style="padding-bottom: 125%"></div>
                     <picture class="absolute top-0 left-0 opacity-75">
-                        <source type="image/webp" srcset="~/assets/info/photography.webp">
-                        <img src="~/assets/info/photography.jpg" alt="">
+                        <source type="image/webp" srcset="/info/photography.webp">
+                        <img src="/info/photography.jpg" alt="">
                     </picture>
                 </div>
             </photo-parallax>
@@ -26,8 +26,8 @@
                 <div class="w-96 lg:w-120 bg-gray-200 absolute top-0 left-0 mt-32 lg:-ml-16">
                     <div class="h-0 w-full" style="padding-bottom: 75%"></div>
                     <picture class="absolute top-0 left-0 opacity-75">
-                        <source type="image/webp" srcset="~/assets/info/sailing.webp">
-                        <img src="~/assets/info/sailing.jpg" alt="">
+                        <source type="image/webp" srcset="/info/sailing.webp">
+                        <img src="/info/sailing.jpg" alt="">
                     </picture>
                 </div>
             </photo-parallax>
