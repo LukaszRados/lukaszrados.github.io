@@ -59,7 +59,7 @@ export default {
   // Router
   router: {
     linkActiveClass: 'is-active',
-    base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/lukaszrados/' : undefined
+    base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/lukaszrados-nuxt/' : undefined
   },
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
