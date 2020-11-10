@@ -47,7 +47,7 @@ export default {
   },
 
   async asyncData({ $content, app }) {
-    const galleries = await $content(`galleries`).fetch()
+    const galleries = await $content(`galleries`).without(['photos']).sortBy('order').fetch()
     return {
       chunks: galleries.reduce((output, value) => {
         if (output[output.length - 1].length % 3 === 0) {

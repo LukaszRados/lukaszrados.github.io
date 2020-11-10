@@ -2,6 +2,7 @@
 background: /photos/iceland-norway/cover.webp
 title_en: Iceland <br>& Norway
 title_pl: Islandia <br>i Norwegia
+order: 2
 photos:
   -
     url: /photos/iceland-norway/large/iceland-norway-1.jpg

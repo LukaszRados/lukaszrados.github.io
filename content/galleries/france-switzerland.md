@@ -2,6 +2,7 @@
 background: /photos/france-switzerland/cover.webp
 title_en: France<br>& Switzerland
 title_pl: Francja<br>i Szwajcaria
+order: 7
 photos:
   -
     url: /photos/france-switzerland/large/france-switzerland-1.jpg
