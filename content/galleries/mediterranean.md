@@ -2,7 +2,7 @@
 background: /photos/mediterranean/cover.webp
 title_en: Mediterranean<br> Sea
 title_pl: Morze<br> Śródziemne
-order: 11
+order: 8
 photos:
   -
     url: /photos/mediterranean/large/mediterranean-11.jpg
