@@ -27,7 +27,7 @@
           <!-- <img src="" alt="" class="absolute top-0 left-0 w-full h-full"> -->
         </div>
         <nuxt-link
-          :to="`/photography/${gallery.slug}`"
+          :to="localePath(`/photography/${gallery.slug}`)"
           class="absolute top-0 left-0 w-full h-full opacity-0 z-20"
         >
           {{ gallery[`title_${$i18n.locale}`] }}

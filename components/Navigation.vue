@@ -54,7 +54,7 @@ export default {
 
     computed: {
         showSubheader () {
-            return (this.$route.name.startsWith('index_') || this.$route.name.startsWith('photography_')) && (this.currentPosition < 10)
+            return (this.$route.name.startsWith('index_') || this.$route.name.startsWith('photography_')) && (this.currentPosition === 0)
         }
     },
 
