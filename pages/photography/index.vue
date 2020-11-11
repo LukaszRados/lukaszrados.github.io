@@ -97,7 +97,7 @@ export default {
     }
 
     .row--active .card {
-        @apply h-112;
+        @apply h-96;
     }
 
     .card--active {
