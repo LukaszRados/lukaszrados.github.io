@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="ml-16 max-w-6xl pr-4 lg:mx-auto lg:px-8 lg:my-16">
-            <nuxt-link to="/photography">
+            <nuxt-link :to="localePath('/photography')">
                 <back-button />
             </nuxt-link>
             <h1 class="text-xl lg:text-2xl mt-4">{{ title }}</h1>

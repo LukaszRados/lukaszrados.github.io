@@ -14,4 +14,7 @@ export default {
             'coding': 'coding'
         }
     },
+    footer: {
+        love: 'Made with ❤️ using Nuxt &amp; TailwindCSS'
+    }
 }

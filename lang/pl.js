@@ -14,9 +14,7 @@ export default {
             'coding': 'programowanie'
         }
     },
-    info: {
-        paragraph_1: '',
-        paragraph_2: '',
-        paragraph_3: '',        
+    footer: {
+        love: 'Stworzono z ❤️ używając Nuxt i TailwindCSS'
     }
 }

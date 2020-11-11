@@ -2,8 +2,8 @@
   <footer class="p-4 max-w-5xl mx-auto mt-8 mb-4 md:flex md:items-end lg:p-8">
     <div class="md:mr-8 lg:mr-16">
         <p>
-            +31 614 439 619<br>
-            lukaszrados@gmail.com
+            &copy; {{ new Date().getFullYear() }} Łukasz Rados<br>
+            <span v-html="$t('footer.love')"></span>
         </p>
     </div>
     <ul class="flex items-center mt-4 md:mt-0 md:mb-1">
