@@ -14,6 +14,11 @@ export default {
             'coding': 'coding'
         }
     },
+    lightbox: {
+        'next': 'Next photo',
+        'prev': 'Previous photo',
+        'close': 'Close gallery',  
+    },
     footer: {
         love: 'Made with ❤️ using Nuxt &amp; TailwindCSS'
     }

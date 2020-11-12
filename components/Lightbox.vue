@@ -26,24 +26,27 @@
         </div>
         <button
             type="button"
-            class="fixed top-0 right-0 h-10 w-10 text-3xl inline-flex items-center justify-center focus:outline-none"
+            class="fixed top-0 right-0 h-10 w-10 mt-5 mr-3 hidden lg:flex items-center justify-center focus:outline-none"
             @click="$emit('close')"
+            :aria-label="$t('lightbox.close')"
         >
-            &times;
+            <close-button />
         </button>
         <button
             type="button"
-            class="fixed top-0 right-0 h-10 w-10 mr-12 text-3xl hidden lg:inline-flex items-center justify-center focus:outline-none"
+            class="fixed top-1/2 right-0 h-10 w-10 -mt-5 mr-5 hidden lg:flex items-center justify-center transform rotate-180 focus:outline-none"
             @click="navigate(1)"
+            :aria-label="$t('lightbox.prev')"
         >
-            &gt;
+            <back-button />
         </button>
         <button
             type="button"
-            class="fixed top-0 right-0 h-10 w-10 mr-24 text-3xl hidden lg:inline-flex items-center justify-center focus:outline-none"
+            class="fixed top-1/2 left-0 h-10 w-10 -mt-5 ml-5 hidden lg:flex items-center justify-center focus:outline-none"
             @click="navigate(-1)"
+            :aria-label="$t('lightbox.next')"
         >
-            &lt;
+            <back-button />
         </button>
     </div>
 </template>

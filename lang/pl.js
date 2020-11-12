@@ -14,6 +14,11 @@ export default {
             'coding': 'programowanie'
         }
     },
+    lightbox: {
+        'next': 'Następne zdjęcie',
+        'prev': 'Poprzednie zdjęcie',
+        'close': 'Zamknij galerię',  
+    },
     footer: {
         love: 'Stworzono z ❤️ używając Nuxt i TailwindCSS'
     }
