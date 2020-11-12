@@ -1,7 +1,7 @@
 <template>
     <article>
         <fade-in-section>
-            <div class="ml-16 max-w-5xl pr-4 mb-12 lg:mx-auto lg:px-8 lg:my-16">
+            <div class="ml-16 max-w-4xl pr-4 mb-12 lg:mx-auto lg:px-8 lg:my-16">
                 <nuxt-link :to="localePath('/blog')">
                     <back-button />
                 </nuxt-link>
@@ -12,6 +12,7 @@
                 <nuxt-content
                     :document="post"
                 />
+                <p>If you would like to see more photos, feel free to follow me on Instagram where I regularly publish new pictures.</p>
             </div>
         </fade-in-section>
     </article>
@@ -32,7 +33,7 @@ export default {
 .content h2, 
 .content h3, 
 .content p {
-    @apply max-w-5xl px-4 mx-auto;
+    @apply max-w-4xl px-4 mx-auto;
 }
 
 .content h2 {
@@ -74,6 +75,10 @@ export default {
     .content h3,
     .content p {
         @apply mx-auto px-8;
+    }
+
+    .content p {
+        @apply my-8;
     }
 }
 </style>

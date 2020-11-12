@@ -1,5 +1,5 @@
 <template>
-  <footer class="p-4 max-w-5xl mx-auto mt-8 mb-4 md:flex md:items-end lg:p-8">
+  <footer class="p-4 max-w-4xl mx-auto mt-8 mb-4 md:flex md:items-end lg:p-8">
     <div class="md:mr-8 lg:mr-16">
         <p>
             &copy; {{ new Date().getFullYear() }} Łukasz Rados<br>
