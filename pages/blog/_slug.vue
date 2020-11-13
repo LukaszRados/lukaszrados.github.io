@@ -12,6 +12,7 @@
                 <nuxt-content
                     :document="post"
                 />
+                <div class="w-8 h-px bg-black mx-auto my-8 lg:my-12"></div>
                 <p>If you would like to see more photos, feel free to follow me on Instagram where I regularly publish new pictures.</p>
             </div>
         </fade-in-section>
