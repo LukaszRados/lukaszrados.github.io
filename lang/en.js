@@ -1,6 +1,7 @@
 export default {
     globals: {
-        photographer: 'Landscape Photographer'
+        photographer: 'Landscape Photographer',
+        title: 'Landscape Photography & Front End Development'
     },
     navigation: {
         blog: 'blog',
@@ -8,11 +9,16 @@ export default {
         contact: 'info',
     },
     blog: {
+        title: 'Blog',
+        description: 'Blog about landscape photography, travelling and front end development',
         categories: {
             'all': 'wszystkie',
             'photography': 'photography',
             'coding': 'coding'
         }
+    },
+    contact: {
+        title: 'Info'
     },
     lightbox: {
         'next': 'Next photo',

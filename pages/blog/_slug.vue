@@ -27,6 +27,28 @@ export default {
             post
         }
     },
+    head () {
+        return {
+            title: this.post.title,
+            meta: [
+                {
+                    hid: 'description',
+                    name: 'description',
+                    content: this.post.intro
+                },
+                {
+                    hid: 'og:title',
+                    property: 'og:title',
+                    content: this.post.title
+                },
+                {
+                    hid: 'og:description',
+                    property: 'og:description',
+                    content: this.post.intro
+                }
+            ]
+        }
+    }
 }
 </script>
 

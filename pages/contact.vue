@@ -55,6 +55,12 @@ export default {
         }
     },
 
+    head () {
+        return {
+            title: this.$t('contact.title')
+        }
+    },
+
     mounted () {
         this.loaded = true
     }

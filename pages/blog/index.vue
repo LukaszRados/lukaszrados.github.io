@@ -25,9 +25,31 @@
 <script>
 export default {
     async asyncData ({ $content, app }) {
-        const posts = await $content(`posts/${app.i18n.locale}`).sortBy('published_at', 'desc').fetch()
+        const posts = await $content(`posts/${app.i18n.locale}`).only(['title', 'published_at', 'intro', 'slug']).sortBy('published_at', 'desc').fetch()
         return {
             posts
+        }
+    },
+    head () {
+        return {
+            title: this.$t('blog.title'),
+            meta: [
+                {
+                    hid: 'description',
+                    name: 'description',
+                    content: this.$t('blog.description')
+                },
+                {
+                    hid: 'og:title',
+                    property: 'og:title',
+                    content: `${this.$t('blog.title')} - ${this.$t('globals.title')}`
+                },
+                {
+                    hid: 'og:description',
+                    property: 'og:description',
+                    content: this.$t('blog.description')
+                }
+            ]
         }
     }
 }

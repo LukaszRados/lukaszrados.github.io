@@ -52,6 +52,12 @@ export default {
         }
     },
 
+    head () {
+        return {
+            title: this.title
+        }
+    },
+
     methods: {
         open (photo) {
             this.photo = photo

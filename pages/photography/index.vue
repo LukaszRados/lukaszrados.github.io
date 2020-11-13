@@ -58,6 +58,12 @@ export default {
             }, [[]]).filter(row => row.length !== 0)
         }
     },
+
+    head () {
+        return {
+            title: this.$t('globals.title')
+        }
+    }
 }
 </script>
 
