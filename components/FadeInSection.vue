@@ -20,7 +20,7 @@ export default {
     
     methods: {
         onScroll () {
-            if (this.$el.getBoundingClientRect().top - window.innerHeight < -150) {
+            if (this.$el.getBoundingClientRect().top - window.innerHeight < -100) {
                 this.loaded = true
                 window.removeEventListener('scroll', this.onScroll, { passive: true })        
             }

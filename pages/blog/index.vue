@@ -1,5 +1,5 @@
 <template>
-    <div class="ml-16 mr-4 max-w-4xl md:mx-auto lg:px-8 lg:mt-16 lg:mb-32">
+    <div class="ml-16 mr-4 max-w-4xl md:mx-auto md:px-4 lg:px-8 lg:mt-16 lg:mb-32">
         <div class="md:grid md:grid-cols-2 md:gap-32">
             <div
                 v-for="post in posts"

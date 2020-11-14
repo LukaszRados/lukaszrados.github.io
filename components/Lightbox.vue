@@ -26,7 +26,7 @@
         </div>
         <button
             type="button"
-            class="fixed top-0 right-0 h-10 w-10 mt-5 mr-3 hidden lg:flex items-center justify-center focus:outline-none"
+            class="fixed top-0 right-0 h-10 w-10 mt-5 mr-3 flex items-center justify-center focus:outline-none"
             @click="$emit('close')"
             :aria-label="$t('lightbox.close')"
         >

@@ -1,7 +1,8 @@
 export default {
     globals: {
         photographer: 'Fotograf Krajobrazu',
-        title: 'Fotografia Krajobrazu i Front End Development'
+        title: 'Fotografia Krajobrazu i Front End Development',
+        menu: 'Menu',
     },
     navigation: {
         blog: 'blog',

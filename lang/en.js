@@ -1,7 +1,8 @@
 export default {
     globals: {
         photographer: 'Landscape Photographer',
-        title: 'Landscape Photography & Front End Development'
+        title: 'Landscape Photography & Front End Development',
+        menu: 'Navigation',
     },
     navigation: {
         blog: 'blog',
