@@ -8,11 +8,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width,initial-scale=1.0,maximum-scale=1,user-scalable=no' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:image', property: 'og:image', content: '/og/default.jpg' },
+      { hid: 'og:title', property: 'og:title', template: '%s - Łukasz Rados' },
     ],
     link: [
-      // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Barlow&display=swap' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
     ]
   },
 
@@ -59,7 +60,6 @@ export default {
   // Router
   router: {
     linkActiveClass: 'is-active',
-    base: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/lukaszrados-nuxt/' : undefined
   },
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)

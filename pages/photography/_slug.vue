@@ -54,7 +54,14 @@ export default {
 
     head () {
         return {
-            title: this.title
+            title: this.title,
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: this.title },
+                { hid: 'description', name: 'description', content: this.$t('globals.description') },     
+                { hid: 'og:description', name: 'og:description', content: this.$t('globals.description') },
+                { hid: 'og:url', name: 'og:url', content: this.$route.path },
+                { hid: 'og:image', property: 'og:image', content: this.photos[0].url },
+            ]
         }
     },
 

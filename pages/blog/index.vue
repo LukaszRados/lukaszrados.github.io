@@ -30,25 +30,15 @@ export default {
             posts
         }
     },
+
     head () {
         return {
             title: this.$t('blog.title'),
             meta: [
-                {
-                    hid: 'description',
-                    name: 'description',
-                    content: this.$t('blog.description')
-                },
-                {
-                    hid: 'og:title',
-                    property: 'og:title',
-                    content: `${this.$t('blog.title')} - ${this.$t('globals.title')}`
-                },
-                {
-                    hid: 'og:description',
-                    property: 'og:description',
-                    content: this.$t('blog.description')
-                }
+                { hid: 'og:title', name: 'og:title', content: this.$t('blog.title') },
+                { hid: 'description', name: 'description', content: this.$t('blog.description') },     
+                { hid: 'og:description', name: 'og:description', content: this.$t('blog.description') },
+                { hid: 'og:url', name: 'og:url', content: this.$route.path },
             ]
         }
     }

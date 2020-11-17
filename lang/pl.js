@@ -2,6 +2,7 @@ export default {
     globals: {
         photographer: 'Fotograf Krajobrazu',
         title: 'Fotografia Krajobrazu i Front End Development',
+        description: 'Strona internetowa fotografa krajobrazu i front end developera',
         menu: 'Menu',
     },
     navigation: {

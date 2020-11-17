@@ -57,7 +57,13 @@ export default {
 
     head () {
         return {
-            title: this.$t('contact.title')
+            title: this.$t('contact.title'),
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: this.$t('contact.title') },
+                { hid: 'description', name: 'description', content: this.$t('globals.description') },     
+                { hid: 'og:description', name: 'og:description', content: this.$t('globals.description') },
+                { hid: 'og:url', name: 'og:url', content: this.$route.path },
+            ]
         }
     },
 
