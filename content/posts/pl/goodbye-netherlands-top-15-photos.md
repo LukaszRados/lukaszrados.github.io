@@ -9,32 +9,32 @@ Trzy lata w Holandii były dla mnie intensywne pod względem fotograficznym. To 
 
 Poniżej prezentuję (w dość dowolnej kolejności) moje ulubione zdjęcia z Holandii. To do nich będę wracać kiedy zatęsknię za holenderskimi krajobrazami.
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/558.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/558.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/559.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/559.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/560.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/560.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/561.jpg" padding-bottom="100"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/561.jpg" padding-bottom="100"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/562.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/562.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/563.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/563.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/564.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/564.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/565.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/565.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/566.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/566.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/567.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/567.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/568.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/568.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/569.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/569.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/570.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/570.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/571.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/571.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/holandia-top-15/572.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/holandia-top-15/572.jpg" padding-bottom="66.666"></photo-lazy>

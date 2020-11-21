@@ -9,56 +9,56 @@ category: 'photography'
 
 Każda relacja z Tajlandii zaczyna się od prezentowanego w tysiącach przewodników zdjęcia rajskiej plaży z łódką na pierwszym planie. Nawet po zobaczeniu małego wycinka tego kraju jasne jest dla mnie, że Tajlandia ma dużo więcej do zaoferowania.
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/176.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/176.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/177.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/177.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/178.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/178.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/179.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/179.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/180.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/180.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/181.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/181.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/182.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/182.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/183.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/183.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/184.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/184.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/185.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/185.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/186.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/186.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/187.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/187.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Zwierzęta
 
 Odległość dzieląca Tajlandię od Europy sprawia, że napotykana tutaj fauna zdecydowanie różni się od tego co widuję na codzień. Ciężko powstrzymać się od wyciągnięcia aparatu kiedy widzi się małpy, lemury, kraby czy warany.
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/190.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/190.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/191.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/191.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/192.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/192.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/193.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/193.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/194.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/194.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/195.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/195.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/196.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/196.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/197.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/197.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/198.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/198.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/199.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/199.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/200.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/200.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/201.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/201.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="https://lukaszrados.pl/upload/stories/tajlandia/203.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="/stories/tajlandia/203.jpg" padding-bottom="66.666"></photo-lazy>
