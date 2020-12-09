@@ -1,6 +1,6 @@
 ---
 title: 'Gap Year. Część 3: Koronawirus i żeglowanie po Morzu Śródziemnym'
-published_at: '2020-12-01'
+published_at: '2020-12-10'
 intro: W poprzednich dwóch postach opisałem początki wspaniałej przygody, którą rozpocząłem w 2019 roku. Dzisiaj zapraszam do przeczytania ostatniej, trzeciej części mojej historii. W marcu wpłynęliśmy na Morze Śródziemne. Woda ocieplała się z dnia na dzień, pogoda robiła się coraz bardziej przyjemna. I właśnie wtedy złapał nas koronawirus.
 category: 'photography'
 ---
@@ -9,7 +9,7 @@ Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku p
 
 ## Gibraltar i Ceuta
 
-W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania <nuxt-link to='blog/sailing-from-spain-to-morocco'>wpisu z 2015 roku</nuxt-link>, gdzie opisałem te zwierzęta i legendę z nimi związaną.
+W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania <nuxt-link to='/blog/sailing-from-spain-to-morocco'>wpisu z 2015 roku</nuxt-link>, gdzie opisałem te zwierzęta i legendę z nimi związaną.
 
 Po wyjściu z Gibraltaru przecięliśmy (po raz trzeci) cieśninę i popłynęliśmy do Ceuty. Chcieliśmy zobaczyć tę hiszpańską enklawę w Afryce. Niestety spędziliśmy tam zaledwie jeden dzień i połynęliśmy znów w stronę Europy.
 

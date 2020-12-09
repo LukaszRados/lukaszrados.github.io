@@ -9,7 +9,7 @@ Let's start from the beginning. After visiting rich in flavours and adventures M
 
 ## Gibraltar & Ceuta
 
-We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at <nuxt-link to='en/blog/sailing-from-spain-to-morocco'>the blog post I wrote back in 2015</nuxt-link>. 
+We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at <nuxt-link to='/en/blog/sailing-from-spain-to-morocco'>the blog post I wrote back in 2015</nuxt-link>. 
 
 After leaving Gibraltar we crossed the Strait for the third time and went to Ceuta. We wanted to see the enclave in Africa, but unfortunately we only spent a day there before going back to Europe.
 
