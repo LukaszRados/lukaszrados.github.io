@@ -1,11 +1,11 @@
 ---
 title: 'Gap Year. Część 3: Koronawirus i żeglowanie po Morzu Śródziemnym'
 published_at: '2020-12-01'
-intro: W poprzednich dwóch postach opisałem początki wspaniałej przygody, którą rozpocząłem w 2019 roku. Dzisiaj zapraszam do przeczytania ostatniej, trzeciej części mojej historii. W Marcu wpłynęliśmy na Morze Śródziemne. Woda ocieplała się z dnia na dzień, pogoda robiła się coraz bardziej przyjemna. I właśnie wtedy złapał nas koronawirus.
+intro: W poprzednich dwóch postach opisałem początki wspaniałej przygody, którą rozpocząłem w 2019 roku. Dzisiaj zapraszam do przeczytania ostatniej, trzeciej części mojej historii. W marcu wpłynęliśmy na Morze Śródziemne. Woda ocieplała się z dnia na dzień, pogoda robiła się coraz bardziej przyjemna. I właśnie wtedy złapał nas koronawirus.
 category: 'photography'
 ---
 
-Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku postawiliśmy żagle i popłynęliśmy w stronę Gibraltaru. Kilka lat temu pokonaliśmy z przyjaciółmi ten sam odcinek w przeciwnym kierunku. Po przekroczeniu zatłoczonej Cieśniny Gibraltarskiej udaliśmy się do portu La Linea w Hiszpanii.
+Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku postawiliśmy żagle i popłynęliśmy w stronę Gibraltaru. Kilka lat temu pokonaliśmy z przyjaciółmi ten sam odcinek w przeciwnym kierunku, można więc powiedzieć, że znaleźliśmy się na znajomych wodach. Po przekroczeniu zatłoczonej Cieśniny Gibraltarskiej udaliśmy się do portu La Linea w Hiszpanii.
 
 ## Gibraltar i Ceuta
 
@@ -107,7 +107,9 @@ _Kotwicowisko pod Stromboli i idealnie bezwietrzny poranek. To takie poranki spr
 
 Z Włoch przepłynęliśmy do Grecji. Nie miałem okazji wcześniej odwiedzić tego kraju, ale miałem wysokie wymagania. Ostatecznie jest to kraj o którym każde dziecko na świecie uczy się na lekcjach historii. 
 
-Grecja przywitała nas potężną burzą, którą na szczęście spędziliśmy bezpiecznie zacumowani w marinie. Niestabilność pogody była jednak powracającym problemem. W Grecji spotkaliśmy się (z dużej odległości) z cyklonem śródziemnomorskim, który spustoszył miejsca poprzednio przez nas odwiedzone. Mimo to przez większość czasu pogoda była perfekcyjna.
+Grecja przywitała nas potężną burzą, którą na szczęście spędziliśmy bezpiecznie zacumowani w marinie. Niestabilność pogody była jednak powracającym problemem. W Grecji spotkaliśmy się (z dużej odległości) z cyklonem śródziemnomorskim, który spustoszył miejsca poprzednio przez nas odwiedzone. Mimo to przez większość czasu pogoda była perfekcyjna i umożliwiała intensywne zwiedzanie.
+
+To w Grecji właśnie mogliśmy w końcu zwolnić tempo zwiedzania. Planowaliśmy zakończyć naszą przygodę w tym kraju, więc nie musieliśmy się spieszyć do kolejnego celu. Spędziliśmy ponad miesiąc na Morzu Jońskim, następnie popłynęliśmy na Kretę, Cyklady, by ostatecznie zakończyć naszą przygodę w niewielkiej miejscowości Kilada na Peloponezie. Po sprzedaży łódki, już samolotem i promem, wróciliśmy jeszcze na Santorini. 
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-15.jpg" padding-bottom="66.666"></photo-lazy>
 
@@ -123,7 +125,7 @@ _Jedyną zaletą burz były piękne zachody słońca._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-19.jpg" padding-bottom="75"></photo-lazy>
 
-To w Grecji właśnie mogliśmy w końcu zwolnić tempo zwiedzania. Planowaliśmy zakończyć naszą przygodę w tym kraju, więc nie musieliśmy się spieszyć do kolejnego celu. Spędziliśmy ponad miesiąc na Morzu Jońskim, następnie popłynęliśmy na Kretę, Cyklady, by ostatecznie zakończyć naszą przygodę w niewielkiej miejscowości Kilada na Peloponezie. Po sprzedaży łódki, już samolotem i promem, wróciliśmy jeszcze na Santorini. 
+<photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24.jpg" padding-bottom="75"></photo-lazy>
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-20.jpg" padding-bottom="66.666"></photo-lazy>
 

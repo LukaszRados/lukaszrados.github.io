@@ -17,7 +17,8 @@ export default {
             'all': 'wszystkie',
             'photography': 'photography',
             'coding': 'coding'
-        }
+        },
+        followMe: 'If you would like to see more photos, feel free to follow me on Instagram where I regularly publish new pictures.'
     },
     contact: {
         title: 'Info'

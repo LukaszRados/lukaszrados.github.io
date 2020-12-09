@@ -5,11 +5,11 @@ intro: In two previous posts I told you about the great adventure I decided to s
 category: 'photography'
 ---
 
-Let's start from the beginning. After visiting rich in flavours and adventures Morocco we set sails and sailed towards Gibraltar. Few years back we sailed with a group of friends the same route, just the other way around. After crossing the Strait of Gibraltar we moored in La Linea in Spain.
+Let's start from the beginning. After visiting rich in flavours and adventures Morocco we set sails and sailed towards Gibraltar. We were at known waters. Few years back we sailed with a group of friends the same route, just the other way around. After crossing the Strait of Gibraltar we moored in La Linea in Spain.
 
 ## Gibraltar & Ceuta
 
-We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at <nuxt-link to='en/blog/sailing-from-spain-to-morocco'>a blog post I wrote back in 2015</nuxt-link>. 
+We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at <nuxt-link to='en/blog/sailing-from-spain-to-morocco'>the blog post I wrote back in 2015</nuxt-link>. 
 
 After leaving Gibraltar we crossed the Strait for the third time and went to Ceuta. We wanted to see the enclave in Africa, but unfortunately we only spent a day there before going back to Europe.
 
@@ -81,43 +81,43 @@ _Sunrise in Castelsardo. During the summer months clouds were rare which wasn't 
 
 _Moonshine under way to Corsica. Splendid conditions and almost six knots of average speed._
 
-The next stop on our way was Sicily. <><><>
-
-Kolejnym celem na naszej drodze była Sycylia. Najbardziej zależało nam na odwiedzeniu Wysp Liparyjskich. Jest to mały archipelag wuklanicznych wysp na północ od Sycylii. Dostanie się tutaj bez własnej żaglówki jest dość karkołomne. Wyspy Liparyjskie były zdecydowanie jednym z najpiękniejszych miejsc na naszej drodze. 
+The next stop on our way was Sicily. We mostly wanted to see the Aeolian Islands, a small archipelago of vulcanic islands to the north of Sicily. Getting there without own boat is challenging. Aeolian Islands were definitely one of the most beautiful places visited during our trip.
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-28.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Moonshine pod pełnymi żeglami w drodze z Palermo na Wyspy Liparyjskie._
+_Moonshine under sails on the way from Palermo to Aeolian Islands._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-14.jpg" padding-bottom="150"></photo-lazy>
 
-_Wschód słońca na wyspie Vulcano od której nazwę wzięły wulkany. Obłoki na zdjęciu to nie chmury, ale wyziewy siarki._
+_Sunrise at the Vulcano island. The island's name is the origin of word 'volcano'. The clouds are actually sulfur fumes._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-25.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Widok ze szczytu wulkanu na zatokę, w której kotwiczy Moonshine (po prawej stronie półwyspu)._
+_Panorama from the peak of volcano. Moonshine is anchored in the bay to the right of the peninsula._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27.jpg" padding-bottom="66.666"></photo-lazy>
 
-_W drodze na wyspę Stromboli, na której znajduje się aktywny wulkan. Na zdjęciu widać jeden z regularnych wyrzutów pyłu._
+_On our way to Stromboli island where an active volcano is located. In the photo there is a cloud of ash coming out from the crater._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-26.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Kotwicowisko pod Stromboli i idealnie bezwietrzny poranek. To takie poranki sprawiały, że mówiliśmy sobie "było warto"._
+_Anchorage next to Stromboli at a perfect windless morning. Mornings like that made us say "it was worth it"._
 
 ## Greece. Ionian Sea, Crete and Cyclades
 
-Z Włoch przepłynęliśmy do Grecji. Nie miałem okazji wcześniej odwiedzić tego kraju, ale miałem wysokie wymagania. Ostatecznie jest to kraj o którym każde dziecko na świecie uczy się na lekcjach historii. 
+After leaving Italy we went to Greece. It was my first visit to the country so the expectations were rather high. After all it is the country that every kid in the world knows from the history lessons at school.
 
-Grecja przywitała nas potężną burzą, którą na szczęście spędziliśmy bezpiecznie zacumowani w marinie. Niestabilność pogody była jednak powracającym problemem. W Grecji spotkaliśmy się (z dużej odległości) z cyklonem śródziemnomorskim, który spustoszył miejsca poprzednio przez nas odwiedzone. Mimo to przez większość czasu pogoda była perfekcyjna.
+Our stay in Greece started with a tremendous thunderstorm. Luckily we were safely moored in a marina. The instability of weather became a recurring pattern. In Greece we encountered (luckily from a safe distance) a medicane - mediterranean cyclone - that has devastated many of places visited by us before. Other than that the weather was perfect for sightseeing.
+
+Getting to Greece meant that we could finally slow down. Since we planned to end the journey in here, there was no need to rush to the next destination. We spent over a month at Ionian Sea, then we sailed to Crete, Cyclades and finally we finished in a small town Kilada in Peloponnese. After selling the boat we came back to Santorini (by plane this time).
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-15.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Jedna z gwałtownych i niespodziewanych burz w Grecji. Ze względu na warunki opuściliśmy kotwicowisko i wypłynęliśmy na morze._
+_One of the unexpected thunderstorms approaching. Due to conditions we left the anchorage and went out to the sea._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-16.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Jedyną zaletą burz były piękne zachody słońca._
+_The only advantage of thunderstorms were beautiful sunsets._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-17.jpg" padding-bottom="66.666"></photo-lazy>
 
@@ -125,19 +125,18 @@ _Jedyną zaletą burz były piękne zachody słońca._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-19.jpg" padding-bottom="75"></photo-lazy>
 
-To w Grecji właśnie mogliśmy w końcu zwolnić tempo zwiedzania. Planowaliśmy zakończyć naszą przygodę w tym kraju, więc nie musieliśmy się spieszyć do kolejnego celu. Spędziliśmy ponad miesiąc na Morzu Jońskim, następnie popłynęliśmy na Kretę, Cyklady, by ostatecznie zakończyć naszą przygodę w niewielkiej miejscowości Kilada na Peloponezie. Po sprzedaży łódki, już samolotem i promem, wróciliśmy jeszcze na Santorini. 
+<photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24.jpg" padding-bottom="75"></photo-lazy>
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-20.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Kotwicowisko w Kiladzie. To tutaj pożegnaliśmy się z Moonshine i przekazaliśmy ją w ręce nowych właścicieli (na zdjęciu inna żaglówka)._
+_Anchorage in Kilada. This is where we said goodbye to Moonshine and we left her in the hands of new owners._
 
 <photo-lazy src="/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-21.jpg" padding-bottom="66.666"></photo-lazy>
 
-_Santorini. Po sprzedaży łódki postanowiliśmy z Jolą sprawdzić co sprawia, że Santorini jest chyba najbardziej rozpoznawalną wyspą Grecji. Musimy przyznać, że widoki są piękne, ale my zdecydowanie lepiej czuliśmy się w mniej turystycznych częściach kraju._
-
+_Santorini. Once the boat was sold we decided with Jola to check why is Santorini so popular and recognizable. We must admit that views are marvellous, but we prefer the small and less touristic islands._
 
 ## Summary
 
-Po nieco ponad roku nasza przygoda z Moonshine zakończyła się w Grecji. Łódka znalazła nowych właścicieli, a my powoli wracamy do "normalnego" życia. Mimo opisywanych w tych trzech wpisach problemów (sztormy na Atlantyku, kwarantanna w Hiszpanii), będziemy wspominać ten rok do końca życia. Była to prawdopodobnie najciekawsza przygoda w naszych dotychczasowych życiach.
+After a bit over a year our adventure came to an end in Greece. The boat was sold and we are slowly returning to what's called "a normal life". Despite the problems I mentioned in my posts (storms in Atlantic Ocean, covid lockdown in Spain) we will remember this year for life. It was probably the most interesting adventure of our lives (well, at least so far!).
 
-Niedługo postaram się opublikować kolejny wpis, w którym dokonam podsumowania mijającego roku i postaram się odpowiedzieć na kilka pytań. Dlaczego powstało tak mało zdjęć? Czy da się pracować i podróżować z pokładu jedenastometrowej łódki? Czego nauczyliśmy się w ciągu tych 13 miesięcy i co zrobilibyśmy inaczej?
+I will soon publish another article where I will try to summarize the gap year and answer some interesting questions. Why have I made so few photos? Is it possible to work and travel on board an 11-metres long boat? And what have we learnt during those 13 months and what would we change?

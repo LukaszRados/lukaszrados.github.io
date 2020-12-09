@@ -17,7 +17,8 @@ export default {
             'all': 'wszystkie',
             'photography': 'fotografia',
             'coding': 'programowanie'
-        }
+        },
+        followMe: 'Jeśli podobają Ci się moje zdjęcia, zapraszam do śledzenia mnie na Instagramie. Regularnie wrzucam tam fotograficzne nowości.'
     },
     contact: {
         title: 'Info'
