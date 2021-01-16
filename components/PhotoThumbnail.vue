@@ -9,7 +9,7 @@
         @click.prevent="$emit('click')"
     >
         <div class="h-0 w-full" :style="`padding-bottom: ${photo.height / photo.width * 100}%`"></div>
-        <img :src="photo.url" alt="" class="absolute top-0 left-0 w-full h-full" v-if="loaded">
+        <img :src="photo.url_small" alt="" class="absolute top-0 left-0 w-full h-full" v-if="loaded">
     </a>
 </template>
 
