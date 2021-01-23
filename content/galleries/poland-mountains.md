@@ -35,6 +35,16 @@ photos:
     width: 1200
     height: 800
   -
+    url: /photos/poland-mountains/large/poland-mountains-33.jpg
+    url_small: /photos/poland-mountains/small/poland-mountains-33.webp
+    width: 1200
+    height: 1200
+  -
+    url: /photos/poland-mountains/large/poland-mountains-34.jpg
+    url_small: /photos/poland-mountains/small/poland-mountains-34.webp
+    width: 1200
+    height: 800
+  -
     url: /photos/poland-mountains/large/poland-mountains-27.jpg
     url_small: /photos/poland-mountains/small/poland-mountains-27.webp
     width: 800
