@@ -1,11 +1,11 @@
 ---
 title: 'Jesień i zima w polskich górach'
-published_at: '2021-01-25'
+published_at: '2021-01-24'
 intro: 'Po zakończeniu rocznego rejsu na pokładzie s/y Moonshine wróciłem na kilka miesięcy do Polski. Ostatni raz tak długi czas w domu spędziłem ponad cztery lata wcześniej - zanim przeprowadziłem się do Holandii. Po czterech latach tęskniłem nie tylko za rodziną i przyjaciółmi, ale także za polskimi górami.'
 category: 'photography'
 ---
 
-Przeprowadzając się do Holandii wiedziałem, że jest to kraj słynący z wielu pięknych miejsc: stare miasta takie jak Amsterdam, Lejda czy Haarlem, skanseny pełne wiatraków, niekończące się piaszczyste plaże nad Morzem Północnym. Wiedziałem jednak także, że na pewno nie znajdę tam gór i bardzo mi ich brakowało. Tęskniłem za nimi do tego stopnia, że zamęczałem znajomych opowieściami o tym, jak płaska jest Holandia.
+Przeprowadzając się do Holandii wiedziałem, że jest to kraj słynący z wielu pięknych miejsc: stare miasta takie jak Amsterdam, Lejda czy Haarlem, skanseny pełne wiatraków, niekończące się piaszczyste plaże nad Morzem Północnym. Wiedziałem jednak także, że na pewno nie znajdę tam gór i bardzo mi ich brakowało. Przy każdej okazji zamęczałem znajomych opowieściami o tym, jak płaska jest Holandia.
 
 Wracając do Polski postanowiłem więc spędzić trochę czasu w górach. Chociaż na wszystkie wyjścia zabierałem aparat do plecaka, nie zawsze zdarzało mi się go wyjąć w plenerze. Powodem była kapryśna jesienna i zimowa pogoda - w polskich górach częstym zjawiskiem są mgły, deszcz i szara pogoda. Kiedy jednak wyjdzie słońce, ciężko nie zachwycić się pięknem Tatry, Pienin, Beskidów czy Karkonoszy. Zapraszam do obejrzenia kilku bardziej - i mniej - udanych zdjęć.
 
