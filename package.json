@@ -10,10 +10,10 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "@nuxt/content": "^1.9.0",
+    "@nuxt/content": "^1.14.0",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6",
-    "nuxt-i18n": "^6.15.4"
+    "nuxt": "^2.15.2",
+    "nuxt-i18n": "^6.20.4"
   },
   "devDependencies": {
     "@nuxtjs/svg": "^0.1.12",
