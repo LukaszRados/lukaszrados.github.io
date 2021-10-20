@@ -25,10 +25,7 @@
 <script>
 export default {
     async asyncData ({ $content, app }) {
-        const posts = await $content(`posts/${app.i18n.locale}`).only(['title', 'published_at', 'intro', 'slug']).sortBy('published_at', 'desc').fetch()
-        return {
-            posts
-        }
+        return await $content(`posts/${app.i18n.locale}`).only(['title', 'published_at', 'intro', 'slug']).sortBy('published_at', 'desc').fetch()
     },
 
     head () {
