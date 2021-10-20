@@ -1,10 +1,7 @@
 <template>
     <div
         class="transition-all duration-500 ease-in-out transform"
-        :class="{
-            'opacity-0 translate-y-10': !loaded,
-            'opacity-100': loaded    
-        }"
+        :class="loaded ? 'opacity-100' : 'opacity-0 translate-y-10'"
     >
         <slot />
     </div>

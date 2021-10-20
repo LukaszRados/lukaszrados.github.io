@@ -9,9 +9,7 @@
                 <p class="text-2xl lg:text-3xl">{{ post.intro }}</p>
             </div>
             <div class="content">
-                <nuxt-content
-                    :document="post"
-                />
+                <nuxt-content :document="post" />
                 <div class="w-8 h-px bg-black mx-auto my-8 lg:my-12"></div>
                 <p>{{ $t('blog.followMe') }}</p>
             </div>
@@ -22,9 +20,8 @@
 <script>
 export default {
     async asyncData({ $content, params, app }) {
-        const post = await $content(`posts/${app.i18n.locale}/${params.slug}`).fetch()
         return {
-            post
+            post: await $content(`posts/${app.i18n.locale}/${params.slug}`).fetch()
         }
     },
 

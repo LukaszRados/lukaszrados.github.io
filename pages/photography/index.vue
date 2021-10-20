@@ -2,9 +2,7 @@
     <fade-in-section>
         <div
             class="row"
-            :class="{
-                'row--active': activeRow === rowIndex    
-            }"
+            :class="{ 'row--active': activeRow === rowIndex }"
             v-for="(row, rowIndex) in chunks"
             :key="JSON.stringify(row)"
         >
@@ -24,7 +22,6 @@
                     class="image"
                     :style="`background-image: url(${gallery.background})`"
                 >
-                    <!-- <img src="" alt="" class="absolute top-0 left-0 w-full h-full"> -->
                 </div>
                 <nuxt-link
                     :to="localePath(`/photography/${gallery.slug}`)"
@@ -46,7 +43,7 @@ export default {
         }
     },
 
-    async asyncData({ $content, app }) {
+    async asyncData({ $content }) {
         const galleries = await $content(`galleries`).without(['photos']).sortBy('order').fetch()
         return {
             chunks: galleries.reduce((output, value) => {
