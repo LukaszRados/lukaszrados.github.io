@@ -1,8 +1,5 @@
 <template>
-    <picture 
-        class="block relative w-full my-8 mx-auto max-w-1200 lg:my-16 transform transition-all duration-500 ease-in-out"
-        :class="{ 'translate-y-20 opacity-0': !shown }"
-    >
+    <picture class="block relative w-full my-8 mx-auto max-w-1200 lg:my-16">
         <div class="h-0 w-full bg-gray-200" style="padding-bottom: 56.25%"></div>
         <transition>
             <iframe
