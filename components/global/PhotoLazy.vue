@@ -1,11 +1,7 @@
 <template>
     <picture 
-        class="block relative w-full my-8 mx-auto lg:my-16 transform transition-all duration-500 ease-in-out"
-        :class="{
-            'translate-y-20 opacity-0': !shown,
-            'max-w-1200': paddingBottom < 100,
-            'max-w-3xl': paddingBottom >= 100
-        }"
+        class="block relative w-full my-8 mx-auto lg:my-16"
+        :class="isHorizontal ? 'max-w-1200' : 'max-w-3xl'"
     >
         <div class="h-0 w-full bg-gray-200" :style="`padding-bottom: ${paddingBottom}%`"></div>
         <transition>
@@ -26,7 +22,12 @@ export default {
     data () {
         return {
             loaded: false,
-            shown: false
+        }
+    },
+
+    computed: {
+        isHorizontal () {
+            return this.paddingBottom < 100
         }
     },
 
@@ -35,9 +36,6 @@ export default {
             const distanceFromEdge = this.$el.getBoundingClientRect().top - window.innerHeight
             if (distanceFromEdge < 500) {
                 this.loaded = true
-            }
-            if (distanceFromEdge < -100) {
-                this.shown = true
                 window.removeEventListener('scroll', this.onScroll, { passive: true })
             }
         }

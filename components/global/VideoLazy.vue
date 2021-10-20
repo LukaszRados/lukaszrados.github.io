@@ -1,9 +1,7 @@
 <template>
     <picture 
         class="block relative w-full my-8 mx-auto max-w-1200 lg:my-16 transform transition-all duration-500 ease-in-out"
-        :class="{
-            'translate-y-20 opacity-0': !shown
-        }"
+        :class="{ 'translate-y-20 opacity-0': !shown }"
     >
         <div class="h-0 w-full bg-gray-200" style="padding-bottom: 56.25%"></div>
         <transition>
@@ -25,7 +23,6 @@ export default {
     data () {
         return {
             loaded: false,
-            shown: false
         }
     },
 
@@ -34,9 +31,6 @@ export default {
             const distanceFromEdge = this.$el.getBoundingClientRect().top - window.innerHeight
             if (distanceFromEdge < 500) {
                 this.loaded = true
-            }
-            if (distanceFromEdge < -100) {
-                this.shown = true
                 window.removeEventListener('scroll', this.onScroll, { passive: true })
             }
         }
