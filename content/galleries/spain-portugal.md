@@ -5,11 +5,6 @@ title_pl: Hiszpania<br>i Portugalia
 order: 1
 photos:
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582431/photos/spain-portugal/spain-portugal-1_topofv.jpg
-    url_small: /photos/spain-portugal/small/spain-portugal-1.webp
-    width: 800
-    height: 1200
-  -
     url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582432/photos/spain-portugal/spain-portugal-15_lyxfss.jpg
     url_small: /photos/spain-portugal/small/spain-portugal-15.webp
     width: 1200
@@ -19,6 +14,16 @@ photos:
     url_small: /photos/spain-portugal/small/spain-portugal-5.webp
     width: 1200
     height: 800
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1639512053/photos/spain-portugal/spain-portugal-1_dqtqfk.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512195/photos/spain-portugal/thumbnails/spain-portugal-1_zjoqps.jpg
+    width: 1200
+    height: 800
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582431/photos/spain-portugal/spain-portugal-1_topofv.jpg
+    url_small: /photos/spain-portugal/small/spain-portugal-1.webp
+    width: 800
+    height: 1200
   -
     url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582430/photos/spain-portugal/spain-portugal-2_jzcr03.jpg
     url_small: /photos/spain-portugal/small/spain-portugal-2.webp
@@ -34,6 +39,16 @@ photos:
     url_small: /photos/spain-portugal/small/spain-portugal-13.webp
     width: 1200
     height: 900
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1639512053/photos/spain-portugal/spain-portugal-3_gaxztk.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512195/photos/spain-portugal/thumbnails/spain-portugal-3_lqeusg.jpg
+    width: 1200
+    height: 900
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1639512053/photos/spain-portugal/spain-portugal-4_gt1e1x.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512195/photos/spain-portugal/thumbnails/spain-portugal-4_goosre.jpg
+    width: 1200
+    height: 800
   -
     url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582430/photos/spain-portugal/spain-portugal-3_kohe8f.jpg
     url_small: /photos/spain-portugal/small/spain-portugal-3.webp
@@ -77,6 +92,16 @@ photos:
   -
     url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582432/photos/spain-portugal/spain-portugal-14_xrhsaz.jpg
     url_small: /photos/spain-portugal/small/spain-portugal-14.webp
+    width: 1200
+    height: 800
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1639512053/photos/spain-portugal/spain-portugal-2_lhafhf.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512195/photos/spain-portugal/thumbnails/spain-portugal-2_qopqfb.jpg
+    width: 800
+    height: 1200
+  -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1639512053/photos/spain-portugal/spain-portugal-5_ftih64.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512195/photos/spain-portugal/thumbnails/spain-portugal-5_oyhhkg.jpg
     width: 1200
     height: 800
 ---
