@@ -2,6 +2,11 @@ module.exports = {
     variants: {
         width: ['responsive', 'hover'],
     },
+    purge: {
+        options: {
+            safelist: ['underline', 'hover:no-underline'],
+        }
+    },
     theme: {
         extend: {
             fontFamily: {
@@ -21,7 +26,8 @@ module.exports = {
                 '100': '100%'
             },
             maxWidth: {
-                '1200': '1200px'
+                '1200': '1200px',
+                'two-columns': '1400px'
             },
             width: {
                 '96': '24rem',

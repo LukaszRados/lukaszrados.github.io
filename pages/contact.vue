@@ -1,6 +1,6 @@
 <template>
     <fade-in-section>
-        <div class="p-8 mx-auto text-2xl md:max-w-2xl lg:px-16 lg:py-32 lg:max-w-4xl lg:text-3xl space-y-8 md:space-y-10">
+        <div class="p-8 mx-auto text-xl md:max-w-2xl lg:px-16 lg:py-32 lg:max-w-4xl lg:text-2xl space-y-8 md:space-y-10">
             <p v-html="paragraph_1"></p>
             <p v-html="paragraph_2"></p>
             <p v-html="paragraph_3"></p>
