@@ -36,6 +36,7 @@
                 <li><nuxt-link :to="localePath('/contact')" class="link">info</nuxt-link></li>
                 <li v-if="$i18n.locale === 'pl'"><nuxt-link :to="switchLocalePath('en')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">english?</nuxt-link></li>
                 <li v-if="$i18n.locale === 'en'"><nuxt-link :to="switchLocalePath('pl')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">polski?</nuxt-link></li>
+                <button type="button" @click="toggleDarkMode">dark</button>
             </ul>
         </nav>
     </header>
@@ -71,7 +72,11 @@ export default {
                 this.showScrolledNavigation = window.scrollY > 0 && window.scrollY < this.previousPosition
                 this.previousPosition = window.scrollY
             }
-        }
+        },
+
+        toggleDarkMode () {
+            this.$colorMode.preference = this.$colorMode.preference === 'light' ? 'dark' : 'light'
+        },
     },
 
     mounted () {
