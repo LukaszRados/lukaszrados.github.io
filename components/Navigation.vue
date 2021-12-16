@@ -98,7 +98,7 @@ export default {
     }
     li:not(:first-child):before {
         content: '/';
-        @apply inline-block ml-5;
+        @apply inline-block ml-5 opacity-50;
     }
 }
 </style>
