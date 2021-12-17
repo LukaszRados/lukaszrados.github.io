@@ -25,6 +25,6 @@ export default {
 
 <style lang="postcss" scoped>
 .line {
-    @apply w-full absolute transition-all duration-300 left-0 h-px bg-black;
+    @apply w-full absolute transition-all duration-300 left-0 h-px bg-black dark:bg-white;
 }
 </style>

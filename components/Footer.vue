@@ -6,11 +6,12 @@
             <span v-html="$t('footer.love')"></span>
         </p>
     </div>
-    <ul class="flex items-center mt-4 md:mt-0 md:mb-1">
+    <ul class="flex items-center my-4 md:my-0 md:mb-1">
         <li class="mr-5"><a href="https://instagram.com/lukaszrados" target="_blank" rel="noopener" aria-label="Instagram"><instagram-icon class="h-5 w-5" /></a></li>
         <li class="mr-5"><a href="https://linkedin.com/in/lukaszrados/" target="_blank" rel="noopener" aria-label="LinkedIn"><linkedin-icon class="h-5 w-5" /></a></li>
         <li class="mr-5"><a href="https://github.com/lukaszrados" target="_blank" rel="noopener" aria-label="Github"><github-icon class="h-5 w-5" /></a></li>
     </ul>
+    <dark-mode-switch class="lg:ml-16" />
   </footer>
 </template>
 

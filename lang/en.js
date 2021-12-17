@@ -29,6 +29,8 @@ export default {
         'close': 'Close gallery',  
     },
     footer: {
-        love: 'Made with ❤️ using Nuxt &amp; TailwindCSS'
+        love: 'Made with ❤️ using Nuxt &amp; TailwindCSS',
+        dark: 'Dark mode?',
+        light: 'Light mode?',
     }
 }

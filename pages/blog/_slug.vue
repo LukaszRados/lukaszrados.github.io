@@ -10,7 +10,7 @@
             </div>
             <div class="content">
                 <nuxt-content :document="post" />
-                <div class="w-8 h-px bg-black mx-auto my-8 lg:my-12"></div>
+                <div class="w-8 h-px bg-black dark:bg-white mx-auto my-8 lg:my-12"></div>
                 <p>{{ $t('blog.followMe') }}</p>
             </div>
         </fade-in-section>

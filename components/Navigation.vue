@@ -55,7 +55,7 @@ export default {
     computed: {
         showSubheader () {
             return (this.$route.name.startsWith('index_') || this.$route.name.startsWith('photography_')) && (this.currentPosition === 0)
-        }
+        },
     },
 
     watch: {
@@ -71,7 +71,7 @@ export default {
                 this.showScrolledNavigation = window.scrollY > 0 && window.scrollY < this.previousPosition
                 this.previousPosition = window.scrollY
             }
-        }
+        },
     },
 
     mounted () {
@@ -98,7 +98,7 @@ export default {
     }
     li:not(:first-child):before {
         content: '/';
-        @apply inline-block ml-5;
+        @apply inline-block ml-5 opacity-50;
     }
 }
 </style>

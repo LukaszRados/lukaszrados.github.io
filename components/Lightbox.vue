@@ -1,6 +1,6 @@
 <template>
     <div
-        class="bg-white fixed top-0 left-0 w-full h-full z-30"
+        class="bg-white dark:bg-gray-900 fixed top-0 left-0 w-full h-full z-30"
     >
         <div
             v-if="index >= 0"
