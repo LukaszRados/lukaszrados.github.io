@@ -36,8 +36,8 @@
                 <li><nuxt-link :to="localePath('/contact')" class="link">info</nuxt-link></li>
                 <li v-if="$i18n.locale === 'pl'"><nuxt-link :to="switchLocalePath('en')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">english?</nuxt-link></li>
                 <li v-if="$i18n.locale === 'en'"><nuxt-link :to="switchLocalePath('pl')" class="inline-block text-lg ml-5 lg:text-xl hover:underline">polski?</nuxt-link></li>
-                <button type="button" @click="toggleDarkMode" class="ml-5 focus:outline-none">
-                    <light-mode-icon v-if="isDarkMode" class="w-5 h-5" />
+                <button type="button" @click="toggleDarkMode" class="ml-4 md:ml-10 focus:outline-none">
+                    <light-mode-icon v-if="isDarkMode" class="w-5 h-5 md:w-6 md:h-6" />
                     <dark-mode-icon v-else class="w-5 h-5" />
                 </button>
             </ul>

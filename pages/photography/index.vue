@@ -72,7 +72,11 @@ export default {
 
 <style lang="postcss" scoped>
 .card {
-    @apply border-t border-b border-gray-400 /* dark:border-gray-800 */ -mt-px p-4 flex flex-col transition-all duration-500 ease-in-out relative;
+    @apply border-t border-b border-gray-400 -mt-px p-4 flex flex-col transition-all duration-500 ease-in-out relative;
+}
+
+.dark .card {
+    @apply border-gray-800;
 }
 
 .image {

@@ -1,6 +1,6 @@
 <template>
     <picture class="block relative w-full my-8 mx-auto max-w-1200 lg:my-16">
-        <div class="h-0 w-full bg-gray-200" style="padding-bottom: 56.25%"></div>
+        <div class="h-0 w-full bg-gray-200 dark:bg-gray-800" style="padding-bottom: 56.25%"></div>
         <transition>
             <iframe
                 :src="`https://www.youtube-nocookie.com/embed/${id}`" 

@@ -3,7 +3,7 @@
         class="block relative w-full my-8 mx-auto lg:my-16"
         :class="isHorizontal ? 'max-w-1200' : 'max-w-3xl'"
     >
-        <div class="h-0 w-full bg-gray-200" :style="`padding-bottom: ${paddingBottom}%`"></div>
+        <div class="h-0 w-full bg-gray-200 dark:bg-gray-800" :style="`padding-bottom: ${paddingBottom}%`"></div>
         <transition>
             <img
                 :src="src"

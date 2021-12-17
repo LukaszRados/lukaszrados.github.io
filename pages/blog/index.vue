@@ -12,7 +12,7 @@
                             {{ post.title }}
                         </nuxt-link>
                     </h2>
-                    <div class="my-5">
+                    <div class="my-5 opacity-50">
                         {{ post.published_at }}
                     </div>
                     <p>{{ post.intro }}</p>
