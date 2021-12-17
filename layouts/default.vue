@@ -35,7 +35,7 @@ html {
 }
 
 body {
-    @apply text-gray-900 transition-colors duration-300;
+    @apply bg-white text-gray-900 transition-colors duration-300;
 }
 
 .dark body {

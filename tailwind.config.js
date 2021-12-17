@@ -17,7 +17,7 @@ module.exports = {
         extend: {
             colors: {
                 'gray-900': '#16181b',
-                'white': '#f6f6ef',
+                'white': '#fefcf6',
             },
             fontFamily: {
                 'sans': ['Barlow', 'sans-serif']
