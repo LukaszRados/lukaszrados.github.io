@@ -19,8 +19,6 @@ W rzeczywistości fotografowanie jedną ogniskową było niezwykle wygodne! Nie 
 
 <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-2_wdjemr.jpg" padding-bottom="66.6"></photo-lazy>
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-3_hxfxbf.jpg" padding-bottom="66.6"></photo-lazy>
-
 <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-4_uiq8yn.jpg" padding-bottom="66.6"></photo-lazy>
 
 <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-5_doabq6.jpg" padding-bottom="66.6"></photo-lazy>
