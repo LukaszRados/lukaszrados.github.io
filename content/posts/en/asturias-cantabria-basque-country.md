@@ -1,5 +1,5 @@
 ---
-title: 'North of Spain: Asturias, Cantabria and Basque Country'
+title: 'North of Spain: Asturias, Cantabria and the Basque Country'
 published_at: '2022-08-31'
 intro: August is the hottest month of the year in Barcelona so this year we decided to escape the heat by heading north. The weather there is milder, grass always greener and rain happens even in the summertime.
 category: 'photography'
