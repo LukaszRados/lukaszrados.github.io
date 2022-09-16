@@ -9,7 +9,7 @@ On our way to Asturias we made a stop in Zaragoza. Although we only stopped to r
 
 Most of the time in Asturias was spent hiking in Picos de Europa National Park. Only slightly bigger than Tatry Mountains, the park is one of the most visited places in Spain. And for a good reason - the landscape is marvelous, full of beautiful lakes, rocky peaks reaching up to 2600m and inhabited by countless cows. We saw Lagos de Covadonga, hiked Ruta del Cares and did some mountain biking. 
 
-After leaving Picos de Europa we explored the coast. Located at the south of Biscay Bay, the coast is full of cliffs, small beaches and unbelievable rock formations. Rapidly changing weather with a lot of rain created wonderful photography conditions and offered a long awaited rest from the summertime heat. 
+After leaving Picos de Europa we explored the coast. Located at the south of the Bay of Biscay, the coast is full of cliffs, small beaches and unbelievable rock formations. Rapidly changing weather with a lot of rain created wonderful photography conditions and offered a long awaited rest from the summertime heat. 
 
 <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-1_eet59p.jpg" padding-bottom="66.666"></photo-lazy>
 
