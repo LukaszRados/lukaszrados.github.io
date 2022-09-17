@@ -9,77 +9,78 @@ Islandia była moim największym marzeniem odkąd zobaczyłem zdjęcia na 500px.
 
 W tym roku zdecydowałem się jednak pojechać. W końcu nie oznacza to, że już nigdy więcej tam nie wrócę (zdecydowanie)! Po 7 dniach okazało się, że Islandia jest rzeczywiście tak piękna, zjawiskowa i magiczna jak ją sobie wyobrażałem.
 
-<photo-lazy src="/stories/islandia/39.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/39_en8vcp.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/41.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/41_obvt1s.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/42.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/42_qs6oil.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/43.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/43_hw9kos.jpg" padding-bottom="66.666"></photo-lazy>
 
 Podobno na Islandii mawia się: „Jeśli nie podoba Ci się pogoda, poczekaj pięć minut”. Zgadam się z tym w 100%. Zdjęcia powyżej i poniżej zostały zrobione w ciągu pół godziny.
 
-<photo-lazy src="/stories/islandia/45.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/46.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/46_t53ygq.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/47.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/47_hhbkzz.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/48.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/48_ncjppu.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/49.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/49_eihrwo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/50.jpg" padding-bottom="33.7"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/50_yniwjb.jpg" padding-bottom="33.7"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/51.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/51_rnl3i0.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/52.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/52_j6nf2a.jpg" padding-bottom="66.666"></photo-lazy>
 
 W trakcie planowania wycieczki miałem kilka wątpliwości związanych z autostopem, zwłaszcza, że końcówka września nie jest popularna wśród turystów. Jak się jednak okazało, łapanie stopa działa tam idealnie. Średnio przejeżdżaliśmy dziennie 200 km, co jest bardzo dobrym wynikiem biorąc pod uwagę fakt, że staraliśmy się jak najmniej czasu spędzać w samochodzie!
 
-<photo-lazy src="/stories/islandia/54.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/54_xmopjo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/55.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/55_w9hzwj.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/56.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/56_kdkstn.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/57.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/57_xgnqda.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/58.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/58_wtsdzo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/59.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/59_obrgho.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/60.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/60_dtui7h.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/61.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/61_c4ucna.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/62.jpg" padding-bottom="66.666"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/62_houyzf.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/63.jpg" padding-bottom="66.666"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/63_qb4tff.jpg" padding-bottom="66.666"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/islandia/64.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/64_yknxeb.jpg" padding-bottom="66.666"></photo-lazy>
 
 Spotkaliśmy wspaniałych ludzi z całego świata (również z Polski). Niektóre podwózki były bardzo krótkie, inne trwały cały dzień. Zauważyliśmy pewną zależność: podczas okropnej pogody (silny deszcz i huraganowy wiatr) zatrzymywali się głównie Islandczycy, podczas gdy pogoda była ładna (co czasami zdarza się na Islandii), podwozili nas turyści.
 
-<photo-lazy src="/stories/islandia/66.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/66_y2u5nu.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/67.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/68_dhc8d9.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/68.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/69_mqw6r1.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/69.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/70_jcyzqp.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/70.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/71_wnkr3b.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/71.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/72_twhcvx.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/72.jpg" padding-bottom="66.666"></photo-lazy>
-
-<photo-lazy src="/stories/islandia/73.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/73_faxpva.jpg" padding-bottom="66.666"></photo-lazy>
 
 Zwiedziliśmy głównie południową część Islandii, zaczynając od Garður na zachodzie i kończąc w Jökulsárlón na wschodzie. Dodatkowo objechaliśmy tzw. Golden Circle. Pewnie udałoby nam się objechać całą wyspę dookoła, ale tak naprawdę nie chcieliśmy tego. Woleliśmy jechać powoli, rozkoszując się przepięknymi krajobrazami i przypadkowymi rozmowami. Następnym razem na celowniku znajdą się zapewne Fiordy Zachodnie, które większość spotkanych osób opisywała jako najpiękniejszą część Islandii.
 
-<photo-lazy src="/stories/islandia/76.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/76_pzn10u.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia/77.jpg" padding-bottom="150"></photo-lazy>
-
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/77_zn1ag5.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
