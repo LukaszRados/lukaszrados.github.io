@@ -9,98 +9,98 @@ category: 'photography'
 
 Amsterdam to chyba najbardziej rozpoznawalne miasto Holandii, najczęściej kojarzone z liberalnym podejściem do miękkich narkotyków, ulicą czerwonych latarni i dziesiątkami kanałów. Jednak jest tam o wiele więcej do zobaczenia! Przez pierwszy miesiąc miałem okazję mieszkać w samym centrum (naprzeciwko budynku opery), a w kolejnych miesiącach przebywałem w Amsterdamie codziennie (to tutaj mieści się siedziba Booking.com).
 
-<photo-lazy src="/stories/rok-w-holandii/119.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/120.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/120_yg6itj.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/121.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/121_cmmsbm.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/122.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/122_faiyqd.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/123.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/123_ud0my8.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Haarlem
 
 W listopadzie przeprowadziłem się do Haarlem. Najbardziej rozpoznawalnymi punktami miasta są kościół świętego Bawona (St. Bavokerk), Taylers Museum (najstarsze muzeum w Holandii) oraz wiatrak De Adriaan.
 
-<photo-lazy src="/stories/rok-w-holandii/126.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/127_dgdy0v.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/127.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/128_rh2chv.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/128.jpg" padding-bottom="150"></photo-lazy>
-
-<photo-lazy src="/stories/rok-w-holandii/129.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/129_lw8bqy.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
 ## Zaanse Schans
 
 Najpopularniejsze w Holandii miejsca, w których można zobaczyć wiatraki, to Kinderdijk koło Rotterdamu (tam jeszcze nie byłem) oraz Zaanse Schans położone około 20 minut pociągiem od Amsterdamu.
 
-<photo-lazy src="/stories/rok-w-holandii/132.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/132_r578th.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/133.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/133_h6iy8t.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/134.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/134_d6tedm.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/135.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/135_wcfkve.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/136.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/136_f1v3be.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/137.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/137_omyepv.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Tulipany i wrzosy
 
 Większość fotografów krajobrazu mieszkających w Holandii z niecierpliwością czeka na dwa sezony w ciągu roku: przełom kwietnia i maja, kiedy w całym kraju kwitną tulipany oraz końcówkę sierpnia, gdy kraj pokrywa się fioletem wrzosów.
 
-<photo-lazy src="/stories/rok-w-holandii/140.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/140_izotjw.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/141.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/141_s6qbsn.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/142.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/142_ohohuq.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/143.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/143_zkcb0f.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/144.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/144_lxnfjf.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/145.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/145_ntpbep.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/171.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583233/stories/one-year-in-the-netherlands/171_b015mj.jpg" padding-bottom="150"></photo-lazy>
 
 ## Wybrzeże
 
 Mieszkając w Haarlem potrzebuję około 30 minut by rowerem dostać się nad morze. Naturalnie stało się więc ono moim ulubionym plenerem fotograficznym.
 
-<photo-lazy src="/stories/rok-w-holandii/149.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/149_tkf2ap.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/150.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/151_cpwcrr.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/151.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/152_zuj5la.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/rok-w-holandii/152.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/153_figm4t.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/153.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/154_gieqgt.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/154.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/155_nuacyd.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/155.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/156_pokc8h.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/156.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/157_fart6q.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/157.jpg" padding-bottom="66.666"></photo-lazy>
-
-<photo-lazy src="/stories/rok-w-holandii/158.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/158_gmno2m.jpg" padding-bottom="66.666"></photo-lazy>
 
 Latarni tej poświęciłem kiedyś wpis na Facebooku, pozwolę sobie go zacytować: Oto bowiem latarnia morska, która jest położona nad jeziorem (dodatkowo nazwana Paard van Marken, co przetłumaczyć można jako Koń z Marken). W 1932 roku Holendrzy wkurzeni wiecznymi powodziami zbudowali wielką tamę (Afsluitdijk) i odcięli całkiem sporą część morza zamieniając zatokę w jezioro. Dodatkowo latarnia położona jest na wyspie, która już nie jest wyspą (bo zbudowano groblę łączącą ją z lądem).
 
-<photo-lazy src="/stories/rok-w-holandii/160.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/160_im8wxl.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/161.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/161_ncgje3.jpg" padding-bottom="66.666"></photo-lazy>
 
 Jadąc z Haarlem nad morze przez Park Narodowy Kennemerland można się pewnym momencie mocno zdziwić spotykając na swojej drodze szkockie krowy lub żubry. O tych zwierzętach pisałem nieco w podsumowaniu zeszłego roku, pozwolę sobie więc tylko wrzucić kilka zdjęć.
 
-<photo-lazy src="/stories/rok-w-holandii/163.jpg" padding-bottom="66.666"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/163_ovmdl3.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/rok-w-holandii/164.jpg" padding-bottom="66.666"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583233/stories/one-year-in-the-netherlands/164_eh0mft.jpg" padding-bottom="66.666"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/rok-w-holandii/165.jpg" padding-bottom="66.666"></photo-lazy>
-
-<photo-lazy src="/stories/rok-w-holandii/166.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/166_leyz5w.jpg" padding-bottom="66.666"></photo-lazy>
