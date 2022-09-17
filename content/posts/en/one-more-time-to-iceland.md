@@ -11,102 +11,112 @@ Initial plan was quite similar to what I did in 2016, but this time we decided t
 
 The plan was as follows: one or two days of exploring Snæfellsnes (which is truly a paradise for a landscape photographer), Golden Circle (to see Geysir) and then driving all the way to Jökulsárlón. The first point was a night in Hvalfjörður, around 100 kilometers from Reykjavík.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/391.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/394.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/394_dinln7.jpg" padding-bottom="56.25"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/395.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/395_rdwvvp.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/396.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/396_xuii2i.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/397.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/397_riqupf.jpg" padding-bottom="56.25"></photo-lazy>
 
 ## Snæfellsnes peninsula
 
 After surprisingly cold night we moved towards Snæfellsnes experiencing all possible weather phenomena: rain and rainbows, hail and even snow.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/399.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/399_m2nfew.jpg" padding-bottom="56.25"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/400.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/400_ui3ftw.jpg" padding-bottom="56.25"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/402.jpg" padding-bottom="61"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/402_ip1dpd.jpg" padding-bottom="61"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/413.jpg" padding-bottom="61"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/413_hxaxwd.jpg" padding-bottom="61"></photo-lazy>
 
 The greatest advantage of Iceland is fact that there is something beautiful nearly everywhere. If you are lazy you don't even need to leave the car, just drive around and admire.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/408.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/408_xanxlc.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/404.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/404_zg0byl.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/405.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/405_fqxuje.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/407.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583220/stories/one-more-time-to-iceland/407_rbxeab.jpg" padding-bottom="66.666"></photo-lazy>
 
 Snæfellsnes is where one of the most popular icelandic landmarks are located: Lóndrangar cliffs, Búðakirkja church and Kirkjufell mountain (known from 'Game of Thrones'). Most of these places are so popular that there are fences and it was hard for me to find a new fresh frame.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/410.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/410_x65fh8.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/411.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/411_su8blo.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/412.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/412_ewkevx.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/414.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/414_lzavqz.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/415.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/415_nioznj.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
 It is worth spending some time exploring Snæfellsnes. You can find many less popular, but lovely beaches and bays that create opportunities for more unique shots.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/417.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/417_el9b3i.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/418.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/418_o72ijc.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/419.jpg" padding-bottom="51.5"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/419_wqlimq.jpg" padding-bottom="51.5"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/420.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/420_hrdw2a.jpg" padding-bottom="56.25"></photo-lazy>
 
 ## Golden Circle and Southern Iceland
 
 Most of the trip we spent in places I already knew. We explored the southern part of the island, starting in Vík í Mýrdal until Jökulsárlón, and Golden Circle. For me it was a perfect situation. I didn't feel any pressure to take standard photos since I had already taken them before two years earlier. I could focus on more creative frames and experiment a little bit.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/425.jpg" padding-bottom="62"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/425_rd7ecj.jpg" padding-bottom="62"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/426.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/426_zwy5im.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/427.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/427_gua1do.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/428.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/428_ujvvmv.jpg" padding-bottom="56.25"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/429.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/429_yvvmae.jpg" padding-bottom="56.25"></photo-lazy>
 
 One of the most popular Iceland's landmarks is Jökulsárlón lake full of floating icebergs. As much as I like this place, I find close by lake Fjallsárlón more appealing as it's easier to find a good composition there and it's less crowded.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/431.jpg" padding-bottom="56.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/431_vscbbc.jpg" padding-bottom="56.25"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/432.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/432_v9w7wt.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/433.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/433_jr3f8m.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/434.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/434_cam7ay.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/435.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/435_jt3oc6.jpg" padding-bottom="66.666"></photo-lazy>
 
 After barely six days, with a card full of photos, we made our way back to the airport. We visited Fjaðrárgljúfur canyon, Gullfoss waterfall, Geysir and Garður lighthouse before finally arriving to the airport in Keflavik.
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/438.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/438_vxsmtb.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/439.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/439_a4ulpv.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/440.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/440_zmnica.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/441.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/441_ymfca8.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/443.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/443_xrzipi.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/444.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/444_mi7ljs.jpg" padding-bottom="66.666"></photo-lazy>
 
 Last but not least it's worth a mention how great my company was. Regardless the rain, snow, cold and wind they kept accepting me saying 'let's stop only for five minutes' and 'let's wait for a better light'. Spacial thanks to [Jola](https://www.instagram.com/jolanta_lesniara/) and [Wojtek](https://www.instagram.com/wojtekmieszczak/).
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/446.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/446_ukiyf9.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/islandia-po-raz-drugi/447.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/447_dshalh.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
