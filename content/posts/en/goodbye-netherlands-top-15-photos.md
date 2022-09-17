@@ -9,32 +9,32 @@ These three years in the Netherlands were a really intense time in terms of phot
 
 Below I present, in no particular order, a collection of my favourite photos. I will surely come back to them each time I will miss the Netherlands.
 
-<photo-lazy src="/stories/holandia-top-15/558.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/558_oyf9mz.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/559.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/559_lw1duu.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/560.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/560_biqdnb.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/561.jpg" padding-bottom="100"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/561_hlugqu.jpg" padding-bottom="100"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/562.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/562_npbwoo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/563.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/563_rhunlt.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/564.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/564_ifladb.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/565.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/565_g7uh7m.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/566.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/566_bmwwai.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/567.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/567_qnschf.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/568.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/568_glvmdb.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/569.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/569_u7erbi.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/570.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/570_j27gbg.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/571.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/571_qomukj.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/holandia-top-15/572.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583019/stories/goodbye-netherlands-top-15-photos/572_rwlp0l.jpg" padding-bottom="66.666"></photo-lazy>
