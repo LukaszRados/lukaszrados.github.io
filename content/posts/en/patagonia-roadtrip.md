@@ -11,112 +11,116 @@ In the end of 2018 a friend of mine sent me an info about discounted prices for 
 
 Upon the arrival we spent one day with our friends in Buenos Aires. Then we moved further to El Calafate in Patagonia where we rented a car. Our first destination was El Chaltén known for a perfect views on Fitz Roy, one of the most beautiful peaks in Andes.
 
-<photo-lazy src="/stories/patagonia/499.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/499_yeff7y.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/500.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/500_rxdwmw.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/501.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/501_n7ysus.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/502.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/502_ywlfhj.jpg" padding-bottom="66.666"></photo-lazy>
 
 Fortunately all clouds disappeared by the end of a day and we could finally see Fitz Roy. During next few days I have taken photos of Fitz Roy from all different angles.
 
-<photo-lazy src="/stories/patagonia/504.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/504_qgtkxe.jpg" padding-bottom="66.666"></photo-lazy>
 
 Waking up next day wasn't easy. When I finally arrived to Mirador de los Condores I forgot about warm bed. It was definitely the most beautiful sunrise of the trip.
 
-<photo-lazy src="/stories/patagonia/555.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433042/stories/patagonia-roadtrip/555_vrmefv.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/506.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/506_him9ok.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/507.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/507_k3jh7j.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/508.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/508_wtu5xa.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/509.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/509_vjm2un.jpg" padding-bottom="150"></photo-lazy>
 
 During the day we did a small hiking to Chorrillo del Salto waterfall. After visiting Iceland twice I assumed that no waterfall is able to amaze me. I was pleasantly surprised as this one is really picturesque.
 
-<photo-lazy src="/stories/patagonia/511.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/511_kkqcx1.jpg" padding-bottom="66.666"></photo-lazy>
 
 In the evening we hiked to Mirador Fitz Roy. It is definitely a sunrise location as sunlight hits peaks colouring them orange, but due to amazing sunset we were able to take some shots.
 
-<photo-lazy src="/stories/patagonia/513.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/514_dbgkoo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/514.jpg" padding-bottom="66.666"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/513_aelsmf.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/515.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/515_grt8p5.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
 We spent whole next day driving from El Chaltén to Torres del Paine National Park in Chile. We said goodbye to Fitz Roy at sunrise.
 
-<photo-lazy src="/stories/patagonia/517.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433039/stories/patagonia-roadtrip/517_jdnuny.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/518.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/518_w5zoiv.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/519.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/519_bpqbcy.jpg" padding-bottom="150"></photo-lazy>
 
 ## Torres del Paine
 
 After driving for several hours we reached Torres del Paine National Park where we were spending next few days.
 
-<photo-lazy src="/stories/patagonia/524.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/524_jsrmtf.jpg" padding-bottom="66.666"></photo-lazy>
 
 First sunset in Chile was absolutely stunning and gave us hope for nice weather. The weather wasn't that good after all but during that sunset we were just enjoying the views.
 
-<photo-lazy src="/stories/patagonia/526.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/526_svmqyy.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/527.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/527_y7gkli.jpg" padding-bottom="66.666"></photo-lazy>
 
 Next day we woke up to see dark clouds covering the sky. They remained there till the end of our stay in Chile. Despite this we managed to see a bunch of beautiful places: Lago Pehoe, Mirador Cuernos, Salto Grande waterfall and Lago Grey.
 
-<photo-lazy src="/stories/patagonia/529.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/529_cfrlxm.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/530.jpg" padding-bottom="61"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/530_y6sryv.jpg" padding-bottom="61"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/531.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/531_bqjsib.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/532.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/532_t6uzbt.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/533.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/533_fpitqw.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Perito Moreno
 
 After few days we left Chile and came back to El Calafate. We wanted to visit the main landmark of Los Glacieres National Park: Perito Moreno glacier. Unfortunately the park is closed for a night which means it wasn't accessible neither for sunrise nor sunset. The glacier looks impressive even in the middle of the day.
 
-<photo-lazy src="/stories/patagonia/536.jpg" padding-bottom="49.25"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433040/stories/patagonia-roadtrip/536_qpfvf1.jpg" padding-bottom="49.25"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/537.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/537_rbaisf.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Wildlife
 
 My love to photography started from taking photos of wildlife. Even though I don't do this much anymore I still love taking photos of local fauna. Patagonia is a perfect location with countless birds of prey, guanaco every few kilometers and condors flying over our heads.
 
-<photo-lazy src="/stories/patagonia/540.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/540_jqeudi.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/541.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/541_htvf8j.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/542.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/542_thic9x.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/543.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/543_hubnye.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/544.jpg" padding-bottom="66.666"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/544_jyefhq.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/545.jpg" padding-bottom="66.666"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/545_mczqmn.jpg" padding-bottom="66.666"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/patagonia/546.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/546_fdijgt.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/547.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/547_c82nyo.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/548.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433041/stories/patagonia-roadtrip/548_urj6jk.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/549.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433042/stories/patagonia-roadtrip/549_nozlax.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/patagonia/550.jpg" padding-bottom="58.83"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433042/stories/patagonia-roadtrip/550_pk2lww.jpg" padding-bottom="58.83"></photo-lazy>
 
 While visiting Chile we decided on additional drive to Tierra del Fuego. We wanted to cross the Magellan Strait and see penguins. We visited Parque Pingüino Rey where a small colony of king penguins lives.
 
-<photo-lazy src="/stories/patagonia/552.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433042/stories/patagonia-roadtrip/552_ss3mzs.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Summary
 
-When travelling to remote dream destinations I always feel a bit of pressure. I always wonder: is this place going to meet my expectations? Will the weather be alright? Is it worth the effort? I had this doubts before visiting Iceland, I had it also before visiting Thailand. I was never disappointed. Patagonia met all of my expectations: it's a land full of beautiful views, delicious cuisine and lovely people. I hope I will go there again soon.
+When travelling to remote dream destinations I always feel a bit of pressure. I wonder whether this place is going to meet my expectations. Will the weather be alright? Is it worth the effort? I had this doubts before visiting Iceland, I had it also before visiting Thailand. I was never disappointed. Patagonia met all of my expectations: it's a land full of beautiful views, delicious cuisine and lovely people. I hope I will go there again soon.
