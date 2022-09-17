@@ -7,42 +7,42 @@ category: 'photography'
 
 Pierwsze 3 dni spędzamy na Gozo – drugiej pod względem wielkości wyspie archipelagu. Najbardziej znane punkty Gozo to Azure Window (to tam kręcono scenę ślubu z Gry o Tron) oraz znajdujące się tuż obok Il-Qawra (mała zatoka połączona z morzem tylko przez wąski przesmyk w skale). Mimo małej wysokości maksymalnej, Gozo jest niezwykle pofałdowane o czym przekonujemy się po wypożyczeniu rowerów na całodzienną przejażdżkę.
 
-<photo-lazy src="/stories/malta/323.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/324_px7p9d.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/324.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/325_hsspln.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/325.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/326_ksqm3v.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/326.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/327_oyt10s.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/327.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/328_pb0bab.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/328.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/329_fiynag.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/329.jpg" padding-bottom="66.666"></photo-lazy>
-
-<photo-lazy src="/stories/malta/330.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/330_uhqona.jpg" padding-bottom="66.666"></photo-lazy>
 
 Kolejne cztery dni spędzamy już na Malcie. Szczególnie polecić mogę wizytę w niesamowicie urokliwej Mdinie – Cichym Mieście, dawnej stolicy Malty. Fani zabytków na pewno znajdą coś dla siebie pośród ponad 300 zabytków zlokalizowanych w stolicy kraju – Velletcie. Miłośników aktywnego wypoczynku zainteresuje spacer wzdłuż sięgających 250 metrów klifów Dingli aż do Blue Grotto. Jeśli nie macie absolutnie wolnego dnia do zmarnowania, nie wybierajcie się na często polecany targ rybny w Marsaxlokk – moim zdaniem zdecydowanie przereklamowanym (jedyną atrakcją były dla mnie kolorowe łódki).
 
-<photo-lazy src="/stories/malta/332.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/332_iqs5ql.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/malta/333.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/333_zhqvh8.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/malta/334.jpg" padding-bottom="150"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/334_qbueqd.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/malta/335.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/335_lxnrhf.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/336.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/336_byvv66.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/337.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/337_tcgdnk.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/338.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/338_my7iud.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/339.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/339_vvbx3r.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/340.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/340_omwnl9.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/341.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/341_bebctj.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/malta/342.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583190/stories/malta-and-gozo/342_rn9iax.jpg" padding-bottom="66.666"></photo-lazy>
