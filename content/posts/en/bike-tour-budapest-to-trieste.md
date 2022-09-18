@@ -5,11 +5,11 @@ intro: This year I went for a bike touring trip for the first time. Together wit
 category: 'photography'
 ---
 
-The idea of going for a bike touring trip was planted in my head a while ago. I was browsing [Bikepacking.com](https://bikepacking.com) and [Pedalia.cc](https://pedalia.cc), admiring other cyclists’ adventures and beautiful photos. I had no idea how to organize such a thing, but thanks to Kajtek’s prior experience it was a great trip.
+The idea of going for a bike touring trip was planted in my head a while ago. I was browsing [Bikepacking.com](https://bikepacking.com) and [Pedalia.cc](https://pedalia.cc), admiring other cyclists’ adventures and beautiful photos. I had no idea how to organize such a thing, but thanks to my friends’ prior experience it was a great trip.
 
-Our adventure started in Budapest. We left the city and headed towards Balaton Lake, doing the longest leg of 150km. Following the northern bank of the lake we arrived in Keszthely and then turned to Őrség National Park. We have then crossed the border with Austria only to enter Slovenia via a river ferry later the same day to finally get to Maribor. 
+When planning the route we decided to stick to the EuroVelo cycleways network as much as possible. Soon after leaving Budapest, we entered route number 14: [Waters of Central Europe](https://en.eurovelo.com/ev14/eurovelo-14-unmissable-sights). Following the EV14 we headed towards Balaton Lake, doing the longest leg of 150km. Along the northern bank of the lake we arrived in Keszthely and then turned to Őrség National Park. We have then crossed the border with Austria only to enter Slovenia via a river ferry later the same day to finally get to Maribor.
 
-In Maribor we made a decision to take a train to Ljubljana. We left the capital quickly and headed to the famous Bled and Bohinj lakes. These were the only places where we got soaked and scared by a thunderstorm. After coming back to Ljubljana we had the last two stages left: to Postojna and later straight to Trieste. 
+Just before crossing the border of Austria and Slovenia, we entered EuroVelo again, this time partially developed number 9: Baltic to Adriatic. In Maribor we made a decision to take a train to Ljubljana. We left the capital quickly and headed to the famous Bled and Bohinj lakes. These were the only places where we got soaked and scared by a thunderstorm. After coming back to Ljubljana we had the last two stages left: to Postojna and later straight to Trieste where we finished our trip.
 
 In terms of photography this trip was an experiment. I packed only a camera with a fixed 20/2.8 (or 30mm on FF) lens. I was not sure that I am not going to regret missing some photos due to lack of zoom.
 
