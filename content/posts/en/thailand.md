@@ -9,56 +9,62 @@ category: 'photography'
 
 Every single blog post from Thailand needs to start from the most iconic view: paradise beach and a longboat on a foreground. But even after seeing only small piece of the country I'm sure that Thailand has so much to offer.
 
-<photo-lazy src="/stories/tajlandia/176.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/176_zqfnrk.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/177.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/177_i9ltle.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/178.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/178_jo4zuq.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/179.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/179_efxcum.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/180.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/180_g3x7wc.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/181.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/181_mmtbou.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/182.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/182_ecueqb.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/183.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/183_sva4ru.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/184.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/184_hxxoge.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/185.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/185_wununh.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/186.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/186_c0na0l.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/187.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/187_wlsave.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Animals
 
 The distance between Thailand and Europe is significant and the animals we can meet there are definitely different of the ones that I know from everyday life. It is hard to resist and not take a camera when you see monkeys, lemurs, crabs or lizards.
 
-<photo-lazy src="/stories/tajlandia/190.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/190_peppaz.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/191.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/191_bstdtb.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/192.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/192_uagh5m.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/tajlandia/193.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/193_csotmp.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/194.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/194_ewb9pn.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/tajlandia/195.jpg" padding-bottom="150"></photo-lazy>
+<two-columns>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/195_yyyf0p.jpg" padding-bottom="150"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/196.jpg" padding-bottom="150"></photo-lazy>
+  <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/196_do6fjd.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
-<photo-lazy src="/stories/tajlandia/197.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/197_h1vrhl.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/198.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/198_cij9m0.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/199.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/199_lcazrr.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/200.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/200_f2lnim.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/201.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451399/stories/thailand/201_fkghph.jpg" padding-bottom="66.666"></photo-lazy>
 
-<photo-lazy src="/stories/tajlandia/203.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451399/stories/thailand/203_ca0tx2.jpg" padding-bottom="66.666"></photo-lazy>
