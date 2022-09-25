@@ -25,6 +25,11 @@ photos:
     width: 800
     height: 1200
   -
+    url: https://res.cloudinary.com/lukaszrados/image/upload/v1663341018/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-17_mq4s33.jpg
+    url_small: https://res.cloudinary.com/lukaszrados/image/upload/c_limit,h_410,w_410/v1663341018/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-17_mq4s33.jpg
+    width: 1200
+    height: 800
+  -
     url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582430/photos/spain-portugal/spain-portugal-2_jzcr03.jpg
     url_small: https://res.cloudinary.com/lukaszrados/image/upload/v1639512979/photos/spain-portugal/thumbnails/spain-portugal-2_jzcr03_ak0qu5.jpg
     width: 1200
