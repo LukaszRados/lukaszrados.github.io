@@ -1,5 +1,5 @@
 ---
-background: /photos/france-switzerland/cover.webp
+background: v1620582254/photos/france-switzerland/france-switzerland-9_p9sjfx.jpg
 title_en: France<br>& Switzerland
 title_pl: Francja<br>i Szwajcaria
 order: 7

@@ -1,5 +1,5 @@
 ---
-background: /photos/mediterranean/cover.webp
+background: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
 title_en: Mediterranean<br> Sea
 title_pl: Morze<br> Śródziemne
 order: 8

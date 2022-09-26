@@ -1,5 +1,5 @@
 ---
-background: /photos/thailand/cover.webp
+background: v1620582523/photos/thailand/thailand-6_e5qo9t.jpg
 title_en: Thailand
 title_pl: Tajlandia
 order: 9

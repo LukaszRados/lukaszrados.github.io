@@ -1,5 +1,5 @@
 ---
-background: /photos/iceland-norway/cover.webp
+background: v1620582271/photos/iceland-norway/iceland-norway-1_zwwvf4.jpg
 title_en: Iceland <br>& Norway
 title_pl: Islandia <br>i Norwegia
 order: 2

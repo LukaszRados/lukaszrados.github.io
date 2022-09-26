@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { buildImageUrl } from './helpers'
+import { buildImageUrl } from '@/helpers'
 
 export default {
     props: ['photo'],

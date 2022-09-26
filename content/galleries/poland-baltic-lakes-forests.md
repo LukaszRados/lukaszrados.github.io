@@ -1,5 +1,5 @@
 ---
-background: /photos/poland-baltic-lakes-forests/cover.webp
+background: v1620582387/photos/poland-baltic-lakes-forests/poland-baltic-lakes-forests-13_cqslpj.jpg
 title_en: Poland:<br> Baltic Sea, lakes and forests
 title_pl: Polska:<br> Bałtyk, jeziora i lasy
 order: 6

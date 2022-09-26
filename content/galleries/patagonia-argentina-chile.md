@@ -1,5 +1,5 @@
 ---
-background: /photos/patagonia-argentina-chile/cover.webp
+background: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-6_i3ywky.jpg
 title_en: Patagonia:<br>Argentina & Chile
 title_pl: Patagonia:<br>Argentyna i Chile
 order: 3

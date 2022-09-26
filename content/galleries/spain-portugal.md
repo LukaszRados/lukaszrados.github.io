@@ -1,5 +1,5 @@
 ---
-background: /photos/spain-portugal/cover.webp
+background: v1620582430/photos/spain-portugal/spain-portugal-5_waw4kw.jpg
 title_en: Spain<br>& Portugal
 title_pl: Hiszpania<br>i Portugalia
 order: 1

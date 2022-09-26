@@ -1,5 +1,5 @@
 ---
-background: /photos/poland-mountains/cover.webp
+background: v1620582413/photos/poland-mountains/poland-mountains-14_nxowrt.jpg
 title_en: Poland:<br> Mountains
 title_pl: Polska:<br> Góry
 order: 5

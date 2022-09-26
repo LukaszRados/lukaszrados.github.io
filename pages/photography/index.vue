@@ -20,7 +20,7 @@
                 <h2 class="text-xl leading-tight mb-4 relative z-10" v-html="gallery[`title_${$i18n.locale}`]"></h2>
                 <div
                     class="image"
-                    :style="`background-image: url(${gallery.background})`"
+                    :style="`background-image: url(${galleryBackground(gallery.background)})`"
                 >
                 </div>
                 <nuxt-link
@@ -35,6 +35,8 @@
 </template>
 
 <script>
+import { buildImageUrl } from '@/helpers'
+
 export default {
     data () {
         return {
@@ -53,6 +55,12 @@ export default {
                 output[output.length - 1].push(value)
                 return output
             }, [[]]).filter(row => row.length !== 0)
+        }
+    },
+
+    methods: {
+        galleryBackground (background) {
+            return buildImageUrl(background, 'c_fill,h_400,w_600')
         }
     },
 

@@ -1,5 +1,5 @@
 ---
-background: /photos/the-netherlands-belgium/cover.webp
+background: v1620582537/photos/the-netherlands-belgium/the-netherlands-belgium-7_bhkbnu.jpg
 title_en: The Netherlands<br>& Belgium
 title_pl: Holandia<br>i Belgia
 order: 4
