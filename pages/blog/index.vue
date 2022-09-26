@@ -1,12 +1,12 @@
 <template>
     <div class="ml-16 mr-4 max-w-4xl md:mx-auto md:px-4 lg:px-8 lg:mt-16 lg:mb-32">
-        <div class="md:grid md:grid-cols-2 md:gap-32">
-            <div
-                v-for="post in posts"
-                :key="post.slug"
-                class="mb-24 md:mb-0"
-            >
-                <fade-in-section>
+        <fade-in-section>
+            <div class="md:grid md:grid-cols-2 md:gap-32">
+                <div
+                    v-for="post in posts"
+                    :key="post.slug"
+                    class="mb-24 md:mb-0"
+                >
                     <h2 class="text-2xl leading-tight lg:text-3xl">
                         <nuxt-link :to="localePath(`/blog/${post.slug}`)" class="hover:underline">
                             {{ post.title }}
@@ -16,9 +16,9 @@
                         {{ post.published_at }}
                     </div>
                     <p>{{ post.intro }}</p>
-                </fade-in-section>
+                </div>
             </div>
-        </div>
+        </fade-in-section>
     </div>
 </template>
 
