@@ -5,73 +5,59 @@ title_pl: Maroko<br>i Gibraltar
 order: 10
 photos:
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-8_xfjucp.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-8.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-8_xfjucp.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-5_sn8pge.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-5.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-5_sn8pge.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582338/photos/morocco-gibraltar/morocco-gibraltar-3_tpr5kl.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-3.webp
+    url: v1620582338/photos/morocco-gibraltar/morocco-gibraltar-3_tpr5kl.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-4_br5lsn.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-4.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-4_br5lsn.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-6_dsrwfc.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-6.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-6_dsrwfc.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-7_imkj43.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-7.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-7_imkj43.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582336/photos/morocco-gibraltar/morocco-gibraltar-1_t6qojs.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-1.webp
+    url: v1620582336/photos/morocco-gibraltar/morocco-gibraltar-1_t6qojs.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-2_rwlp3j.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-2.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-2_rwlp3j.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-9_cfa8ig.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-9.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-9_cfa8ig.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582337/photos/morocco-gibraltar/morocco-gibraltar-10_al4b8w.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-10.webp
+    url: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-10_al4b8w.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582338/photos/morocco-gibraltar/morocco-gibraltar-11_myt9yq.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-11.webp
+    url: v1620582338/photos/morocco-gibraltar/morocco-gibraltar-11_myt9yq.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582338/photos/morocco-gibraltar/morocco-gibraltar-12_duhavq.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-12.webp
+    url: v1620582338/photos/morocco-gibraltar/morocco-gibraltar-12_duhavq.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582338/photos/morocco-gibraltar/morocco-gibraltar-13_girxfd.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-13.webp
+    url: v1620582338/photos/morocco-gibraltar/morocco-gibraltar-13_girxfd.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582338/photos/morocco-gibraltar/morocco-gibraltar-14_cc6svz.jpg
-    url_small: /photos/morocco-gibraltar/small/morocco-gibraltar-14.webp
+    url: v1620582338/photos/morocco-gibraltar/morocco-gibraltar-14_cc6svz.jpg
     width: 1200
     height: 800
 ---

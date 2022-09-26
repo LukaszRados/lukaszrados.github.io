@@ -5,83 +5,67 @@ title_pl: Patagonia:<br>Argentyna i Chile
 order: 3
 photos:
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-9_qw7qaw.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-9.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-9_qw7qaw.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-12_g38cmj.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-12.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-12_g38cmj.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-3_xstjs7.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-3.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-3_xstjs7.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-4_f6esvm.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-4.webp
+    url: v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-4_f6esvm.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-5_xleyqq.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-5.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-5_xleyqq.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-13_idwerk.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-13.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-13_idwerk.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-14_efs72t.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-14.webp
+    url: v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-14_efs72t.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-6_i3ywky.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-6.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-6_i3ywky.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-7_ium924.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-7.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-7_ium924.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-8_eplu1q.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-8.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-8_eplu1q.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-10_efqkcm.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-10.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-10_efqkcm.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-11_hlfp6o.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-11.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-11_hlfp6o.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-1_ieg3y1.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-1.webp
+    url: v1620582358/photos/patagonia-argentina-chile/patagonia-argentina-chile-1_ieg3y1.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-2_f5pwzf.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-2.webp
+    url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-2_f5pwzf.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-15_fox0tn.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-15.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-15_fox0tn.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-16_lzrbam.jpg
-    url_small: /photos/patagonia-argentina-chile/small/patagonia-argentina-chile-16.webp
+    url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-16_lzrbam.jpg
     width: 1200
     height: 800
 ---

@@ -19,7 +19,7 @@
                 :key="photo.url"
             >
                 <img
-                    :src="photo.url" 
+                    :src="buildImageUrl(photo.url)" 
                     class="max-w-screen max-h-screen"
                 >
             </div>
@@ -52,6 +52,8 @@
 </template>
 
 <script>
+import { buildImageUrl } from './helpers'
+
 export default {
     props: ['photos', 'photo'],
 
@@ -132,7 +134,7 @@ export default {
             this.translate = `${-this.touch.delta}px`
         },
 
-        onTouchEnd (event) {
+        onTouchEnd () {
             if (this.touch.initial === undefined) return;
             if (Math.abs(this.touch.delta) < 50) {
                 this.translate = 0
@@ -157,8 +159,12 @@ export default {
             image.addEventListener('load', () => {
                 photo.isLoaded = true
             })
-            image.src = photo.url
+            image.src = buildImageUrl(photo.url)
         },
+
+        buildImageUrl (photoUrl) {
+            return buildImageUrl(photoUrl)
+        }
     },
 
     mounted () {

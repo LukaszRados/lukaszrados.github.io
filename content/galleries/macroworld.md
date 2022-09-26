@@ -5,88 +5,71 @@ title_pl: Świat<br>w skali makro
 order: 11
 photos:
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-13_xlvwd9.jpg
-    url_small: /photos/macroworld/small/macroworld-13.webp
+    url: v1620582289/photos/macroworld/macroworld-13_xlvwd9.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-7_jxjk1c.jpg
-    url_small: /photos/macroworld/small/macroworld-7.webp
+    url: v1620582288/photos/macroworld/macroworld-7_jxjk1c.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-1_qqmgip.jpg
-    url_small: /photos/macroworld/small/macroworld-1.webp
+    url: v1620582288/photos/macroworld/macroworld-1_qqmgip.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-2_yn4eql.jpg
-    url_small: /photos/macroworld/small/macroworld-2.webp
+    url: v1620582288/photos/macroworld/macroworld-2_yn4eql.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-3_zgrwci.jpg
-    url_small: /photos/macroworld/small/macroworld-3.webp
+    url: v1620582289/photos/macroworld/macroworld-3_zgrwci.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-14_shta4j.jpg
-    url_small: /photos/macroworld/small/macroworld-14.webp
+    url: v1620582289/photos/macroworld/macroworld-14_shta4j.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-4_kutwsm.jpg
-    url_small: /photos/macroworld/small/macroworld-4.webp
+    url: v1620582288/photos/macroworld/macroworld-4_kutwsm.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-5_xb3syh.jpg
-    url_small: /photos/macroworld/small/macroworld-5.webp
+    url: v1620582288/photos/macroworld/macroworld-5_xb3syh.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-6_ep8zdv.jpg
-    url_small: /photos/macroworld/small/macroworld-6.webp
+    url: v1620582288/photos/macroworld/macroworld-6_ep8zdv.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-8_xx2drw.jpg
-    url_small: /photos/macroworld/small/macroworld-8.webp
+    url: v1620582288/photos/macroworld/macroworld-8_xx2drw.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582288/photos/macroworld/macroworld-9_vlewnj.jpg
-    url_small: /photos/macroworld/small/macroworld-9.webp
+    url: v1620582288/photos/macroworld/macroworld-9_vlewnj.jpg
     width: 800
     height: 1200
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-10_cgsae1.jpg
-    url_small: /photos/macroworld/small/macroworld-10.webp
+    url: v1620582289/photos/macroworld/macroworld-10_cgsae1.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-11_ltrg12.jpg
-    url_small: /photos/macroworld/small/macroworld-11.webp
+    url: v1620582289/photos/macroworld/macroworld-11_ltrg12.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-12_hgaj6z.jpg
-    url_small: /photos/macroworld/small/macroworld-12.webp
+    url: v1620582289/photos/macroworld/macroworld-12_hgaj6z.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-15_foxw0t.jpg
-    url_small: /photos/macroworld/small/macroworld-15.webp
+    url: v1620582289/photos/macroworld/macroworld-15_foxw0t.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-16_lt9uto.jpg
-    url_small: /photos/macroworld/small/macroworld-16.webp
+    url: v1620582289/photos/macroworld/macroworld-16_lt9uto.jpg
     width: 1200
     height: 800
   -
-    url: https://res.cloudinary.com/lukaszrados/image/upload/v1620582289/photos/macroworld/macroworld-17_spmzzp.jpg
-    url_small: /photos/macroworld/small/macroworld-17.webp
+    url: v1620582289/photos/macroworld/macroworld-17_spmzzp.jpg
     width: 800
     height: 1200
 ---
