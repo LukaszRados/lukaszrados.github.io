@@ -3,6 +3,7 @@ title: 'Autumn in Belgian Ardennes'
 published_at: '2018-10-22'
 intro: Last weekend we decided with Jola to go for a spontaneous trip to Ardennes in Belgium. We hoped to see beautiful autumn. Right after work we rented a car and hit the road and after only few hours we arrived to Bouillon.
 category: 'photography'
+background: v1620582911/stories/autumn-in-ardennes/457_enaiv7.jpg
 ---
 
 Our plan was as follows: on Saturday we decided to do a full-day hiking and on Sunday nothing but chill. Bouillon is located by the river Semois. Although hills around are not very high, hikers can still choose a lot of uphill trails.

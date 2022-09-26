@@ -3,6 +3,7 @@ title: 'Patagonia. Podróż samochodem przez Argentynę i Chile'
 published_at: '2019-04-02'
 intro: Patagonia to jedno z miejsc, które chciałem zobaczyć od dawna. Niemalże codziennie widziałem w internecie zdjęcia pięknych krajobrazów, niepodobnych do niczego co znam. W tym roku w końcu miałem okazję przekonać się jak wyglądają na żywo.
 category: 'photography'
+background: v1663433039/stories/patagonia-roadtrip/517_jdnuny.jpg
 ---
 
 Kiedy pod koniec zeszłego roku kolega wysłał mi informację o promocyjnych cenach lotów z Amsterdamu do Buenos Aires, wahałem się tylko chwilę. Razem z Jolą postanowiliśmy spędzić dwa tygodnie marca w Ameryce Południowej. Plan był następujący: 10 dni w Patagonii, kilka dni w Córdobie w odwiedzinach u przyjaciół i dwa dni w Buenos Aires.

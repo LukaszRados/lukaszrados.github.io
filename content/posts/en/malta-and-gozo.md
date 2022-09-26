@@ -3,6 +3,7 @@ title: 'Malta & Gozo in February'
 published_at: '2016-02-28'
 intro: Wedding of Daenerys and Khal Drogo, Great Sept of Baelor, Pentos and King's Landing. It's hard to believe that all of these locations from Game of Thrones series were shot on archipelago that area is smaller than area of Cracow. See some photos from Malta and Gozo islands.
 category: 'photography'
+background: v1620583188/stories/malta-and-gozo/330_uhqona.jpg
 ---
 
 First three days we spent on Gozo – the second largest island of archipelago. The most known points there are Azure Window (where wedding from Game of Thrones was shot) and located nearby Il-Qawra (small harbor connected with sea only by tiny cave-like pass). Although the highest point of Gozo is not that hight, the island is hilly, which we've learnt after renting bicycles for full-day trip.

@@ -3,6 +3,7 @@ title: 'Portugal from South to North'
 published_at: '2018-05-15'
 intro: 'In the first week of May together with Jola we have travelled to Portugal. The trip gave us an opportunity to visit a new country and visit some friends studying in Lisbon and Coimbra. Such a short trip let us only touch the surface of this gorgeous country, but even this made me think that it is one of the most beautiful places I have ever seen.'
 category: 'photography'
+background: v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg
 ---
 
 Our trip started in Algarve region known recognised mostly for its interesting coastline consisting golden cliffs, caves and bays. The next stops were the cities of Lisbon, Coimbra and Porto. I was especially impressed by wonderful Porto, located right by the Atlantic Ocean by the river Douro.

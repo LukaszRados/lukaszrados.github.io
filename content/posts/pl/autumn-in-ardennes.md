@@ -3,6 +3,7 @@ title: 'Jesień w belgijskich Ardenach'
 published_at: '2018-10-22'
 intro: W zeszłym tygodniu wybraliśmy się z Jolą na spontaniczną wycieczkę na południe Belgii, w Ardeny. Mieliśmy nadzieję zobaczyć piękną jesień w górach. Zaraz po pracy odebraliśmy samochód z wypożyczalni i już po kilku godzinach jazdy byliśmy w Bouillon.
 category: 'photography'
+background: v1620582911/stories/autumn-in-ardennes/457_enaiv7.jpg
 ---
 
 Nasz plan był prosty: sobotę postanowiliśmy poświęcić na całodzienny hiking, a niedzielę na zwiedzanie okolicy. Bouillon leży w zakolu rzeki Semois. Mimo iż okoliczne pagórki nie są wysokie - zazwyczaj nie sięgają nawet 400 metrów n.p.m., to dzięki obecności rzeki można wybrać szlaki ze sporą liczbą podejść.

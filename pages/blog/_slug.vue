@@ -18,6 +18,7 @@
 </template>
 
 <script>
+import { buildImageUrl } from '@/helpers';
 export default {
     async asyncData({ $content, params, app }) {
         return {
@@ -33,6 +34,7 @@ export default {
                 { hid: 'description', name: 'description', content: this.post.intro },     
                 { hid: 'og:description', name: 'og:description', content: this.post.intro },
                 { hid: 'og:url', name: 'og:url', content: this.$route.path },
+                { hid: 'og:image', name: 'og:image', content: buildImageUrl(this.post.background, 'c_fill,h_630,w_1200') }
             ]
         }
     }

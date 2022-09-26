@@ -3,6 +3,7 @@ title: 'Rok w Holandii: fotograficzne podsumowanie'
 published_at: '2017-10-08'
 intro: 'Niedawno minął rok od momentu kiedy przeprowadziłem się do kraju Rembrandta. Przeglądnąłem więc dysk w poszukiwaniu zdjęć, którymi mógłbym się z tej okazji podzielić. Zapraszam do obejrzenia kilku klasycznych holenderskich kadrów - od wiatraków, przez tulipany, po kanały Amsterdamu - a także kilku mniej oczywistych.'
 category: 'photography'
+background: v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg
 ---
 
 ## Amsterdam

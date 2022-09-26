@@ -3,6 +3,7 @@ title: 'Gap Year. Część 2: z Francji na Morze Śródziemne'
 published_at: '2020-10-20'
 intro: Zapraszam do drugiej części relacji z mojego 'gap year'. Po przygodach opisanych w poprzednim wpisie nadszedł czas na opuszczenie Francji, przekroczenie Zatoki Biskajskiej i żeglugę po Oceanie Atlantyckim aż do Morza Śródziemnego.
 category: 'photography'
+background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 ---
 
 ## Zatoka Biskajska

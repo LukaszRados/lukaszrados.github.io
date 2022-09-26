@@ -3,6 +3,7 @@ title: 'Madeira. The Island of Eternal Spring'
 published_at: '2021-12-15'
 intro: Madeira drew my attention when we were planning our sailing adventure. Saturated green color, beautiful views and spring-like weather were inviting me and a short trip to Azores only encouraged me to put it high on the bucket list. Once the sailing trip was over I was sure that I need to visit it.
 category: 'photography'
+background: v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg
 ---
 
 For the past two years I’ve been suffering from some kind of “photography burnout”. During the gap year we’ve sailed to some of the most beautiful coasts of Europe. Despite that my camera mostly stayed either in my backpack or on the boat. Except for some short periods (like a trip to Azory or <nuxt-link to="/en/blog/mountains-of-poland">wintertime in Poland</nuxt-link>) I simply couldn’t find inspiration. And it bothered me, so I kept watching youtube videos, reading articles and books, trying some other genres and - as most photographers - looking at new gear. I came to a conclusion that forcing myself to take photos is not going to take me anywhere. I decided to wait and hope that the inspiration will come back eventually. 

@@ -3,6 +3,7 @@ title: 'Hitchhiking in Iceland'
 published_at: '2016-09-30'
 intro: "Hitchhiking on Iceland at the end of September? You guys are crazy! — Commented the first driver who gave us a lift. And yet, we did it – in 7 days with help of 28 wonderful drivers we traveled over 1150 km and we found that Iceland is as beautiful (and unpredictible at the same time) as it is described."
 category: 'photography'
+background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
 ---
 
 Visiting Iceland was my biggest dream since I saw some photos on 500px.com. With every photo I've seen (especially after Eyjafjallajökull erupted in 2010), with every article read and every timelapse video watched, I was falling more and more in love to this island. But strangely, for years I have postponed my trip. Deep inside I was worried that Iceland may turn out to be not as magical as I imagine (something like Paris syndrome) or weather will spoil my plans. Also, I was a bit afraid, that I will not be able to invent any new way to picture all the wonders of Iceland, both because of lack of skills and strong competition.

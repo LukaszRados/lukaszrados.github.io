@@ -3,6 +3,7 @@ title: 'Pożegnanie z Holandią. 15 zdjęć z ostatnich trzech lat'
 published_at: '2019-08-20'
 intro: Już za kilka dni opuszczę Holandię, kraj w którym mieszkałem przez ostatnie trzy lata. Zabieram ze sobą mnóstwo wspomnień, wiele wspaniałych znajomości i oczywiście… setki zdjęć! W ramach pożegnania przeglądnąłem wybrałem spośród nich 15 ulubionych.
 category: 'photography'
+background: v1620583019/stories/goodbye-netherlands-top-15-photos/572_rwlp0l.jpg
 ---
 
 Trzy lata w Holandii były dla mnie intensywne pod względem fotograficznym. To tutaj powstało większość zdjęć do <nuxt-link to="/blog/project-52">mojego Projektu 52 w 2018 roku</nuxt-link>. W niektórych miesiącach fotografia zajmowała znaczną część mojego czasu: tak było kiedy fotografowałem tulipany w kwietniu lub wrzosy w sierpniu. Nauczyłem się doceniać holenderskie wybrzeże, które może nie jest bardzo urozmaicone, ale dzięki zmienności pogody stanowi wdzięczny motyw. Holenderskie miasta były z kolei doskonałym miejscem na doskonalenie fotografii krajobrazu miejskiego.

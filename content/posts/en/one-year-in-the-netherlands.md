@@ -3,6 +3,7 @@ title: 'One year in the Netherlands: a photo summary'
 published_at: '2017-10-08'
 intro: 'Last Tuesday marks a date of my first anniversary in the Netherlands. I decided to browse my hard drive and find some photos that I can share. I invite you to watch classic frames from the country of Rembrandt: windmills, tulips, canals, but also some less traditional frames.'
 category: 'photography'
+background: v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg
 ---
 
 ## Amsterdam

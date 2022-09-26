@@ -3,6 +3,7 @@ title: 'Patagonia. A road trip in Argentina and Chile'
 published_at: '2019-04-02'
 intro: Patagonia was one of my top dream destinations. Almost every day I was exposed to photos of amazing and unique landscapes, very different from anything I know. This year I finally travelled to Argentina and Chile to see these views myself.
 category: 'photography'
+background: v1663433039/stories/patagonia-roadtrip/517_jdnuny.jpg
 ---
 
 In the end of 2018 a friend of mine sent me an info about discounted prices for flight tickets to Buenos Aires. Together with Jola we decided to spent two weeks of March in South America. The plan was rather simple: 10 days in Patagonia, few days in Córdoba visiting friends and two more days in Buenos Aires.

@@ -3,6 +3,7 @@ title: 'Północ Hiszpanii: Asturia, Kantabria i Kraj Basków'
 published_at: '2022-08-31'
 intro: Sierpień jest najgorętszym miesiącem w Barcelonie, więc w tym roku postanowiliśmy uciec na północ Hiszpanii, gdzie pogoda jest łagodniejsza, trawa bardziej zielona, a deszcz pada nawet w sierpniu.
 category: 'photography'
+background: v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-7_gjtcjf.jpg
 ---
 
 W drodze do Asturii zatrzymaliśmy się w Saragossie. Choć naszym głównym celem było nabrać energii przed dalszą jazdą, miasto okazało się bardzo pozytywnym zaskoczeniem.

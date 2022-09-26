@@ -3,6 +3,7 @@ title: 'Cycling to the Adriatic Sea: from Budapest to Trieste'
 published_at: '2022-09-15'
 intro: This year I went for a bike touring trip for the first time. Together with Ania and Kajtek, we cycled from Budapest via Balaton Lake, Őrség, Maribor, Bled and Postojna to Trieste. The route was 700 km long (mostly following the EuroVelo network), climbed over 5500m up and crossed four countries.
 category: 'photography'
+background: v1663261702/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-36_jtbphf.jpg
 ---
 
 The idea of going for a bike touring trip was planted in my head a while ago. I was browsing [Bikepacking.com](https://bikepacking.com) and [Pedalia.cc](https://pedalia.cc), admiring other cyclists’ adventures and beautiful photos. I had no idea how to organize such a thing, but thanks to my friends’ prior experience it was a great trip.

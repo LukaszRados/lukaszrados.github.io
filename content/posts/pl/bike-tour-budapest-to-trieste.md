@@ -3,6 +3,7 @@ title: 'Rowerami nad Adriatyk: z Budapesztu do Triestu'
 published_at: '2022-09-15'
 intro: W tym roku wybrałem się na pierwszą dłuższą wyprawę rowerową. Wraz z Anią i Kajtkiem pojechaliśmy z Budapesztu, przez Balaton, Őrség, Maribor, Bled i Postojną do Triestu. Po drodze przejechaliśmy 700 km (w większości trzymając się EuroVelo), wspięliśmy się 5500m w pionie i odwiedziliśmy 4 kraje. 
 category: 'photography'
+background: v1663261702/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-36_jtbphf.jpg
 ---
 
 Pomysł wyjazdu na wyprawę rowerową rodził się w mojej głowie od jakiegoś czasu. Przeglądając [Bikepacking.com](https://bikepacking.com) i [Pedalia.cc](https://pedalia.cc) trafiłem na wiele opisów ciekawych tras, okraszonych dodatkowo pięknymi zdjęciami. Nie wiedziałem, jak zabrać się za zorganizowanie takiego wyjazdu, jednak dzięki doświadczeniu Kajtka wszystko udało się bez problemów.

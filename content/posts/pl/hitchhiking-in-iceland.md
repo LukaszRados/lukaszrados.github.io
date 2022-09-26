@@ -3,6 +3,7 @@ title: 'Autostopem przez Islandię'
 published_at: '2016-09-30'
 intro: „Stopem po Islandii pod koniec września? Jesteście szaleni!” skomentował pierwszy kierowca, który nas podwoził. A jednak udało się – w 7 dni przejechaliśmy z 28 kierowcami ponad 1150 km i przekonaliśmy się, że Islandia jest tak piękna (a równocześnie tak nieobliczalna), jak ją opisują.
 category: 'photography'
+background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
 ---
 
 Islandia była moim największym marzeniem odkąd zobaczyłem zdjęcia na 500px.com. Z każdym obejrzanym zdjęciem (zwłaszcza od czasu erupcji Eyjafjallajökull w 2010), z każdym przeczytanym artykułem i obejrzanym filmem, zakochiwałem się w wyspie, której nie widziałem wcześniej na oczy. Co ciekawe, nie kwapiłem się jednak do wizyty. Trochę obawiałem się, że Islandia może okazać się nie aż tak magiczna jak sobie to wyobrażam (Syndrom paryski) albo pogoda popsuje moje plany. Najbardziej jednak bałem się, że z powodu braku umiejętności lub obejrzenia zbyt wielkiej liczby zdjęć, nie będę w stanie zrobić żadnych świeżych ujęć.

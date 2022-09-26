@@ -3,6 +3,7 @@ title: 'Projekt 52. Jedno zdjęcie na każdy tydzień roku'
 published_at: '2018-12-31'
 intro: 'W 2018 roku podjąłem się najdłuższego jak do tej pory projektu fotograficznego: Projektu 52. W jego ramach każdego tygodnia wybierałem najlepsze zdjęcie krajobrazowe i publikowałem na moim Instagramie. Złożyły się one na kolekcję 52 zdjęć, które prezentuję poniżej wraz z opisami i wnioskami.'
 category: 'photography'
+background: v1663427072/stories/project-52/493_ldggb7.jpg
 ---
 
 *Uwaga: poniżej prezentuję krótki opis projektu, wraz z moimi wnioskami: co mi się podobało, a co poszło nie tak. Jeśli nie interesuje Cię opis, dalej prezentuję wszystkie 52 zdjęcia wraz z krótkimi opisami i linkami do mojego Instagrama.*

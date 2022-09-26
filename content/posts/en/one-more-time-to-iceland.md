@@ -3,6 +3,7 @@ title: 'Iceland. One more time'
 published_at: '2018-09-29'
 intro: In 2016 I made my dream of visiting Iceland come true and for 7 days I was hitchhiking, camping in marvellous locations and photographing amazing landscapes. Since then I wanted to come back. This year together with Jola and Wojtek we planned a road trip to Iceland.
 category: 'photography'
+background: v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg
 ---
 
 Initial plan was quite similar to what I did in 2016, but this time we decided to rent a car. This allowed us to go to Snæfellsnes peninsula which I skipped last time. We had absolutely no exceptations regarding the weather - after all the end of September is not exactly a high season on Iceland. But deep inside we really hoped to see Northern Lights.

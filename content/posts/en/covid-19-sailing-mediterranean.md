@@ -3,6 +3,7 @@ title: 'Gap Year. Part 3: Covid 19 and Sailing the Mediterranean Sea'
 published_at: '2020-12-01'
 intro: In two previous posts I told you about the great adventure I decided to start in 2019. Today I invite you to read the final part of my gap year update. In March we entered the Mediterranean Sea, the water was warming up and weather was more pleasant every day. And then the Covid 19 happened.
 category: 'photography'
+background: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg
 ---
 
 Let's start from the beginning. After visiting rich in flavours and adventures Morocco we set sails and sailed towards Gibraltar. We were at known waters. Few years back we sailed with a group of friends the same route, just the other way around. After crossing the Strait of Gibraltar we moored in La Linea in Spain.

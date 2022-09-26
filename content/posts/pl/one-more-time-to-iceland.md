@@ -3,6 +3,7 @@ title: 'Islandia. Po raz drugi'
 published_at: '2018-09-29'
 intro: W 2016 roku spełniłem swoje marzenie i poleciałem na Islandię, gdzie przez 7 dni jeździłem autostopem, biwakowałem w pięknych miejscach i fotografowałem niezwykłe krajobrazy. Od tamtego czasu miałem ogromną ochotę wrócić i w tym roku namówiłem Jolę i Wojtka na wspólny wyjazd.
 category: 'photography'
+background: v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg
 ---
 
 Plan był nieco podobny do tego z 2016, jednak tym razem postanowiliśmy wypożyczyć samochód. Dzięki temu mogliśmy dorzucić wizytę na półwyspie Snæfellsnes, na którą poprzednim razem brakło mi czasu. Nie mieliśmy większych oczekiwań wobec pogody - końcówka września to już okres poza sezonem na Islandii, ale gdzieś w głębi serc mieliśmy nadzieję chociaż raz zobaczyć zorzę.

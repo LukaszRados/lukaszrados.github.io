@@ -3,6 +3,7 @@ title: 'Madera. Wyspa wiecznej wiosny'
 published_at: '2021-12-15'
 intro: Madera zainteresowała mnie, kiedy planowaliśmy naszą żeglarską przygodę. Przyciągała uwagę soczystą zielenią, pięknymi widokami i wiosenną pogodą. Krótka wizyta na Azorach tylko zaostrzyła apetyt na Makronezję. Po zakończeniu żeglarskiej przygody, Madera pozostała na liście miejsc, które na pewno chciałbym zobaczyć. 
 category: 'photography'
+background: v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg
 ---
 
 Przez ostatnie dwa lata przeżywałem swoisty  “kryzys fotograficzny”. W trakcie naszej rocznej podróży jachtem odwiedziliśmy jedne z najpiękniejszych wybrzeży Europy. Mimo to przez większość czasu aparat pozostawał w plecaku, a zazwyczaj nie opuszczał nawet kajuty. Poza sporadycznymi zrywami (na przykład wyjazd na Azory lub podczas <nuxt-link to="/blog/mountains-of-poland">pobytu zimą w Polsce</nuxt-link>) nie miałem motywacji do fotografowania. Bardzo mnie to męczyło, szukałem więc motywacji oglądając filmy na youtube, czytając artykuły i książki, próbując innych rodzajów fotografii i - jak chyba każdy fotograf - oglądając sprzęt. Ostatecznie stwierdziłem, że zmuszanie się do pasji nie ma sensu. Postanowiłem poczekać i mieć nadzieję, że chęć do fotografowania sama wróci. 

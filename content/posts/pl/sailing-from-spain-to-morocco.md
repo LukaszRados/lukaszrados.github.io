@@ -3,6 +3,7 @@ title: 'Na żaglach przez Hiszpanię, Gibraltar i Maroko'
 published_at: '2015-11-17'
 intro: 5400 km samolotem, 1300 km samochodem, 250 Mm żaglówką, 600 km pociągami, kilka przejazdów taksówką i dziesiątki kilometrów piechotą. W ciągu 15 dni zahaczyliśmy o 5 krajów na dwóch kontynentach. Zapraszam do obejrzenia kilku zdjęć dokumentujących naszą przygodę.
 category: 'photography'
+background: v1663451005/stories/sailing-from-spain-to-morocco/287_l7dokc.jpg
 ---
 
 Pierwszym etapem naszej przygody był rejs z Malagi do Casablanki zorganizowany przez Akademicki Klub Żeglarski. Rozpoczęliśmy od przelotu z Wrocławia do Malagi by zaokrętować się w Benalmadenie. Tam niestety zatrzymał nas sztorm, który przez dwa dni nie pozwalał nam opuścić portu. Kiedy morze się uspokoiło postawiliśmy żagle i pognaliśmy w stronę Gibraltaru.

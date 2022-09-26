@@ -3,6 +3,7 @@ title: 'Gap Year. Część 3: Koronawirus i żeglowanie po Morzu Śródziemnym'
 published_at: '2020-12-10'
 intro: W poprzednich dwóch postach opisałem początki wspaniałej przygody, którą rozpocząłem w 2019 roku. Dzisiaj zapraszam do przeczytania ostatniej, trzeciej części mojej historii. W marcu wpłynęliśmy na Morze Śródziemne. Woda ocieplała się z dnia na dzień, pogoda robiła się coraz bardziej przyjemna. I właśnie wtedy złapał nas koronawirus.
 category: 'photography'
+background: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg
 ---
 
 Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku postawiliśmy żagle i popłynęliśmy w stronę Gibraltaru. Kilka lat temu pokonaliśmy z przyjaciółmi ten sam odcinek w przeciwnym kierunku, można więc powiedzieć, że znaleźliśmy się na znajomych wodach. Po przekroczeniu zatłoczonej Cieśniny Gibraltarskiej udaliśmy się do portu La Linea w Hiszpanii.

@@ -3,6 +3,7 @@ title: 'Holidays in Thailand'
 published_at: '2017-11-29'
 intro: 'After 16 hours and 10k kms in the air and 30 degrees celsius difference in the temperature, we have landed in Thailand. During two weeks we have seen north, center and south of the country, relaxing and taking photos.'
 category: 'photography'
+background: v1663451396/stories/thailand/176_zqfnrk.jpg
 ---
 
 ## Landscapes

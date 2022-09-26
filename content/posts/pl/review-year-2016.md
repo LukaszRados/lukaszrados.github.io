@@ -3,6 +3,7 @@ title: 'Podsumowanie roku 2016'
 published_at: '2016-12-31'
 intro: 'Rok 2016 dobiega końca. Dla mnie był niewątpliwie ciekawy. Wiele zmian, kilka spełnionych marzeń i nowe wyzwania. Zapraszam do obejrzenia krótkiego podsumowania mojego fotograficznego roku.'
 category: 'photography'
+background: v1663450371/stories/review-year-2016/245_sqdn5u.jpg
 ---
 
 ## Grudzień 2015: Pilsko

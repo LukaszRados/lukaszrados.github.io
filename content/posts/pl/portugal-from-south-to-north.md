@@ -3,6 +3,7 @@ title: 'Portugalia z południa na północ'
 published_at: '2018-05-15'
 intro: 'W długi weekend majowy wybraliśmy się z Jolą do słonecznej Portugalii. Pozwoliło nam to poznać (choć dość pobieżnie) ten piękny kraj, który od zawsze chcieliśmy zobaczyć, a do tego mieliśmy okazje odwiedzić studiujących w Lizbonie i Coimbrze znajomych. Po tym wyjeździe nie mam wątpliwości, że to jedno z najpiękniejszych miejsc jakie kiedykolwiek widziałem!'
 category: 'photography'
+background: v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg
 ---
 
 Choć mieliśmy tylko tydzień, udało nam się przejechać Portugalię od Faro, aż do położonego na północy Porto. Nasz pobyt rozpoczęliśmy w regionie Algarve znanym przede wszystkim z ciekawej linii brzegowej złożonej ze złotych klifów, ukrytych jaskiń i małych zatoczek. Następnie odwiedziliśmy Lizbonę, Coimbrę i Porto. Zwłaszcza to ostatnie miasto, położone przy ujściu Duero do Oceanu Atlantyckiego, zrobiło na mnie olbrzymie wrażenie.

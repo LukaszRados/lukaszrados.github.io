@@ -3,6 +3,7 @@ title: 'Autumn and winter in the mountains of Poland'
 published_at: '2021-01-24'
 intro: 'Once our one-year-long trip aboard s/y Moonshine was over I spent few months in Poland. Previous time I spent so much time at home was over four years ago - before I moved to the Netherlands. After four year I missed not only my family and friends, but also Polish mountains.'
 category: 'photography'
+background: v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg
 ---
 
 When I moved to the Netherlands I knew that this country is known of many beautiful places: old towns of Amsterdam, Leida and Haarlem, windmills located by rivers and lakes, endless beaches on the coast of the North Sea. I knew, however, that it lacks mountains and I knew I am going to miss them. I kept tiring my friends with stories about the Netherlands being flat. 

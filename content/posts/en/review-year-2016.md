@@ -3,6 +3,7 @@ title: 'Year 2016 review'
 published_at: '2016-12-31'
 intro: '2016 is about to end. What a year was that for me! A lot of changes, fullfilled dreams and new challenges. Here I present the most important photograhic events during last year.'
 category: 'photography'
+background: v1663450371/stories/review-year-2016/245_sqdn5u.jpg
 ---
 
 ## December 2015: Pilsko

@@ -3,6 +3,7 @@ title: 'Wakacje w Tajlandii'
 published_at: '2017-11-29'
 intro: 'Po 16 godzinach lotu, 10 tys. km w powietrzu i 30 stopniach różnicy temperatur wylądowaliśmy w Tajlandii. Przez dwa tygodnie zwiedziliśmy północ, centrum i południe kraju, odpoczywając i fotografując.'
 category: 'photography'
+background: v1663451396/stories/thailand/176_zqfnrk.jpg
 ---
 
 ## Krajobrazy

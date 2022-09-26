@@ -3,6 +3,7 @@ title: 'Jesień i zima w polskich górach'
 published_at: '2021-01-24'
 intro: 'Po zakończeniu rocznego rejsu na pokładzie s/y Moonshine wróciłem na kilka miesięcy do Polski. Ostatni raz tak długi czas w domu spędziłem ponad cztery lata wcześniej - zanim przeprowadziłem się do Holandii. Po czterech latach tęskniłem nie tylko za rodziną i przyjaciółmi, ale także za polskimi górami.'
 category: 'photography'
+background: v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg
 ---
 
 Przeprowadzając się do Holandii wiedziałem, że jest to kraj słynący z wielu pięknych miejsc: stare miasta takie jak Amsterdam, Lejda czy Haarlem, skanseny pełne wiatraków, niekończące się piaszczyste plaże nad Morzem Północnym. Wiedziałem jednak także, że na pewno nie znajdę tam gór i bardzo mi ich brakowało. Przy każdej okazji zamęczałem znajomych opowieściami o tym, jak płaska jest Holandia.

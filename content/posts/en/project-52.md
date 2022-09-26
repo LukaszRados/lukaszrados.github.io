@@ -3,6 +3,7 @@ title: 'Project 52. One landscape photo a week for a year'
 published_at: '2018-12-31'
 intro: 'In 2018 I decided to start my longest photography project so far: Project 52. Every week I was choosing and publishing the best landscape photo taken previous week. All together they create a collection of 52 photos which I present below with descriptions and conclusions.'
 category: 'photography'
+background: v1663427072/stories/project-52/493_ldggb7.jpg
 ---
 
 *TL;DR: below I present short description of the project together with conclusions: what I liked and what went wrong. If you are not interested in the description, scroll below to see all 52 photos.*

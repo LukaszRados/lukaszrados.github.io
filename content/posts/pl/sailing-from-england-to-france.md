@@ -3,6 +3,7 @@ title: 'Gap Year. Część 1: Na żaglach z Anglii do Francji'
 published_at: '2019-11-11'
 intro: We wrześniu 2019 roku wraz z grupą znajomych postanowiliśmy zrobić sobie rok przerwy od pracy i osiadłego trybu życia. Kupiliśmy jedenastometrowy jacht żaglowy, wyremontowaliśmy go i zaadaptowaliśmy do życia na pokładzie. To jest pierwszy wpis z serii artykułów o naszej przygodzie.
 category: 'photography'
+background: v1663450709/stories/sailing-from-england-to-france/578_gm7y5u.jpg
 ---
 
 ## Anglia

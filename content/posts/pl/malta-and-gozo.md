@@ -3,6 +3,7 @@ title: 'Malta i Gozo w lutym'
 published_at: '2016-02-28'
 intro: Miejsce ślubu Daenerys i Khala Drogo, Wielki Sept Baelora, Pentos i Królewska Przystań. Trudno uwierzyć, że te wszystkie ujęcia do serialu 'Gra o Tron' kręcone były w kraju położonym na archipelagu wysp o łącznej powierzchni mniejszej od powierzchni Krakowa. Zapraszam do obejrzenia kilku zdjęć z Malty i Gozo.
 category: 'photography'
+background: v1620583188/stories/malta-and-gozo/330_uhqona.jpg
 ---
 
 Pierwsze 3 dni spędzamy na Gozo – drugiej pod względem wielkości wyspie archipelagu. Najbardziej znane punkty Gozo to Azure Window (to tam kręcono scenę ślubu z Gry o Tron) oraz znajdujące się tuż obok Il-Qawra (mała zatoka połączona z morzem tylko przez wąski przesmyk w skale). Mimo małej wysokości maksymalnej, Gozo jest niezwykle pofałdowane o czym przekonujemy się po wypożyczeniu rowerów na całodzienną przejażdżkę.
