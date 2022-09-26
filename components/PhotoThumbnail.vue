@@ -1,7 +1,7 @@
 <template>
     <a
         :href="photoUrl"
-        class="block bg-gray-300 mb-6 mx-auto relative"
+        class="block bg-gray-300 dark:bg-gray-700 mb-6 mx-auto relative"
         :class="{ 'md:w-3/5': photo.height > photo.width }"
         @click.prevent="$emit('click')"
     >
