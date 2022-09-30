@@ -7,7 +7,7 @@ export default {
     titleTemplate: '%s - Łukasz Rados',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width,initial-scale=1.0,maximum-scale=1,user-scalable=no' },
+      { name: 'viewport', content: 'width=device-width,initial-scale=1' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:image', property: 'og:image', content: '/og/default.jpg' },
       { hid: 'og:title', property: 'og:title', template: '%s - Łukasz Rados' },
