@@ -18,13 +18,39 @@ Our ferry arrives in Mahón a few minutes after 10am. We leave panniers in the h
 
 [Route on Komoot](https://www.komoot.com/tour/1123910116?share_token=a2n8RQQtJrVAmEAoDtphDhVwlcmaIgWIT0WhP25fGGClbXlwt8&ref=wtd)
 
-Zdjęcia
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_1_dmy9wa.jpg" padding-bottom="66.666"></photo-lazy>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_2_dhfosg.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_3_cr1hh6.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_6_kcnvva.jpg" padding-bottom="66.666"></photo-lazy>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_4_bop4tq.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_5_vyjcrn.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_7_tuwdxl.jpg" padding-bottom="66.666"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_8_mxy1kh.jpg" padding-bottom="66.666"></photo-lazy>
+</two-columns>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_10_uwpd59.jpg" padding-bottom="66.666"></photo-lazy>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_11_awdjld.jpg" padding-bottom="66.666"></photo-lazy>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_12_r6o7q8.jpg" padding-bottom="66.666"></photo-lazy>
 
 ## Day 2
 
 Four hours of sleep on the ferry, previous days windy kilometers and unstable weather convinced us to change plans. We get some rest and walk in the city. No regrets here; it’s worth visiting it.
 
-Zdjęcia
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_13_xkrdqe.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_14_dsss0g.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
 
 ## Day 3
 
@@ -32,11 +58,44 @@ Well rested, full of local food and slightly concerned about the weather (and pr
 
 [Route on Komoot](https://www.komoot.com/tour/1127030023?share_token=adWQjtEITne0Qoz72wIGndmOJu4yjCHsQGDBfKl8Vjsqq7iiDn&ref=wtd)
 
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_19_idkpci.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_15_kqgu33.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_16_jkokt9.jpg" padding-bottom="66.666"></photo-lazy>
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_17_ku7jiy.jpg" padding-bottom="66.666"></photo-lazy>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_21_ff6ifq.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305583/stories/menorca-weekend-gravel-cycling/menorca_20_klxmsh.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_22_serguu.jpg" padding-bottom="66.666"></photo-lazy>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_23_drwev6.jpg" padding-bottom="66.666"></photo-lazy>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_24_ty3mic.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_25_evcthm.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_26_uietos.jpg" padding-bottom="66.666"></photo-lazy>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_27_limeyg.jpg" padding-bottom="66.666"></photo-lazy>
+
 ## Day 4
 
 Last day and last route on Menorca. Today we visit Cala Macarella. It was recommended to us as one of the most beautiful beaches. 45 km and 400 meters of ascent, but the wind is our enemy till the very end. 
 
 [Route on Komoot](https://www.komoot.com/tour/1129241242?share_token=aYU7ZZHXiqOEWA9VtNsj9znnzpIXQkR0SlxzyXSOFw7wpziBQZ&ref=wtd)
 
-Zdjęcia
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_28_i9o10w.jpg" padding-bottom="150"></photo-lazy>
 
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_29_gp3c7p.jpg" padding-bottom="66.666"></photo-lazy>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305585/stories/menorca-weekend-gravel-cycling/menorca_30_jyzlym.jpg" padding-bottom="66.666"></photo-lazy>
+
+<two-columns>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_31_jnosr6.jpg" padding-bottom="150"></photo-lazy>
+    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305584/stories/menorca-weekend-gravel-cycling/menorca_32_fg6ost.jpg" padding-bottom="150"></photo-lazy>
+</two-columns>
+
+<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305585/stories/menorca-weekend-gravel-cycling/menorca_33_pg5pwx.jpg" padding-bottom="66.666"></photo-lazy>
