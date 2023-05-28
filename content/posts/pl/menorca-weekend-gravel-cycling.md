@@ -1,9 +1,9 @@
 ---
 title: 'Weekendowy wyjazd rowerowy na Minorkę'
 published_at: '2023-05-29'
-intro: Nasz prom z Barcelony odpływa w środę wieczorem. Po zostawieniu rowerów, próbujemy wygodnie się ułożyć w fotelach i złapać trochę snu. Przed nami cztery dni na Minorce. Według prognozy pogody będą one bardzo wietrzne, pochmurne i deszczowe. 
+intro: Środa wieczorem, port w Barcelonie. Jesteśmy gotowi na dziesięciogodzinną podróż promem. Po zostawieniu rowerów, próbujemy wygodnie się ułożyć w fotelach i złapać trochę snu. Przed nami cztery dni na Minorce. Według prognozy pogody będą one bardzo wietrzne, pochmurne i deszczowe. 
 category: 'photography'
-background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
+background: v1685305584/stories/menorca-weekend-gravel-cycling/menorca_23_drwev6.jpg
 ---
 
 To nasza druga wizyta na Minorce. Mieliśmy okazję odwiedzić tę wyspę w trakcie roku spędzonego na Moonshine. Była to krótka, zaledwie kilkugodzinna wizyta, i pozostawiła niedosyt.
@@ -14,7 +14,7 @@ Po krótkich poszukiwaniach zacząłem rozumieć. Skrajne punkty Minorki: Mahón
 
 ## Dzień 1
 
-Nasz prom dopływa do Mahón po 10. Zostawiamy sakwy w hotelu i ruszamy w trasę. Przed nami 85 kilometrów jazdy i 800 metrów w górę po północnej części wyspy. Już pierwsze kilometry potwierdzają prognozę pogody: jest bardzo wietrznie, w porywach do 50 km/h. Poza Mahón zobaczymy Cabo de Cavalleria, plażę Binimella i miasteczko Es Macaret. Z bliska obejrzymy El Toro, najwyższy punkt wyspy. Wyjazd na wierzchołek zostawimy sobie na następny raz. 
+Nasz prom dopływa do Mahón po 10. Zostawiamy sakwy w hotelu i ruszamy w trasę. Przed nami 85 kilometrów jazdy i 800 metrów w górę po północnej części wyspy. Już pierwsze kilometry potwierdzają prognozę pogody: jest bardzo wietrznie, w porywach do 60 km/h. Poza Mahón zobaczymy Cabo de Cavalleria, plażę Binimella i miasteczko Es Macaret. Z bliska obejrzymy El Toro, najwyższy punkt wyspy. Wyjazd na wierzchołek zostawimy sobie na następny raz. 
 
 [Trasa na Komoot](https://www.komoot.com/tour/1123910116?share_token=a2n8RQQtJrVAmEAoDtphDhVwlcmaIgWIT0WhP25fGGClbXlwt8&ref=wtd)
 

@@ -1,9 +1,9 @@
 ---
 title: 'Weekend gravel cycling in Menorca'
 published_at: '2023-05-29'
-intro: Our ferry leaves Barcelona on Wednesday in the evening. After locking the bicycles, we try to make ourselves comfortable in the seats and get some sleep. We have four days in Menorca ahead of us. According to the forecast they will be very windy, cloudy and rainy.
+intro: Wednesday evening, Port of Barcelona. We are ready for a ten hour long ferry ride. After locking the bicycles, we try to make ourselves comfortable in the seats and get some sleep. We have four days in Menorca ahead of us. According to the forecast they will be very windy, cloudy and rainy.
 category: 'photography'
-background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
+background: v1685305584/stories/menorca-weekend-gravel-cycling/menorca_23_drwev6.jpg
 ---
 
 This is our second visit to Menorca. We visited the island during the year spent on Moonshine. It was a short, a few hours long visit that left us wanting more.
@@ -14,7 +14,7 @@ Some more research helped me understand. Two extreme points of Menorca: Mahón i
 
 ## Day 1
 
-Our ferry arrives in Mahón a few minutes after 10am. We leave panniers in the hotel and hit the road. We have 85 kilometers to go with 800 meters of climbing through the northern part of the island. First few kilometers of the ride show that the weather forecast was right: it’s very windy, with gusts reaching 50 km/h. We get to see Mahón, Cabo de Cavalleria, Binimella beach and Es Macaret. We have a good look at El Toro, the highest hill of the island. We decide to tackle the climb on the next occasion. 
+Our ferry arrives in Mahón a few minutes after 10am. We leave panniers in the hotel and hit the road. We have 85 kilometers to go with 800 meters of climbing through the northern part of the island. First few kilometers of the ride show that the weather forecast was right: it’s very windy, with gusts reaching 60 km/h. We get to see Mahón, Cabo de Cavalleria, Binimella beach and Es Macaret. We have a good look at El Toro, the highest hill of the island. We decide to tackle the climb on the next occasion. 
 
 [Route on Komoot](https://www.komoot.com/tour/1123910116?share_token=a2n8RQQtJrVAmEAoDtphDhVwlcmaIgWIT0WhP25fGGClbXlwt8&ref=wtd)
 
