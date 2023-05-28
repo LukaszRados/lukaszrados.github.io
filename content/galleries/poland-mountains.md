@@ -9,6 +9,10 @@ photos:
     width: 1200
     height: 800
   -
+    url: v1685306130/photos/poland-mountains/polska_udnnby.jpg
+    width: 1200
+    height: 800
+  -
     url: v1620582413/photos/poland-mountains/poland-mountains-14_nxowrt.jpg
     width: 1200
     height: 800
