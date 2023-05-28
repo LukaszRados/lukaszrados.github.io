@@ -12,8 +12,6 @@ Planowanie trasy rozpocząłem od szukania informacji w internecie, przeglądani
 
 Po krótkich poszukiwaniach zacząłem rozumieć. Skrajne punkty Minorki: Mahón na wschodzie i Ciutadella na zachodzie połączone są główną drogą (Me-1). Pozostałe drogi w większości zaczynają się na Me-1 lub w jednym z dwóch największych miast i kończą na wybrzeżu. Przejazd z jednego nadmorskiego miasteczka do innego oznacza zazwyczaj dojazd do Me-1 i zjazd na kolejną lokalną drogę. Przy odrobinie wysiłku, kilku godzinach w Komoot i korzystając z posiadania szerszych opon, udało się wyznaczyć ciekawe trasy na każdy dzień.   
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/39_en8vcp.jpg" padding-bottom="66.666"></photo-lazy>
-
 ## Dzień 1
 
 Nasz prom dopływa do Mahón po 10. Zostawiamy sakwy w hotelu i ruszamy w trasę. Przed nami 85 kilometrów jazdy i 800 metrów w górę po północnej części wyspy. Już pierwsze kilometry potwierdzają prognozę pogody: jest bardzo wietrznie, w porywach do 50 km/h. Poza Mahón zobaczymy Cabo de Cavalleria, plażę Binimella i miasteczko Es Macaret. Z bliska obejrzymy El Toro, najwyższy punkt wyspy. Wyjazd na wierzchołek zostawimy sobie na następny raz. 
