@@ -44,7 +44,8 @@ export default {
 <style lang="postcss">
 .content h2, 
 .content h3, 
-.content p {
+.content p,
+.content ul {
     @apply max-w-4xl px-4 mx-auto;
 }
 
@@ -60,6 +61,14 @@ export default {
     @apply text-lg my-4;
 }
 
+.content ul {
+    @apply list-disc ml-8;
+}
+
+.content li {
+    @apply text-lg my-2;
+}
+
 .content a {
     @apply underline;
 }
@@ -71,6 +80,10 @@ export default {
 @screen md {
     .content p {
         @apply text-xl my-6;
+    }
+
+    .content li {
+        @apply text-xl;
     }
 
     .content h2 {
@@ -85,7 +98,8 @@ export default {
 @screen lg { 
     .content h2,
     .content h3,
-    .content p {
+    .content p,
+    .content ul {
         @apply mx-auto px-8;
     }
 
