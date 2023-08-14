@@ -169,7 +169,7 @@ Poniżej dzielę się moimi notatkami, które mogą się przydać osobom planuj�
 
 - Rezerwując cały pakiet przez [stronę internetową Coronallacs](https://coronallacs.com/en), można wybrać daty poszczególnych noclegów. Nie muszą to być cztery noce z rzędu: my zdecydowaliśmy się podzielić czwarty etap na dwa. Maksymalny czas to 8 dni.
 - Rezerwacja przez stronę internetową wychodzi taniej niż rezerwowanie każdego schroniska osobno. Kupiliśmy pakiet z kolacjami i śniadaniami. 
-- Kolacja składa się z trzech dań; jedzenie jest naprawdę dobre. Schroniska przyjmują informacje o diecie (np. wegetariańskiej). Śniadania są nieco mniejsze, ale wystarczające, żeby zacząć dzień. 
+- Kolacja składa się z trzech dań; jedzenie jest naprawdę dobre. Schroniska przyjmują informacje o diecie (np. wegetariańskiej). Warto zadzwonić do schroniska lub napisać im maila z przypomnieniem o wybranej diecie. Śniadania są nieco mniejsze, ale wystarczające, żeby zacząć dzień. 
 - Każde schronisko ma kran do napełniania butelek z wodą. W razie potrzeby można napełnić je także w jednym ze strumieni, ale należy uważać i uzdatnić wodę (krowy i konie żyją nawet na 2600 m).
 - Niektóre schroniska mają wifi (l'Illa, Borda de Sorteny), pozostałe nie. W schronisku Comapedrosa pozwolono nam skorzystać z telefonu (celem poinformowania znajomych, że dotarliśmy). Koszty roamingu w Andorze są dość wysokie (dla numerów z EU).
 - Wszystkie schroniska mają gniazdka. Mój telefon był cały czas w trybie samolotowym (ze względu na roaming), więc potrzebowałem ładowarki tylko raz.

@@ -171,7 +171,7 @@ I documented some notes that may be useful for people preparing to hike Coronall
 
 - When booking the trip via [the Coronallacs website](https://coronallacs.com/en), you can choose the dates for the nights in the shelters. They don’t need to be consecutive days: for example we splitted the fourth day to get some rest. The maximum length is 8 days.
 - Booking via the Coronallacs website was actually cheaper than booking all four shelters separately. We bought a package with nights, dinner and breakfast.
-- Dinners contain three full courses and they are really good. You can let the shelter know that you are vegetarian (or any other dietary restrictions). Breakfasts are smaller, but enough to give you some energy to start the day. 
+- Dinners contain three full courses and they are really good. You can let the shelter know that you are vegetarian (or any other dietary restrictions). It makes sense to call the shelter or send them an email to confirm the dietary choices. Breakfasts are smaller, but enough to give you some energy to start the day. 
 - You can refill your water in every shelter. If you need more, you can rely on countless streams, but I would suggest treating the water with tablets (as livestock can live pretty high in the mountains - we saw some horses at 2600 m). 
 - Some of the shelters had internet connection (l'Illa, Borda de Sorteny), the others didn’t. In Comapedrosa they were nice enough to let us make a quick phone call to tell our friends we are ok (we didn’t ask in Juclà). Remember that data is quite expensive in Andorra (for EU numbers).
 - All shelters provide sockets to charge your devices. Having my phone in airplane mode all the time (due to roaming cost), I only had to charge it once. 
