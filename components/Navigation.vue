@@ -23,7 +23,7 @@
                 </div>
             </transition>
         </nuxt-link>
-        <nav class="flex items-center h-10 lg:h-auto">
+        <nav class="flex items-center h-10 lg:h-auto" :class="menuHideClass">
             <button type="button" class="text-0 focus:outline-none md:hidden" @click="open = !open" :aria-label="$t('globals.menu')">
                 <menu-icon :open="open" />
             </button>
@@ -55,6 +55,13 @@ export default {
     computed: {
         showSubheader () {
             return (this.$route.name.startsWith('index_') || this.$route.name.startsWith('photography_')) && (this.currentPosition === 0)
+        },
+        menuHideClass () {
+            const routeName = this.$route.name
+            if (routeName.startsWith('blog-slug') || routeName.startsWith('photography-slug')) {
+                return 'hidden'
+            }
+            return ''
         },
     },
 

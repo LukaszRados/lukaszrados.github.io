@@ -1,7 +1,7 @@
 <template>
     <article>
         <fade-in-section>
-            <div class="ml-16 max-w-4xl pr-4 mb-12 lg:mx-auto lg:px-8 lg:my-16">
+            <div class="max-w-4xl px-4 mb-12 lg:mx-auto lg:px-8 lg:my-16">
                 <nuxt-link :to="localePath('/blog')">
                     <back-button />
                 </nuxt-link>

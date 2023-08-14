@@ -1,13 +1,13 @@
 <template>
     <div>
-        <div class="ml-16 max-w-6xl pr-4 lg:mx-auto lg:px-8 lg:my-16">
+        <div class="max-w-6xl px-4 lg:mx-auto lg:px-8 lg:my-16">
             <div class="max-w-4xl mx-auto"> 
                 <nuxt-link :to="localePath('/photography')">
                     <back-button />
                 </nuxt-link>
                 <h1 class="text-xl lg:text-2xl mt-4">{{ title }}</h1>
             </div>
-            <div class="my-12 mr-4 md:grid md:grid-cols-2 md:items-center">
+            <div class="my-12 md:grid md:grid-cols-2 md:items-center">
                 <div
                     class="md:p-16"
                     v-for="photo in photos"
