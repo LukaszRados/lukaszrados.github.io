@@ -176,6 +176,7 @@ I documented some notes that may be useful for people preparing to hike Coronall
 - Some of the shelters had internet connection (l'Illa, Borda de Sorteny), the others didn’t. In Comapedrosa they were nice enough to let us make a quick phone call to tell our friends we are ok (we didn’t ask in Juclà). Remember that data is quite expensive in Andorra (for EU numbers).
 - All shelters provide sockets to charge your devices. Having my phone in airplane mode all the time (due to roaming cost), I only had to charge it once. 
 - There aren’t many towns on the way. The only towns we passed were Envalira on day 2, and el Serrat and Llorts on day 4. 
+- Once you finish the route, make sure to pass by the tourist office in Escaldes. If you collected all the stamps in your passport, you will receive a souvenir buff.
 
 ## Summary
 

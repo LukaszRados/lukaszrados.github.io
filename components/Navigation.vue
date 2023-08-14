@@ -23,7 +23,7 @@
                 </div>
             </transition>
         </nuxt-link>
-        <nav class="flex items-center h-10 lg:h-auto" :class="menuHideClass">
+        <nav class="flex items-center h-10 md:flex lg:h-auto" :class="menuHideClass">
             <button type="button" class="text-0 focus:outline-none md:hidden" @click="open = !open" :aria-label="$t('globals.menu')">
                 <menu-icon :open="open" />
             </button>

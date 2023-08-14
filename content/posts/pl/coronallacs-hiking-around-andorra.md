@@ -174,6 +174,7 @@ Poniżej dzielę się moimi notatkami, które mogą się przydać osobom planuj�
 - Niektóre schroniska mają wifi (l'Illa, Borda de Sorteny), pozostałe nie. W schronisku Comapedrosa pozwolono nam skorzystać z telefonu (celem poinformowania znajomych, że dotarliśmy). Koszty roamingu w Andorze są dość wysokie (dla numerów z EU).
 - Wszystkie schroniska mają gniazdka. Mój telefon był cały czas w trybie samolotowym (ze względu na roaming), więc potrzebowałem ładowarki tylko raz.
 - Trasa nie przechodzi przez zbyt wiele miast. W drugi dzień przecina miasteczko Envalira, a w czwarty El Serrat i Llorts. 
+- Po ukończeniu trasy, nie zapomnij wstąpić do biura turystycznego w Escaldes. Po okazaniu paszportu z wszystkimi czterema pieczątkami, otrzymasz pamiątkowego buffa. 
 
 ## Podsumowanie
 
