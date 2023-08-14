@@ -3,7 +3,7 @@ title: 'Sailing trip to Spain, Gibraltar and Morocco'
 published_at: '2015-11-17'
 intro: 5400 km by plane, 1300 km by car, 250 Nm sailed, 600 km by train, several taxi courses and many kilometers by foot. During 15 days we visited 5 countries on two continents. I invite you to take this trip with us and see some photos!
 category: 'photography'
-background: v1663451005/stories/sailing-from-spain-to-morocco/287_l7dokc.jpg
+background: v1663451006/stories/sailing-from-spain-to-morocco/303_td1y0k.jpg
 ---
 
 The first stage of our adventure was a cruise from Malaga to Casablanca organised by Akademicki Klub Żeglarski. We started with flight from Wrocław to Malaga to set sails in Benalmadena. Unfortunately, there was a storm raging on the sea that made it impossible to leave the harbour. After two days we finally sailed to Gibraltar.

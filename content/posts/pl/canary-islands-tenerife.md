@@ -3,7 +3,7 @@ title: 'Wyspy Kanaryjskie: Teneryfa'
 published_at: '2018-09-09'
 intro: Wrzesień jest wspaniałym miesiącem na podróżowanie. Chociaż w większości europejskich destynacji jest już delikatnie po sezonie, to pogoda wciąż jest świetna. W tym roku zdecydowaliśmy się z Jolą na zwiedzanie Teneryfy na Wyspach Kanaryjskich. Po spędzeniu tam kilku dni mogę zdecydowanie powiedzieć, że jest to raj dla fotografa krajobrazu.
 category: 'photography'
-background: v1620582923/stories/canary-islands-tenerife/2_ofcnkp.jpg
+background: v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg
 ---
 
 Pobyt rozpoczęliśmy od wycieczki samochodem dookoła wyspy. Dzięki temu zdobyliśmy rozeznanie które części wyspy podobają się nam bardziej i chcemy je jeszcze pozwiedzać, a które nieszczególnie nas interesują. W pierwszy dzień przejechaliśmy turystyczne południe (gdzie był nasz hotel), góry Anaga na północy i płaskowyż pod Pico del Teide.

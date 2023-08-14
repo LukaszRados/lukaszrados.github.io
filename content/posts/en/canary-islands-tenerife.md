@@ -3,7 +3,7 @@ title: 'Canary Islands: Tenerife'
 published_at: '2018-09-09'
 intro: September is a great time for travelling in Europe. In most of the european destinations it is already past the high season, which means less crowds and moderate weather. This year together with Jola we decided to fly to Tenerife. After few days there I dare to say that it's a landscape photographer's paradise.
 category: 'photography'
-background: v1620582923/stories/canary-islands-tenerife/2_ofcnkp.jpg
+background: v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg
 ---
 
 We started our trip by doing small 'Tour de Tenerife' after which we got some idea which parts of island are interesting for us and which ones we would rather skip. During the first day we made a roadtrip visiting touristic south, Anaga mountains in the north and desert parts around Pico del Teide.
