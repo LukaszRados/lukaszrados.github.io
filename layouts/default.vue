@@ -1,3 +1,4 @@
 <template>
+  <UiTopNavigation />
   <NuxtPage />
 </template>
