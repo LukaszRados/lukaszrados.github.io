@@ -26,13 +26,13 @@
     margin: 0;
     padding: 24px 0;
 
-    @media (min-width: 800px) {
+    @media (min-width: 900px) {
       gap: 24px;
     }
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
   .item:not(:last-child):after {
     content: "/";
     display: inline-block;
@@ -51,7 +51,7 @@
     text-decoration: underline;
   }
 
-  @media (min-width: 800px) {
+  @media (min-width: 900px) {
     font-size: 1.25rem;
   }
 }

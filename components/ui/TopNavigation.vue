@@ -53,7 +53,7 @@ onUnmounted(() => {
     transform 200ms var(--transition-timing);
   top: 0;
 
-  @media (min-width: 800px) {
+  @media (min-width: 900px) {
     align-items: center;
     display: flex;
     justify-content: space-between;
@@ -72,7 +72,7 @@ onUnmounted(() => {
   line-height: 1;
   text-decoration: none;
 
-  @media (min-width: 800px) {
+  @media (min-width: 900px) {
     font-size: 2.25rem;
   }
 }
