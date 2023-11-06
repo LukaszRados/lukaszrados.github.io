@@ -9,6 +9,15 @@ export default defineNuxtConfig({
           href: "/favicon.png",
         },
       ],
+      meta: [
+        {
+          name: "viewport",
+          content: "width=device-width, initial-scale=1",
+        },
+        {
+          charset: "utf-8",
+        },
+      ],
     },
   },
   css: ["~/assets/css/main.css"],

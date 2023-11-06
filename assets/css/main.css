@@ -8,8 +8,23 @@
     url("/fonts/barlow-v5-latin-ext_latin-regular.ttf") format("truetype");
 }
 
+:root {
+  --background-color: #f0ecec;
+  --font-color: #16181b;
+  
+  --viewport-medium: 800px;
+  --viewport-large: 1200px;
+}
+
+.dark-mode {
+  --background-color: #16181b;
+  --font-color: #f8f8f8;
+}
+
 body {
-  background: #16181b;
-  color: #fff;
+  background: var(--background-color);
+  color: var(--font-color);
   font-family: 'Barlow', sans-serif;
+  margin: 0;
+  padding: 0;
 }
