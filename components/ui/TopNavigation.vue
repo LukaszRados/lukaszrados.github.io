@@ -15,7 +15,7 @@
   </header>
 </template>
 
-<script setup>
+<script lang="ts" setup>
 const ALWAYS_VISIBLE_PX = 50;
 const MIN_CHANGE_PX = 80;
 
@@ -31,7 +31,7 @@ const onScroll = () => {
   if (Math.abs(window.scrollY - previousPosition.value) > MIN_CHANGE_PX) {
     showNavigation.value =
       (window.scrollY > 0 && window.scrollY < previousPosition.value) ||
-      currentPosition < ALWAYS_VISIBLE_PX;
+      currentPosition.value < ALWAYS_VISIBLE_PX;
     previousPosition.value = window.scrollY;
   }
 };
@@ -41,7 +41,7 @@ onMounted(() => {
 });
 
 onUnmounted(() => {
-  window.removeEventListener("scroll", onScroll, { passive: true });
+  window.removeEventListener("scroll", onScroll);
 });
 </script>
 
