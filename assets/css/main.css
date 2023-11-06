@@ -14,6 +14,8 @@
   
   --viewport-medium: 800px;
   --viewport-large: 1200px;
+
+  --transition-timing: cubic-bezier(.4, 0, .2, 1);
 }
 
 .dark-mode {

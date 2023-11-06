@@ -1,38 +1,68 @@
 <template>
-  <header class="header">
+  <header class="header" :class="{ hidden: !showNavigation }">
     <NuxtLink to="/" class="logo">
       Łukasz Rados
-      <div>
-        Frontend Engineer<br />
-        Landscape Photographer
-      </div>
+      <transition name="sub">
+        <div v-show="showSubheader">
+          <div class="sub-content">
+            Frontend Engineer<br />
+            Landscape Photographer
+          </div>
+        </div>
+      </transition>
     </NuxtLink>
-    <nav class="navigation">
-      <ul>
-        <li class="item">
-          <NuxtLink to="/" class="link">photography</NuxtLink>
-        </li>
-        <li class="item"><NuxtLink to="/" class="link">blog</NuxtLink></li>
-        <li class="item">
-          <NuxtLink to="/contact" class="link">info</NuxtLink>
-        </li>
-        <li class="item">
-          <NuxtLink to="/todo" class="link">polski</NuxtLink>
-        </li>
-      </ul>
-    </nav>
+    <UiTopNavigationItems />
   </header>
 </template>
+
+<script setup>
+const ALWAYS_VISIBLE_PX = 50;
+const MIN_CHANGE_PX = 80;
+
+const currentPosition = ref(0);
+const previousPosition = ref(0);
+const showNavigation = ref(true);
+
+const showSubheader = computed(() => currentPosition.value < ALWAYS_VISIBLE_PX);
+
+const onScroll = () => {
+  currentPosition.value = window.scrollY;
+
+  if (Math.abs(window.scrollY - previousPosition.value) > MIN_CHANGE_PX) {
+    showNavigation.value =
+      (window.scrollY > 0 && window.scrollY < previousPosition.value) ||
+      currentPosition < ALWAYS_VISIBLE_PX;
+    previousPosition.value = window.scrollY;
+  }
+};
+
+onMounted(() => {
+  window.addEventListener("scroll", onScroll, { passive: true });
+});
+
+onUnmounted(() => {
+  window.removeEventListener("scroll", onScroll, { passive: true });
+});
+</script>
 
 <style scoped>
 .header {
   padding: 16px;
+  position: sticky;
+  transition: opacity 200ms var(--transition-timing),
+    transform 200ms var(--transition-timing);
+  top: 0;
 
   @media (min-width: 800px) {
     align-items: center;
     display: flex;
     justify-content: space-between;
     padding: 32px;
+  }
+
+  &.hidden {
+    opacity: 0;
+    transform: translateY(-100px);
   }
 }
 
@@ -47,43 +77,24 @@
   }
 }
 
-.navigation {
-  font-size: 1.125rem;
-
-  ul {
-    display: flex;
-    gap: 16px;
-    list-style: none;
-    margin: 0;
-    padding: 24px 0;
-
-    @media (min-width: 800px) {
-      gap: 24px;
-    }
-  }
+.sub-enter-active,
+.sub-leave-active {
+  transition: all 300ms var(--transition-timing);
 }
 
-@media (min-width: 800px) {
-  .item:not(:last-child):after {
-    content: "/";
-    display: inline-block;
-    margin-left: 24px;
-    opacity: 0.5;
-    transform: scale(0.8);
-  }
+.sub-enter-from,
+.sub-leave-to {
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
 }
 
-.link {
-  color: var(--font-color);
-  text-decoration: none;
+.sub-enter-to,
+.sub-leave-from {
+  height: 3rem;
+}
 
-  &:hover,
-  &.router-link-active {
-    text-decoration: underline;
-  }
-
-  @media (min-width: 800px) {
-    font-size: 1.25rem;
-  }
+.sub-content {
+  height: 3rem;
 }
 </style>
