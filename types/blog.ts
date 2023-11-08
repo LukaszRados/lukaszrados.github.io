@@ -1,7 +1,9 @@
 export type BlogPost = {
   readonly title: string
   readonly content: string
-  readonly description: string
-  readonly date: string
+  readonly intro: string
+  readonly background: string
+  readonly published_at: string
+  readonly category: string
   readonly _path: string
 }

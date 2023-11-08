@@ -1,8 +1,8 @@
 <template>
   <ContentQuery
     path="/blog"
-    :only="['title', 'excerpt', 'date', '_path']"
-    :sort="{ date: -1 }"
+    :only="['title', 'intro', 'published_at', 'background', '_path']"
+    :sort="{ published_at: -1 }"
     v-slot="{ data }"
   >
     <BlogList :data="(data as unknown as BlogPost[])" />

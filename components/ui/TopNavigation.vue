@@ -96,5 +96,9 @@ onUnmounted(() => {
 
 .sub-content {
   height: 3rem;
+
+  @media (min-width: 900px) {
+    height: 4.5rem;
+  }
 }
 </style>
