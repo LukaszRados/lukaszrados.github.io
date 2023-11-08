@@ -4,7 +4,7 @@
       <li class="item">
         <NuxtLink to="/" class="link">photography</NuxtLink>
       </li>
-      <li class="item"><NuxtLink to="/" class="link">blog</NuxtLink></li>
+      <li class="item"><NuxtLink to="/blog" class="link">blog</NuxtLink></li>
       <li class="item">
         <NuxtLink to="/contact" class="link">info</NuxtLink>
       </li>
