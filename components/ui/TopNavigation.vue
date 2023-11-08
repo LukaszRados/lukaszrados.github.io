@@ -52,6 +52,7 @@ onUnmounted(() => {
   transition: opacity 200ms var(--transition-timing),
     transform 200ms var(--transition-timing);
   top: 0;
+  z-index: 1;
 
   @media (min-width: 900px) {
     align-items: center;
