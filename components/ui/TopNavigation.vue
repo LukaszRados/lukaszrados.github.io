@@ -23,7 +23,10 @@ const currentPosition = ref(0);
 const previousPosition = ref(0);
 const showNavigation = ref(true);
 
-const showSubheader = computed(() => currentPosition.value < ALWAYS_VISIBLE_PX);
+const route = useRoute();
+const showSubheader = computed(
+  () => currentPosition.value < ALWAYS_VISIBLE_PX && route.name === "index"
+);
 
 const onScroll = () => {
   currentPosition.value = window.scrollY;
