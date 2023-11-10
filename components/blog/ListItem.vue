@@ -26,6 +26,7 @@ const imageUrl = computed(() => buildImageUrl(props.post.background, 'c_fill,h_3
 
 <style scoped>
 .image {
+  background: var(--image-background-color);
   display: block;
   margin-bottom: 24px;
   overflow: hidden;

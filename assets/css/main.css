@@ -12,6 +12,7 @@
   --background-color: #f0ecec;
   --font-color: #16181b;
   --font-color-gray: #5c5c5c;
+  --image-background-color: #dbdbdb;
   
   --viewport-medium: 900px;
   --viewport-large: 1200px;
@@ -21,6 +22,7 @@
 
 .dark-mode {
   --background-color: #16181b;
+  --image-background-color: #202328;
   --font-color: #f8f8f8;
   --font-color-gray: #acacac;
 }
