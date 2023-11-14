@@ -1,7 +1,7 @@
 ---
 background: v1620582254/photos/france-switzerland/france-switzerland-9_p9sjfx.jpg
-title_en: France<br>& Switzerland
-title_pl: Francja<br>i Szwajcaria
+title_en: France & Switzerland
+title_pl: Francja i Szwajcaria
 order: 7
 photos:
   -

@@ -1,7 +1,7 @@
 ---
 background: v1620582537/photos/the-netherlands-belgium/the-netherlands-belgium-7_bhkbnu.jpg
-title_en: The Netherlands<br>& Belgium
-title_pl: Holandia<br>i Belgia
+title_en: The Netherlands & Belgium
+title_pl: Holandia i Belgia
 order: 4
 photos:
   -

@@ -1,7 +1,7 @@
 ---
 background: v1620582337/photos/morocco-gibraltar/morocco-gibraltar-10_al4b8w.jpg
-title_en: Morocco<br>& Gibraltar
-title_pl: Maroko<br>i Gibraltar
+title_en: Morocco & Gibraltar
+title_pl: Maroko i Gibraltar
 order: 10
 photos:
   -

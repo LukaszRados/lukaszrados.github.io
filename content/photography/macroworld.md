@@ -1,7 +1,7 @@
 ---
 background: v1620582289/photos/macroworld/macroworld-10_cgsae1.jpg
 title_en: Macroworld
-title_pl: Świat<br>w skali makro
+title_pl: W skali makro
 order: 11
 photos:
   -

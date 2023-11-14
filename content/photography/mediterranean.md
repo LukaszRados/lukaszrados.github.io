@@ -1,7 +1,7 @@
 ---
 background: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
-title_en: Mediterranean<br> Sea
-title_pl: Morze<br> Śródziemne
+title_en: Mediterranean Sea
+title_pl: Morze Śródziemne
 order: 8
 photos:
   -
