@@ -13,6 +13,8 @@
     "@nuxt/devtools": "latest",
     "@nuxtjs/color-mode": "^3.3.0",
     "nuxt": "^3.8.0",
+    "postcss-nested": "^6.0.1",
+    "postcss-nested-ancestors": "^3.0.0",
     "vue": "^3.3.7",
     "vue-router": "^4.2.5"
   },

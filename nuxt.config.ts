@@ -21,6 +21,11 @@ export default defineNuxtConfig({
     },
   },
   css: ["~/assets/css/main.css"],
+  postcss: {
+    plugins: {
+      "postcss-nested": {},
+    },
+  },
   devtools: { enabled: true },
   modules: ["@nuxtjs/color-mode", "@nuxt/content"],
 });

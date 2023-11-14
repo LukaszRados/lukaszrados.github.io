@@ -15,7 +15,7 @@ const props = defineProps<Props>();
 const articles = computed(() => props.data);
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 .list {
   display: grid;
   grid-template-columns: 1fr;

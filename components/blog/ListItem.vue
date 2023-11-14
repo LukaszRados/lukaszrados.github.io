@@ -24,7 +24,7 @@ const props = defineProps<Props>();
 const imageUrl = computed(() => buildImageUrl(props.post.background, 'c_fill,h_330,w_500'))
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 .image {
   background: var(--image-background-color);
   display: block;

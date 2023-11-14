@@ -15,7 +15,7 @@
   </nav>
 </template>
 
-<style scoped>
+<style lang="postcss" scoped>
 .navigation {
   font-size: 1.125rem;
 
