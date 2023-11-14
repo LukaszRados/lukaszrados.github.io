@@ -17,6 +17,8 @@
   --viewport-medium: 900px;
   --viewport-large: 1200px;
 
+  --max-width-large: 1440px;
+
   --transition-timing: cubic-bezier(.4, 0, .2, 1);
 }
 

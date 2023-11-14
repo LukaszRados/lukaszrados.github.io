@@ -10,4 +10,5 @@ export type PhotographyCategory = {
   readonly title_pl: string
   readonly order: number
   readonly photos: PhotographyItem[]
+  readonly _path: string
 }
