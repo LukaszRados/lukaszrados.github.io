@@ -2,7 +2,7 @@
 background: v1620582413/photos/poland-mountains/poland-mountains-14_nxowrt.jpg
 title_en: "Poland: Mountains"
 title_pl: "Polska: Góry"
-order: 5
+order: "05"
 photos:
   -
     url: v1620582413/photos/poland-mountains/poland-mountains-15_zkphs7.jpg

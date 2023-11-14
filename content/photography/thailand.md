@@ -2,7 +2,7 @@
 background: v1620582523/photos/thailand/thailand-6_e5qo9t.jpg
 title_en: Thailand
 title_pl: Tajlandia
-order: 9
+order: "09"
 photos:
   -
     url: v1620582523/photos/thailand/thailand-1_uqensu.jpg

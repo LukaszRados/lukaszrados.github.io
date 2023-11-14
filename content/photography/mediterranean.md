@@ -2,7 +2,7 @@
 background: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
 title_en: Mediterranean Sea
 title_pl: Morze Śródziemne
-order: 8
+order: "08"
 photos:
   -
     url: v1620582312/photos/mediterranean/mediterranean-11_ciw8ku.jpg

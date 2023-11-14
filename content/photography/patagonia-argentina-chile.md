@@ -2,7 +2,7 @@
 background: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-6_i3ywky.jpg
 title_en: "Patagonia: Argentina & Chile"
 title_pl: "Patagonia: Argentyna i Chile"
-order: 3
+order: "03"
 photos:
   -
     url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-9_qw7qaw.jpg

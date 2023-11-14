@@ -2,7 +2,7 @@
 background: v1620582289/photos/macroworld/macroworld-10_cgsae1.jpg
 title_en: Macroworld
 title_pl: W skali makro
-order: 11
+order: "11"
 photos:
   -
     url: v1620582289/photos/macroworld/macroworld-13_xlvwd9.jpg

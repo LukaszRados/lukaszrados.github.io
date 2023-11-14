@@ -2,7 +2,7 @@
 background: v1620582254/photos/france-switzerland/france-switzerland-9_p9sjfx.jpg
 title_en: France & Switzerland
 title_pl: Francja i Szwajcaria
-order: 7
+order: "07"
 photos:
   -
     url: v1620582253/photos/france-switzerland/france-switzerland-1_opsug6.jpg
