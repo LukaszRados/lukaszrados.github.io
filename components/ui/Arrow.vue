@@ -18,7 +18,7 @@ const { direction } = toRefs(props);
 <style lang="postcss" scoped>
 .arrow {
   display: inline-block;
-  height: 25px;
+  height: 35px;
   position: relative;
   width: 80px;
 }
@@ -29,7 +29,7 @@ const { direction } = toRefs(props);
   height: 1px;
   position: absolute;
   transition: width 300ms var(--transition-timing);
-  top: 12px;
+  top: 17px;
   width: 48px;
 
   &:before,
@@ -40,7 +40,7 @@ const { direction } = toRefs(props);
     height: 1px;
     position: absolute;
     top: 0;
-    width: 12px;
+    width: 16px;
   }
 
   &.left {
