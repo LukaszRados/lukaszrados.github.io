@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import type { PhotographyCategory } from '@/types/photography';
+import type { PhotographyCategory } from "@/types/photography";
 </script>

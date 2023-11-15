@@ -96,6 +96,10 @@ onUnmounted(() => {
 .sub-enter-to,
 .sub-leave-from {
   height: 3rem;
+
+  @media (min-width: 900px) {
+    height: 4.5rem;
+  }
 }
 
 .sub-content {
