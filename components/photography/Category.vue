@@ -1,5 +1,9 @@
 <template>
   <div class="wrapper">
+    <NuxtLink to="/" class="back">
+      <UiArrow direction="left" />
+      Go back
+    </NuxtLink>
     <h1 class="title">{{ category.title_en }}</h1>
 
     <div class="photos">
@@ -49,6 +53,10 @@ defineProps<Props>();
     font-size: 1.5rem;
     margin-bottom: 48px;
   }
+}
+
+.back {
+  font-size: 0;
 }
 
 .photos {

@@ -4,7 +4,10 @@
       <img :src="imageUrl" :alt="category.title_en" />
     </NuxtLink>
     <h2 class="title">
-      <NuxtLink :to="category._path">{{ category.title_en }}</NuxtLink>
+      <NuxtLink :to="category._path" class="link">
+        <span>{{ category.title_en }}</span>
+        <UiArrow direction="right" />
+      </NuxtLink>
     </h2>
   </div>
 </template>
@@ -44,10 +47,14 @@ const imageUrl = computed(() =>
   font-size: 1.25rem;
   font-weight: normal;
   margin: 0;
+}
 
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
+.link {
+  align-items: center;
+  color: inherit;
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  text-decoration: none;
 }
 </style>
