@@ -1,0 +1,80 @@
+<template>
+  <div class="wrapper">
+    <h1 class="title">{{ category.title_en }}</h1>
+
+    <div class="photos">
+      <PhotographyPhotoItem v-for="photo in category.photos" :key="photo.url" :photo="photo" />
+    </div>
+  </div>
+</template>
+
+<script setup lang="ts">
+import type { PhotographyCategory } from "@/types/photography";
+
+type Props = {
+  category: PhotographyCategory;
+};
+
+defineProps<Props>();
+</script>
+
+<style lang="postcss" scoped>
+.wrapper {
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+@media (min-width: 900px) {
+  .wrapper {
+    max-width: 800px;
+    padding: 0 32px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .wrapper {
+    margin: 48px auto;
+    max-width: var(--max-width-large);
+  }
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: normal;
+  margin: 16px 0 32px;
+}
+
+@media screen and (min-width: 900px) {
+  .title {
+    font-size: 1.5rem;
+    margin-bottom: 48px;
+  }
+}
+
+.photos {
+  align-items: center;
+  display: grid;
+  gap: 24px;
+}
+
+@media (min-width: 500px) {
+  .photos {
+    gap: 48px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .photos {
+    gap: 64px;
+    margin: 48px 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .photos {
+    gap: 96px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+</style>

@@ -1,6 +1,6 @@
 <template>
   <ContentQuery :path="$route.path" find="one" v-slot="{ data }">
-    {{ data }}
+    <PhotographyCategory :category="(data as unknown as PhotographyCategory)" />
   </ContentQuery>
 </template>
 
