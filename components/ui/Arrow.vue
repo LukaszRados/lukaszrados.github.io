@@ -1,5 +1,5 @@
 <template>
-  <span class="arrow">
+  <span class="arrow" :class="{ animate }">
     <span class="shape" :class="direction"></span>
   </span>
 </template>
@@ -7,12 +7,14 @@
 <script lang="ts" setup>
 type Props = {
   direction: "left" | "right";
+  animate?: boolean
 };
 
 const props = withDefaults(defineProps<Props>(), {
   direction: "right",
+  animate: false,
 });
-const { direction } = toRefs(props);
+const { direction, animate } = toRefs(props);
 </script>
 
 <style lang="postcss" scoped>
@@ -74,7 +76,7 @@ const { direction } = toRefs(props);
   }
 }
 
-.arrow:hover .shape {
+.arrow.animate:hover .shape {
   width: 100%;
 }
 </style>

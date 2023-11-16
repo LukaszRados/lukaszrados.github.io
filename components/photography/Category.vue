@@ -1,25 +1,49 @@
 <template>
   <div class="wrapper">
     <NuxtLink to="/" class="back">
-      <UiArrow direction="left" />
+      <UiArrow direction="left" :animate="true" />
       Go back
     </NuxtLink>
     <h1 class="title">{{ category.title_en }}</h1>
 
     <div class="photos">
-      <PhotographyPhotoItem v-for="photo in category.photos" :key="photo.url" :photo="photo" />
+      <PhotographyPhotoItem
+        v-for="photo in category.photos"
+        :key="photo.url"
+        :photo="photo"
+        @click="open(photo)"
+      />
     </div>
+
+    <PhotographyLightbox
+      v-if="currentPhoto && isLightboxOpen"
+      :photo="currentPhoto"
+      :photos="category.photos"
+      @close="close"
+    />
   </div>
 </template>
 
 <script setup lang="ts">
-import type { PhotographyCategory } from "@/types/photography";
+import type { PhotographyItem, PhotographyCategory } from "@/types/photography";
 
 type Props = {
   category: PhotographyCategory;
 };
 
 defineProps<Props>();
+
+const isLightboxOpen = ref(false);
+const currentPhoto = ref<PhotographyItem | undefined>(undefined)
+
+function open(photo: PhotographyItem) {
+  currentPhoto.value = photo
+  isLightboxOpen.value = true
+}
+
+function close() {
+  isLightboxOpen.value = false
+}
 </script>
 
 <style lang="postcss" scoped>

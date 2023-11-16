@@ -1,7 +1,12 @@
 <template>
   <div>
     <div class="photo" :class="{ horizontal: isVertical }">
-      <a :href="photoUrl" class="wrapper" :style="paddingBottom">
+      <a
+        :href="photoUrl"
+        class="wrapper"
+        :style="paddingBottom"
+        @click.prevent="onClick"
+      >
         <img :src="thumbnailUrl" alt="" />
       </a>
     </div>
@@ -19,6 +24,8 @@ type Props = {
 const props = defineProps<Props>();
 const { photo } = toRefs(props);
 
+const emit = defineEmits(["click"]);
+
 const isVertical = computed(() => photo.value.width < photo.value.height);
 const thumbnailUrl = computed(() =>
   buildImageUrl(photo.value.url, "c_limit,h_410,w_410")
@@ -30,6 +37,10 @@ const paddingBottom = computed(
       (photo.value.height / photo.value.width) * 100
     )}%`
 );
+
+function onClick() {
+  emit("click");
+}
 </script>
 
 <style lang="postcss" scoped>
