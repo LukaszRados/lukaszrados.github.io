@@ -25,7 +25,7 @@ type Props = {
 defineProps<Props>();
 </script>
 
-<style lang="postcss">
+<style scoped lang="postcss">
 .back {
   font-size: 0;
 }
@@ -70,7 +70,7 @@ defineProps<Props>();
   }
 }
 
-.content {
+:deep(.content) {
   line-height: 1.5;
 
   h2,
@@ -127,7 +127,7 @@ defineProps<Props>();
 }
 
 @media screen and (min-width: 900px) {
-  .content {
+  :deep(.content) {
     h2,
     h3,
     p,
