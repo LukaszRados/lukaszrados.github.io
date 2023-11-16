@@ -11,7 +11,7 @@
         </div>
       </transition>
     </NuxtLink>
-    <UiTopNavigationItems />
+    <TopNavigationItems />
   </header>
 </template>
 

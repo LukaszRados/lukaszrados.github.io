@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <PhotographyListItem
+    <CategoryListItem
       v-for="category in categories"
       :key="category.title_en"
       :category="category"

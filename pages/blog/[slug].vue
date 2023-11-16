@@ -1,6 +1,6 @@
 <template>
   <ContentQuery :path="$route.path" find="one" v-slot="{ data }">
-    <BlogPost :post="(data as unknown as BlogPost)" />
+    <Post :post="(data as unknown as BlogPost)" />
   </ContentQuery>
 </template>
 

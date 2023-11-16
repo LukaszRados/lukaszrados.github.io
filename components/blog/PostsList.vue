@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <BlogListItem v-for="article in articles" :key="article._path" :post="article" />
+    <PostListItem v-for="article in articles" :key="article._path" :post="article" />
   </div>
 </template>
 

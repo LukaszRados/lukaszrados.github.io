@@ -1,5 +1,5 @@
 <template>
-  <UiTopNavigation />
+  <TopNavigation />
   <NuxtPage />
-  <UiGlobalFooter />
+  <GlobalFooter />
 </template>

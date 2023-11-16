@@ -1,13 +1,13 @@
 <template>
   <div class="wrapper">
     <NuxtLink to="/" class="back">
-      <UiArrow direction="left" :animate="true" />
+      <Arrow direction="left" :animate="true" />
       Go back
     </NuxtLink>
     <h1 class="title">{{ category.title_en }}</h1>
 
     <div class="photos">
-      <PhotographyPhotoItem
+      <PhotoItem
         v-for="photo in category.photos"
         :key="photo.url"
         :photo="photo"
@@ -15,7 +15,7 @@
       />
     </div>
 
-    <PhotographyLightbox
+    <Lightbox
       v-if="currentPhoto && isLightboxOpen"
       :photo="currentPhoto"
       :photos="category.photos"

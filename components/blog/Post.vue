@@ -2,7 +2,7 @@
   <article>
     <section class="intro">
       <NuxtLink to="/blog" class="back">
-        <UiArrow direction="left" :animate="true" />
+        <Arrow direction="left" :animate="true" />
         Go back
       </NuxtLink>
       <h1 class="title">{{ post.title }}</h1>

@@ -1,6 +1,6 @@
 <template>
   <ContentList :query="query" v-slot="{ list }">
-    <PhotographyList :categories="(list as unknown as PhotographyCategory[])" />
+    <CategoriesList :categories="(list as unknown as PhotographyCategory[])" />
   </ContentList>
 </template>
 

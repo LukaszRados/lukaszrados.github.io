@@ -6,7 +6,7 @@
     <h2 class="title">
       <NuxtLink :to="category._path" class="link">
         <span>{{ category.title_en }}</span>
-        <UiArrow direction="right" :animate="true" />
+        <Arrow direction="right" :animate="true" />
       </NuxtLink>
     </h2>
   </div>

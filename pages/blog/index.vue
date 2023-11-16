@@ -5,7 +5,7 @@
     :sort="{ published_at: -1 }"
     v-slot="{ data }"
   >
-    <BlogList :data="(data as unknown as BlogPost[])" />
+    <PostsList :data="(data as unknown as BlogPost[])" />
   </ContentQuery>
 </template>
 
