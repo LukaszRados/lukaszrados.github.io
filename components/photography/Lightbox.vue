@@ -30,7 +30,7 @@
       @click="navigate(-1)"
       aria-label="Previous"
     >
-      <UiArrow direction="left" :animate="false" />
+      <Arrow direction="left" :animate="false" />
     </button>
     <button
       type="button"
@@ -38,7 +38,7 @@
       @click="navigate(1)"
       aria-label="Next"
     >
-      <UiArrow direction="right" :animate="false" />
+      <Arrow direction="right" :animate="false" />
     </button>
   </div>
 </template>
