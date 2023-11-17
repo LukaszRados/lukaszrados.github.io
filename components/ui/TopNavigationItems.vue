@@ -2,18 +2,33 @@
   <nav class="navigation">
     <ul>
       <li class="item">
-        <NuxtLink to="/" class="link">photography</NuxtLink>
-      </li>
-      <li class="item"><NuxtLink to="/blog" class="link">blog</NuxtLink></li>
-      <li class="item">
-        <NuxtLink to="/contact" class="link">info</NuxtLink>
+        <NuxtLink :to="localePath('/')" class="link">
+          {{ $t("navigation.photography") }}
+        </NuxtLink>
       </li>
       <li class="item">
-        <NuxtLink to="/todo" class="link">polski</NuxtLink>
+        <NuxtLink :to="localePath('/blog')" class="link">
+          {{ $t("navigation.blog") }}
+        </NuxtLink>
+      </li>
+      <li class="item">
+        <NuxtLink :to="localePath('/contact')" class="link">
+          {{ $t("navigation.info") }}
+        </NuxtLink>
+      </li>
+      <li class="item">
+        <NuxtLink :to="switchLocalePath('en')" class="link">
+          {{ $t("navigation.next_language") }}
+        </NuxtLink>
       </li>
     </ul>
   </nav>
 </template>
+
+<script setup lang="ts">
+const localePath = useLocalePath();
+const switchLocalePath = useSwitchLocalePath();
+</script>
 
 <style lang="postcss" scoped>
 .navigation {

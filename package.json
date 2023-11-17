@@ -12,6 +12,7 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/color-mode": "^3.3.0",
+    "@nuxtjs/i18n": "8.0.0-rc.5",
     "nuxt": "^3.8.0",
     "postcss-nested": "^6.0.1",
     "postcss-nested-ancestors": "^3.0.0",

@@ -33,5 +33,21 @@ export default defineNuxtConfig({
     },
   },
   devtools: { enabled: true },
-  modules: ["@nuxtjs/color-mode", "@nuxt/content"],
+  modules: ["@nuxtjs/color-mode", "@nuxt/content", "@nuxtjs/i18n"],
+  i18n: {
+    defaultLocale: "pl",
+    locales: [
+      {
+        code: "pl",
+        file: "pl.js",
+      },
+      {
+        code: "en",
+        file: "en.js",
+      },
+    ],
+    lazy: true,
+    langDir: 'lang',
+    strategy: "prefix_except_default",
+  },
 });

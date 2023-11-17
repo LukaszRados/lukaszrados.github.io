@@ -24,8 +24,9 @@ const previousPosition = ref(0);
 const showNavigation = ref(true);
 
 const route = useRoute();
+
 const showSubheader = computed(
-  () => currentPosition.value < ALWAYS_VISIBLE_PX && route.name === "index"
+  () => currentPosition.value < ALWAYS_VISIBLE_PX && route.name?.toString().startsWith("index")
 );
 
 const onScroll = () => {
