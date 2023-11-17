@@ -1,12 +1,12 @@
 ---
-title: 'Portugal from South to North'
+title: 'Portugalia z południa na północ'
 published_at: '2018-05-15'
-intro: 'In the first week of May together with Jola we have travelled to Portugal. The trip gave us an opportunity to visit a new country and visit some friends studying in Lisbon and Coimbra. Such a short trip let us only touch the surface of this gorgeous country, but even this made me think that it is one of the most beautiful places I have ever seen.'
+intro: 'W długi weekend majowy wybraliśmy się z Jolą do słonecznej Portugalii. Pozwoliło nam to poznać (choć dość pobieżnie) ten piękny kraj, który od zawsze chcieliśmy zobaczyć, a do tego mieliśmy okazje odwiedzić studiujących w Lizbonie i Coimbrze znajomych. Po tym wyjeździe nie mam wątpliwości, że to jedno z najpiękniejszych miejsc jakie kiedykolwiek widziałem!'
 category: 'photography'
 background: v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg
 ---
 
-Our trip started in Algarve region known recognised mostly for its interesting coastline consisting golden cliffs, caves and bays. The next stops were the cities of Lisbon, Coimbra and Porto. I was especially impressed by wonderful Porto, located right by the Atlantic Ocean by the river Douro.
+Choć mieliśmy tylko tydzień, udało nam się przejechać Portugalię od Faro, aż do położonego na północy Porto. Nasz pobyt rozpoczęliśmy w regionie Algarve znanym przede wszystkim z ciekawej linii brzegowej złożonej ze złotych klifów, ukrytych jaskiń i małych zatoczek. Następnie odwiedziliśmy Lizbonę, Coimbrę i Porto. Zwłaszcza to ostatnie miasto, położone przy ujściu Duero do Oceanu Atlantyckiego, zrobiło na mnie olbrzymie wrażenie.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/92_vdpevy.jpg" padding="66.666"}
 
@@ -56,4 +56,4 @@ Our trip started in Algarve region known recognised mostly for its interesting c
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/114_ohgew7.jpg" padding="66.666"}
 
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/115_ym3fzs.jpg" padding="66.666"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/115_ym3fzs.jpg" padding="66.666"></photo-lazy

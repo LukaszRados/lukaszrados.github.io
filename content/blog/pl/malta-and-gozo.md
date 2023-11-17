@@ -1,12 +1,12 @@
 ---
-title: 'Malta & Gozo in February'
+title: 'Malta i Gozo w lutym'
 published_at: '2016-02-28'
-intro: Wedding of Daenerys and Khal Drogo, Great Sept of Baelor, Pentos and King's Landing. It's hard to believe that all of these locations from Game of Thrones series were shot on archipelago that area is smaller than area of Cracow. See some photos from Malta and Gozo islands.
+intro: Miejsce ślubu Daenerys i Khala Drogo, Wielki Sept Baelora, Pentos i Królewska Przystań. Trudno uwierzyć, że te wszystkie ujęcia do serialu 'Gra o Tron' kręcone były w kraju położonym na archipelagu wysp o łącznej powierzchni mniejszej od powierzchni Krakowa. Zapraszam do obejrzenia kilku zdjęć z Malty i Gozo.
 category: 'photography'
 background: v1620583188/stories/malta-and-gozo/330_uhqona.jpg
 ---
 
-First three days we spent on Gozo – the second largest island of archipelago. The most known points there are Azure Window (where wedding from Game of Thrones was shot) and located nearby Il-Qawra (small harbor connected with sea only by tiny cave-like pass). Although the highest point of Gozo is not that hight, the island is hilly, which we've learnt after renting bicycles for full-day trip.
+Pierwsze 3 dni spędzamy na Gozo – drugiej pod względem wielkości wyspie archipelagu. Najbardziej znane punkty Gozo to Azure Window (to tam kręcono scenę ślubu z Gry o Tron) oraz znajdujące się tuż obok Il-Qawra (mała zatoka połączona z morzem tylko przez wąski przesmyk w skale). Mimo małej wysokości maksymalnej, Gozo jest niezwykle pofałdowane o czym przekonujemy się po wypożyczeniu rowerów na całodzienną przejażdżkę.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/324_px7p9d.jpg" padding="66.666"}
 
@@ -22,7 +22,7 @@ First three days we spent on Gozo – the second largest island of archipelago. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583188/stories/malta-and-gozo/330_uhqona.jpg" padding="66.666"}
 
-Next four days we have invested in Malta. I strongly recommed visiting charming city of Mdina – called also Silent City, former capital of Malta. Fans of sightseeing will for sure find something among over 300 sights located in Malta's capital – Valletta. Active people will be interested in a walk along reaching up to 250 meters Dingli cliffs to Blue Grotto. If you don't have absolutely free day to waste, I do not really recommend visiting fish market in Marsaxlokk – in my opinion it's strongly overrated (except for the colorful boats!).
+Kolejne cztery dni spędzamy już na Malcie. Szczególnie polecić mogę wizytę w niesamowicie urokliwej Mdinie – Cichym Mieście, dawnej stolicy Malty. Fani zabytków na pewno znajdą coś dla siebie pośród ponad 300 zabytków zlokalizowanych w stolicy kraju – Velletcie. Miłośników aktywnego wypoczynku zainteresuje spacer wzdłuż sięgających 250 metrów klifów Dingli aż do Blue Grotto. Jeśli nie macie absolutnie wolnego dnia do zmarnowania, nie wybierajcie się na często polecany targ rybny w Marsaxlokk – moim zdaniem zdecydowanie przereklamowanym (jedyną atrakcją były dla mnie kolorowe łódki).
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583189/stories/malta-and-gozo/332_iqs5ql.jpg" padding="150"}

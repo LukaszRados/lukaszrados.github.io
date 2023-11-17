@@ -1,22 +1,22 @@
 ---
-title: 'Coronallacs: Hiking route around Andorra (PL)'
+title: 'Coronallacs: Trasa trekkingowa dookoła Andory'
 published_at: '2023-08-15'
-intro: "In August I hiked the longest trail in my life so far: Coronallacs in Andorra. The route links all four manned shelters in the country. It is divided into five stages, totalling almost 100 km and over 6000 m of elevation gain. It features 20 lakes, countless mountain passes and goes around the entire country."
+intro: "W sierpniu ukończyłem najdłuższą w moim życiu pieszą trasę turystyczną: Coronallacs w Andorze. Trasa biegnie dookoła kraju i łączy wszystkie cztery schroniska górskie. Podzielona jest na pięć etapów o łącznej długości 100 km, z ponad 6000 m przewyższenia. Na trasie znajduje się 20 górskich jezior i niezliczone przełęcze."
 category: 'photography'
 background: v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg
 ---
 
-And while the hike doesn’t include the highest peaks of Andorra, it offers impressive views of almost 3000 m high peaks, including Pic de Comapedrosa, the highest point of Andorra.
+Choć trasa nie przechodzi przez żaden z najwyższych szczytów Andory, oferuje imponujące widoki na okoliczne trzytysięczniki, łącznie z Comapedrosą, najwyższym szczytem Andory.
 
-Arriving in Andorra with Flor and Jordi were both excited and anxious. None of us have done a route like this before, so we were not sure what to expect. The weather forecast was great - at least for the first few days. We had our backpacks packed with snacks, the route passports were conveniently picked up by Jordi and we were ready to set off on Saturday morning.
+Przyjeżdżając do Andory z Flor i Jordim, czuliśmy mieszankę niepewności i ekscytacji. Żadne z nas nie ukończyło wcześniej takiej trasy, więc nie byliśmy pewni, czego możemy się spodziewać. Optymizmu dodawały rewelacyjne prognozy pogody na pierwszych kilka dni. Spakowaliśmy plecaki, Jordi odebrał dla nas specjalne turystyczne paszporty i byliśmy gotowi do wyruszenia na szlak w sobotę rano.
 
-## Stage 1: Escaldes - Refugi de l'Illa
+## Etap 1: Escaldes - Refugi de l'Illa
 
 ↔ 14 km | △ 1470 m | ▽ 40 m
 
-We started in Escaldes. The first day was all about going up: we started at around 1100 m and we hiked up to almost 2500 m. The beginning of the trail is a wide, comfortable path in the forest. With the sun shining all day, we were grateful for the cover of the trees. 
+Trasę rozpoczęliśmy w Escaldes. Przez cały pierwszy dzień szliśmy pod górę: zaczęliśmy na około 1100 m n.p.m. by wyjść na prawie 2500 m. Początkowo trasa prowadziła szeroką i wygodną drogą w lesie. Biorąc pod uwagę temperatury w mieście i świecące słońce, zacieniony las był dla nas wybawieniem.
 
-As we were gaining altitude, we slowly got out of the forest and we could see the first rocky peaks. By the afternoon we reached Refugi de l'Illa, our shelter for the first night. 
+Z czasem nabraliśmy wysokości i powoli opuściliśmy las. Naszym oczom ukazały się pierwsze skaliste szczyty. Wczesnym popołudniem dotarliśmy do schroniska l'Illa, gdzie spędziliśmy pierwszą noc.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-2_nq2gy5.jpg" padding="66.6"}
 
@@ -38,17 +38,17 @@ As we were gaining altitude, we slowly got out of the forest and we could see th
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-9_yl7og0.jpg" padding="66.6"}
 
-## Stage 2: Refugi de l'Illa - Refugi de Juclà
+## Etap 2: Refugi de l'Illa - Refugi de Juclà
 
 ↔ 21 km | △ 1350 m | ▽ 1520 m
 
-The second day started early. The sun from the previous day was gone and clouds covered the sky. We trusted in the weather forecast saying that it wouldn’t rain.
+Drugi dzień rozpoczęliśmy wcześnie. Po słonecznej pogodzie z poprzedniego dnia nie było śladu; niebo przykryte było chmurami. Pozostało nam zaufać prognozie pogody, która nie zapowiadała deszczu.
 
-The day started with a climb to the highest point of the Coronallacs: Collada dels Pessons (2828 m). Once we reached the top of the pass, a beautiful view opened towards two sides: the valley we had come from the day before and the Pessons with dozens of lakes where we were going today.
+Dzień zaczęliśmy od wejścia na najwyższy punkt z całej trasy Coronallacs: Collada dels Pessons (2828 m). Z przełęczy otworzyły się widoki w dwie strony: na dolinę, którą przyszliśmy poprzedniego dnia, i na usiane dziesiątkami jezior Pessons po drugiej stronie. 
 
-From Collada dels Pessons we went 900 m down to the town of Envalira. From there we climbed again to Port Dret. It is a steep, long climb that costs a lot of energy. But it was still not the end of the stage. 
+Z Collada dels Pessons zeszliśmy 900 m w dół do miasteczka Envalira, by ponownie wspiąć się w górę na Port Dret. Podejście było długie, strome i kosztowało nas mnóstwo energii. To jednak wciąż nie był koniec etapu.
 
-We went down again, surrounded by some of the most beautiful views of the hike. When we passed Refugi del Siscaró, I started to think that we were close to the next shelter. I was proven wrong: we still had over one hour more in rocky terrain, with some chains and sketchy paths. Every turn seemed like the last one. When we finally reached Refugi de Juclà I was drained. Luckily the dinner and a cup of tea brought me back to life. 
+Ponownie zeszliśmy na dół. Dookoła rozciągały się najpiękniejsze widoki z całej trasy. Po minięciu Refugi del Siscaró wydawało mi się, że schronisko musi być tuż za rogiem. Moje nadzieje rozwiała tabliczka pokazująca, że do celu mamy jeszcze ponad godzinę. Ostatni fragment prowadził skalistą ścieżką z kilkoma łańcuchami i wydawał się ciągnąć w nieskończoność. Kiedy w końcu dotarliśmy do Refugi de Juclà byłem okropnie zmęczony. Na szczęście kolacja i ciepła herbata przywróciły mnie do życia.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-12_t8xs4s.jpg" padding="66.6"}
 
@@ -75,17 +75,17 @@ We went down again, surrounded by some of the most beautiful views of the hike. 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-24_qsrp0r.jpg" padding="66.6"}
 ::
 
-## Stage 3: Refugi de Juclà - Refugi de Sorteny
+## Etap 3: Refugi de Juclà - Refugi de Sorteny
 
 ↔ 18 km | △ 1420 m | ▽ 1750 m
 
-Stage three features two big climbs. That day we met a lot of fellow hikers, but none of them seemed to be doing Coronallacs. 
+Etap trzeci to przede wszystkim dwa duże podejścia. Tego dnia spotkaliśmy kilku innych turystów, jednak nikogo, kto byłby na trasie Coronallacs.
 
-The first big climb of the day starts in Vall d’Incles and goes up to Serra de Cabana Sorda. On the way we could see some more beautiful lakes. In the distance we saw the impressively vast Grandvalira skiing resort. Once we got to Serra de Cabana Sorda, we could admire a beautiful 360 degrees panorama. 
+Pierwsze duże podejście zaczyna się w Vall d’Incles i wychodzi do Serra de Cabana Sorda. Po drodze minęliśmy kolejne piękne jeziora, a w oddali zobaczyliśmy rozległy resort narciarski Granvalira. Serra de Cabana Sorda oferuje kolejną imponującą panoramę. 
 
-We went down 500 m to the unmanned Refugi de Coms de Jan. While it is indeed unmanned, it was surrounded by a big herd of cows. From the Refugi we started climbing again towards Collada dels Meners. It was a long way up, but the views were totally worth it. From the top we could see yet another 360 panorama, featuring some of the mountains we had crossed in the past three days and some of the ranges we would cross next. 
+Następnie zeszliśmy 500 m w dół do bezobsługowego schroniska Refugi de Coms de Jan. Mimo braku ludzi, otoczone było przez stado krów. Po minięciu schroniska rozpoczęliśmy kolejne podejście, tym razem do Collada dels Meners. Droga do góry była długa, ale widoki rekompensowały trud, a na szczycie czekała na nas kolejna panorama. Mogliśmy podziwiać pasma górskie przekroczone w ciągu ostatnich trzech dni. Po drugiej stronie wzrok przyciągała głęboka dolina i kolejne góry. 
 
-The rest of the day is 800 m high downhill. It turned out to be very pleasant and we were quickly descending towards the Refugi de Sorteny. At some point the trail became a bit overgrown with shoulders-tall grass inhabited by thousands of crickets. The views became more idyllic as we went deeper down the valley. 
+Reszta etapu to 800 m zejścia w dół do schroniska. Na szczęście trasa nie była techniczna i szybko połknęliśmy kolejne kilometry. W pewnym momencie szlak był zarośnięty trawą i kwiatami od ramion, z tysiącami koników polnych. Wraz ze schodzeniem, widoki stawały się coraz bardziej sielskie, aż dotarliśmy do schroniska.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-25_upfrtp.jpg" padding="66.6"}
 
@@ -107,21 +107,19 @@ The rest of the day is 800 m high downhill. It turned out to be very pleasant an
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-33_vn0mg1.jpg" padding="150"}
 ::
 
-## Stage 4: Refugi de Sorteny - Refugi del Comapedrosa
+## Etap 4: Refugi de Sorteny - Refugi del Comapedrosa
 
 ↔ 22 km | △ 1900 m | ▽ 1600 m
 
-When planning the route with Jordi and Flor we figured out that the four shelters booked via Coronallacs website don’t need to happen on consecutive days. We decided to split the fourth stage into two smaller chunks. The original stage is 22 km long with mindblowing 1900 m of ascent and 1600 m of descent. 
+Planując trasę z Jordi i Flor dowiedzieliśmy się, że rezerwując przez stronę Coronallacs, nie trzeba spędzać w schroniskach czterech nocy pod rząd. Postanowiliśmy podzielić czwarty etap na dwa mniejsze kawałki. Według oryginalnego planu, etap ten ma 22 km długości z 1900 m podejść i 1600 m w dół. 
 
-The fourth day became our rest day. It was an active recovery: we hiked from Refugi de Sorteny to the town of Llorts, 500 m of downhill. Then we spent the rest of the day chilling in Jordi’s house, doing laundry, shopping, playing Mario Kart and watching Jurassic Park. 
+Dzień czwarty potraktowaliśmy jako aktywny odpoczynek. Opuściliśmy Refugi de Sorteny wcześnie rano i pokonaliśmy 500 m w dół do miasteczka Llorts. Reszta dnia upłynęła na odpoczynku w domu Jordiego, robieniu prania, zakupów, graniu w Mario Kart i oglądaniu Parku Jurajskiego. 
 
-The next day we restarted from Llorts. The day began with a huge 1100 m climb to Pic del Clot del Cavall. While it was a lot of climbing, it went surprisingly well. Apparently, a more chill day before did wonders to our recovery. 
+Następnego dnia wznowiliśmy wędrówkę z Llorts. Dzień rozpoczęliśmy ogromnym 1100 m podejściem do Pic del Clot del Cavall. Mimo dużej różnicy poziomów, poszło nam to całkiem sprawnie. Najwyraźniej dzień odpoczynku zdziałał cuda na nasze mięśnie. 
 
-From Pic del Clot del Cavall we had a very good view at Pic de Comapedrosa, the highest mountain of Andorra. We had all day to enjoy the view from different angles.
+Ze szczytu mieliśmy bardzo dobry widok na Pic de Comapedrosa, najwyższy szczyt Andory. Szczyt ten towarzyszył nam przez resztę dnia. Po zejściu z Pic del Clot del Cavall czekało na nas 500 m podejścia do schroniska. Na szczęście szlak jest świetnie oznakowany i bardzo wygodny. Wiedzie wzdłuż potoku z kilkoma pięknymi wodospadami. 
 
-The last part of the day was a 500 m climb to the Refugi del Comapedrosa. The path is really well kept and marked, but requires some effort. It follows a creek with a series of beautiful waterfalls. 
-
-Even after splitting this stage in two, it was still a big day in the mountains. We were delighted to arrive in the shelter and take our backpacks off. 
+Mimo podzielenia etapu na dwie części, drugi dzień wciąż wymagał mnóstwo wysiłku. Po dotarciu do schroniska z ulgą zdjęliśmy plecaki z ramion.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-34_esf9ji.jpg" padding="66.6"}
 
@@ -137,15 +135,15 @@ Even after splitting this stage in two, it was still a big day in the mountains.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-42_s1i6xm.jpg" padding="66.6"}
 
-## Stage 5: Refugi del Comapedrosa - Escaldes
+## Etap 5: Refugi del Comapedrosa - Escaldes
 
 ↔ 21 km | △ 750 m | ▽ 1900 m
 
-The last day brought cloudy skies and some rain in the weather forecast. The day started with a quick uphill to Portella de Sanfons. Unfortunately the clouds covered the views: we had been told that we should be able to see Aneto (the highest peak of the Pyrenees) from here. 
+Ostatni dzień przyniósł niepewną pogodę. Prognozy pogody zapowiadały deszcz, a niskie chmury zdawały się go zwiastować. Dzień rozpoczął się od szybkiego podejścia na Portella de Sanfons. Niestety, chmury blokowały widoki. Przy dobrej pogodzie z przełęczy podobno widać Aneto (najwyższy szczyt Pirenejów). 
 
-Then it was all about going downhill: we had almost 2000 m to descend. After passing close to Pic Negre (and crossing to Catalunya for a few hundred meters), we slowly left the high peaks and entered more wooded terrain. The clouds cleared out and the sun was out again. We were going back to civilization: we could see skiing resorts, bike parks and restaurants. 
+Reszta dnia to prawie 2000 m zejścia. Po obejściu Pic Negre (i krótkim przejściu przez granicę do Katalonii), skierowaliśmy się w dół. Zostawiliśmy za sobą wysokie szczyty i weszliśmy na leśne ścieżki. Chmury rozwiały się i ponownie świeciło słońce. Powrót do cywilizacji zwiastowały restauracje, resorty narciarskie i trasy rowerowe. 
 
-Once we were down in Sispony, we entered Camí Ral that follows Valira d’Orient river all the way to Escaldes. We finished the route next to the tourist office, after hiking almost 100 km with 6500 m of elevation gain in 6 days.
+Po zejściu do Sispony skręciliśmy na Camí Ral, które podąża za rzeką Valira d’Orient do Escaldes. Trasa kończy się koło biura turystycznego w Escaldes. Łącznie w ciągu 6 dni przeszliśmy prawie 100 km z 6500 m przewyższenia.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-44_ah2f5m.jpg" padding="66.6"}
 
@@ -165,25 +163,25 @@ Once we were down in Sispony, we entered Camí Ral that follows Valira d’Orien
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-50_s4kasi.jpg" padding="66.6"}
 
-## Miscellaneous
+## Różne informacje
 
-I documented some notes that may be useful for people preparing to hike Coronallacs. I wish I knew some of these before, mostly about the shelters’ facilities.
+Poniżej dzielę się moimi notatkami, które mogą się przydać osobom planującym Coronallacs. Niektóre z nich, zwłaszcza dotyczące schronisk, byłyby dla nas bardzo przydatne.
 
-- When booking the trip via [the Coronallacs website](https://coronallacs.com/en), you can choose the dates for the nights in the shelters. They don’t need to be consecutive days: for example we splitted the fourth day to get some rest. The maximum length is 8 days.
-- Booking via the Coronallacs website was actually cheaper than booking all four shelters separately. We bought a package with nights, dinner and breakfast.
-- Dinners contain three full courses and they are really good. You can let the shelter know that you are vegetarian (or any other dietary restrictions). It makes sense to call the shelter or send them an email to confirm the dietary choices. Breakfasts are smaller, but enough to give you some energy to start the day. 
-- You can refill your water in every shelter. If you need more, you can rely on countless streams, but I would suggest treating the water with tablets (as livestock can live pretty high in the mountains - we saw some horses at 2600 m). 
-- Some of the shelters had internet connection (l'Illa, Borda de Sorteny), the others didn’t. In Comapedrosa they were nice enough to let us make a quick phone call to tell our friends we are ok (we didn’t ask in Juclà). Remember that data is quite expensive in Andorra (for EU numbers).
-- All shelters provide sockets to charge your devices. Having my phone in airplane mode all the time (due to roaming cost), I only had to charge it once. 
-- There aren’t many towns on the way. The only towns we passed were Envalira on day 2, and el Serrat and Llorts on day 4. 
-- Once you finish the route, make sure to pass by the tourist office in Escaldes. If you collected all the stamps in your passport, you will receive a souvenir buff.
+- Rezerwując cały pakiet przez [stronę internetową Coronallacs](https://coronallacs.com/en), można wybrać daty poszczególnych noclegów. Nie muszą to być cztery noce z rzędu: my zdecydowaliśmy się podzielić czwarty etap na dwa. Maksymalny czas to 8 dni.
+- Rezerwacja przez stronę internetową wychodzi taniej niż rezerwowanie każdego schroniska osobno. Kupiliśmy pakiet z kolacjami i śniadaniami. 
+- Kolacja składa się z trzech dań; jedzenie jest naprawdę dobre. Schroniska przyjmują informacje o diecie (np. wegetariańskiej). Warto zadzwonić do schroniska lub napisać im maila z przypomnieniem o wybranej diecie. Śniadania są nieco mniejsze, ale wystarczające, żeby zacząć dzień. 
+- Każde schronisko ma kran do napełniania butelek z wodą. W razie potrzeby można napełnić je także w jednym ze strumieni, ale należy uważać i uzdatnić wodę (krowy i konie żyją nawet na 2600 m).
+- Niektóre schroniska mają wifi (l'Illa, Borda de Sorteny), pozostałe nie. W schronisku Comapedrosa pozwolono nam skorzystać z telefonu (celem poinformowania znajomych, że dotarliśmy). Koszty roamingu w Andorze są dość wysokie (dla numerów z EU).
+- Wszystkie schroniska mają gniazdka. Mój telefon był cały czas w trybie samolotowym (ze względu na roaming), więc potrzebowałem ładowarki tylko raz.
+- Trasa nie przechodzi przez zbyt wiele miast. W drugi dzień przecina miasteczko Envalira, a w czwarty El Serrat i Llorts. 
+- Po ukończeniu trasy, nie zapomnij wstąpić do biura turystycznego w Escaldes. Po okazaniu paszportu z wszystkimi czterema pieczątkami, otrzymasz pamiątkowego buffa. 
 
-## Summary
+## Podsumowanie
 
-I am writing this blog post a few days after completing the route. The blisters are almost gone, the shoulders don’t ask me for mercy anymore and the photos are ready to be published. 
+Ten post powstaje kilka dni po ukończeniu trasy. Odciski na stopach należą do przeszłości, ramiona odpoczęły od plecaka, a zdjęcia są gotowe do opublikowania.
 
-Coronallacs was the first time I’ve ever hiked for so many days in a row. It gives a big sense of accomplishment. Almost every day we would stop to catch breath, turn around and try to see where we came from. And every time we were surprised how far the starting point was. Hiking, as a relatively slow activity, gave us a lot of time to appreciate the views, the nature and the beauty of the Pyrenees. Doing it for many days in a row helped us fully immerse in the experience.
+Coronallacs to moja pierwsza tak długa trasa, połączona ze spaniem w schroniskach i niesieniem ciężkiego plecaka. Ukończenie jej to ogromna satysfakcja. Prawie każdego dnia zdarzało nam się przystanąć, odwrócić i zawsze byliśmy zdziwieni, jak daleko jest punkt początkowy. Chodzenie po górach jest dość powolne, więc mieliśmy mnóstwo czasu na podziwianie widoków i cieszenie się pięknem Pirenejów. A przebywanie w górach kilka dni z rzędu sprawiło, że docenialiśmy góry jeszcze bardziej.
 
-The lessons for the future? Don’t underestimate the backpack weight over long distances in multi-day hikes, especially with a lot of ascend. Trekking poles are a life-saver. Hat and sunscreen are absolutely essential on full-day hikes in the Pyrenees. 
+Lekcje na przyszłość? Nawet jeśli plecak wydaje się lekki, to po kilku dniach zaczyna ciążyć na ramionach. Zwłaszcza na podejściach. Kijki trekkingowe są wybawieniem. Kapelusz i krem przeciwsłoneczny są konieczne w lecie w Pirenejach.
 
-A good company and a backpack full of _chuches_ (candies) makes wonders to your wellbeing. 
+A dobre towarzystwo i plecak pełen _chuches_ (słodyczy) jest nie do przecenienia. 

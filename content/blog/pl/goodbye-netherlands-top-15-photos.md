@@ -1,14 +1,14 @@
 ---
-title: 'Goodbye Netherlands. 15 photos from last three years'
+title: 'Pożegnanie z Holandią. 15 zdjęć z ostatnich trzech lat'
 published_at: '2019-08-20'
-intro: In just few days I am moving out of the Netherlands where I have lived for the last three years. During these years I met many wonderful people, made countless memories and, obviously, taken hundreds of photos. I had a look at my archive and selected 15 of my favourite pictures.
+intro: Już za kilka dni opuszczę Holandię, kraj w którym mieszkałem przez ostatnie trzy lata. Zabieram ze sobą mnóstwo wspomnień, wiele wspaniałych znajomości i oczywiście… setki zdjęć! W ramach pożegnania przeglądnąłem wybrałem spośród nich 15 ulubionych.
 category: 'photography'
 background: v1620583019/stories/goodbye-netherlands-top-15-photos/572_rwlp0l.jpg
 ---
 
-These three years in the Netherlands were a really intense time in terms of photography. After all most of the photos for the [Project 52 in 2018](/blog/project-52) were taken here. Sometimes photography was taking all of my free time: every spring I was spending dozens of hours taking photos of tulips. I learnt to like the Dutch coast and use frequent weather changes to my advantage; I found out that Dutch towns and villages are a perfect playground for the cityscape photography.
+Trzy lata w Holandii były dla mnie intensywne pod względem fotograficznym. To tutaj powstało większość zdjęć do <nuxt-link to="/blog/project-52">mojego Projektu 52 w 2018 roku</nuxt-link>. W niektórych miesiącach fotografia zajmowała znaczną część mojego czasu: tak było kiedy fotografowałem tulipany w kwietniu lub wrzosy w sierpniu. Nauczyłem się doceniać holenderskie wybrzeże, które może nie jest bardzo urozmaicone, ale dzięki zmienności pogody stanowi wdzięczny motyw. Holenderskie miasta były z kolei doskonałym miejscem na doskonalenie fotografii krajobrazu miejskiego.
 
-Below I present, in no particular order, a collection of my favourite photos. I will surely come back to them each time I will miss the Netherlands.
+Poniżej prezentuję (w dość dowolnej kolejności) moje ulubione zdjęcia z Holandii. To do nich będę wracać kiedy zatęsknię za holenderskimi krajobrazami.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/558_oyf9mz.jpg" padding="66.666"}
 

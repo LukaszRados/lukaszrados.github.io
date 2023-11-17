@@ -1,14 +1,14 @@
 ---
-title: 'Canary Islands: Tenerife'
+title: 'Wyspy Kanaryjskie: Teneryfa'
 published_at: '2018-09-09'
-intro: September is a great time for travelling in Europe. In most of the european destinations it is already past the high season, which means less crowds and moderate weather. This year together with Jola we decided to fly to Tenerife. After few days there I dare to say that it's a landscape photographer's paradise.
+intro: Wrzesień jest wspaniałym miesiącem na podróżowanie. Chociaż w większości europejskich destynacji jest już delikatnie po sezonie, to pogoda wciąż jest świetna. W tym roku zdecydowaliśmy się z Jolą na zwiedzanie Teneryfy na Wyspach Kanaryjskich. Po spędzeniu tam kilku dni mogę zdecydowanie powiedzieć, że jest to raj dla fotografa krajobrazu.
 category: 'photography'
 background: v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg
 ---
 
-We started our trip by doing small 'Tour de Tenerife' after which we got some idea which parts of island are interesting for us and which ones we would rather skip. During the first day we made a roadtrip visiting touristic south, Anaga mountains in the north and desert parts around Pico del Teide.
+Pobyt rozpoczęliśmy od wycieczki samochodem dookoła wyspy. Dzięki temu zdobyliśmy rozeznanie które części wyspy podobają się nam bardziej i chcemy je jeszcze pozwiedzać, a które nieszczególnie nas interesują. W pierwszy dzień przejechaliśmy turystyczne południe (gdzie był nasz hotel), góry Anaga na północy i płaskowyż pod Pico del Teide.
 
-Pico del Teide volcano deserves a separate note. It's the island's highest point reaching 3718 meters. It looks really impressing especially when admired from the ocean level. Unfortunately to reach the peak you need to obtain a special permit which you need to do in advance via internet. As our trip was quite spontaneous and number of permits per day is limited, we didn't have a chance to do this. But we hope to come back soon.
+Najbardziej charakterystycznym punktem wyspy jest stożek wulkanu Pico del Teide, który wznosi się na wysokość 3718m. Robi to tym większe wrażenie, że oglądać go można z poziomu oceanu. Niestety wejście na szczyt jest limitowane, a darmowe pozwolenie należy załatwić dużo wcześniej przez internet. Nasz wyjazd był dość spontaniczny, więc nie byliśmy na to przygotowani, ale obiecaliśmy sobie że jeszcze tam wrócimy.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/1_xinzap.jpg" padding="66.666"}
 
@@ -20,11 +20,11 @@ Pico del Teide volcano deserves a separate note. It's the island's highest point
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582924/stories/canary-islands-tenerife/5_xvc37o.jpg" padding="66.666"}
 
-Tenerife's climate is definitely worth a mention. Photos above were taken at altitude of 2000 meters and as you can see there are absolutely no clouds. This is because we left them below us. It happened several times that we started the day in a cloudy town by the ocean, we passed through the clouds and enjoy the sun above.
+Warto zwrócić uwagę na niezwykle zróżnicowany klimat Teneryfy. Zdjęcia powyżej wykonane są na wysokości ponad 2000m i pozbawione chociażby jednej chmurki, ponieważ chmury znajdują się już pod nami (zdjęcie poniżej). Wielokrotnie zdarzało nam się zacząć wycieczkę w pochmurnym miasteczku, przejechać przez gęste chmury i znaleźć się już ponad nimi i cieszyć czystym niebem.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582924/stories/canary-islands-tenerife/6_jj4owa.jpg" padding="56.25"}
 
-The most beautiful sunset of the trip we saw in Teno mountains, on the north-western edge of the island. After reaching Mirador de Cherfe I struggled to decide which way to shoot: either towards Teno mountains and sunset or rather towards Pico del Teide.
+Na północno-zachodnim krańcu wyspy wznoszą się góry Teno, w których mieliśmy okazję oglądać najpiękniejszy zachód słońca podczas wyjazdu. Po wyjechaniu na Mirador De Cherfe miałem problem ze zdecydowaniem, w którą stronę zwrócić obiektyw: w stronę gór Teno i zachodu słońca, czy w przeciwną gdzie wznosi się Pico del Teide.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg" padding="66.666"}
 
@@ -40,7 +40,7 @@ The most beautiful sunset of the trip we saw in Teno mountains, on the north-wes
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582924/stories/canary-islands-tenerife/8_fdpq6p.jpg" padding="66.666"}
 
-In Teno mountains there is one of the most popular touristic spots: Masca village where a gorgeous trail through the gorge towards the ocean starts. Unfortunately it is closed for tourists for a while now.
+W górach Teno znajduje się również jedna z największych atrakcji turystycznych: wioska Masca, z której wychodzi malowniczy szlak wąwozem w stronę oceanu. Niestety, ponownie mieliśmy pecha ponieważ od pewnego czasu wąwóz jest zamknięty dla turystów.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582925/stories/canary-islands-tenerife/15_lzws8l.jpg" padding="100"}
 
@@ -50,7 +50,7 @@ In Teno mountains there is one of the most popular touristic spots: Masca villag
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582925/stories/canary-islands-tenerife/14_cnwkz7.jpg" padding="66.666"}
 
-Tenerife is often considered one of the best spots in Europe for star gazing. Going to the desert during the night is more than enough to understand why.
+Teneryfa jest często uznawana za jedno z lepszych miejsc w Europie na oglądanie nocnego nieba. Wystarczyło wyjechać na płaskowyż pod Teide, poczekać do zmroku i spojrzeć w górę by zrozumieć dlaczego.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582925/stories/canary-islands-tenerife/18_ssetrn.jpg" padding="56.25"}
 

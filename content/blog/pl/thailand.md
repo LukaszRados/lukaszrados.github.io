@@ -1,14 +1,14 @@
 ---
-title: 'Holidays in Thailand'
+title: 'Wakacje w Tajlandii'
 published_at: '2017-11-29'
-intro: 'After 16 hours and 10k kms in the air and 30 degrees celsius difference in the temperature, we have landed in Thailand. During two weeks we have seen north, center and south of the country, relaxing and taking photos.'
+intro: 'Po 16 godzinach lotu, 10 tys. km w powietrzu i 30 stopniach różnicy temperatur wylądowaliśmy w Tajlandii. Przez dwa tygodnie zwiedziliśmy północ, centrum i południe kraju, odpoczywając i fotografując.'
 category: 'photography'
 background: v1663451396/stories/thailand/176_zqfnrk.jpg
 ---
 
-## Landscapes
+## Krajobrazy
 
-Every single blog post from Thailand needs to start from the most iconic view: paradise beach and a longboat on a foreground. But even after seeing only small piece of the country I'm sure that Thailand has so much to offer.
+Każda relacja z Tajlandii zaczyna się od prezentowanego w tysiącach przewodników zdjęcia rajskiej plaży z łódką na pierwszym planie. Nawet po zobaczeniu małego wycinka tego kraju jasne jest dla mnie, że Tajlandia ma dużo więcej do zaoferowania.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/176_zqfnrk.jpg" padding="66.666"}
 
@@ -34,9 +34,9 @@ Every single blog post from Thailand needs to start from the most iconic view: p
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451398/stories/thailand/187_wlsave.jpg" padding="66.666"}
 
-## Animals
+## Zwierzęta
 
-The distance between Thailand and Europe is significant and the animals we can meet there are definitely different of the ones that I know from everyday life. It is hard to resist and not take a camera when you see monkeys, lemurs, crabs or lizards.
+Odległość dzieląca Tajlandię od Europy sprawia, że napotykana tutaj fauna zdecydowanie różni się od tego co widuję na codzień. Ciężko powstrzymać się od wyciągnięcia aparatu kiedy widzi się małpy, lemury, kraby czy warany.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451397/stories/thailand/190_peppaz.jpg" padding="66.666"}
 

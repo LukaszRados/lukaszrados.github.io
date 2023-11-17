@@ -1,14 +1,14 @@
 ---
-title: 'Year 2016 review'
+title: 'Podsumowanie roku 2016'
 published_at: '2016-12-31'
-intro: '2016 is about to end. What a year was that for me! A lot of changes, fullfilled dreams and new challenges. Here I present the most important photograhic events during last year.'
+intro: 'Rok 2016 dobiega końca. Dla mnie był niewątpliwie ciekawy. Wiele zmian, kilka spełnionych marzeń i nowe wyzwania. Zapraszam do obejrzenia krótkiego podsumowania mojego fotograficznego roku.'
 category: 'photography'
 background: v1663450371/stories/review-year-2016/245_sqdn5u.jpg
 ---
 
-## December 2015: Pilsko
+## Grudzień 2015: Pilsko
 
-Let's start with the very end of 2015. On Christmas Eve I was admiring sunrise from the peak of Pilsko in Polish/Slovakian Beskids. There is a belief in Poland, that what you do during the Christmas Eve, you will do the whole next year. Well, it didn't work, but still 2016 was pretty successful in terms of photos taken.
+Zacznijmy od końcówki 2015. W wigilię wybrałem się na wschód słońca na Pilsko w Beskidach. Podobno przez cały kolejny rok robi się to samo, co w dniu wigilii. Jestem nieco rozczarowany, bo nie do końca to działa, ale i tak nie zamierzam narzekać na 2016.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/227_op58hs.jpg" padding="66.666"}
 
@@ -16,9 +16,9 @@ Let's start with the very end of 2015. On Christmas Eve I was admiring sunrise f
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/229_adluxe.jpg" padding="66.666"}
 
-## February: Malta
+## Luty: Malta
 
-Right after we returned from Morocco in November, we've started to look for cheap flights to Cyprus. Since there were none, we turned our interest to the archipelag of small islands on Mediterranean Sea: Malta. Both Jola and me when we heard that some scenes from Game of Thrones were shot there, we were decided to give it a try.
+Zaraz po tym jak wróciliśmy z Jolą z Maroka w listopadzie, zaczęliśmy się zastanawiać: co dalej? Kusił nas Cypr, jednak nie mogliśmy się doczekać tanich lotów i kupiliśmy bilety na Maltę. Nasze zainteresowanie wzbudził fakt, że część scen z Gry o Tron kręcona była na dwóch wyspach archipelagu (na Malcie i na Gozo).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/232_ua2qkv.jpg" padding="66.666"}
 
@@ -34,7 +34,7 @@ Right after we returned from Morocco in November, we've started to look for chea
 
 ## Kraków
 
-Most of first nine months of the year I spent in Cracow, mostly studying and working. During Easter I spent one day in Tatras hiking Ornak, since there was still a lot of snow.
+Nie jest niespodzianką, że większość czasu spędziłem w Krakowie pracując i studiując. W trakcie Wielkanocy pojechałem na jeden dzień na Ornak w Tatrach.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/240_zokr8m.jpg" padding="66.666"}
 
@@ -42,9 +42,9 @@ Most of first nine months of the year I spent in Cracow, mostly studying and wor
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/242_pwtpz9.jpg" padding="66.666"}
 
-## France & Switzerland
+## Francja i Szwajcaria
 
-At the end of July, I visited my friend who was working for CERN in Switzerland and living just by the French border in a small village surrounded by vineyards. During the trip to Lac Blanc, I saw Mont Blanc for the first time and hiking around it (or even reaching the peak) landed on a very high position on my bucket list.
+Pod koniec lipca odwiedziłem przyjaciela pracującego w CERNie w Szwajcarii i mieszkającego w małej wiosce otoczonej winnicami zaraz za francuską granicą. Podczas wycieczki do Lac Blanc pierwszy raz w życiu zobaczyłem Mont Blanc. Wycieczka dookoła szczytu (lub nawet wejście na niego) przesunęło się na bardzo wysoką pozycję na mojej liście rzeczy do zrobienia przed 30 (no, może przed 40).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/245_sqdn5u.jpg" padding="66.666"}
 
@@ -52,9 +52,9 @@ At the end of July, I visited my friend who was working for CERN in Switzerland 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/247_o82uzq.jpg" padding="66.666"}
 
-## Iceland
+## Islandia
 
-In September one of my biggest dreams came true. With my friend, Kajtek, I went to Iceland and hitchhiked there for 7 days. With the help of many wonderful people, we managed to do over 1000km and see some of the magnific parts of Iceland. After 7 days I can say one thing: I need to go there again!
+We wrześniu spełniłem jedno z moich największych marzeń: pojechaliśmy z Kajtkiem na Islandię, gdzie przez 7 dni jeździliśmy autostopem. Dzięki różnym wspaniałym ludziom z całego świata, przejechaliśmy ponad 1000km i zobaczyliśmy niektóre spośród cudów Islandii. Po 7 dniach na wyspie jestem pewien, że jeszcze tam wrócę!
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/251_ck7lbd.jpg" padding="66.666"}
 
@@ -62,9 +62,9 @@ In September one of my biggest dreams came true. With my friend, Kajtek, I went 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450371/stories/review-year-2016/253_yvoxwl.jpg" padding="66.666"}
 
-## The Netherlands
+## Holandia
 
-On 1st of October, I said goodbye to terrific Woblink Team and moved to Amsterdam to begin new adventure with Booking.com.
+Pierwszego października pożegnałem się ze wspaniałym zespołem Woblinka oraz Krakowem i przeprowadziłem się do Amsterdamu żeby rozpocząć przygodę z Booking.com.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450372/stories/review-year-2016/256_b0zjoj.jpg" padding="66.666"}
 
@@ -72,7 +72,7 @@ On 1st of October, I said goodbye to terrific Woblink Team and moved to Amsterda
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450372/stories/review-year-2016/258_rclio7.jpg" padding="66.666"}
 
-After first few days and finishing all the formal stuff, I read an article about wisents in Kennemerduinen National Park, about 6km from my new apartment. There is [a program that aims to reintroduce bisons to the Netherlands](https://www.wisenten.nl/nl). Currenly, about 20 bisons live in fence-covered area of park. During winter (from September to March) you can take a path and enter this area. If you are lucky enough (I was only twice so far!), you will see these beautiful animals.
+Po kilku pierwszych dniach i załatwieniu większości papierkowej roboty (mam nadzieję), natknąłem się na artykuł o żubrach w Parku Narodowym Kennemerduinen, około 6 km od mojego mieszkania. Od 2007 roku prowadzony jest tam [program przywrócenia żubrów do środowiska Holandii](https://www.wisenten.nl/nl). Obecnie w otoczonej płotem części parku mieszka około 20 żubrów (część z Polski!). Podczas zimy (od września do marca) zamknięty teren można przejść korzystając z wyznaczonej trasy. Przy odrobinie szczęścia, można się natknąć na te wspaniałe zwierzęta (póki co udało mi się tylko dwukrotnie, mimo że ciężko je przegapić).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450372/stories/review-year-2016/260_joqcnu.jpg" padding="66.666"}
 

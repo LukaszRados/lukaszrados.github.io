@@ -1,18 +1,18 @@
 ---
-title: 'Gap Year. Part 1: Sailing from England to France'
+title: 'Gap Year. Część 1: Na żaglach z Anglii do Francji'
 published_at: '2019-11-11'
-intro: In September 2019 together with a group of friends I decided to take a gap year. We bought a 36-feet long sailing yacht, repaired it and made it comfortable for living. This is the first of the series of posts about my gap year.
+intro: We wrześniu 2019 roku wraz z grupą znajomych postanowiliśmy zrobić sobie rok przerwy od pracy i osiadłego trybu życia. Kupiliśmy jedenastometrowy jacht żaglowy, wyremontowaliśmy go i zaadaptowaliśmy do życia na pokładzie. To jest pierwszy wpis z serii artykułów o naszej przygodzie.
 category: 'photography'
 background: v1663450709/stories/sailing-from-england-to-france/578_gm7y5u.jpg
 ---
 
-## England
+## Anglia
 
-The first step was to buy the yacht. In August we were a little bit behind the planned schedule, but it looked like we have finally found the right boat. After the initial viewing we decided to proceed with the survey and as a result we purchased 1996 Jeanneau 36.2.
+Pierwszym krokiem było kupno odpowiedniego jachtu. W sierpniu byliśmy już trochę spóźnieni, ale w końcu udało nam się znaleźć obiecującą łódkę. Po wstępnych oględzinach i opinii rzeczoznawcy kupiliśmy Jeanneau 36.2 z 1996 roku.
 
-It took us over a month to make all necessary repairs and adjustments to our new home. All of these works are well described on [the Sailing Moonshine blog](https://sailingmoonshine.com/en). Make sure to check it out!
+Nie byliśmy jeszcze gotowi do wypłynięcia. Dokonanie wszystkich poprzednich napraw i dostosowanie łodzi do życia zajęło nam ponad miesiąc. Cały proces został opisany na [blogu Sailing Moonshine](https://sailingmoonshine.com). Zapraszam do przeczytania!
 
-Although we spent over a month there I didn't have much time for photography being busy with daily repairs on boat. Most of the photos I made are broken boat parts and crew photos. I dedicated some of the time to testing my new toy - DJI Mavic Air and getting used to a new perspective it offers.
+Mimo spędzenia w Burnham on Crouch ponad miesiąca, nie udało mi się tam zrobić wielu zdjęć. Przez większość czasu byliśmy zajęci naprawami, a większość zdjęć przedstawia albo zepsute części, albo członków załogi. Miałem jednak trochę czasu na testowanie nowej zabawki - DJI Mavic Air.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/575_xkjhmz.jpg" padding="71.4"}
 
@@ -22,13 +22,13 @@ Although we spent over a month there I didn't have much time for photography bei
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/578_gm7y5u.jpg" padding="71.4"}
 
-Once the boat was ready we set sails. We left Burnham by the end of October and after a brief stop in Ramsgate we arrived to Dover. It was amazing to see the famous white cliffs of Dover. There we were getting ready to leave England and cross the English Channel.
+Kiedy tylko uporaliśmy się z najważniejszymi zadaniami postawiliśmy żagle. Z końcem października opuściliśmy Burnham i po krótkim odpoczynku w Ramsgate dotarliśmy do Dover. Widok słynnych białych klifów pod Dover był bezcenny. W Dover przygotowywaliśmy się do opuszczenia Anglii i przekroczenia kanału.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/580_x2mr5m.jpg" padding="150"}
 
-## France
+## Francja
 
-Once we crossed the English Channel we arrived to France. The first stop was Boulogne-sur-Mer, then Dieppe and Cherbourg. I especially liked Dieppe with its old town and white cliffs.
+Po przekroczeniu kanału znaleźliśmy się we Francji. Naszym pierwszym przystankiem było Boulogne-sur-Mer, następnie Dieppe i Cherbourg. Najbardziej podobało mi się w Dieppe - marina położona była w samym sercu starego miasta, a nad plaża wznosiły się białe klify.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/583_thyxsk.jpg" padding="66.666"}
 
@@ -38,7 +38,7 @@ Once we crossed the English Channel we arrived to France. The first stop was Bou
 
 ## Guernsey
 
-On our way from Cherbourg to Brest we made a stop on one of the Channel Islands - Guernsey. It is exactly the type of place which I had in my mind when buying the boat - better accessible by yacht than by any other means of communication.
+W drodze z Cherbourga do Brestu odwiedziliśmy wyspę Guernsey. Jest to jedno z takich miejsc, dla których chciałem kupić jacht - łatwiej dostać się tam łodzią niż czymkolwiek innym.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450710/stories/sailing-from-england-to-france/588_niqfgt.jpg" padding="66.666"}
 
@@ -48,9 +48,9 @@ On our way from Cherbourg to Brest we made a stop on one of the Channel Islands 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/590_cmb9f6.jpg" padding="150"}
 ::
 
-## France again
+## Francja (ponownie)
 
-After short stop in Guernsey we continued our journey along the French coast. We have arrived to Camaret sur Mer where we spent several days doing necessary repairs before crossing the Bay of Biscay. Camaret is located at the end of a beautiful peninsula with majestic cliffs and wide sand beaches. The weather finally showed some mercy and I managed to take several photos.
+Po krótkim pobycie na Guernsey popłynęliśmy dalej wzdłuż francuskiego wybrzeża. Dopłynęliśmy do Camaret sur Mer gdzie zatrzymaliśmy się na kilka dni w celu dokonania koniecznych napraw i przygotowania do przekroczenia Zatoki Biskajskiej. Camaret położone jest na pięknym półwyspie, otoczonym przez klify i szerokie, piaszczyste plaże. Pogoda w końcu poprawiła się na tyle, żebym mógł wybrać się w plener.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450710/stories/sailing-from-england-to-france/593_qvfbwp.jpg" padding="66.666"}
 
@@ -68,6 +68,6 @@ After short stop in Guernsey we continued our journey along the French coast. We
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450710/stories/sailing-from-england-to-france/600_lxgplo.jpg" padding="75"}
 
-We are currently in Caramet sur Mer waiting for the weather window to cross the Bay of Biscay. It will be the longest leg of our sailing trip so far. Keep your fingers crossed and make sure to follow [Sailing Moonshine](https://sailingmoonshine.com/en). Make sure to check out [our channel trailer on YouTube](https://www.youtube.com/channel/UCsElUkhG9KKmbtSKmMdIBAA) (with English subtitles).
+Aktualnie znajdujemy się w Camaret sur Mer i czekamy na okienko pogodowe, które umożliwi nam przepłynięcie Zatoki Biskajskiej. To będzie najdłuższy przelot do tej pory. Trzymajcie kciuki i śledźcie [s/y Moonshine](https://sailingmoonshine.com). Na zachętę zapraszam do obejrzenia [zwiastuna naszego kanału na YouTube](https://www.youtube.com/channel/UCsElUkhG9KKmbtSKmMdIBAA).
 
 <video-lazy id="2CA9TbXGKQI"></video-lazy>

@@ -1,16 +1,16 @@
 ---
-title: 'The North of Spain: Asturias, Cantabria and the Basque Country'
+title: 'Północ Hiszpanii: Asturia, Kantabria i Kraj Basków'
 published_at: '2022-08-31'
-intro: August is the hottest month of the year in Barcelona so this year we decided to escape the heat by heading north. The weather there is milder, grass always greener and rain happens even in the summertime.
+intro: Sierpień jest najgorętszym miesiącem w Barcelonie, więc w tym roku postanowiliśmy uciec na północ Hiszpanii, gdzie pogoda jest łagodniejsza, trawa bardziej zielona, a deszcz pada nawet w sierpniu.
 category: 'photography'
 background: v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-7_gjtcjf.jpg
 ---
 
-On our way to Asturias we made a stop in Zaragoza. Although we only stopped to recharge batteries before the road ahead, the city turned out to be a really positive surprise.
+W drodze do Asturii zatrzymaliśmy się w Saragossie. Choć naszym głównym celem było nabrać energii przed dalszą jazdą, miasto okazało się bardzo pozytywnym zaskoczeniem.
 
-Most of the time in Asturias was spent hiking in Picos de Europa National Park. Only slightly bigger than Tatry Mountains, the park is one of the most visited places in Spain. And for a good reason - the landscape is marvelous, full of beautiful lakes, rocky peaks reaching up to 2600m and inhabited by countless cows. We saw Lagos de Covadonga, hiked Ruta del Cares and did some mountain biking. 
+Większość czasu w Asturii spędziliśmy wędrując po Parku Narodowym Picos de Europa. Mimo powierzchni niewiele większej od Tatr, Picos de Europa są jednym z najchętniej odwiedzanych miejsc w Hiszpanii. Nie bez powodu - krajobraz jest niesamowity, z pięknymi jeziorami, strzelistymi szczytami przekraczającymi 2600m n.p.m i pasącymi się wszędzie krowami. Udało nam się zobaczyć Lagos de Covadonga, Rutę del Cares, a także wybrać na rowery górskie.
 
-After leaving Picos de Europa we explored the coast. Located at the south of the Bay of Biscay, the coast is full of cliffs, small beaches and unbelievable rock formations. Rapidly changing weather with a lot of rain created wonderful photography conditions and offered a long awaited rest from the summertime heat. 
+Po opuszczeniu Picos de Europa skupiliśmy się na eksplorowaniu wybrzeża. Położone nad słynącą z gwałtownych sztormów Zatoką Biskajską, charakteryzuje się bogactwem klifów, małych plaż i ciekawych formacji skalnych. Zmienna pogoda, z dużą ilością deszczu, oznaczała świetne warunki do fotografowania. I oferowała tak bardzo potrzebne wytchnienie od letniego upału.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-1_eet59p.jpg" padding="66.666"}
 

@@ -1,16 +1,16 @@
 ---
-title: 'Iceland. One more time'
+title: 'Islandia. Po raz drugi'
 published_at: '2018-09-29'
-intro: In 2016 I made my dream of visiting Iceland come true and for 7 days I was hitchhiking, camping in marvellous locations and photographing amazing landscapes. Since then I wanted to come back. This year together with Jola and Wojtek we planned a road trip to Iceland.
+intro: W 2016 roku spełniłem swoje marzenie i poleciałem na Islandię, gdzie przez 7 dni jeździłem autostopem, biwakowałem w pięknych miejscach i fotografowałem niezwykłe krajobrazy. Od tamtego czasu miałem ogromną ochotę wrócić i w tym roku namówiłem Jolę i Wojtka na wspólny wyjazd.
 category: 'photography'
 background: v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg
 ---
 
-Initial plan was quite similar to what I did in 2016, but this time we decided to rent a car. This allowed us to go to Snæfellsnes peninsula which I skipped last time. We had absolutely no exceptations regarding the weather - after all the end of September is not exactly a high season on Iceland. But deep inside we really hoped to see Northern Lights.
+Plan był nieco podobny do tego z 2016, jednak tym razem postanowiliśmy wypożyczyć samochód. Dzięki temu mogliśmy dorzucić wizytę na półwyspie Snæfellsnes, na którą poprzednim razem brakło mi czasu. Nie mieliśmy większych oczekiwań wobec pogody - końcówka września to już okres poza sezonem na Islandii, ale gdzieś w głębi serc mieliśmy nadzieję chociaż raz zobaczyć zorzę.
 
 ## Hvalfjörður
 
-The plan was as follows: one or two days of exploring Snæfellsnes (which is truly a paradise for a landscape photographer), Golden Circle (to see Geysir) and then driving all the way to Jökulsárlón. The first point was a night in Hvalfjörður, around 100 kilometers from Reykjavík.
+Plan zakładał spędzenie jednego lub dwóch dni na półwyspie Snæfellsnes, który jest prawdziwym rajem dla fotografów (a właściwie to podobnie jak cała Islandia), przejazd przez Golden Circle celem zobaczenia Geysira oraz dojazd aż do Jökulsárlón na południowym wschodzie. Pierwszy punktem był jednak nocleg w fiordzie Hvalfjörður, około 100 km od Reykjaviku.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding="66.666"}
 
@@ -22,9 +22,9 @@ The plan was as follows: one or two days of exploring Snæfellsnes (which is tru
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/397_riqupf.jpg" padding="56.25"}
 
-## Snæfellsnes peninsula
+## Półwysep Snæfellsnes
 
-After surprisingly cold night we moved towards Snæfellsnes experiencing all possible weather phenomena: rain and rainbows, hail and even snow.
+Po zaskakująco chłodnej nocy ruszyliśmy w stronę Snæfellsnes, po drodze doświadczając po trochu wszystkich zjawisk pogodowych czekających nas w następnych dniach: był deszcz i następujące po nim tęcze, był grad, a nawet śnieg.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583219/stories/one-more-time-to-iceland/399_m2nfew.jpg" padding="56.25"}
 
@@ -34,7 +34,7 @@ After surprisingly cold night we moved towards Snæfellsnes experiencing all pos
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/413_hxaxwd.jpg" padding="61"}
 
-The greatest advantage of Iceland is fact that there is something beautiful nearly everywhere. If you are lazy you don't even need to leave the car, just drive around and admire.
+Wielką zaletą Islandii jest to, że niemalże wszędzie jest pięknie. Jeśli ktoś jest bardzo leniwy to nie musi nawet wysiadać z samochodu żeby podziwiać widoki, ponieważ same drogi są niezwykle malownicze.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/408_xanxlc.jpg" padding="66.666"}
 
@@ -44,7 +44,7 @@ The greatest advantage of Iceland is fact that there is something beautiful near
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583220/stories/one-more-time-to-iceland/407_rbxeab.jpg" padding="66.666"}
 
-Snæfellsnes is where one of the most popular icelandic landmarks are located: Lóndrangar cliffs, Búðakirkja church and Kirkjufell mountain (known from 'Game of Thrones'). Most of these places are so popular that there are fences and it was hard for me to find a new fresh frame.
+Na półwyspie Snæfellsnes można znaleźć jedne z najbardziej rozpoznawalnych kadrów Islandii: klify Lóndrangar, kościół Búðakirkja i górę Kirkjufell (znaną z 'Gry o Tron'). Większość z tych miejsc jest ogrodzona i dość ciężko było mi znaleźć nowe, świeże spojrzenie na te klasyki.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/410_x65fh8.jpg" padding="66.666"}
 
@@ -60,7 +60,7 @@ Snæfellsnes is where one of the most popular icelandic landmarks are located: L
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/415_nioznj.jpg" padding="150"}
 ::
 
-It is worth spending some time exploring Snæfellsnes. You can find many less popular, but lovely beaches and bays that create opportunities for more unique shots.
+Mając trochę czasu warto pokręcić się po Snæfellsnes. Można znaleźć wiele mniej popularnych, ale równie urokliwych plaż, które stwarzają szanse na bardziej unikalne ujęcia.
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583214/stories/one-more-time-to-iceland/417_el9b3i.jpg" padding="150"}
@@ -72,9 +72,9 @@ It is worth spending some time exploring Snæfellsnes. You can find many less po
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/420_hrdw2a.jpg" padding="56.25"}
 
-## Golden Circle and Southern Iceland
+## Golden Circle i Południowa Islandia
 
-Most of the trip we spent in places I already knew. We explored the southern part of the island, starting in Vík í Mýrdal until Jökulsárlón, and Golden Circle. For me it was a perfect situation. I didn't feel any pressure to take standard photos since I had already taken them before two years earlier. I could focus on more creative frames and experiment a little bit.
+Główną część wyjazdu spędziliśmy w miejscach, które już znałem - eksplorując południe wyspy (od Vík í Mýrdal aż po Jökulsárlón) oraz Golden Circle. Po raz pierwszy w życiu wróciłem do tak pięknego miejsca, mając równocześnie tyle luzu jeśli chodzi o fotografowanie. W końcu dwa lata temu wykonałem już zdjęcia wszystkich głównych atrakcji, tym razem mogłem się więc skupić na poszukiwaniu świeżych kadrów.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583215/stories/one-more-time-to-iceland/425_rd7ecj.jpg" padding="62"}
 
@@ -86,7 +86,7 @@ Most of the trip we spent in places I already knew. We explored the southern par
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/429_yvvmae.jpg" padding="56.25"}
 
-One of the most popular Iceland's landmarks is Jökulsárlón lake full of floating icebergs. As much as I like this place, I find close by lake Fjallsárlón more appealing as it's easier to find a good composition there and it's less crowded.
+Jedną z najbardziej znanych atrakcji południowej Islandii jest zatoka Jökulsárlón w której dryfują odrywające się od lodowca kry. Moim zdaniem jednak bardziej urokliwe jest znajdujące się zaledwie 10 minut wcześniej jezioro Fjallsárlón, które nie dość że jest łatwiejsze to objęcia na jednym zdjęciu, to jest zdecydowanie mniej zatłoczone.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583216/stories/one-more-time-to-iceland/431_vscbbc.jpg" padding="56.25"}
 
@@ -100,7 +100,7 @@ One of the most popular Iceland's landmarks is Jökulsárlón lake full of float
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/435_jt3oc6.jpg" padding="66.666"}
 
-After barely six days, with a card full of photos, we made our way back to the airport. We visited Fjaðrárgljúfur canyon, Gullfoss waterfall, Geysir and Garður lighthouse before finally arriving to the airport in Keflavik.
+Po niecałych sześciu dniach, z kartą zapełnioną zdjęciami, ruszyliśmy w drogę powrotną z Jökulsárlón na lotnisko w Keflaviku, zahaczając jeszcze o wąwóz Fjaðrárgljúfur, wodospad Gullfoss, Geysir oraz latarnię morską w Garður.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583217/stories/one-more-time-to-iceland/438_vxsmtb.jpg" padding="66.666"}
 
@@ -114,7 +114,7 @@ After barely six days, with a card full of photos, we made our way back to the a
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/444_mi7ljs.jpg" padding="66.666"}
 
-Last but not least it's worth a mention how great my company was. Regardless the rain, snow, cold and wind they kept accepting me saying 'let's stop only for five minutes' and 'let's wait for a better light'. Spacial thanks to [Jola](https://www.instagram.com/jolanta_lesniara/) and [Wojtek](https://www.instagram.com/wojtekmieszczak/).
+Na koniec warto wspomnieć o moich towarzyszach podróży, którzy mimo deszczu, śniegu, zimna i wiatru dzielnie znosili moje ciągłe 'zatrzymajmy się na pięć minutek' i 'poczekajmy na lepsze światło'. Podziękowania kieruję do [Joli](https://www.instagram.com/jolanta_lesniara/) i [Wojtka](https://www.instagram.com/wojtekmieszczak/).
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/446_ukiyf9.jpg" padding="150"}

@@ -1,18 +1,18 @@
 ---
-title: 'Gap Year. Part 3: Covid 19 and Sailing the Mediterranean Sea'
-published_at: '2020-12-01'
-intro: In two previous posts I told you about the great adventure I decided to start in 2019. Today I invite you to read the final part of my gap year update. In March we entered the Mediterranean Sea, the water was warming up and weather was more pleasant every day. And then the Covid 19 happened.
+title: 'Gap Year. Część 3: Koronawirus i żeglowanie po Morzu Śródziemnym'
+published_at: '2020-12-10'
+intro: W poprzednich dwóch postach opisałem początki wspaniałej przygody, którą rozpocząłem w 2019 roku. Dzisiaj zapraszam do przeczytania ostatniej, trzeciej części mojej historii. W marcu wpłynęliśmy na Morze Śródziemne. Woda ocieplała się z dnia na dzień, pogoda robiła się coraz bardziej przyjemna. I właśnie wtedy złapał nas koronawirus.
 category: 'photography'
 background: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg
 ---
 
-Let's start from the beginning. After visiting rich in flavours and adventures Morocco we set sails and sailed towards Gibraltar. We were at known waters. Few years back we sailed with a group of friends the same route, just the other way around. After crossing the Strait of Gibraltar we moored in La Linea in Spain.
+Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku postawiliśmy żagle i popłynęliśmy w stronę Gibraltaru. Kilka lat temu pokonaliśmy z przyjaciółmi ten sam odcinek w przeciwnym kierunku, można więc powiedzieć, że znaleźliśmy się na znajomych wodach. Po przekroczeniu zatłoczonej Cieśniny Gibraltarskiej udaliśmy się do portu La Linea w Hiszpanii.
 
-## Gibraltar & Ceuta
+## Gibraltar i Ceuta
 
-We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at [the blog post I wrote back in 2015](/blog/sailing-from-spain-to-morocco). 
+W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania <nuxt-link to='/blog/sailing-from-spain-to-morocco'>wpisu z 2015 roku</nuxt-link>, gdzie opisałem te zwierzęta i legendę z nimi związaną.
 
-After leaving Gibraltar we crossed the Strait for the third time and went to Ceuta. We wanted to see the enclave in Africa, but unfortunately we only spent a day there before going back to Europe.
+Po wyjściu z Gibraltaru przecięliśmy (po raz trzeci) cieśninę i popłynęliśmy do Ceuty. Chcieliśmy zobaczyć tę hiszpańską enklawę w Afryce. Niestety spędziliśmy tam zaledwie jeden dzień i połynęliśmy znów w stronę Europy.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
 
@@ -22,33 +22,33 @@ After leaving Gibraltar we crossed the Strait for the third time and went to Ceu
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-4_zicfy4.jpg" padding="66.666"}
 
-_From the top of the Rock of Gibraltar even big yachts look like toys._
+_Ze skały Gibraltarskiej nawet spore jachty wyglądają jak zabawki._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-5_eudsro.jpg" padding="66.666"}
 
-_Rif Mountains (Africa) to the left, the Rock of Gibraltar (Europe) to the right._
+_Góry Rif (Afryka) po lewej stronie, Skała Gibraltarska (Europa) po prawej._
 
-## Lockdown in Spain
+## Lockdown w Hiszpanii
 
-Sailing along the coast of Andalusia we were stopping by in ports and carefully listening to the news. And the news was not optimistic. More and more countries were introducing movement restrictions and closing external borders. In the middle of March we arrived in Caleta de Velez, just several miles east from Malaga. We found out that Spain is going into lockdown for two weeks and we need to spent these days in marina. It was not the best news but we were still in a good mood. After all two weeks is not a long time and we can spend it making some repairs and resting.
+Płynąc wzdłuż wybrzeża Andaluzji zatrzymywaliśmy się w kolejnych portach i z uwagą słuchaliśmy nadchodzących ze świata wiadomości. A te zdecydowanie nie były optymistyczne. Kolejne kraje zamykały swoje granice i wprowadzały ograniczenia w przemieszczaniu się. Połowa marca zastała nas w miejscowości Caleta de Velez, nieco na wschód od Malagi. To tutaj dowiedzieliśmy się, że Hiszpania zamyka się na dwa tygodnie i będziemy musieli zostać na terenie mariny. Nie była to najlepsza wiadomość, ale nasze nastroje były pozytywne. W końcu dwa tygodnie to niewiele czasu, który możemy spędzić na naprawach i odpoczynku.
 
-Unfortunately covid was just starting. The number of active cases and deaths caused by the virus were growing rapidly and two weeks of lockdown were prolonged to four. And then to six. And to eight.
+Niestety po dwóch tygodniach statystyki wcale się nie poprawiały. Liczba aktywnych przypadków i śmierci spowodowanych koronawirusem wciąż rosła, a Hiszpania przedłużyła lockdown o kolejne dwa tygodnie. A następnie o kolejne dwa. I o kolejne.
 
-In the end we spent 97 days in Caleta de Velez. We spent them working, repairing the boat, excercising and making sure our brain is sharp. It was definitely a tough time. Nobody plans their gap year to spent almost one hundred days in lockdown.
+Ostatecznie spędziliśmy w Calecie 97 dni. Upłynęły one nam na pracy zawodowej, pracach na łódce, ćwiczeniach fizycznych i umysłowych. Był to dla nas zdecydowanie trudny czas. Nikt nie planuje swojego roku żeglowania z myślą o utknięciu gdzieś na prawie sto dni.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-6_suisas.jpg" padding="66.666"}
 
-_Boardgames helped us to forget about quarantine for a bit. Luckily we didn't have Monopoly._
+_Gry planszowe pomagały nam na chwilę zapomnieć o kwarantannie. W zachowaniu spokoju pomagał też brak Monopoly._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-7_l0xeqs.jpg" padding="66.666"}
 
-_Even the most beautiful sunsets are boring if you are stuck in one place._
+_Nawet najpiękniejsze zachody słońca szybko się nudzą, gdy człowiek jest zamknięty w jednym miejscu._
 
-## Sailing again. Spain
+## Płyniemy. Hiszpania
 
-In the beginning of June lockdown in Spain was gradually lifted. In the beginning the freedom of movement inside the province was restored. We still could not sail anywhere, but we rented a car and went for a roadtrip. We visited Malaga, Grenada and Ronda.
+Od początku czerwca Hiszpania rozpoczęła wychodzenie z lockdownu. Początkowo odzyskaliśmy możliwość podróży wewnątrz prowincji. Żeglarsko wciąż byliśmy uziemieni, ale wypożyczyliśmy samochód i pojechaliśmy zobaczyć okoliczne miasta: Malagę, Granadę i Rondę. 
 
-In the middle of June the movement restrictions were lifted. We only needed to wait the storm raging at Alboran Sea and we were good to go towards Balearic Islands. We anchored off the beautiful Formentera, Ibiza and Mallorca. We paid a short visit to Menorca. The beauty of Formentera is best to be admired with a bird's eye. Together with Jola we made a short video:
+W połowie czerwca restrykcje w przemieszczaniu się pomiędzy prowincjami zostały zniesione. Musieliśmy jeszcze tylko przeczekać szalejący na Morzu Alborańskim sztorm i połynęliśmy w stronę Balearów. Tam kotwiczyliśmy na pięknej Formenterze, Ibizie i Majorce, a także odwiedziliśmy na chwilę Minorkę. Uroki Formentery najlepiej podziwiać z powietrza na nagranym przeze mnie i Jolę filmiku:
 
 <video-lazy id="zAVR4EPYZrk"></video-lazy>
 
@@ -58,67 +58,67 @@ In the middle of June the movement restrictions were lifted. We only needed to w
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-23_w9xkxo.jpg" padding="66.666"}
 
-We wanted to catch up with our original plan so we were sailing without a break. After all we wanted to get to Italy and Greece. Moreover, a presidential elections were organised in Poland in the end of June. We really wanted to vote so we registered in Italy. It was yet another reason to go to Sardinia.
+Chcieliśmy nadrobić "stracony" w trakcie lockdownu czas i pływaliśmy niemalże bez przerwy. Czekały na nas w końcu upragnione Włochy i Grecja. Dodatkowo pod koniec czerwca zorganizowano w Polsce wybory prezydenckie. Bardzo chcieliśmy w nich wziąć udział, więc zarejestrowaliśmy się korespondencyjnie we Włoszech. To przyśpieszyło naszą decyzję o przelocie na Sardynię.
 
-## Italy. Sardinia, Sicily and Aeolian Islands
+## Włochy. Sardynia, Sycylia i Wyspy Liparyjskie
 
-The weather at the Mediterranean Sea is totally different from the Atlantic Ocean. Due to complicated terrain and variety of local effects it is quite hard to predict it long term. The best strategy is to get familiar with local effects and careful planning. One of the local winds is Mistral that blows from France and causes storms between Balearic Islands and Sardinia and in the Gulf of Lion. Luckily we were not waiting long for a weather window and we could safely sail to Sardinia. 
+Pogoda na Morzu Śródziemnym wygląda zdecydowanie inaczej niż na Oceanie Atlantyckim. Ze względu na ukształtowanie terenu i mnogość lokalnych efektów pogodowych bardzo ciężko jest ją przewidywać z wyprzedzeniem. Najlepszym rozwiązaniem jest znajomość lokalnych wiatrów i obserwacja prognozy pogody. Jednym z lokalnie wiejących wiatrów jest Mistral, formujący się we Francji i powodujący gwałtowne sztromy pomiędzy Balearami i Sardynią, i w Zatoce Liońskiej. Na szczęście dość szybko trafiło nam się okno pogodowe i mogliśmy połynąć w stronę Sardynii. 
 
-In Sardinia we got a bit rest after the sailing marathon. In two weeks we sailed from Andalusia to Sardinia and we felt tired. We gladly slowed down and went for some exploration. We decided to sail north, make a short stop in Corsica and then sail south along the eastern coast of Sardinia.
+Na Sardynii mogliśmy trochę odpocząć po żeglarskim maratonie. W dwa tygodnie przepłynęliśmy z Andaluzji na Sardynię i trochę dało nam to w kość. Z przyjemnością wyruszyliśmy na zwiedzanie wyspy. Zdecydowaliśmy się opłynąć ją od północy, z krótką wizytą na Korsyce. Następnie popłynęliśmy wzdłuż wschodniego brzegu na południe wyspy. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-10_segatm.jpg" padding="75"}
 
-_Moonshine anchored by Cabo Caccia._
+_Moonshine na kotwicy pod Cabo Caccia._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-11_wqwoax.jpg" padding="66.666"}
 
-_Once the temperature of the water rose to 25°C snorkeling and jumping to the water became a necessity._
+_Od momentu w którym temperatura wody przekroczyła 25°C nurkowanie i skoki do wody stały się naszą codziennością._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-12_k4vzbg.jpg" padding="66.666"}
 
-_Sunrise in Castelsardo. During the summer months clouds were rare which wasn't great for landscape photography._
+_Wschód słońca w Castelsardo. W trakcie letnich miesięcy chmury pojawiały się na niebie sporadycznie, co utrudniało fotografię krajobrazową._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-13_aomghj.jpg" padding="66.666"}
 
-_Moonshine under way to Corsica. Splendid conditions and almost six knots of average speed._
+_Moonshine w drodze na Korsykę. Piękne warunki i prawie sześć węzłów średniej prędkości._
 
-The next stop on our way was Sicily. We mostly wanted to see the Aeolian Islands, a small archipelago of vulcanic islands to the north of Sicily. Getting there without own boat is challenging. Aeolian Islands were definitely one of the most beautiful places visited during our trip.
+Kolejnym celem na naszej drodze była Sycylia. Najbardziej zależało nam na odwiedzeniu Wysp Liparyjskich. Jest to mały archipelag wuklanicznych wysp na północ od Sycylii. Dostanie się tutaj bez własnej żaglówki jest dość karkołomne. Wyspy Liparyjskie były zdecydowanie jednym z najpiękniejszych miejsc na naszej drodze. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-28_xovk94.jpg" padding="66.666"}
 
-_Moonshine under sails on the way from Palermo to Aeolian Islands._
+_Moonshine pod pełnymi żeglami w drodze z Palermo na Wyspy Liparyjskie._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-14_fcnfcg.jpg" padding="150"}
 
-_Sunrise at the Vulcano island. The island's name is the origin of word 'volcano'. The clouds are actually sulfur fumes._
+_Wschód słońca na wyspie Vulcano od której nazwę wzięły wulkany. Obłoki na zdjęciu to nie chmury, ale wyziewy siarki._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-25_uurs8r.jpg" padding="66.666"}
 
-_Panorama from the peak of volcano. Moonshine is anchored in the bay to the right of the peninsula._
+_Widok ze szczytu wulkanu na zatokę, w której kotwiczy Moonshine (po prawej stronie półwyspu)._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg" padding="66.666"}
 
-_On our way to Stromboli island where an active volcano is located. In the photo there is a cloud of ash coming out from the crater._
+_W drodze na wyspę Stromboli, na której znajduje się aktywny wulkan. Na zdjęciu widać jeden z regularnych wyrzutów pyłu._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-26_iqlora.jpg" padding="66.666"}
 
-_Anchorage next to Stromboli at a perfect windless morning. Mornings like that made us say "it was worth it"._
+_Kotwicowisko pod Stromboli i idealnie bezwietrzny poranek. To takie poranki sprawiały, że mówiliśmy sobie "było warto"._
 
-## Greece. Ionian Sea, Crete and Cyclades
+## Grecja. Morze Jońskie, Kreta i Cyklady
 
-After leaving Italy we went to Greece. It was my first visit to the country so the expectations were rather high. After all it is the country that every kid in the world knows from the history lessons at school.
+Z Włoch przepłynęliśmy do Grecji. Nie miałem okazji wcześniej odwiedzić tego kraju, ale miałem wysokie wymagania. Ostatecznie jest to kraj o którym każde dziecko na świecie uczy się na lekcjach historii. 
 
-Our stay in Greece started with a tremendous thunderstorm. Luckily we were safely moored in a marina. The instability of weather became a recurring pattern. In Greece we encountered (luckily from a safe distance) a medicane - mediterranean cyclone - that has devastated many of places visited by us before. Other than that the weather was perfect for sightseeing.
+Grecja przywitała nas potężną burzą, którą na szczęście spędziliśmy bezpiecznie zacumowani w marinie. Niestabilność pogody była jednak powracającym problemem. W Grecji spotkaliśmy się (z dużej odległości) z cyklonem śródziemnomorskim, który spustoszył miejsca poprzednio przez nas odwiedzone. Mimo to przez większość czasu pogoda była perfekcyjna i umożliwiała intensywne zwiedzanie.
 
-Getting to Greece meant that we could finally slow down. Since we planned to end the journey in here, there was no need to rush to the next destination. We spent over a month at Ionian Sea, then we sailed to Crete, Cyclades and finally we finished in a small town Kilada in Peloponnese. After selling the boat we came back to Santorini (by plane this time).
+To w Grecji właśnie mogliśmy w końcu zwolnić tempo zwiedzania. Planowaliśmy zakończyć naszą przygodę w tym kraju, więc nie musieliśmy się spieszyć do kolejnego celu. Spędziliśmy ponad miesiąc na Morzu Jońskim, następnie popłynęliśmy na Kretę, Cyklady, by ostatecznie zakończyć naszą przygodę w niewielkiej miejscowości Kilada na Peloponezie. Po sprzedaży łódki, już samolotem i promem, wróciliśmy jeszcze na Santorini. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-15_ckzqea.jpg" padding="66.666"}
 
-_One of the unexpected thunderstorms approaching. Due to conditions we left the anchorage and went out to the sea._
+_Jedna z gwałtownych i niespodziewanych burz w Grecji. Ze względu na warunki opuściliśmy kotwicowisko i wypłynęliśmy na morze._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-16_mv7vrc.jpg" padding="66.666"}
 
-_The only advantage of thunderstorms were beautiful sunsets._
+_Jedyną zaletą burz były piękne zachody słońca._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-17_xe1twg.jpg" padding="66.666"}
 
@@ -130,14 +130,14 @@ _The only advantage of thunderstorms were beautiful sunsets._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-20_u5u6sd.jpg" padding="66.666"}
 
-_Anchorage in Kilada. This is where we said goodbye to Moonshine and we left her in the hands of new owners._
+_Kotwicowisko w Kiladzie. To tutaj pożegnaliśmy się z Moonshine i przekazaliśmy ją w ręce nowych właścicieli (na zdjęciu inna żaglówka)._
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-21_wpehr5.jpg" padding="66.666"}
 
-_Santorini. Once the boat was sold we decided with Jola to check why is Santorini so popular and recognizable. We must admit that views are marvellous, but we prefer the small and less touristic islands._
+_Santorini. Po sprzedaży łódki postanowiliśmy z Jolą sprawdzić co sprawia, że Santorini jest chyba najbardziej rozpoznawalną wyspą Grecji. Musimy przyznać, że widoki są piękne, ale my zdecydowanie lepiej czuliśmy się w mniej turystycznych częściach kraju._
 
-## Summary
+## Podsumowanie
 
-After a bit over a year our adventure came to an end in Greece. The boat was sold and we are slowly returning to what's called "a normal life". Despite the problems I mentioned in my posts (storms in Atlantic Ocean, covid lockdown in Spain) we will remember this year for life. It was probably the most interesting adventure of our lives (well, at least so far!).
+Po nieco ponad roku nasza przygoda z Moonshine zakończyła się w Grecji. Łódka znalazła nowych właścicieli, a my powoli wracamy do "normalnego" życia. Mimo opisywanych w tych trzech wpisach problemów (sztormy na Atlantyku, kwarantanna w Hiszpanii), będziemy wspominać ten rok do końca życia. Była to prawdopodobnie najciekawsza przygoda w naszych dotychczasowych życiach.
 
-I will soon publish another article where I will try to summarize the gap year and answer some interesting questions. Why have I made so few photos? Is it possible to work and travel on board an 11-metres long boat? And what have we learnt during those 13 months and what would we change?
+Niedługo postaram się opublikować kolejny wpis, w którym dokonam podsumowania mijającego roku i postaram się odpowiedzieć na kilka pytań. Dlaczego powstało tak mało zdjęć? Czy da się pracować i podróżować z pokładu jedenastometrowej łódki? Czego nauczyliśmy się w ciągu tych 13 miesięcy i co zrobilibyśmy inaczej?

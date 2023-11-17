@@ -1,18 +1,18 @@
 ---
-title: 'Camí de Ronda. Two-days hike along Costa Brava'
+title: 'Camí de Ronda. Dwudniowa piesza wędrówka wzdłuż Costa Brava'
 published_at: '2023-04-16'
-intro: Camí de Ronda is one of the most popular hiking trails in Catalonia. The standard route aligns (partially) with GR 92 and follows Costa Brava, starting in Begur and ending in Sant Feliu de Guíxols. Together with Jola we walked the 32 km part of it on April weekend.
+intro: Camí de Ronda to jeden z popularnych szlaków pieszych w Katalonii. Najbardziej klasyczna wersja podąża (częściowo) za GR 92 i prowadzi wzdłuż wybrzeża Costa Brava, zaczynając się w Begur i kończąc w Sant Feliu de Guíxols. W kwietniowy weekend przeszliśmy z Jolą dwudniowy odcinek o długości 32 km.
 category: 'photography'
 background: v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg
 ---
 
-April and May seem like the perfect months for doing the hike. The day temperatures are already (and still) quite moderate, sun is almost guaranteed, lots of flowers are blooming and the most popular coastal towns are not crowded yet. The only minor flaw is the sea temperature (14°C, 57F) which is a bit too cold for my liking.
+Kwiecień i maj wydają mi się perfekcyjnymi miesiącami na przejście Camí de Ronda. Temperatury w ciągu dnia są już (i jeszcze) bardzo przyjemne, można liczyć na sporo słońca, kwitnie wiele gatunków kwiatów, a najpopularniejsze miejscowości nie są jeszcze zatłoczone. Jedyną wadą jest temperatura wody w morzu (około 14°C), która sprawia, że kąpiele uważam za zajęcie dla koneserów.
 
-We decided to do a two-day hike of 32 km, starting in Begur and finishing in Platja d’Aro, with a night in Calella de Palafrugell. This part of the route seems the most interesting to me and shorter distance allows slower tempo and more photo (and food) breaks. Moreover we have already covered the remaining part by bicycles. The start and the end of the route have a direct bus connection with Barcelona.
+Zdecydowaliśmy się na dwudniowy fragment o długości 32 km, zaczynając z Begur i kończąc w Platja d’Aro, z noclegiem w Calella de Palafrugell. Odcinek ten wydaje mi się najciekawszy, krótszy dystans pozwala na spokojną wycieczkę z licznymi przystankami na zdjęcia i posiłki. Dodatkowo pozostały odcinek mieliśmy już okazję przejechać rowerami. Początek i koniec trasy są połączone z Barceloną bezpośrednią linią autobusową.
 
-Below you can see a few photos from the two days we spent on the trail.
+Zapraszam do obejrzenia kilku zdjęć z dwóch dni na szlaku.
 
-## Day 1: Begur - Calella de Palafrugell (14 km)
+## Dzień 1: Begur - Calella de Palafrugell (14 km)
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05020_riqpu8.jpg" padding="66.666"}
 
@@ -47,7 +47,7 @@ Below you can see a few photos from the two days we spent on the trail.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673490/stories/cami-de-ronda/cami-de-ronda-05231_jetskj.jpg" padding="66.666"}
 
-## Day 2: Calella de Palafrugell - Platja d'Aro (18 km)
+## Dzień 2: Calella de Palafrugell - Platja d'Aro (18 km)
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673490/stories/cami-de-ronda/cami-de-ronda-05298_h59yf2.jpg" padding="66.666"}
 

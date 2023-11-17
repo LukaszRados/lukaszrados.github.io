@@ -17,8 +17,8 @@ Browsing the photos after coming back home I am really surprised with the photos
 It was my third visit to Lisbon. In 2018 I spent a few days here during [my first trip to Portugal](/blog/portugal-from-south-to-north). In 2020 [we got stuck here for two weeks during a storm](/blog/sailing-to-the-mediterranean-sea) and we had a chance to do some sightseeing. I really like this city, especially for its location on hills, by Tagus River and at the Atlantic coast.
 
 ::two-columns
-  :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_1_aqvhxw.jpg" padding="150"}
-  :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_2_gqroyq.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_1_aqvhxw.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_2_gqroyq.jpg" padding="150"}
 ::
 
 ## Madeira
@@ -46,8 +46,8 @@ The cliffs in Madeira are among the highest in the world, reaching up to almost 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_8_gsuw0w.jpg" padding="66.666"}
 
 ::two-columns
-  :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_7_ckbtnp.jpg" padding="150"}
-  :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515486/stories/madeira-eternal-spring/madeira_15_j5ovfp.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_7_ckbtnp.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515486/stories/madeira-eternal-spring/madeira_15_j5ovfp.jpg" padding="150"}
 ::
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515486/stories/madeira-eternal-spring/madeira_19_uz0ru7.jpg" padding="66.666"}

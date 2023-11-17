@@ -1,103 +1,103 @@
 ---
-title: 'Autumn and winter in the mountains of Poland'
+title: 'Jesień i zima w polskich górach'
 published_at: '2021-01-24'
-intro: 'Once our one-year-long trip aboard s/y Moonshine was over I spent few months in Poland. Previous time I spent so much time at home was over four years ago - before I moved to the Netherlands. After four year I missed not only my family and friends, but also Polish mountains.'
+intro: 'Po zakończeniu rocznego rejsu na pokładzie s/y Moonshine wróciłem na kilka miesięcy do Polski. Ostatni raz tak długi czas w domu spędziłem ponad cztery lata wcześniej - zanim przeprowadziłem się do Holandii. Po czterech latach tęskniłem nie tylko za rodziną i przyjaciółmi, ale także za polskimi górami.'
 category: 'photography'
 background: v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg
 ---
 
-When I moved to the Netherlands I knew that this country is known of many beautiful places: old towns of Amsterdam, Leida and Haarlem, windmills located by rivers and lakes, endless beaches on the coast of the North Sea. I knew, however, that it lacks mountains and I knew I am going to miss them. I kept tiring my friends with stories about the Netherlands being flat. 
+Przeprowadzając się do Holandii wiedziałem, że jest to kraj słynący z wielu pięknych miejsc: stare miasta takie jak Amsterdam, Lejda czy Haarlem, skanseny pełne wiatraków, niekończące się piaszczyste plaże nad Morzem Północnym. Wiedziałem jednak także, że na pewno nie znajdę tam gór i bardzo mi ich brakowało. Przy każdej okazji zamęczałem znajomych opowieściami o tym, jak płaska jest Holandia.
 
-Coming back to Poland I decided to spent some time in the mountains. I always carried my camera the backpack but sometimes there was no reason to take it out. The reason was the autumn and winter weather - volatile, full of rain and fog. But once the sun shines it's easy to fall in love with Tatras, Pieniny, Beskids and Karkonosze. Below I show a collection of photos taken recently.
+Wracając do Polski postanowiłem więc spędzić trochę czasu w górach. Chociaż na wszystkie wyjścia zabierałem aparat do plecaka, nie zawsze zdarzało mi się go wyjąć w plenerze. Powodem była kapryśna jesienna i zimowa pogoda - w polskich górach częstym zjawiskiem są mgły, deszcz i szara pogoda. Kiedy jednak wyjdzie słońce, ciężko nie zachwycić się pięknem Tatr, Pienin, Beskidów czy Karkonoszy. Zapraszam do obejrzenia kilku bardziej - i mniej - udanych zdjęć.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-1_ha62gq.jpg" padding="70"}
 
-*▲ View from Trzy Korony (Three Crowns) in Pieniny.*
+*▲ Widok ze szczytu Trzech Koron w Pieninach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-2_cfzz68.jpg" padding="133"}
 
-*▲ Swans at dawn. Brzeszcze, Małopolska.*
+*▲ Łabędzie o wschodzie słońca. Brzeszcze, Małopolska.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-3_cvcki1.jpg" padding="75"}
 
-*▲ Lakes in Nazieleńce from a bird's eye view.*
+*▲ Stawy na Nazieleńcach z lotu ptaka.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-4_dtfnsw.jpg" padding="126"}
 
-*▲ Siklawa waterfall (in Western Tatras) lit by the full moon.*
+*▲ Wodospad Siklawa (w Tatrach Zachodnich) w świetle pełni księżyca.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-5_nvzbur.jpg" padding="66.6"}
 
-*▲ Sunrise on Wołowiec: view on the Ridge of Rohacze.*
+*▲ Wschód słońca z Wołowcu: widok na grań Rohaczy.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-6_akvtbv.jpg" padding="66.6"}
 
-*▲ Sea of fog covers Slovak part of Tatras.*
+*▲ Morze mgieł przykrywające słowackie Tatry.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-7_s4xiyw.jpg" padding="66.6"}
 
-*▲ Sunrise on Wołowiec: a view towards Western Tatras.*
+*▲ Wschód słońca na Wołowcu: widok na Tatry Zachodnie.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-8_lt0dvu.jpg" padding="66.6"}
 
-*▲ View on Tatras from Sokolica peak in Pieniny.*
+*▲ Widok na Tatry ze szczytu Sokolicy w Pieninach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-9_nfamlq.jpg" padding="100"}
 
-*▲ One of the most popular photo spots in Polish mountains: a pine tree at the top of Sokolica in Pieniny.*
+*▲ Jedno z najczęściej fotografowanych miejsc w polskich górach: sosna na szczycie Sokolicy w Pieninach. *
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-10_due1kf.jpg" padding="66.6"}
 
-*▲ Different view at the pine tree on Sokolica with Tatras in the background and river Dunajec in the bottom.*
+*▲ Inne ujęcie na słynną sosnę na Sokolicy, z Tatrami w tle i doliną Dunajca w dole.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-11_lfhdvo.jpg" padding="66.6"}
 
-*▲ One of the roughest conditions this autumn: wind gusting up to 100km/h at the top of Babia Góra.*
+*▲ Jedne z trudniejszych warunków tej jesieni: wiatr w porywach do 100km/h na szczycie Babiej Góry.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-12_nrci5r.jpg" padding="125"}
 
-*▲ Soła River and Beskids in the background. Vertical panorama taken with a drone.*
+*▲ Rzeka Soła i Beskidy w tle. Pionowa panorama wykonana dronem.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-13_caffnb.jpg" padding="66.6"}
 
-*▲ Hiking in Pieniny: where autumn meets winter. Winter came really late this year.*
+*▲ Wędrówka w Pieninach: na styku jesieni i zimy. W tym roku śnieg pojawił się w polskich górach wyjątkowo późno.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-14_nlwrse.jpg" padding="133"}
 
-*▲ On the way to Turbacz with the best guide in the world*
+*▲ W drodze na Turbacz z najlepszym przewodnikiem na świecie.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-15_bgsrbu.jpg" padding="66.66"}
 
-*▲ Winter in Karkonosze: frozen trees on the way to Śnieżka.*
+*▲ Zima w Karkonoszach: piękne lodowe drzewa w drodze na Śnieżkę.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-16_ajyq7u.jpg" padding="134.5"}
 
-*▲ A view from Śnieżka to Dom Śląski mountain shelter.*
+*▲ Widok ze Śnieżki na schronisko Dom Śląski.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583199/stories/mountains-of-poland/w-polskich-gorach-17_bvunmy.jpg" padding="66.66"}
 
-*▲ Volatile conditions in Karkonosze: in just few minutes sunny weather can become a dense fog.*
+*▲ Warunki na Śnieżce w Karkonoszach: kilka minut dzieli słoneczną pogodę od gęstej mgły.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583198/stories/mountains-of-poland/w-polskich-gorach-18_clwbx1.jpg" padding="150"}
 
-*▲ A metre of snow and wind blowing all the time create wonderful ice sculptures in Karkonosze.*
+*▲ Metr śniegu i wiejący wiatr tworzą piękne rzeźby lodowe w Karkonoszach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg" padding="62.5"}
 
-*▲ View on Tatry and Gorce from a trail to Turbacz.*
+*▲ Widok na Tatry i Gorce ze szlaku na Turbacz.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583199/stories/mountains-of-poland/w-polskich-gorach-20_c8njp0.jpg" padding="66.6"}
 
-*▲ Sunset on a trail in Gorce.*
+*▲ Zachód słońca na szlaku w Gorcach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583199/stories/mountains-of-poland/w-polskich-gorach-21_ks4rw5.jpg" padding="150"}
 
-*▲ Sunset in Gorce.*
+*▲ Zachód słońca w Gorcach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583199/stories/mountains-of-poland/w-polskich-gorach-22_fgub7y.jpg" padding="66.6"}
 
-*▲ Mountain shelter on Turbacz after sunset.*
+*▲ Schronisko górskie pod Turbaczem po zachodzie słońca.*
 
-During these three months in Poland I managed to go hiking 11 times and walk 160 km. Few of those were just quick trips for a sunrise or sunset while some were a full day long trips. Many of them ended up being miserable and bringing no photos but sometimes it was hard to stop taking photos. Most of all it was a great way to escape locked down cities. 
+W trakcie trzech miesięcy spędzonych w Polsce udało mi się wyskoczyć w góry łącznie 11 razy i przejść 160 km. Część z tych wypadów to szybkie wejścia na wschód lub zachód słońca, a część to całodzienne wędrówki. Ze sporej części nie przywiozłem żadnego zdjęcia, w trakcie innych trudno było oderwać oko od wizjera. Przede wszystkim była to jednak okazja do wyrwania się z zamkniętego miasta. 
 
-More photos of Polish mountains can be found in my gallery - [Poland - Mountains](/photography/poland-mountains).
+Więcej zdjęć polskich gór możesz znaleźć w mojej galerii - <nuxt-link to="/photography/poland-mountains">Polska - Góry</nuxt-link>.

@@ -1,14 +1,14 @@
 ---
-title: 'One year in the Netherlands: a photo summary'
+title: 'Rok w Holandii: fotograficzne podsumowanie'
 published_at: '2017-10-08'
-intro: 'Last Tuesday marks a date of my first anniversary in the Netherlands. I decided to browse my hard drive and find some photos that I can share. I invite you to watch classic frames from the country of Rembrandt: windmills, tulips, canals, but also some less traditional frames.'
+intro: 'Niedawno minął rok od momentu kiedy przeprowadziłem się do kraju Rembrandta. Przeglądnąłem więc dysk w poszukiwaniu zdjęć, którymi mógłbym się z tej okazji podzielić. Zapraszam do obejrzenia kilku klasycznych holenderskich kadrów - od wiatraków, przez tulipany, po kanały Amsterdamu - a także kilku mniej oczywistych.'
 category: 'photography'
 background: v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg
 ---
 
 ## Amsterdam
 
-It is - I believe - the most popular city of the Netherlands, usually associated with weed, red lanterns district and tons of canals. But there is so much more to see there! For the first month I was lucky enough to live right in the center (next to Opera) and in the following months I spent there quite a lot of time there (Booking.com headquarter is located in Amsterdam).
+Amsterdam to chyba najbardziej rozpoznawalne miasto Holandii, najczęściej kojarzone z liberalnym podejściem do miękkich narkotyków, ulicą czerwonych latarni i dziesiątkami kanałów. Jednak jest tam o wiele więcej do zobaczenia! Przez pierwszy miesiąc miałem okazję mieszkać w samym centrum (naprzeciwko budynku opery), a w kolejnych miesiącach przebywałem w Amsterdamie codziennie (to tutaj mieści się siedziba Booking.com).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding="66.666"}
 
@@ -22,7 +22,7 @@ It is - I believe - the most popular city of the Netherlands, usually associated
 
 ## Haarlem
 
-In November I moved to Haarlem. The most interesting points of the city are st. Bavo's church, Taylers Museum (the oldest museum in the Netherlands) and De Adriaan windmill.
+W listopadzie przeprowadziłem się do Haarlem. Najbardziej rozpoznawalnymi punktami miasta są kościół świętego Bawona (St. Bavokerk), Taylers Museum (najstarsze muzeum w Holandii) oraz wiatrak De Adriaan.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/127_dgdy0v.jpg" padding="150"}
 
@@ -34,7 +34,7 @@ In November I moved to Haarlem. The most interesting points of the city are st. 
 
 ## Zaanse Schans
 
-The most popular places in the Netherlands where you can see the windmills are Kinderdijk (near Rotterdam, I have not been there yet) and Zaanse Schans located about 20 minutes by train from Amsterdam.
+Najpopularniejsze w Holandii miejsca, w których można zobaczyć wiatraki, to Kinderdijk koło Rotterdamu (tam jeszcze nie byłem) oraz Zaanse Schans położone około 20 minut pociągiem od Amsterdamu.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/132_r578th.jpg" padding="66.666"}
 
@@ -48,9 +48,9 @@ The most popular places in the Netherlands where you can see the windmills are K
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583229/stories/one-year-in-the-netherlands/137_omyepv.jpg" padding="66.666"}
 
-## Tulips and heather
+## Tulipany i wrzosy
 
-Most of the landscape photographers living in the Netherlands wait mostly for two seasons: April/May when tulips bloom in whole country and the end of summer when big parts of the country are covered by the heather.
+Większość fotografów krajobrazu mieszkających w Holandii z niecierpliwością czeka na dwa sezony w ciągu roku: przełom kwietnia i maja, kiedy w całym kraju kwitną tulipany oraz końcówkę sierpnia, gdy kraj pokrywa się fioletem wrzosów.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583230/stories/one-year-in-the-netherlands/140_izotjw.jpg" padding="66.666"}
 
@@ -66,9 +66,9 @@ Most of the landscape photographers living in the Netherlands wait mostly for tw
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583233/stories/one-year-in-the-netherlands/171_b015mj.jpg" padding="150"}
 
-## The Sea Coast
+## Wybrzeże
 
-Living in Haarlem it takes my roughly half an hour to reach the beach by the bicycle. It is quite obvious that the coast became my favourite place very soon.
+Mieszkając w Haarlem potrzebuję około 30 minut by rowerem dostać się nad morze. Naturalnie stało się więc ono moim ulubionym plenerem fotograficznym.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583231/stories/one-year-in-the-netherlands/149_tkf2ap.jpg" padding="66.666"}
 
@@ -90,13 +90,13 @@ Living in Haarlem it takes my roughly half an hour to reach the beach by the bic
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/158_gmno2m.jpg" padding="66.666"}
 
-This is 'Paard van Marken' lighthouse and it has a really interesting history: it used to be located on the island on the sea. First in 1932 Dutch built a dam (Afsluitdijk) that cut the bay off the sea and then years later they connected the island with the rest of the land.
+Latarni tej poświęciłem kiedyś wpis na Facebooku, pozwolę sobie go zacytować: Oto bowiem latarnia morska, która jest położona nad jeziorem (dodatkowo nazwana Paard van Marken, co przetłumaczyć można jako Koń z Marken). W 1932 roku Holendrzy wkurzeni wiecznymi powodziami zbudowali wielką tamę (Afsluitdijk) i odcięli całkiem sporą część morza zamieniając zatokę w jezioro. Dodatkowo latarnia położona jest na wyspie, która już nie jest wyspą (bo zbudowano groblę łączącą ją z lądem).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/160_im8wxl.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/161_ncgje3.jpg" padding="66.666"}
 
-Cycling from Haarlem to the sea across Kennemerland National Park you can be surprised (if you are lucky) meeting highland cattles or even european bisons. I wrote a small note about these animals in the summary of 2016, so let me just show you some pictures.
+Jadąc z Haarlem nad morze przez Park Narodowy Kennemerland można się pewnym momencie mocno zdziwić spotykając na swojej drodze szkockie krowy lub żubry. O tych zwierzętach pisałem nieco w podsumowaniu zeszłego roku, pozwolę sobie więc tylko wrzucić kilka zdjęć.
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583232/stories/one-year-in-the-netherlands/163_ovmdl3.jpg" padding="66.666"}

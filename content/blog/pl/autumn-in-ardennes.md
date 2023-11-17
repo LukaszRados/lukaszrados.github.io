@@ -1,12 +1,12 @@
 ---
-title: 'Autumn in Belgian Ardennes'
+title: 'Jesień w belgijskich Ardenach'
 published_at: '2018-10-22'
-intro: Last weekend we decided with Jola to go for a spontaneous trip to Ardennes in Belgium. We hoped to see beautiful autumn. Right after work we rented a car and hit the road and after only few hours we arrived to Bouillon.
+intro: W zeszłym tygodniu wybraliśmy się z Jolą na spontaniczną wycieczkę na południe Belgii, w Ardeny. Mieliśmy nadzieję zobaczyć piękną jesień w górach. Zaraz po pracy odebraliśmy samochód z wypożyczalni i już po kilku godzinach jazdy byliśmy w Bouillon.
 category: 'photography'
 background: v1620582911/stories/autumn-in-ardennes/457_enaiv7.jpg
 ---
 
-Our plan was as follows: on Saturday we decided to do a full-day hiking and on Sunday nothing but chill. Bouillon is located by the river Semois. Although hills around are not very high, hikers can still choose a lot of uphill trails.
+Nasz plan był prosty: sobotę postanowiliśmy poświęcić na całodzienny hiking, a niedzielę na zwiedzanie okolicy. Bouillon leży w zakolu rzeki Semois. Mimo iż okoliczne pagórki nie są wysokie - zazwyczaj nie sięgają nawet 400 metrów n.p.m., to dzięki obecności rzeki można wybrać szlaki ze sporą liczbą podejść.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/455_qhei72.jpg" padding="66.666"}
 
@@ -22,7 +22,7 @@ Our plan was as follows: on Saturday we decided to do a full-day hiking and on S
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/461_ozc5a6.jpg" padding="66.666"}
 
-One of the most popular spots is a viewpoint with a view at The Giant's Tomb (fr. Le Tombeau du Géant). It is a small hill in the bend of the river, covered by trees that form a shape of a cross (as Internet claims, I think it's hardly visible).
+Jednym z najbardziej rozpoznawalnych miejsc w okolicy jest punkt widokowy na Grób Olbrzyma (fr. Le Tombeau du Géant). To leżący w zakolu rzeki pagórek, na którym znajduje się formacja z drzew przypominająca krzyż (tak twierdzą źródła w Internecie, moim zdaniem ciężko dopatrzyć się w tym kształcie krzyża).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/462_wmheym.jpg" padding="66.666"}
 
@@ -30,7 +30,7 @@ One of the most popular spots is a viewpoint with a view at The Giant's Tomb (fr
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/464_r2xkyy.jpg" padding="50"}
 
-Plan for Sunday was definitely more relaxed. I decided to shoot sunrise by the Tomb of the Giant, but when I arrived there everything was covered in the mist and there was absolutely no view. I did some driving trying to find nice compositions to picture this sunny, calm morning.
+Plan na niedzielę rano był zdecydowanie luźniejszy. Na wschód słońca postanowiłem pojechać w okolice Grobowca Olbrzyma, jednak mgła znajdowała się na tyle wysoko, że skutecznie blokowała wszelkie widoki. Wobec tego pojeździłem po okolicy samochodem, starając się wykorzystać ciekawe warunki fotograficzne.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582913/stories/autumn-in-ardennes/469_xnyvxk.jpg" padding="66.666"}
 

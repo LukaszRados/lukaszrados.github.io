@@ -1,14 +1,14 @@
 ---
-title: 'Hitchhiking in Iceland'
+title: 'Autostopem przez Islandię'
 published_at: '2016-09-30'
-intro: "Hitchhiking on Iceland at the end of September? You guys are crazy! — Commented the first driver who gave us a lift. And yet, we did it – in 7 days with help of 28 wonderful drivers we traveled over 1150 km and we found that Iceland is as beautiful (and unpredictible at the same time) as it is described."
+intro: „Stopem po Islandii pod koniec września? Jesteście szaleni!” skomentował pierwszy kierowca, który nas podwoził. A jednak udało się – w 7 dni przejechaliśmy z 28 kierowcami ponad 1150 km i przekonaliśmy się, że Islandia jest tak piękna (a równocześnie tak nieobliczalna), jak ją opisują.
 category: 'photography'
 background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
 ---
 
-Visiting Iceland was my biggest dream since I saw some photos on 500px.com. With every photo I've seen (especially after Eyjafjallajökull erupted in 2010), with every article read and every timelapse video watched, I was falling more and more in love to this island. But strangely, for years I have postponed my trip. Deep inside I was worried that Iceland may turn out to be not as magical as I imagine (something like Paris syndrome) or weather will spoil my plans. Also, I was a bit afraid, that I will not be able to invent any new way to picture all the wonders of Iceland, both because of lack of skills and strong competition.
+Islandia była moim największym marzeniem odkąd zobaczyłem zdjęcia na 500px.com. Z każdym obejrzanym zdjęciem (zwłaszcza od czasu erupcji Eyjafjallajökull w 2010), z każdym przeczytanym artykułem i obejrzanym filmem, zakochiwałem się w wyspie, której nie widziałem wcześniej na oczy. Co ciekawe, nie kwapiłem się jednak do wizyty. Trochę obawiałem się, że Islandia może okazać się nie aż tak magiczna jak sobie to wyobrażam (Syndrom paryski) albo pogoda popsuje moje plany. Najbardziej jednak bałem się, że z powodu braku umiejętności lub obejrzenia zbyt wielkiej liczby zdjęć, nie będę w stanie zrobić żadnych świeżych ujęć.
 
-This year I decided to give it a try. After all, I can go there again multiple times (and for sure I will)! And after 7 days it turned out that Iceland is indeed as beutiful, phenomenal and magnific as I always imagined.
+W tym roku zdecydowałem się jednak pojechać. W końcu nie oznacza to, że już nigdy więcej tam nie wrócę (zdecydowanie)! Po 7 dniach okazało się, że Islandia jest rzeczywiście tak piękna, zjawiskowa i magiczna jak ją sobie wyobrażałem.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/39_en8vcp.jpg" padding="66.666"}
 
@@ -18,7 +18,7 @@ This year I decided to give it a try. After all, I can go there again multiple t
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/43_hw9kos.jpg" padding="66.666"}
 
-I heard that there is a saying on Iceland: 'If you don't like the weather, just wait five minutes'. I can totally agree! Photos: the one above and the one below were taken during half an hour!
+Podobno na Islandii mawia się: „Jeśli nie podoba Ci się pogoda, poczekaj pięć minut”. Zgadam się z tym w 100%. Zdjęcia powyżej i poniżej zostały zrobione w ciągu pół godziny.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg" padding="66.666"}
 
@@ -36,7 +36,7 @@ I heard that there is a saying on Iceland: 'If you don't like the weather, just 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583044/stories/hitchhiking-in-iceland/52_j6nf2a.jpg" padding="66.666"}
 
-Planning this trip I was a bit worried about hitchhiking, especially that the end of September is not a high season on Iceland. As it turned out, hitchhiking works perfectly even in not-so-high season. Our daily average was around 200 km, which is very good considering fact that most of the time we spent outside of cars!
+W trakcie planowania wycieczki miałem kilka wątpliwości związanych z autostopem, zwłaszcza, że końcówka września nie jest popularna wśród turystów. Jak się jednak okazało, łapanie stopa działa tam idealnie. Średnio przejeżdżaliśmy dziennie 200 km, co jest bardzo dobrym wynikiem biorąc pod uwagę fakt, że staraliśmy się jak najmniej czasu spędzać w samochodzie!
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/54_xmopjo.jpg" padding="66.666"}
 
@@ -62,7 +62,7 @@ Planning this trip I was a bit worried about hitchhiking, especially that the en
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/64_yknxeb.jpg" padding="66.666"}
 
-We met wonderful people from all around the world. Some rides were very short, while other ones lasted the whole day. We noticed that local people stop mostly during awful weather (heavy rain and vicious wind) while tourists tend to stop more often during nice weather.
+Spotkaliśmy wspaniałych ludzi z całego świata (również z Polski). Niektóre podwózki były bardzo krótkie, inne trwały cały dzień. Zauważyliśmy pewną zależność: podczas okropnej pogody (silny deszcz i huraganowy wiatr) zatrzymywali się głównie Islandczycy, podczas gdy pogoda była ładna (co czasami zdarza się na Islandii), podwozili nas turyści.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/66_y2u5nu.jpg" padding="66.666"}
 
@@ -78,7 +78,7 @@ We met wonderful people from all around the world. Some rides were very short, w
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/73_faxpva.jpg" padding="66.666"}
 
-We saw mostly the sourthern part of Iceland, from Garður in the west to Jökulsárlón in the east and Golden Circle. Maybe it would be possible to do the whole road around the island in week. But why? We decided to go slowly, enjoy beautiful landscapes and random chats. Next time we will probably visit Western Fjords which were described by a lot of people as the most beautiful part of Iceland.
+Zwiedziliśmy głównie południową część Islandii, zaczynając od Garður na zachodzie i kończąc w Jökulsárlón na wschodzie. Dodatkowo objechaliśmy tzw. Golden Circle. Pewnie udałoby nam się objechać całą wyspę dookoła, ale tak naprawdę nie chcieliśmy tego. Woleliśmy jechać powoli, rozkoszując się przepięknymi krajobrazami i przypadkowymi rozmowami. Następnym razem na celowniku znajdą się zapewne Fiordy Zachodnie, które większość spotkanych osób opisywała jako najpiękniejszą część Islandii.
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583047/stories/hitchhiking-in-iceland/76_pzn10u.jpg" padding="150"}

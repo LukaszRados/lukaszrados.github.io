@@ -1,21 +1,20 @@
 ---
-title: 'Cycling to the Adriatic Sea: from Budapest to Trieste'
+title: 'Rowerami nad Adriatyk: z Budapesztu do Triestu'
 published_at: '2022-09-15'
-intro: This year I went for a bike touring trip for the first time. Together with Ania and Kajtek, we cycled from Budapest via Balaton Lake, Őrség, Maribor, Bled and Postojna to Trieste. The route was 700 km long (mostly following the EuroVelo network), climbed over 5500m up and crossed four countries.
+intro: W tym roku wybrałem się na pierwszą dłuższą wyprawę rowerową. Wraz z Anią i Kajtkiem pojechaliśmy z Budapesztu, przez Balaton, Őrség, Maribor, Bled i Postojną do Triestu. Po drodze przejechaliśmy 700 km (w większości trzymając się EuroVelo), wspięliśmy się 5500m w pionie i odwiedziliśmy 4 kraje. 
 category: 'photography'
 background: v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-1_oow4ja.jpg
 ---
 
-The idea of going for a bike touring trip was planted in my head a while ago. I was browsing [Bikepacking.com](https://bikepacking.com) and [Pedalia.cc](https://pedalia.cc), admiring other cyclists’ adventures and beautiful photos. I had no idea how to organize such a thing, but thanks to my friends’ prior experience it was a great trip.
+Pomysł wyjazdu na wyprawę rowerową rodził się w mojej głowie od jakiegoś czasu. Przeglądając [Bikepacking.com](https://bikepacking.com) i [Pedalia.cc](https://pedalia.cc) trafiłem na wiele opisów ciekawych tras, okraszonych dodatkowo pięknymi zdjęciami. Nie wiedziałem, jak zabrać się za zorganizowanie takiego wyjazdu, jednak dzięki doświadczeniu Kajtka wszystko udało się bez problemów.
 
-When planning the route we decided to stick to the EuroVelo cycleways network as much as possible. Soon after leaving Budapest, we entered route number 14: [Waters of Central Europe](https://en.eurovelo.com/ev14/eurovelo-14-unmissable-sights). Following the EV14 we headed towards Balaton Lake, doing the longest leg of 150km. Along the northern bank of the lake we arrived in Keszthely and then turned to Őrség National Park. We have then crossed the border with Austria only to enter Slovenia via a river ferry later the same day to finally get to Maribor.
+Planując trasę staraliśmy się korzystać z sieci dróg rowerowych EuroVelo. Niedługo po wyjeździe z Budapesztu znaleźliśmy się na początku trasy numer 14: [Wody Centralnej Europy](https://en.eurovelo.com/ev14/eurovelo-14-unmissable-sights). Podążając za EV14 ruszyliśmy nad Balaton, pierwszego dnia jadąc rekordowe 150km. Trzymając się północnego brzegu Balatonu dojechaliśmy do Keszthely, skąd skierowaliśmy się do Parku Narodowego Őrség. Na kilka godzin przekroczyliśmy granicę z Austrią, by jeszcze tego samego dnia przepłynąć promem rzecznym do Słowenii i dojechać do Mariboru.
 
-Just before crossing the border of Austria and Slovenia, we entered EuroVelo again, this time partially developed number 9: Baltic to Adriatic. In Maribor we made a decision to take a train to Ljubljana. We left the capital quickly and headed to the famous Bled and Bohinj lakes. These were the only places where we got soaked and scared by a thunderstorm. After coming back to Ljubljana we had the last two stages left: to Postojna and later straight to Trieste where we finished our trip.
+Od granicy austriacko - słoweńskiej przerzuciliśmy się na trasę EuroVelo numer 9: [Bałtyk - Adriatyk](https://en.eurovelo.com/ev9/points-of-interest-on-eurovelo), której bardzo luźno trzymaliśmy się w dalszej części wyjazdu. W Mariborze zdecydowaliśmy się na przejazd pociągiem do Lublany. Ze stolicy Słowenii ruszyliśmy rowerami nad słynne jeziora Bled i Bohinj. To właśnie te miejsca przywitały nas rzęsistym deszczem i burzą. Po powrocie do Lublany czekały nas ostatnie dwa etapy: do Postojnej, a następnie już prosto do Triestu.
 
-In terms of photography this trip was an experiment. I packed only a camera with a fixed 20/2.8 (or 30mm on FF) lens. I was not sure that I am not going to regret missing some photos due to lack of zoom.
+Pod względem fotograficznym ten wyjazd był eksperymentem. Do plecaka spakowałem aparat z obiektywem 20/2.8 (ekwiwalent 30mm). Nieco obawiałem się, że bez zooma “stracę” kadry i będę żałował.
 
-It turned out to be a really convenient setup. A fixed focal length meant that I did not have to think about the lens choice. I had to be creative and work with what I had. Thanks to a really compact size (20/2.8 is a “pancake” lens) the camera was easily accessible and I was using it a lot.
-
+W rzeczywistości fotografowanie jedną ogniskową było niezwykle wygodne! Nie musiałem się zastanawiać nad tym, którego obiektywu użyć. Wymagało to ode mnie kreatywności i szukania ciekawych kadrów. Dzięki kompaktowemu rozmiarowi (20/2.8 jest obiektywem typu “naleśnik”) aparat miałem zawsze pod ręką i chętnie po niego sięgałem.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-1_oow4ja.jpg" padding="66.6"}
 

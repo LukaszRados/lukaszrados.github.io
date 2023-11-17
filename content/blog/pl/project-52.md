@@ -1,251 +1,287 @@
 ---
-title: 'Project 52. One landscape photo a week for a year'
+title: 'Projekt 52. Jedno zdjęcie na każdy tydzień roku'
 published_at: '2018-12-31'
-intro: 'In 2018 I decided to start my longest photography project so far: Project 52. Every week I was choosing and publishing the best landscape photo taken previous week. All together they create a collection of 52 photos which I present below with descriptions and conclusions.'
+intro: 'W 2018 roku podjąłem się najdłuższego jak do tej pory projektu fotograficznego: Projektu 52. W jego ramach każdego tygodnia wybierałem najlepsze zdjęcie krajobrazowe i publikowałem na moim Instagramie. Złożyły się one na kolekcję 52 zdjęć, które prezentuję poniżej wraz z opisami i wnioskami.'
 category: 'photography'
 background: v1663427072/stories/project-52/493_ldggb7.jpg
 ---
 
-*TL;DR: below I present short description of the project together with conclusions: what I liked and what went wrong. If you are not interested in the description, scroll below to see all 52 photos.*
+*Uwaga: poniżej prezentuję krótki opis projektu, wraz z moimi wnioskami: co mi się podobało, a co poszło nie tak. Jeśli nie interesuje Cię opis, dalej prezentuję wszystkie 52 zdjęcia wraz z krótkimi opisami i linkami do mojego Instagrama.*
 
-## Motivations and rules
+## Motywacje i założenia
 
-Every year around New Year's Eve I review photos taken during past 12 months. I have favourites folder on my disk where I keep photos that I'm particularly happy with.
+Każdego roku w okolicach Sylwestra robię przegląd zdjęć zgromadzonych w mijającym roku. Na dysku mam folder Ulubione, do którego wrzucam zdjęcia z których jestem wyjątkowo zadowolony.
 
-Browsing this folder in the end of 2017 I was quite glad with what I'm seeing, but not extremely glad. I noticed that most of my favourites were taken during longer trips (like Thailand) and apart of these I wasn't taking many photos. I decided to change it.
+Przeglądając ten folder pod koniec 2017 roku byłem zadowolony z tego co widzę, ale było to zadowolenie bardzo umiarkowane. Zauważyłem, że poza zaplanowanymi wyjazdami (jak Tajlandia) nie fotografowałem tak często, jakbym sobie tego życzył. Postanowiłem to w jakiś sposób zmienić.
 
-Project 52 is not a new idea. As a matter of fact hundreds (if not thousands) of photographers all over the world already tried it in many variations. Regardless I wanted to challenge myself. My goal was to photograph more often and regularly. I wished to take more photos of the Netherlands. I still remember how bitter I was about having almost no photos of Kraków when I was moving out.
+Projekt 52 nie jest ideą nową. Setki fotografów na całym świecie podejmowały podobne wyzwania, nie jestem ani pierwszy, ani ostatni. Mimo to chciałem spróbować. Moim celem były bardziej regularne wyjścia w plener oraz sprawdzenie się w starciu z tak długim projektem. Chciałem też sfotografować Holandię, ponieważ pamiętam kiedy wyprowadzając się z Krakowa plułem sobie w brodę, że mam tak mało zdjęć tego pięknego miasta.
 
-The rules are simple: each week I will try to take at least one decent landscape photo which I wouldn't be ashamed of. At the beginning of following week I was publishing last week's best on my instagram.
+Założenia były bardzo proste: każdego tygodnia starałem się wykonać co najmniej jedno zdjęcie krajobrazowe, z którego byłbym zadowolony i nie wstydziłbym się go zaprezentować. Na początku następnego tygodnia publikowałem wybrane zdjęcie na moim Instagramie.
 
-## What went well
+## Co się udało
 
-First and the most important: I managed to complete the project. To be honest I don't even remember anymore if starting it in January I believed that I will complete it or not. There were obstacles throughout the year, but thanks to stubbornness and my friends' support I didn't stop during the year.
+Przede wszystkim udało się zakończyć projekt. Właściwie nie pamiętam już czy zaczynając go w styczniu wierzyłem w powodzenie czy nie. Nie odbyło się bez problemów, ale dzięki uporowi i wsparciu znajomych nie przerwałem projektu w trakcie roku.
 
-The main goal of the project was archived as well: I photographed more often and more regularly, I was actively looking for new places and views. Even during terrible weather I was still going outside to take something new. I learnt to plan better: checking the weather forecast before the sunrise or sunset, predicting mist or interesting clouds, checking tides and looking for new places using Google Maps.
+Na pewno udało się też osiągnąć cel projektu: fotografowałem częściej i bardziej regularnie, aktywnie poszukiwałem nowych kadrów (nie chciałem wrzucać dwóch podobnych zdjęć), wychodziłem w plener nawet przy kiepskiej pogodzie. Nauczyłem się lepiej planować wypady: sprawdzanie prognozy pogody przed wschodem słońca, przewidywanie mgły albo ciekawych chmur, sprawdzanie pływów i szukanie nowych miejsc korzystając z Google Maps.
 
-Because of the project I made a lot of photos of the Netherlands, especially Haarlem, Amsterdam and the coast. Before that I wasn't really experienced with seascapes. I learnt to photograph what I considered boring before: waves with a longer exposure, water ponds left after high tide or various objects on the beach.
+Dzięki projektowi wykonałem wiele zdjęć Holandii, zwłaszcza Haarlem, Amsterdamu i wybrzeża. Nie byłem wcześniej przyzwyczajony do fotografowania krajobrazu morskiego. Dzięki odrobinie praktyki nauczyłem się wykorzystać ciekawe elementy pozornie nudnej plaży: fale na dłuższym czasie naświetlania, oczka wodne pozostawione po odpływie, przedmioty wyrzucone na brzeg.
 
-I was forced to make my process of selecting good photos more strict. Some weeks were really hard, like when I went to Iceland and brought back bunch of nice photos.
+Projekt zmusił mnie także do ostrzejszej selekcji zdjęć: z każdego tygodnia musiałem wybrać jedno najlepsze zdjęcie, co czasami było trudne (zwłaszcza w tygodniach z wyjazdami, jak na przykład na Islandię.
 
-## What could be better
+## Z czego nie jestem zadowolony
 
-Starting the project I expected some obstacles. It was not a surprise that one of the biggest ones was lack of motivation. In July when for over a month sky was cloudless I felt really tired and was very close to stopping the project.
+Zaczynając projekt spodziewałem się, że napotkam pewne trudności. Nie byłem zdziwiony, że największą z nich był brak motywacji. W lipcu kiedy niebo przez miesiąc było bezchmurne, a pogoda nie zachęcała do fotografowania odczułem dość mocne zmęczenie projektem i byłem najbliżej przerwania.
 
-There were weeks when necessity to take a photo was becoming a burden. I felt like this especially during weeks with no time for photography: welcoming guests or during ugly weather. The problem occured during winter time: sun was rising when I was already in the office and setting when I was still there leaving only weekends for photography.
+Były takie tygodnie w trakcie których potrzeba zrobienia zdjęcia do projektu nieprzyjemnie nade mną ciążyła. Tak było zwłaszcza w tygodniach kiedy nie miałem czasu fotografować (np. miałem dużo pracy, miałem gości lub pogoda była brzydka). Trudne były także miesiące zimowe: słońce wschodziło kiedy byłem już w pracy, a zachodziło zanim z niej wyszedłem, zostawiając mi tylko weekendy na wykonanie zdjęcia.
 
-It happened few times that taking photo in the beginning of the week was making me lazy: I knew I already have one shot, why would I need another one. In the end of the year I was counting weeks till the end.
+Czasami po zrobieniu zdjęcia na początku tygodnia łapałem się na myśli, że mam już zdjęcie i nie muszę już iść w plener. A przez ostatnie tygodnie troszkę już odliczałem do końca projektu.
 
-## Summary
+## Podsumowanie
 
-I'm glad I've started and managed to complete the project however I'm not particularly sure if I would do this again. It required a lot of time and energy, but also provided with a great satisfaction in the end. I'm more than happy with the final result. A lot of photos presented below wouldn't even be taken otherwise (especially sunrises as I have a lot of problems with waking up so early). I understood what kind of photography I like and learnt to plan my trips so much better. I think it was worth an effort.
+Słowem podsumowania muszę powiedzieć, że cieszę się z podjęcia się tego projektu i doprowadzenia go do końca, chociaż wciąż nie jestem pewien czy podjąłbym się go ponownie. Kosztował mnie sporo energii i zajmował sporo czasu, ale dał też ogromną satysfakcję. Jestem bardzo zadowolony z efektu końcowego. Wykonałem wiele zdjęć, które mogłyby inaczej nie powstać (dotyczy to zwłaszcza zdjęć wschodów słońca, projekt był mocną motywacją do wstania z łóżka), zrozumiałem trochę lepiej co lubię fotografować i nauczyłem się lepiej planować swoje wypady fotograficzne. Myślę, że było warto.
 
-Below you can see all 52 photos of the project. They were also published [on Fotoblogia (in Polish)](https://fotoblogia.pl/13309,jedno-zdjecie-na-kazdy-tydzien-roku-lukasz-rodos-ukonczyl-projekt-52), [on SwiatObrazu.pl (in Polish)](https://www.swiatobrazu.pl/rozmawiamy-z-fotografem-krajobrazu-lukaszem-radosem.html), [on Bored Panda (in English)](https://www.boredpanda.com/nature-photography-lukasz-rados/) and [on Femina.hu (in Hungarian)](https://femina.hu/terasz/gyonyoru-tajkepek/).
+Poniżej zobaczyć można wszystkie 52 zdjęcia wykonane w ramach projektu. Zdjęcia zostały także opublikowane [na portalu Fotoblogia](https://fotoblogia.pl/13309,jedno-zdjecie-na-kazdy-tydzien-roku-lukasz-rodos-ukonczyl-projekt-52), [na SwiatObrazu.pl](https://www.swiatobrazu.pl/rozmawiamy-z-fotografem-krajobrazu-lukaszem-radosem.html), [na Bored Panda (po angielsku)](https://www.boredpanda.com/nature-photography-lukasz-rados/) i [na Femina.hu (po węgiersku)](https://femina.hu/terasz/gyonyoru-tajkepek/).
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/207_gclwii.jpg" padding="66.666"}
 
-*Week 1: Marvellous sunset in Pisa (Italy) taken with a great luck. We were just leaving café when I noticed colours in the sky. Everything was changing so fast that I managed to take only two hand-held photos. [Instagram](https://www.instagram.com/p/Bdsonj1nZ8k/?taken-by=lukaszrados)*
+*Tydzień 1: Przepiękny zachód słońca w Pizie, uchwycony dzięki odrobinie szczęścia. Wychodziliśmy właśnie z kawiarni, kiedy zauważyłem, że niebo rozbłysnęło kolorami. Spektakl trwał tylko przez chwilę, zdążyłem zrobić zaledwie dwa ujęcia z ręki. [Instagram](https://www.instagram.com/p/Bdsonj1nZ8k/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/208_pomdlg.jpg" padding="66.666"}
 
-*Week 2: Bloemendaal aan Zee beach during a low tide. Boring and cloudless sunset forced me to look for interesting elements. I found these shapes making great leading lines. [Instagram](https://www.instagram.com/p/Bd-zO-An0Wi/?taken-by=lukaszrados)*
+*Tydzień 2: Plaża w Bloemendaal aan Zee podczas odpływu. Nudny, bezchmurny zachód słońca udało się uratować dzięki wspaniałym liniom prowadzącym, które powstały w wyniku odpływu. [Instagram](https://www.instagram.com/p/Bd-zO-An0Wi/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/209_vpbuak.jpg" padding="150"}
 
-*Week 3: Forest close to Barcice (Poland) in the late evening. While processing this photo I was still under strong influence of Stranger Things. [Instagram](https://www.instagram.com/p/BeTWr4KneE3/?taken-by=lukaszrados)*
+*Tydzień 3: Las w okolicach Barcic sfotografowany późnym wieczorem. Obrabiając to zdjęcie miałem wciąż świeżo w pamięci serial Stranger Things. [Instagram](https://www.instagram.com/p/BeTWr4KneE3/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/210_x6hyuz.jpg" padding="66.666"}
 
-*Week 4: Sunset by the road from Nowy Sącz to Kraków (Poland). There was a heavy snowfall during the weekend, but it wasn't until Monday for the clouds to go away bringing a colourful sunset. [Instagram](https://www.instagram.com/p/Beiy9JSnNAX/?taken-by=lukaszrados)*
+*Tydzień 4: Zachód słońca na trasie Nowy Sącz - Kraków. Podczas weekendu w Polsce spadło mnóstwo śniegu, ale dopiero poniedziałkowy wieczór przyniósł kolorowy zachód słońca. Tę boczną drogę wypatrzyliśmy podczas jazdy i zatrzymaliśmy się na poboczu, żeby zdążyć zanim słońce schowa się za chmurami. [Instagram](https://www.instagram.com/p/Beiy9JSnNAX/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/211_hjypgs.jpg" padding="66.666"}
 
-*Week 5: Sunrise by the dunes in Kennemerland National Park. I spotted this place and frame almost year earlier and since then I was trying to get it with right light. [Instagram](https://www.instagram.com/p/Be05cr6nZso/?taken-by=lukaszrados)*
+*Tydzień 5: Wschód słońca na wydmach w Parku Narodowym Kennemerland. Ten kadr wypatrzyłem niemalże rok wcześniej i od tamtego czasu próbowałem trafić na odpowiednie światło. [Instagram](https://www.instagram.com/p/Be05cr6nZso/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/212_pglojc.jpg" padding="150"}
 
-*Week 6: Sunrise in Amsterdam on my way to the office. Interesting shape and colour of the clouds lasted only for few minutes. I managed to take 2 photos with a very slow shutter speed. This photo was shared by @yumsterdam instagram profile and got over 3000 likes! [Instagram](https://www.instagram.com/p/BfGrifIH_bv/?taken-by=lukaszrados)*
+*Tydzień 6: Wschód słońca w Amsterdamie, w drodze do pracy. Ciekawy kolor na chmurach pojawił się na zaledwie 5 minut, zdążyłem zrobić 2 zdjęcia na długim czasie naświetlania. To zdjęcie zostało udostępnione na profilu @yumsterdam gdzie polubiono je ponad 3000 razy! [Instagram](https://www.instagram.com/p/BfGrifIH_bv/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/213_jggja7.jpg" padding="150"}
 
-*Week 7: Very cold and cloudy morning in Haarlem. [Instagram](https://www.instagram.com/p/BfY6FPQHDc2/?taken-by=lukaszrados)*
+*Tydzień 7: Bardzo zimny i pochmurny wschód słońca w Haarlem. [Instagram](https://www.instagram.com/p/BfY6FPQHDc2/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/214_e9lzum.jpg" padding="66.666"}
 
-*Week 8: Pier in Orłowo. Probably the coldest sunrise in my life. Temperature in the morning dropped to -15°C with wind reaching 80km/h. [Instagram](https://www.instagram.com/p/Bfq-UIqnQ5c/?taken-by=lukaszrados)*
+*Tydzień 8: Molo w Orłowie. Prawdopodobnie najzimniejszy wschód słońca w moim życiu. Temperatura o poranku wynosiła -15° z wiatrem dochodzącym do 80km/h. [Instagram](https://www.instagram.com/p/Bfq-UIqnQ5c/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/215_okxsms.jpg" padding="150"}
 
-*Week 9: Cold wave in the Netherlands lead to frozen canals in Amsterdam and Haarlem for the first time in few years. [Instagram](https://www.instagram.com/p/Bf9BIsCnsYI/?taken-by=lukaszrados)*
+*Tydzień 9: Fala mrozów w Holandii sprawiła, że kanały w Amsterdamie i Haarlem pokryły się lodem, umożliwiając po raz pierwszy od kilku lat jazdę na łyżwach. Zdjęcie zrobione w Haarlem pod koniec zimnego tygodnia. [Instagram](https://www.instagram.com/p/Bf9BIsCnsYI/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/216_isvqaw.jpg" padding="66.666"}
 
-*Week 10: Weekend in Poland and gorgeous sunrise from Głodówka in Tatry. [Instagram](https://www.instagram.com/p/BgRjc-DhQbS/?taken-by=lukaszrados)*
+*Tydzień 10: Weekend w Polsce i piękny wschód słońca z Polany Głodówka w Tatrach. [Instagram](https://www.instagram.com/p/BgRjc-DhQbS/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/217_byaqbg.jpg" padding="66.666"}
 
-*Week 11: First time during 2018 when I considered dropping the project due to no interesting photos. The weather was quite poor and even though I spent whole weekend in dunes I was extremely disappointed with photos. [Instagram](https://www.instagram.com/p/BgjlhYJh-AN/?taken-by=lukaszrados)*
+*Tydzień 11: Pierwszy raz podczas 52 tygodni, kiedy rozważałem przerwanie projektu ze względu na brak ciekawych kadrów. Pogoda nie rozpieszczała i mimo, że przeszedłem kilkanaście kilometrów po wydmach, nie udało mi się zrobić żadnego ciekawego zdjęcia.  [Instagram](https://www.instagram.com/p/BgjlhYJh-AN/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/218_dwduim.jpg" padding="66.666"}
 
-*Week 12: Haarlem and its reflection in Spaarne river. [Instagram](https://www.instagram.com/p/Bgy6wqdnKLU/?taken-by=lukaszrados)*
+*Tydzień 12: Haarlem i jego odbicie w rzece Spaarne. [Instagram](https://www.instagram.com/p/Bgy6wqdnKLU/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/219_l0gpo9.jpg" padding="66.666"}
 
-*Week 13: Windmill “De Adriaan” (Haarlem) covered in morning fog. I spotted this view while commuting to work. Thick mist made windmill look like it was located on an island. [Instagram](https://www.instagram.com/p/BhEs0suns_c/?taken-by=lukaszrados)*
+*Tydzień 13: Wiatrak De Adriaan (Haarlem) w porannej mgle. Zobaczyłem ten kadr w drodze do pracy. Gęsta mgła sprawiła, że wiatrak wygląda jakby stał na wyspie. [Instagram](https://www.instagram.com/p/BhEs0suns_c/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/220_y52y4p.jpg" padding="150"}
 
-*Week 14: Cloudless night in Brzeszcze. This is one of my first photos from Sony A6300 after switching from Pentax. As I was travelling I processed it on my phone and only at home I noticed that it is slightly blurred. [Instagram](https://www.instagram.com/p/BhZlCyZhSh1/?taken-by=lukaszrados)*
+*Tydzień 14: Bezchmurna noc w Brzeszczach. Były to pierwsze testy nowego aparatu (Sony A6300) po przesiadce z Pentaxa. Będąc w podróży obrobiłem zdjęcie na telefonie. Dopiero po obejrzeniu zdjęcia na komputerze zorientowałem się, że niepoprawnie ustawiłem ostrość. [Instagram](https://www.instagram.com/p/BhZlCyZhSh1/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/221_pjgeon.jpg" padding="66.666"}
 
-*Week 15: I spent most of April testing my new camera. Sony mirrorless system replaced Pentax DSLRs after 7 years. [Instagram](https://www.instagram.com/p/Bhox_CUBMZ5/?taken-by=lukaszrados)*
+*Tydzień 15: Zabawy z dynamiką wody na plaży w Zandvoort. Kwiecień upłynął pod znakiem testowania Sony A6300, który zastąpił mi po 7 latach Pentaxa. [Instagram](https://www.instagram.com/p/Bhox_CUBMZ5/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/222_aflnx4.jpg" padding="150"}
 
-*Week 16: April and May is a time of year that keeps most of landscape photographers in the Netherlands busy. Huge areas of country are covered in blooming tulips. These are called Lalibela and were growing close to Schagen. [Instagram](https://www.instagram.com/p/Bh7Bqn6hqwp/?taken-by=lukaszrados)*
+*Tydzień 16: Przełom kwietnia i maja to czas, na który czekają wszyscy fotografowie krajobrazu w Holandii. Niemalże cały kraj pokrywa się rosnącymi w równiutkich rzędach tulipanami. Te na zdjęciu nazywają się Lalibela i sfotografowane zostały koło Schagen. [Instagram](https://www.instagram.com/p/Bh7Bqn6hqwp/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/223_mbu6th.jpg" padding="66.666"}
 
-*Week 17: Rainy morning with a view on Makowica. Despite colourful clouds I didn't manage to see the sunrise as rain forced me to retreat. [Instagram](https://www.instagram.com/p/BiPk-ZghddB/?taken-by=lukaszrados)*
+*Tydzień 17: Deszczowy poranek z widokiem na Makowicę z Barcic. Mimo bardzo widowiskowego nieba, samego wschodu nie udało mi się zobaczyć bo przegonił mnie deszcz. [Instagram](https://www.instagram.com/p/BiPk-ZghddB/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/224_fyckh5.jpg" padding="150"}
 
-*Week 18: Cliffs in southern Portugal. I immediately fell in love with this country amazed by beautiful landscapes. [Instagram](https://www.instagram.com/p/BifFaZLBbqw/?taken-by=lukaszrados)*
+*Tydzień 18: Klify na południu Portugalii. Portugalia absolutnie rozkochała mnie w sobie i oczarowała pięknymi widokami. [Instagram](https://www.instagram.com/p/BifFaZLBbqw/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/225_jxfgkd.jpg" padding="58.333"}
 
-*Week 19: One of the most photographed places in the Netherlands: Zaanse Schans. Panoramic shot made with 6 vertical photos.  [Instagram](https://www.instagram.com/p/BixGGjvhG02/?taken-by=lukaszrados)*
+*Tydzień 19: Prawdopodobnie jedno z najczęściej fotografowanych miejsc w Holandii: Zaanse Schans. Panorama z 6 pionowych klatek. [Instagram](https://www.instagram.com/p/BixGGjvhG02/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/226_bs63cj.jpg" padding="66.666"}
 
-*Week 20: Schiessentümpel waterfall in Luxembourg. First time I saw this place in Internet I decided it would be lovely weekend trip. When I arrived I found out that parts of viewpoint are closed and waterfall is full of fallen branches that block the view and clutter the image. Nevertheless I'm pretty happy with this photo. [Instagram](https://www.instagram.com/p/BjDJGjZB8de/?taken-by=lukaszrados)*
+*Tydzień 20: Wodospad Schiessentümpel w Luksemburgu. Kiedy pierwszy raz zobaczyłem to miejsce w internecie, stwierdziłem że może być celem weekendowego wypadu. Po dojechaniu na miejsce okazało się jednak, że taras widokowy jest zamknięty do odwołania, a pierwszy plan psują leżące wszędzie gałęzie. Mimo to jestem zadowolony z tego zdjęcia. [Instagram](https://www.instagram.com/p/BjDJGjZB8de/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/343_lvqcv9.jpg" padding="66.666"}
 
-*Week 21: Sunset in Haarlem. I was running on Tuesday when I saw the most beautiful sunset ever. Unfortunately I only had a phone in my pocket. Fortunately volatile weather brought some nice clouds and colours on Sunday. [Instagram](https://www.instagram.com/p/BjVKFDyBaN4/)*
+*Tydzień 21: Zachód słońca w Haarlem. We wtorek zobaczyłem jeden z najpiękniejszych zachodów w swoim życiu. Problem w tym, że miałem przy sobie tylko komórkę. Na szczęście niedzielny wieczór zafundował mi powtórkę z wtorku. [Instagram](https://www.instagram.com/p/BjVKFDyBaN4/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/344_wetqe4.jpg" padding="66.666"}
 
-*Week 22: Sunrise in Oliwa, Poland. Remnants of old (built during 2nd World War) buildings. I saw this place on many photos in Internet so I expected it to be pretty crowded. Pleasant surprise I was alone at the beach that morning. [Instagram](https://www.instagram.com/p/BjnLrM8huAc/?taken-by=lukaszrados)*
+*Tydzień 22: Wschód słońca z widokiem na torpedownię w Oliwie. Znałem to miejsce z wielu zdjęć w internecie więc spodziewałem się tłumu fotografów. Ku mojemu zdziwieniu byłem jedyną osobą na plaży. [Instagram](https://www.instagram.com/p/BjnLrM8huAc/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/345_fis0yv.jpg" padding="66.666"}
 
-*Week 23: Sunrise with my favourite view on Wawel Castle in Kraków. [Instagram](https://www.instagram.com/p/Bj5MpQSBQfp/?taken-by=lukaszrados)*
+*Tydzień 23: Wschód słońca z widokiem na Wawel w Krakowie, w jednym z moich ulubionych punktów widokowych na Zakrzówku. [Instagram](https://www.instagram.com/p/Bj5MpQSBQfp/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/346_of5qme.jpg" padding="66.666"}
 
-*Week 24: Storm raging for several days on the North Sea made me think that clouds and high waves can make a nice photo. I headed out to the beach to find out that waves have thrown thousands of jellyfish to the beach. [Instagram](https://www.instagram.com/p/BkLQDwmB7E6/?taken-by=lukaszrados)*
+*Tydzień 24: W czerwcu na Morzu Północym szalał sztorm. Postanowiłem wybrać się na plażę i spróbować uchwycić ciężkie deszczowe chmury i wysokie fale. Po dojechaniu na miejsce okazało się, że sztorm wyrzucił na brzeg tysiące meduz. [Instagram](https://www.instagram.com/p/BkLQDwmB7E6/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/347_zagsuz.jpg" padding="66.666"}
 
-*Week 25: My favourite view in Haarlem. Due to lack of tall buildings blocking views, 12 floors is enough to see entire panorama of the city. [Instagram](https://www.instagram.com/p/BkdPkcIn6EL/?taken-by=lukaszrados)*
+*Tydzień 25: Mój ulubiony widok w Haarlem. W mieście, w którym brak wysokich budynków, 12 pięter wystarczy żeby być wysoko ponad dachami. [Instagram](https://www.instagram.com/p/BkdPkcIn6EL/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/348_qkffex.jpg" padding="66.666"}
 
-*Week 26: Hot week with cloudless skies. Perfect for sunbathing and swimming, and terrible for photography. When publishing this photo I considered stopping the project on week 25. [Instagram](https://www.instagram.com/p/BkvYprbneXz/?taken-by=lukaszrados)*
+*Tydzień 26: Upalny tydzień przyniósł bezchmurną pogodę, która może była idealna do plażowania, ale absolutnie beznadziejna do zdjęć. Podczas publikowania tego zdjęcia poważnie wahałem się, czy nie zakończyć projektu na tygodniu 25. [Instagram](https://www.instagram.com/p/BkvYprbneXz/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/349_epkdmy.jpg" padding="66.666"}
 
-*Week 27: During summertime coastline became my favourite place to take photos. Back then I thought about Dutch coastline as boring, but I still tried to find some interesting shapes in water, sand and clouds. [Instagram](https://www.instagram.com/p/BlD1l6VHVfS/)*
+*Tydzień 27: W lecie wybrzeże stało się moim ulubionym plenerem. Mimo że uważam holenderską linię brzegową za nudną, to starałem się znaleźć interesujące kadry poprzez szukanie ciekawych struktur stworzonych przez chmury i wodę. [Instagram](https://www.instagram.com/p/BlD1l6VHVfS/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/350_jvpnle.jpg" padding="150"}
 
-*Week 28: Remote corner of Texel island, middle of the night, spooky sounds in the bushes nearby and over 90 minutes of waiting. This is how much it took to make this photo combined from 180 exposures (30s each) that shows Earth's rotation. [Instagram](https://www.instagram.com/p/BlTTY1nH9nc/?taken-by=lukaszrados)*
+*Tydzień 28: Niemal zupełne odludzie na północnym krańcu wyspy Texel, środek nocy, dziwne dźwięki zza krzaków i 90 minut. Tyle dokładnie kosztowało mnie zrobienie 180 zdjęć (30 sekund każde) które ukazują ruch obrotowy Ziemi. [Instagram](https://www.instagram.com/p/BlTTY1nH9nc/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/351_bkkoyv.jpg" padding="66.666"}
 
-*Week 29: Marvelous Alsace in eastern France. Picturesque little towns surrounded by vineyards covered hills and Rhine river. It's hard not to fall in love with this place. [Instagram](https://www.instagram.com/p/BllYHM0nUu-/?taken-by=lukaszrados)*
+*Tydzień 29. Przepiękna Alzacja we wschodniej Francji. Urokliwe miasteczka otoczone z jednej strony przez wzgórza pokryte winnicami, a z drugiej przez rzekę Ren. Można się z łatwością zakochać w tych terenach. [Instagram](https://www.instagram.com/p/BllYHM0nUu-/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/352_jw0vn5.jpg" padding="66.666"}
 
-*Week 30: After few weeks of cloudless weather storm finally brought some clouds and nice colours to the sky. [Instagram](https://www.instagram.com/p/Bl3X7iJH0Va/?taken-by=lukaszrados)*
+*Tydzień 30. Po kilku tygodniach gorącej bezchmurnej pogody, burza przyniosła krótkotrwałą ulgę. Dla mnie jednak przyniosła przede wszystkim upragnione chmury na niebie i ciekawe zachody słońca. [Instagram](https://www.instagram.com/p/Bl3X7iJH0Va/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/353_bwgawc.jpg" padding="66.666"}
 
-*Week 31: Brussels after sunset seen from Mont des Arts. [Instagram](https://www.instagram.com/p/BmJU-lzHLzS/?taken-by=lukaszrados)*
+*Tydzień 31: Bruksela po zachodzie słońca oglądana z Mont des Arts. [Instagram](https://www.instagram.com/p/BmJU-lzHLzS/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/354_tncjhb.jpg" padding="66.666"}
 
-*Week 32: Cloudy evening on Scheveningen beach in the Hague. [Instagram](https://www.instagram.com/p/BmbilkwHDpg/?taken-by=lukaszrados)*
+*Tydzień 32: Pochmurny wieczór na plaży w Scheveningen w Hadze. [Instagram](https://www.instagram.com/p/BmbilkwHDpg/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/355_tdnlca.jpg" padding="66.666"}
 
-*Week 33: Sky full of stars in Polish mountains. Just few steps from the fireplace and one could see millions of stars and Milky Way. [Instagram](https://www.instagram.com/p/Bmv9-aQnwrG/)*
+*Tydzień 33: Gwieździste niebo nad Sudetami w Polsce. Wystarczyło odejść 10 metrów od ogniska żeby wyraźnie zobaczyć drogę mleczną i miliony gwiazd. [Instagram](https://www.instagram.com/p/Bmv9-aQnwrG/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/356_oawdla.jpg" padding="100"}
 
-*Week 34: Fifteen minutes break between one rain and another, and absolutely gorgeous sunset on Bloemendaal beach. [Instagram](https://www.instagram.com/p/Bm_bKA1hjgN/?taken-by=lukaszrados)*
+*Tydzień 34: Piętnaście minut przerwy pomiędzy jednym deszczem a drugim i piękny zachód słońca na plaży w Bloemendaal. [Instagram](https://www.instagram.com/p/Bm_bKA1hjgN/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/357_eavfzf.jpg" padding="66.666"}
 
-*Week 35: Dark evening in Haarlem. Despite sunny day evening sky was covered with low dark clouds. [Instagram](https://www.instagram.com/p/BnRibjfHFLU/?taken-by=lukaszrados)*
+*Tydzień 35: Mroczny wieczór w Haarlem. Mimo słonecznej w ciągu dnia pogody, pod wieczór niebo zachmurzyło się i miasto nabrało ciekawych, stalowoszarych kolorów. [Instagram](https://www.instagram.com/p/BnRibjfHFLU/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/388_bi4m6u.jpg" padding="66.666"}
 
-*Week 36: Sunset by Roques de García viewpoint. First week of September I spent on Tenerife which turned out to be photographer's paradise. [Instagram](https://www.instagram.com/p/BnjhYEACZak/?taken-by=lukaszrados)*
+*Tydzień 36: Zachód słońca nad Roques de García. Pierwszy tydzień września spędziłem na Teneryfie, która okazała się rajem dla fotografa krajobrazu. [Instagram](https://www.instagram.com/p/BnjhYEACZak/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/449_k8swry.jpg" padding="66.666"}
 
-*Week 37: In September I participated in React Conference in Alicante. Tight schedule didn't leave much time for photography but I managed to take some shots of sunset. [Instagram](https://www.instagram.com/p/Bn1ieJWCmtj/?taken-by=lukaszrados)*
+*Tydzień 37: We wrześniu miałem przyjemność uczestniczyć w React Conference Alicante. Nie miałem wiele czasu na zdjęcia, ale udało mi się uchwycić zachód słońca. [Instagram](https://www.instagram.com/p/Bn1ieJWCmtj/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/450_esuqzj.jpg" padding="66.666"}
 
-*Week 38: Northern Lights above Hvalfjörður in Iceland. First night of our trip was the most beautiful one with aurora in the sky and freezing cold. [Instagram](https://www.instagram.com/p/BoW-W6jCK7d/?taken-by=lukaszrados)*
+*Tydzień 38: Zorza polarna nad Hvalfjörður, Islandia. Pierwsza noc przyniosła nam piękną zorzę polarną (jak się później okazało, jedyną w trakcie wyjazdu). [Instagram](https://www.instagram.com/p/BoW-W6jCK7d/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/451_cq2uz9.jpg" padding="150"}
 
-*Week 39: Cold and clear sunrise by Fjallsárlón lake. This is one of my favourite places on Iceland especially in early morning when most of tourists still sleep and I had this place only for myself. Same as two years ago I was stunned by the beauty of Iceland, but I couldn't help to notice that number of tourists grew. It made this moment even more special as there was absolutely nobody around. [Instagram](https://www.instagram.com/p/BohSrBqi75f/?taken-by=lukaszrados)*
+*Tydzień 39: Piękny, czysty i bardzo chłodny wschód słońca na jeziorze Fjallsárlón. To jedno z moich ulubionych miejsc na Islandii, zwłaszcza że o wschodzie słońca miałem je całe tylko dla siebie. Islandia zachwyciła mnie równie mocno jak za pierwszym razem (dwa lata temu), jednak zwróciłem uwagę na ogromną liczbę turystów i z ulgą fotografowałem w miejscach i czasie kiedy dookoła nikogo nie było. [Instagram](https://www.instagram.com/p/BohSrBqi75f/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/452_otzurk.jpg" padding="66.666"}
 
-*Week 40: October marked two years since I moved to the Netherlands. I decided to redo some of my first photos of Amsterdam, including popular view on Keizersgracht. [Instagram](https://www.instagram.com/p/BowxkNdCWr3/?taken-by=lukaszrados)*
+*Tydzień 40: W październiku minęły 2 lata odkąd przeprowadziłem się do Amsterdamu. Z tej okazji postanowiłem powtórzyć jeden z moich pierwszych kadrów z tego miasta. [Instagram](https://www.instagram.com/p/BowxkNdCWr3/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/453_oyo8eo.jpg" padding="66.666"}
 
-*Week 41: Rijksmuseum in Amsterdam during sunrise. Few weeks later “I amsterdam” sign was removed as an attempt to reduce number of tourists visiting this small square. [Instagram](https://www.instagram.com/p/Bo7Eh8niRvg/?taken-by=lukaszrados)*
+*Tydzień 41: Rijksmuseum w Amsterdamie o wschodzie słońca. Kilka tygodni później napis 'I amsterdam' został usunięty przez władze miejskie, które mają nadzieję zmniejszyć liczbę turystów gromadzących się na stosunkowo małym placu. [Instagram](https://www.instagram.com/p/Bo7Eh8niRvg/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/471_pofspb.jpg" padding="66.666"}
 
-*Week 42: Autumn in Belgian Ardennes. We decided with Jola to go to Belgium for a little hike. When we started our route in Bouillon everything was covered in thick mist, but after less than an hour we found ourselves above clouds. [Instagram](https://www.instagram.com/p/BpPozSzCadr/?taken-by=lukaszrados)*
+*Tydzień 42: Jesień w belgijskich Ardenach. Wraz z Jolą postanowiliśmy wyskoczyć na weekend do Belgii na hiking. Kiedy zaczynaliśmy w Bouillon gęsta mgła blokowała wszelkie widoki, ale już po godzinie znaleźliśmy się ponad chmurami. [Instagram](https://www.instagram.com/p/BpPozSzCadr/?taken-by=lukaszrados)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/472_njsnoc.jpg" padding="150"}
 
-*Week 43: It was week with no time for photography. I didn't manage to take photo until Sunday evening. [Instagram](https://www.instagram.com/p/BphxX7RFP9Z/)*
+*Tydzień 43: To był tydzień w którym praktycznie nie miałem czasu na fotografowanie. Dopiero w niedzielę udało mi się wyrwać na zdjęcia. [Instagram](https://www.instagram.com/p/BphxX7RFP9Z/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/473_xv7ntd.jpg" padding="66.666"}
 
-*Week 44: Beautiful sunset, unfortunately about 90 degrees to left from my composition. Fortunately some of the clouds got nice pink colour. [Instagram](https://www.instagram.com/p/Bpz0U5ulqwD/)*
+*Tydzień 44: Piękny zachód słońca, szkoda że jakieś 90 stopni na lewo od mojego wypatrzonego kadru. Mimo wszystko niektóre chmurki podświetliły się na różowo i dodały trochę koloru do zdjęcia. [Instagram](https://www.instagram.com/p/Bpz0U5ulqwD/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/474_k1c69t.jpg" padding="150"}
 
-*Week 45: Cloudy afternoon in Amsterdam. It was week full of splendid sunrises and sunsets but due to shortening days most of them I watched from my office. During weekend sky was covered with low clouds. I decided to use canal full of yellow leaves as a foreground, extending exposure to 30 seconds to blur them. [Instagram](https://www.instagram.com/p/BqF7MlSFEGJ/)*
+*Tydzień 45: Pochmurne popołudnie w Amsterdamie. To był tydzień pełen pięknych wschodów i zachodów słońca, ale niestety cały czas brakowało mi czasu na fotografowanie. Z kolei przez weekend niebo zakryte było gęstymi chmurami. Podczas popołudniowego spaceru zauważyłem kanał pełen żółtych liści, które przy 30s ekspozycji rozmywały się w ciekawe kształty. [Instagram](https://www.instagram.com/p/BqF7MlSFEGJ/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/480_kzzarp.jpg" padding="66.666"}
 
-*Week 46: Sunrise by De Poel lake in Het Amsterdamse Bos. I tried to balance exposure time to smoothen water a bit without losing its structure. [Instagram](https://www.instagram.com/p/BqX21d2F7-k/)*
+*Tydzień 46: Wschód słońca nad jeziorkiem De Poel w Het Amsterdamse Bos. Zastosowałem nieco dłuższy czas naświetlania, który równocześnie wygładził fale, ale zachował ich strukturę. [Instagram](https://www.instagram.com/p/BqX21d2F7-k/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/481_eszymn.jpg" padding="150"}
 
-*Week 47: Panorama towards Moleson peak in Switzerland. Despite lack of nice light I still like this view enough to feature it. [Instagram](https://www.instagram.com/p/Bqp4P_WlsBW/)*
+*Tydzień 47: Widok na szczyt Molesón w Szwajcarii. Mimo że światło nie dopisało to sam kadr oczarował mnie wystarczająco żeby zasłużyć na miejsce wśród zdjęć tygodnia. [Instagram](https://www.instagram.com/p/Bqp4P_WlsBW/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/482_vbv9pr.jpg" padding="150"}
 
-*Week 48: When I woke up in the morning I had no hopes for a nice sunrise. Bilbao was covered in clouds and a bit of rainy. After I reached the cliffs, just few minutes before sunrise clouds were illuminated by rising sun. Due to heavy wind it was incredibly hard to get a sharp photo. [Instagram](https://www.instagram.com/p/Bq7618gFuk-/)*
+*Tydzień 48: Budząc się rano nie miałem wielkich nadziei związanych z tym wschodem słońca. W Bilbao było raczej pochmurnie i deszczowo. Po dojechaniu nad klify, kilkanaście minut przed wschodem chmury podświetliły się na kilka chwil. Stałem na brzegu klifu i walczyłem z wiatrem o chociaż jedno ostre ujęcie. [Instagram](https://www.instagram.com/p/Bq7618gFuk-/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/483_iuxsmx.jpg" padding="66.666"}
 
-*Week 49: Weekend in Haarlem. Clouds were passing very fast and formed nice shapes in the sky. Using ND10 filter I managed to extend exposure time to 30 seconds. [Instagram](https://www.instagram.com/p/BrN82dSFaIN/)*
+*Tydzień 49: Weekend w Haarlem. Dzięki mocnemu wiatrowi (zwróćcie uwagę na flagi koło wiatraka) chmury przemykały po niebie tworząc piękne smugi. Użycie filtra ND10 pozwoliło na wydłużenie ekspozycji do 30s. [Instagram](https://www.instagram.com/p/BrN82dSFaIN/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/493_ldggb7.jpg" padding="66.666"}
 
-*Week 50: During whole weekend weather was just dreadful. Mist, rain and a bit of snow didn't encourage me to leave the apartment. I realised that these unfriendly conditions may add some charm to well known locations in Amsterdam. [Instagram](https://www.instagram.com/p/BrdX4twF8ri/)*
+*Tydzień 50: Przez cały weekend utrzymywała się okrutnie brzydka pogoda, z mgłą, deszczem i śniegiem. Nie miałem nawet ochoty wychodzić z domu. Pomyślałem jednak, że może doda ona uroku standardowym i wielokrotnie fotografowanym widokom z Amsterdamu. [Instagram](https://www.instagram.com/p/BrdX4twF8ri/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/494_i7cmtz.jpg" padding="150"}
 
-*Week 51: Last two weekends of 2018 I spent in Poland. Weather was still terrible but I managed to go for a short hike to Cascades of Rodło (pl. Kaskady Rodła). [Instagram](https://www.instagram.com/p/Brvbx5zFZO5/)*
+*Tydzień 51: Ostatnie dwa weekendy 2018 roku spędziłem w Polsce. Mimo fatalnej pogody udało mi się wybrać na krótki plener pod Kaskady Rodła u podnóża Baraniej Góry. [Instagram](https://www.instagram.com/p/Brvbx5zFZO5/)*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/495_xrvxcz.jpg" padding="66.666"}
 
-*Week 52: Last week of December was as cloudy as the whole month. Views were there for at most 5 minutes. [Instagram](https://www.instagram.com/p/BsBaonPF7gk/)*
+*Tydzień 52: Pochmurne zimowe Tatry. Ostatni tydzień roku był równie pochmurny co cały grudzień. Widoki pokazały się tylko na 5 minut. [Instagram](https://www.instagram.com/p/BsBaonPF7gk/)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
