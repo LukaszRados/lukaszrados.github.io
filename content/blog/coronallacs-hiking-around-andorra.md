@@ -18,25 +18,25 @@ We started in Escaldes. The first day was all about going up: we started at arou
 
 As we were gaining altitude, we slowly got out of the forest and we could see the first rocky peaks. By the afternoon we reached Refugi de l'Illa, our shelter for the first night. 
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-2_nq2gy5.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-2_nq2gy5.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-1_ppsrja.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-3_gznife.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-1_ppsrja.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-3_gznife.jpg" padding="150"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-5_wskb5j.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-5_wskb5j.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-6_pbrvr1.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-6_pbrvr1.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-7_dijhzv.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-7_dijhzv.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-8_pjbgw4.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-10_wtw7y1.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-8_pjbgw4.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-10_wtw7y1.jpg" padding="150"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-9_yl7og0.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-9_yl7og0.jpg" padding="66.6"}
 
 ## Stage 2: Refugi de l'Illa - Refugi de Juclà
 
@@ -50,30 +50,30 @@ From Collada dels Pessons we went 900 m down to the town of Envalira. From there
 
 We went down again, surrounded by some of the most beautiful views of the hike. When we passed Refugi del Siscaró, I started to think that we were close to the next shelter. I was proven wrong: we still had over one hour more in rocky terrain, with some chains and sketchy paths. Every turn seemed like the last one. When we finally reached Refugi de Juclà I was drained. Luckily the dinner and a cup of tea brought me back to life. 
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-12_t8xs4s.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-12_t8xs4s.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-13_xtk2qn.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-13_xtk2qn.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-14_daifex.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-14_daifex.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-15_grydg3.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-16_t7omtz.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948364/stories/coronallacs/coronallacs-15_grydg3.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-16_t7omtz.jpg" padding="150"}
+::
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948366/stories/coronallacs/coronallacs-18_thydwy.jpg" padding-bottom="66.6"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-17_ztlpkj.jpg" padding-bottom="66.6"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948366/stories/coronallacs/coronallacs-18_thydwy.jpg" padding="66.6"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-17_ztlpkj.jpg" padding="66.6"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-20_pw2wss.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691948365/stories/coronallacs/coronallacs-20_pw2wss.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding-bottom="66.6"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-24_qsrp0r.jpg" padding-bottom="66.6"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding="66.6"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-24_qsrp0r.jpg" padding="66.6"}
+::
 
 ## Stage 3: Refugi de Juclà - Refugi de Sorteny
 
@@ -87,25 +87,25 @@ We went down 500 m to the unmanned Refugi de Coms de Jan. While it is indeed unm
 
 The rest of the day is 800 m high downhill. It turned out to be very pleasant and we were quickly descending towards the Refugi de Sorteny. At some point the trail became a bit overgrown with shoulders-tall grass inhabited by thousands of crickets. The views became more idyllic as we went deeper down the valley. 
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-25_upfrtp.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-25_upfrtp.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-26_jheg9e.jpg" padding-bottom="150"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-26_jheg9e.jpg" padding="150"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-27_dvgkrc.jpg" padding-bottom="66.6"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-28_pzqej4.jpg" padding-bottom="66.6"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-27_dvgkrc.jpg" padding="66.6"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-28_pzqej4.jpg" padding="66.6"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-29_vq2wrr.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-29_vq2wrr.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-30_my9btm.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-30_my9btm.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-31_ey4tql.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-31_ey4tql.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-32_fksvzn.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-33_vn0mg1.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-32_fksvzn.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-33_vn0mg1.jpg" padding="150"}
+::
 
 ## Stage 4: Refugi de Sorteny - Refugi del Comapedrosa
 
@@ -123,19 +123,19 @@ The last part of the day was a 500 m climb to the Refugi del Comapedrosa. The pa
 
 Even after splitting this stage in two, it was still a big day in the mountains. We were delighted to arrive in the shelter and take our backpacks off. 
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-34_esf9ji.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-34_esf9ji.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-36_uiz6dn.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-37_pqcyu4.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-36_uiz6dn.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-37_pqcyu4.jpg" padding="150"}
+::
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-40_sikbfz.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958919/stories/coronallacs/coronallacs-41_kcal3z.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958842/stories/coronallacs/coronallacs-40_sikbfz.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958919/stories/coronallacs/coronallacs-41_kcal3z.jpg" padding="150"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-42_s1i6xm.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-42_s1i6xm.jpg" padding="66.6"}
 
 ## Stage 5: Refugi del Comapedrosa - Escaldes
 
@@ -147,23 +147,23 @@ Then it was all about going downhill: we had almost 2000 m to descend. After pas
 
 Once we were down in Sispony, we entered Camí Ral that follows Valira d’Orient river all the way to Escaldes. We finished the route next to the tourist office, after hiking almost 100 km with 6500 m of elevation gain in 6 days.
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-44_ah2f5m.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-44_ah2f5m.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-43_ynqljt.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-45_fkbvmc.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-43_ynqljt.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-45_fkbvmc.jpg" padding="150"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-46_ulch06.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-46_ulch06.jpg" padding="66.6"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-47_ezbf0c.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-47_ezbf0c.jpg" padding="66.6"}
 
-<two-columns>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691960334/stories/coronallacs/coronallacs-1-2_xmkarx.jpg" padding-bottom="150"></photo-lazy>
-    <photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-49_bb4ow8.jpg" padding-bottom="150"></photo-lazy>
-</two-columns>
+::two-columns
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691960334/stories/coronallacs/coronallacs-1-2_xmkarx.jpg" padding="150"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-49_bb4ow8.jpg" padding="150"}
+::
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-50_s4kasi.jpg" padding-bottom="66.6"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958920/stories/coronallacs/coronallacs-50_s4kasi.jpg" padding="66.6"}
 
 ## Miscellaneous
 

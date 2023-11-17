@@ -10,21 +10,21 @@ Let's start from the beginning. After visiting rich in flavours and adventures M
 
 ## Gibraltar & Ceuta
 
-We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at <nuxt-link to='/en/blog/sailing-from-spain-to-morocco'>the blog post I wrote back in 2015</nuxt-link>. 
+We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at [the blog post I wrote back in 2015](/blog/sailing-from-spain-to-morocco). 
 
 After leaving Gibraltar we crossed the Strait for the third time and went to Ceuta. We wanted to see the enclave in Africa, but unfortunately we only spent a day there before going back to Europe.
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-2_hiavl6.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-2_hiavl6.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-3_r3tup0.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-3_r3tup0.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-4_zicfy4.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-4_zicfy4.jpg" padding="66.666"}
 
 _From the top of the Rock of Gibraltar even big yachts look like toys._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-5_eudsro.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-5_eudsro.jpg" padding="66.666"}
 
 _Rif Mountains (Africa) to the left, the Rock of Gibraltar (Europe) to the right._
 
@@ -36,11 +36,11 @@ Unfortunately covid was just starting. The number of active cases and deaths cau
 
 In the end we spent 97 days in Caleta de Velez. We spent them working, repairing the boat, excercising and making sure our brain is sharp. It was definitely a tough time. Nobody plans their gap year to spent almost one hundred days in lockdown.
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-6_suisas.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-6_suisas.jpg" padding="66.666"}
 
 _Boardgames helped us to forget about quarantine for a bit. Luckily we didn't have Monopoly._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-7_l0xeqs.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-7_l0xeqs.jpg" padding="66.666"}
 
 _Even the most beautiful sunsets are boring if you are stuck in one place._
 
@@ -52,11 +52,11 @@ In the middle of June the movement restrictions were lifted. We only needed to w
 
 <video-lazy id="zAVR4EPYZrk"></video-lazy>
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-8_pscz8q.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-8_pscz8q.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-9_otqxdw.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-9_otqxdw.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-23_w9xkxo.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-23_w9xkxo.jpg" padding="66.666"}
 
 We wanted to catch up with our original plan so we were sailing without a break. After all we wanted to get to Italy and Greece. Moreover, a presidential elections were organised in Poland in the end of June. We really wanted to vote so we registered in Italy. It was yet another reason to go to Sardinia.
 
@@ -66,41 +66,41 @@ The weather at the Mediterranean Sea is totally different from the Atlantic Ocea
 
 In Sardinia we got a bit rest after the sailing marathon. In two weeks we sailed from Andalusia to Sardinia and we felt tired. We gladly slowed down and went for some exploration. We decided to sail north, make a short stop in Corsica and then sail south along the eastern coast of Sardinia.
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-10_segatm.jpg" padding-bottom="75"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-10_segatm.jpg" padding="75"}
 
 _Moonshine anchored by Cabo Caccia._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-11_wqwoax.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-11_wqwoax.jpg" padding="66.666"}
 
 _Once the temperature of the water rose to 25°C snorkeling and jumping to the water became a necessity._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-12_k4vzbg.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-12_k4vzbg.jpg" padding="66.666"}
 
 _Sunrise in Castelsardo. During the summer months clouds were rare which wasn't great for landscape photography._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-13_aomghj.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-13_aomghj.jpg" padding="66.666"}
 
 _Moonshine under way to Corsica. Splendid conditions and almost six knots of average speed._
 
 The next stop on our way was Sicily. We mostly wanted to see the Aeolian Islands, a small archipelago of vulcanic islands to the north of Sicily. Getting there without own boat is challenging. Aeolian Islands were definitely one of the most beautiful places visited during our trip.
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-28_xovk94.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-28_xovk94.jpg" padding="66.666"}
 
 _Moonshine under sails on the way from Palermo to Aeolian Islands._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-14_fcnfcg.jpg" padding-bottom="150"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-14_fcnfcg.jpg" padding="150"}
 
 _Sunrise at the Vulcano island. The island's name is the origin of word 'volcano'. The clouds are actually sulfur fumes._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-25_uurs8r.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-25_uurs8r.jpg" padding="66.666"}
 
 _Panorama from the peak of volcano. Moonshine is anchored in the bay to the right of the peninsula._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg" padding="66.666"}
 
 _On our way to Stromboli island where an active volcano is located. In the photo there is a cloud of ash coming out from the crater._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-26_iqlora.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-26_iqlora.jpg" padding="66.666"}
 
 _Anchorage next to Stromboli at a perfect windless morning. Mornings like that made us say "it was worth it"._
 
@@ -112,27 +112,27 @@ Our stay in Greece started with a tremendous thunderstorm. Luckily we were safel
 
 Getting to Greece meant that we could finally slow down. Since we planned to end the journey in here, there was no need to rush to the next destination. We spent over a month at Ionian Sea, then we sailed to Crete, Cyclades and finally we finished in a small town Kilada in Peloponnese. After selling the boat we came back to Santorini (by plane this time).
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-15_ckzqea.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-15_ckzqea.jpg" padding="66.666"}
 
 _One of the unexpected thunderstorms approaching. Due to conditions we left the anchorage and went out to the sea._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-16_mv7vrc.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-16_mv7vrc.jpg" padding="66.666"}
 
 _The only advantage of thunderstorms were beautiful sunsets._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-17_xe1twg.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-17_xe1twg.jpg" padding="66.666"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-18_kp6fj4.jpg" padding-bottom="75"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-18_kp6fj4.jpg" padding="75"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-19_vveyvg.jpg" padding-bottom="75"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-19_vveyvg.jpg" padding="75"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24_r0l8x7.jpg" padding-bottom="75"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24_r0l8x7.jpg" padding="75"}
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-20_u5u6sd.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-20_u5u6sd.jpg" padding="66.666"}
 
 _Anchorage in Kilada. This is where we said goodbye to Moonshine and we left her in the hands of new owners._
 
-<photo-lazy src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-21_wpehr5.jpg" padding-bottom="66.666"></photo-lazy>
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583003/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-21_wpehr5.jpg" padding="66.666"}
 
 _Santorini. Once the boat was sold we decided with Jola to check why is Santorini so popular and recognizable. We must admit that views are marvellous, but we prefer the small and less touristic islands._
 
