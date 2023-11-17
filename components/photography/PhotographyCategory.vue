@@ -2,9 +2,9 @@
   <div class="wrapper">
     <NuxtLink to="/" class="back">
       <Arrow direction="left" :animate="true" />
-      Go back
+      {{ $t("common.back") }}
     </NuxtLink>
-    <h1 class="title">{{ category.title_en }}</h1>
+    <h1 class="title">{{ title }}</h1>
 
     <div class="photos">
       <PhotoItem
@@ -31,7 +31,12 @@ type Props = {
   category: PhotographyCategory;
 };
 
-defineProps<Props>();
+const props = defineProps<Props>();
+
+const { locale } = useI18n();
+const title = computed(() =>
+  locale.value === "en" ? props.category.title_en : props.category.title_pl
+);
 
 const isLightboxOpen = ref(false);
 const currentPhoto = ref<PhotographyItem | undefined>(undefined)

@@ -1,11 +1,11 @@
 <template>
   <div class="item">
-    <NuxtLink :to="category._path" class="image">
-      <img :src="imageUrl" :alt="category.title_en" />
+    <NuxtLink :to="localePath(path)" class="image">
+      <img :src="imageUrl" :alt="title" />
     </NuxtLink>
     <h2 class="title">
-      <NuxtLink :to="category._path" class="link">
-        <span>{{ category.title_en }}</span>
+      <NuxtLink :to="localePath(path)" class="link">
+        <span>{{ title }}</span>
         <Arrow direction="right" :animate="true" />
       </NuxtLink>
     </h2>
@@ -15,6 +15,7 @@
 <script setup lang="ts">
 import type { PhotographyCategory } from "@/types/photography";
 import { buildImageUrl } from "@/helpers/image-url";
+import { getSlugFromPath } from "~/helpers/get-slug";
 
 type Props = {
   category: PhotographyCategory;
@@ -23,6 +24,15 @@ type Props = {
 const props = defineProps<Props>();
 const imageUrl = computed(() =>
   buildImageUrl(props.category.background, "c_fill,h_300,w_600")
+);
+
+const { locale } = useI18n();
+const localePath = useLocalePath();
+const slug = getSlugFromPath(props.category._path);
+const path = `/photography/${slug}`;
+
+const title = computed(() =>
+  locale.value === "en" ? props.category.title_en : props.category.title_pl
 );
 </script>
 
