@@ -8,4 +8,9 @@ export default {
   common: {
     back: "Go back",
   },
+  lightbox: {
+    close: "Close",
+    next: "Next",
+    prev: "Previous",
+  },
 };

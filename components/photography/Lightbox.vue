@@ -20,7 +20,7 @@
       type="button"
       class="close"
       @click="$emit('close')"
-      aria-label="Close"
+      :aria-label="$t('lightbox.close')"
     >
       <span></span>
     </button>
@@ -28,7 +28,7 @@
       type="button"
       class="arrow previous"
       @click="navigate(-1)"
-      aria-label="Previous"
+      :aria-label="$t('lightbox.prev')"
     >
       <Arrow direction="left" :animate="false" />
     </button>
@@ -36,7 +36,7 @@
       type="button"
       class="arrow next"
       @click="navigate(1)"
-      aria-label="Next"
+      :aria-label="$t('lightbox.next')"
     >
       <Arrow direction="right" :animate="false" />
     </button>
