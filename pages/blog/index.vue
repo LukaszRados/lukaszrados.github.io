@@ -1,6 +1,6 @@
 <template>
   <ContentQuery
-    path="/blog"
+    :path="`/blog/${locale}`"
     :only="['title', 'intro', 'published_at', 'background', '_path']"
     :sort="{ published_at: -1 }"
     v-slot="{ data }"
@@ -11,4 +11,6 @@
 
 <script setup lang="ts">
 import type { BlogPost } from '~/types/blog';
+
+const { locale } = useI18n()
 </script>

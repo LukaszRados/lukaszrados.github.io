@@ -1,10 +1,10 @@
 <template>
   <div>
-    <NuxtLink :to="post._path" class="image">
+    <NuxtLink :to="postUrl" class="image">
       <img :src="imageUrl" :alt="post.title" />
     </NuxtLink>
     <h2 class="title">
-      <NuxtLink :to="post._path">{{ post.title }}</NuxtLink>
+      <NuxtLink :to="postUrl">{{ post.title }}</NuxtLink>
     </h2>
     <p class="date">{{ post.published_at }}</p>
     <p class="intro">{{ post.intro }}</p>
@@ -13,7 +13,8 @@
 
 <script setup lang="ts">
 import type { BlogPost } from "@/types/blog";
-import { buildImageUrl } from "@/helpers/image-url"
+import { buildImageUrl } from "@/helpers/image-url";
+import { getSlugFromPath } from "@/helpers/get-slug";
 
 type Props = {
   post: BlogPost;
@@ -21,7 +22,13 @@ type Props = {
 
 const props = defineProps<Props>();
 
-const imageUrl = computed(() => buildImageUrl(props.post.background, 'c_fill,h_330,w_500'))
+const imageUrl = computed(() =>
+  buildImageUrl(props.post.background, "c_fill,h_330,w_500")
+);
+
+const localePath = useLocalePath();
+const slug = getSlugFromPath(props.post._path);
+const postUrl = localePath(`/blog/${slug}`);
 </script>
 
 <style lang="postcss" scoped>

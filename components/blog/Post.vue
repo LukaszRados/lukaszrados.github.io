@@ -1,7 +1,7 @@
 <template>
   <article>
     <section class="intro">
-      <NuxtLink to="/blog" class="back">
+      <NuxtLink :to="localePath('/blog')" class="back">
         <Arrow direction="left" :animate="true" />
         Go back
       </NuxtLink>
@@ -23,6 +23,8 @@ type Props = {
 };
 
 defineProps<Props>();
+
+const localePath = useLocalePath();
 </script>
 
 <style scoped lang="postcss">

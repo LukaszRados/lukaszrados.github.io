@@ -17,7 +17,7 @@
         </NuxtLink>
       </li>
       <li class="item">
-        <NuxtLink :to="switchLocalePath('en')" class="link">
+        <NuxtLink :to="switchLocalePath(nextLanguage)" class="link">
           {{ $t("navigation.next_language") }}
         </NuxtLink>
       </li>
@@ -28,6 +28,9 @@
 <script setup lang="ts">
 const localePath = useLocalePath();
 const switchLocalePath = useSwitchLocalePath();
+const { locale } = useI18n()
+
+const nextLanguage = computed(() => locale.value === 'pl' ? 'en' : 'pl')
 </script>
 
 <style lang="postcss" scoped>
