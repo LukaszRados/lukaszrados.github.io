@@ -104,11 +104,11 @@ defineProps<Props>();
   ul {
     list-style: disc;
     margin: 16px auto;
-    padding: 0;
+    padding: 0 16px 0 32px;
   }
 
   li {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     margin: 8px 0;
   }
 
@@ -138,6 +138,10 @@ defineProps<Props>();
     p {
       font-size: 1.25rem;
       margin: 32px auto;
+    }
+
+    li {
+      font-size: 1.25rem;
     }
 
     h2 {
