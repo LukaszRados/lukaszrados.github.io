@@ -4,5 +4,8 @@ export default {
     blog: 'blog',
     info: 'info',
     next_language: 'english'
-  }
+  },
+  common: {
+    back: "Wróć",
+  },
 }

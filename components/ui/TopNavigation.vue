@@ -1,6 +1,6 @@
 <template>
   <header class="header" :class="{ hidden: !showNavigation }">
-    <NuxtLink to="/" class="logo">
+    <NuxtLink :to="localePath('/')" class="logo">
       Łukasz Rados
       <transition name="sub">
         <div v-show="showSubheader">
@@ -24,6 +24,7 @@ const previousPosition = ref(0);
 const showNavigation = ref(true);
 
 const route = useRoute();
+const localePath = useLocalePath();
 
 const showSubheader = computed(
   () => currentPosition.value < ALWAYS_VISIBLE_PX && route.name?.toString().startsWith("index")

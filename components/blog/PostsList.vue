@@ -25,17 +25,25 @@ const articles = computed(() => props.data);
 
 @media (min-width: 700px) {
   .list {
-    gap: 96px;
+    gap: 32px;
     grid-template-columns: repeat(2, 1fr);
     max-width: 1000px;
     margin: 32px auto;
+    padding: 0 16px;
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
+  .list {
+    padding: 0 32px;
+  }
+}
+
+@media (min-width: 1200px) {
   .list {
     gap: 120px;
     margin: 48px auto;
+    padding: 0 32px;
   }
 }
 </style>
