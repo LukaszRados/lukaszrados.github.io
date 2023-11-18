@@ -62,6 +62,7 @@ const translate = ref("0");
 const touchDelta = ref(0);
 const touchInitial = ref<number | undefined>(undefined);
 const loadedPhotoUrls = ref<string[]>([]);
+const allPhotoUrls = computed(() => photos.value.map((photo) => photo.url))
 
 const surroundingPhotos = computed(() => {
   return [
@@ -161,7 +162,7 @@ onMounted(() => {
   document.addEventListener("touchmove", onTouchMove, { passive: true });
   document.addEventListener("touchend", onTouchEnd, { passive: true });
   document.body.classList.add("overflow-hidden");
-  index.value = photos.value.indexOf(photo.value);
+  index.value = allPhotoUrls.value.indexOf(photo.value.url);
   preloadPhotos();
 });
 

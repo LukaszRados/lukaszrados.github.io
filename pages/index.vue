@@ -10,6 +10,7 @@
 
 <script setup lang="ts">
 import type { PhotographyCategory } from "~/types/photography";
+import { buildImageUrl } from "~/helpers/image-url";
 
 const categories = await queryContent<PhotographyCategory>("photography")
   .sort({ order: 1 })
@@ -18,11 +19,11 @@ const categories = await queryContent<PhotographyCategory>("photography")
 const { t } = useI18n();
 
 useSeoMeta({
-  title: t("common.title"),
-  ogTitle: t("common.title"),
-  description: t("common.description"),
-  ogDescription: t("common.description"),
-  // ogImage: post.value.background,
+  title: `${t("home.title")} - ${t("common.title")}`,
+  ogTitle: `${t("home.title")} - ${t("common.title")}`,
+  description: t("home.description"),
+  ogDescription: t("home.description"),
+  ogImage: buildImageUrl(t("common.og_image"), "c_fill,h_630,w_1200"),
 });
 </script>
 

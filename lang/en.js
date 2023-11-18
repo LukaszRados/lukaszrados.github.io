@@ -8,7 +8,11 @@ export default {
   common: {
     back: "Go back",
     title: "Łukasz Rados",
-    description: "Personal website of Landscape Photographer & Front End Developer",
+    og_image: "v1620582272/photos/iceland-norway/iceland-norway-4_srykdr.jpg",
+  },
+  home: {
+    title: "Landscape Photographer & Frontend Developer",
+    description: "Personal website of Landscape Photographer & Frontend Developer",
   },
   lightbox: {
     close: "Close",
