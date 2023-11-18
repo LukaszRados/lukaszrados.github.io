@@ -22,9 +22,21 @@ type Props = {
   post: BlogPost;
 };
 
-defineProps<Props>();
+const props = defineProps<Props>();
+const { post } = toRefs(props);
 
 const localePath = useLocalePath();
+const { t } = useI18n();
+
+const title = computed(() => `${post.value.title} - ${t("common.title")}`);
+
+useSeoMeta({
+  title: title.value,
+  ogTitle: title.value,
+  description: post.value.intro,
+  ogDescription: post.value.intro,
+  ogImage: post.value.background,
+});
 </script>
 
 <style scoped lang="postcss">

@@ -7,6 +7,8 @@ export default {
   },
   common: {
     back: "Wróć",
+    title: "Łukasz Rados",
+    description: "Strona internetowa fotografa krajobrazu i front end developera",
   },
   lightbox: {
     close: "Zamknij",

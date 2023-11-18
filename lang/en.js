@@ -7,6 +7,8 @@ export default {
   },
   common: {
     back: "Go back",
+    title: "Łukasz Rados",
+    description: "Personal website of Landscape Photographer & Front End Developer",
   },
   lightbox: {
     close: "Close",
