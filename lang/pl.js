@@ -14,6 +14,10 @@ export default {
     title: "Fotograf Krajobrazu i Frontend Developer",
     description: "Strona internetowa fotografa krajobrazu i front end developera",
   },
+  blog: {
+    title: "Blog",
+    description: "Blog o fotografii krajobrazowej, podróżach i programowaniu",
+  },
   lightbox: {
     close: "Zamknij",
     next: "Następne",

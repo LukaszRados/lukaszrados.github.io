@@ -12,12 +12,12 @@
 </template>
 
 <script setup lang="ts">
-import type { BlogPost } from "@/types/blog";
+import type { BlogPostItem } from "@/types/blog";
 import { buildImageUrl } from "@/helpers/image-url";
 import { getSlugFromPath } from "@/helpers/get-slug";
 
 type Props = {
-  post: BlogPost;
+  post: BlogPostItem;
 };
 
 const props = defineProps<Props>();

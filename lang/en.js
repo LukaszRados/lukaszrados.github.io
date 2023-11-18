@@ -14,6 +14,10 @@ export default {
     title: "Landscape Photographer & Frontend Developer",
     description: "Personal website of Landscape Photographer & Frontend Developer",
   },
+  blog: {
+    title: "Blog",
+    description: "Blog about landscape photography, travelling and frontend development",
+  },
   lightbox: {
     close: "Close",
     next: "Next",
