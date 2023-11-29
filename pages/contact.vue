@@ -22,6 +22,20 @@
   </div>
 </template>
 
+<script setup lang="ts">
+import { buildImageUrl } from "~/helpers/image-url";
+
+const { t } = useI18n();
+
+useSeoMeta({
+  title: `${t("info.title")} - ${t("common.title")}`,
+  ogTitle: `${t("info.title")} - ${t("common.title")}`,
+  description: t("info.description"),
+  ogDescription: t("info.description"),
+  ogImage: buildImageUrl(t("common.og_image"), "c_fill,h_630,w_1200"),
+});
+</script>
+
 <style lang="postcss" scoped>
 .info {
   margin: 0 auto;
