@@ -10,6 +10,11 @@ export default {
     title: "Łukasz Rados",
     og_image: "v1620582272/photos/iceland-norway/iceland-norway-4_srykdr.jpg",
   },
+  error: {
+    title: "Ups. This page doesn't exist",
+    description: "It seems you found a dead link. Whatever used to be here, it's not anymore. Sorry!",
+    button: "Back to the homepage",
+  },
   home: {
     title: "Landscape Photographer & Frontend Developer",
     description: "Personal website of Landscape Photographer & Frontend Developer",

@@ -10,6 +10,11 @@ export default {
     title: "Łukasz Rados",
     og_image: "v1620582272/photos/iceland-norway/iceland-norway-4_srykdr.jpg",
   },
+  error: {
+    title: "Ups. Ta strona nie istnieje",
+    description: "Wygląda na to, że ten link nie działa. Cokolwiek tu było, już tego nie ma. Przepraszam!",
+    button: "Wróc do strony głównej",
+  },
   home: {
     title: "Fotograf Krajobrazu i Frontend Developer",
     description: "Strona internetowa fotografa krajobrazu i frontend developera",
