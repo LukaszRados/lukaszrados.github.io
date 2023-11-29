@@ -14,10 +14,10 @@
 
   <div class="photos">
     <div class="photo">
-      <img src="https://www.lukaszrados.pl/info/photography.jpg" alt="" />
+      <img :src="photographyImage" alt="" />
     </div>
     <div class="photo">
-      <img src="https://www.lukaszrados.pl/info/sailing.jpg" alt="" />
+      <img :src="sailingImage" alt="" />
     </div>
   </div>
 </template>
@@ -34,6 +34,9 @@ useSeoMeta({
   ogDescription: t("info.description"),
   ogImage: buildImageUrl(t("common.og_image"), "c_fill,h_630,w_1200"),
 });
+
+const photographyImage = buildImageUrl("misc/kqak1vjhkowlg1dicc97")
+const sailingImage = buildImageUrl("misc/q6qhxp84gaiqcquxccxw")
 </script>
 
 <style lang="postcss" scoped>
