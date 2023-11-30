@@ -2,7 +2,11 @@
   <nav class="navigation">
     <ul>
       <li class="item">
-        <NuxtLink :to="localePath('/')" class="link">
+        <NuxtLink
+          :to="localePath('/')"
+          class="link"
+          :class="{ 'router-link-active': isPhotographyPage }"
+        >
           {{ $t("navigation.photography") }}
         </NuxtLink>
       </li>
@@ -28,9 +32,16 @@
 <script setup lang="ts">
 const localePath = useLocalePath();
 const switchLocalePath = useSwitchLocalePath();
-const { locale } = useI18n()
+const { locale } = useI18n();
 
-const nextLanguage = computed(() => locale.value === 'pl' ? 'en' : 'pl')
+const nextLanguage = computed(() => (locale.value === "pl" ? "en" : "pl"));
+
+// Due to project structure, I haven't figured out a way to make photography item highlighted
+// So this is a small hack
+const route = useRoute();
+const isPhotographyPage = computed(() =>
+  route.name?.toString().startsWith("photography")
+);
 </script>
 
 <style lang="postcss" scoped>
