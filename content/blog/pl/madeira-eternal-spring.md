@@ -6,7 +6,7 @@ category: 'photography'
 background: v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg
 ---
 
-Przez ostatnie dwa lata przeżywałem swoisty  “kryzys fotograficzny”. W trakcie naszej rocznej podróży jachtem odwiedziliśmy jedne z najpiękniejszych wybrzeży Europy. Mimo to przez większość czasu aparat pozostawał w plecaku, a zazwyczaj nie opuszczał nawet kajuty. Poza sporadycznymi zrywami (na przykład wyjazd na Azory lub podczas <nuxt-link to="/blog/mountains-of-poland">pobytu zimą w Polsce</nuxt-link>) nie miałem motywacji do fotografowania. Bardzo mnie to męczyło, szukałem więc motywacji oglądając filmy na youtube, czytając artykuły i książki, próbując innych rodzajów fotografii i - jak chyba każdy fotograf - oglądając sprzęt. Ostatecznie stwierdziłem, że zmuszanie się do pasji nie ma sensu. Postanowiłem poczekać i mieć nadzieję, że chęć do fotografowania sama wróci. 
+Przez ostatnie dwa lata przeżywałem swoisty  “kryzys fotograficzny”. W trakcie naszej rocznej podróży jachtem odwiedziliśmy jedne z najpiękniejszych wybrzeży Europy. Mimo to przez większość czasu aparat pozostawał w plecaku, a zazwyczaj nie opuszczał nawet kajuty. Poza sporadycznymi zrywami (na przykład wyjazd na Azory lub podczas [pobytu zimą w Polsce](/blog/mountains-of-poland)) nie miałem motywacji do fotografowania. Bardzo mnie to męczyło, szukałem więc motywacji oglądając filmy na youtube, czytając artykuły i książki, próbując innych rodzajów fotografii i - jak chyba każdy fotograf - oglądając sprzęt. Ostatecznie stwierdziłem, że zmuszanie się do pasji nie ma sensu. Postanowiłem poczekać i mieć nadzieję, że chęć do fotografowania sama wróci. 
 
 W związku z tym, jadąc na Maderę nie poświęciłem wiele czasu na przygotowania fotograficzne. W przeciwieństwie do większości dotychczasowych wyjazdów nie nastawiałem się na robienie zdjęć, więc nie stworzyłem szczegółowej listy punktów widokowych, nie spakowałem drona i nie planowałem budzić się trzy godziny przed wschodem słońca. Do plecaka wrzuciłem aparat, dwa obiektywy, statyw i kilka filtrów (te ostatnie spokojnie mogły zostać w domu). Stwierdziłem, że jeśli zrobię ładne zdjęcia to świetnie, w innym przypadku nie będę rozczarowany. 
 
@@ -14,7 +14,7 @@ Przeglądając po powrocie do domu folder ze zdjęciami stwierdzam, że wyjazd b
 
 ## Lizbona
 
-Wyjazd zaczęliśmy w Lizbonie. Odwiedziłem ją po raz trzeci. W 2018 roku spędziłem tutaj raptem dwa dni podczas <nuxt-link to="/blog/portugal-from-south-to-north">pierwszego wyjazdu do Portugalii</nuxt-link>. W 2020 roku <nuxt-link to="/blog/sailing-to-the-mediterranean-sea">“utknęliśmy” w trakcie dwutygodniowego sztormu</nuxt-link> i mieliśmy okazję poznać ją trochę lepiej. Bardzo lubię to miasto, zwłaszcza jego lokalizację: na wzgórzach, u ujścia rzeki Tag, nad brzegiem oceanu. 
+Wyjazd zaczęliśmy w Lizbonie. Odwiedziłem ją po raz trzeci. W 2018 roku spędziłem tutaj raptem dwa dni podczas [pierwszego wyjazdu do Portugalii](/blog/portugal-from-south-to-north). W 2020 roku [“utknęliśmy” w trakcie dwutygodniowego sztormu](/blog/sailing-to-the-mediterranean-sea) i mieliśmy okazję poznać ją trochę lepiej. Bardzo lubię to miasto, zwłaszcza jego lokalizację: na wzgórzach, u ujścia rzeki Tag, nad brzegiem oceanu. 
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_1_aqvhxw.jpg" padding="150"}

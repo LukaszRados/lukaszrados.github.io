@@ -6,7 +6,7 @@ category: 'photography'
 background: v1620583019/stories/goodbye-netherlands-top-15-photos/572_rwlp0l.jpg
 ---
 
-Trzy lata w Holandii były dla mnie intensywne pod względem fotograficznym. To tutaj powstało większość zdjęć do <nuxt-link to="/blog/project-52">mojego Projektu 52 w 2018 roku</nuxt-link>. W niektórych miesiącach fotografia zajmowała znaczną część mojego czasu: tak było kiedy fotografowałem tulipany w kwietniu lub wrzosy w sierpniu. Nauczyłem się doceniać holenderskie wybrzeże, które może nie jest bardzo urozmaicone, ale dzięki zmienności pogody stanowi wdzięczny motyw. Holenderskie miasta były z kolei doskonałym miejscem na doskonalenie fotografii krajobrazu miejskiego.
+Trzy lata w Holandii były dla mnie intensywne pod względem fotograficznym. To tutaj powstało większość zdjęć do [mojego Projektu 52 w 2018 roku](/blog/project-52). W niektórych miesiącach fotografia zajmowała znaczną część mojego czasu: tak było kiedy fotografowałem tulipany w kwietniu lub wrzosy w sierpniu. Nauczyłem się doceniać holenderskie wybrzeże, które może nie jest bardzo urozmaicone, ale dzięki zmienności pogody stanowi wdzięczny motyw. Holenderskie miasta były z kolei doskonałym miejscem na doskonalenie fotografii krajobrazu miejskiego.
 
 Poniżej prezentuję (w dość dowolnej kolejności) moje ulubione zdjęcia z Holandii. To do nich będę wracać kiedy zatęsknię za holenderskimi krajobrazami.
 

@@ -70,4 +70,4 @@ Po krótkim pobycie na Guernsey popłynęliśmy dalej wzdłuż francuskiego wybr
 
 Aktualnie znajdujemy się w Camaret sur Mer i czekamy na okienko pogodowe, które umożliwi nam przepłynięcie Zatoki Biskajskiej. To będzie najdłuższy przelot do tej pory. Trzymajcie kciuki i śledźcie [s/y Moonshine](https://sailingmoonshine.com). Na zachętę zapraszam do obejrzenia [zwiastuna naszego kanału na YouTube](https://www.youtube.com/channel/UCsElUkhG9KKmbtSKmMdIBAA).
 
-<video-lazy id="2CA9TbXGKQI"></video-lazy>
+:video-lazy{id="2CA9TbXGKQI"}

@@ -10,7 +10,7 @@ background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 
 Sailing from England to Spain indicates crossing the Bay of Biscay. It was a challenge that was worrying us since we bought the boat. The Bay has rather scary reputation among sailors and is considered one of the most challenging places in Europe. Especially in winter when powerful storms are raging on North Atlantic and only few days a month the sea is calm. Fortunately we got our weather window after very little waiting and we could safely cross the Bay from Concarneau in France to Viveiro in Spain. Have a look at the video below to see how it went (English subtitles are available).
 
-<video-lazy id="kyLolriKhbI"></video-lazy>
+:video-lazy{id="kyLolriKhbI"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
 

@@ -70,4 +70,4 @@ After short stop in Guernsey we continued our journey along the French coast. We
 
 We are currently in Caramet sur Mer waiting for the weather window to cross the Bay of Biscay. It will be the longest leg of our sailing trip so far. Keep your fingers crossed and make sure to follow [Sailing Moonshine](https://sailingmoonshine.com/en). Make sure to check out [our channel trailer on YouTube](https://www.youtube.com/channel/UCsElUkhG9KKmbtSKmMdIBAA) (with English subtitles).
 
-<video-lazy id="2CA9TbXGKQI"></video-lazy>
+:video-lazy{id="2CA9TbXGKQI"}

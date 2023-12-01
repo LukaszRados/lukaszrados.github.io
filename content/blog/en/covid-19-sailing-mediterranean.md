@@ -50,7 +50,7 @@ In the beginning of June lockdown in Spain was gradually lifted. In the beginnin
 
 In the middle of June the movement restrictions were lifted. We only needed to wait the storm raging at Alboran Sea and we were good to go towards Balearic Islands. We anchored off the beautiful Formentera, Ibiza and Mallorca. We paid a short visit to Menorca. The beauty of Formentera is best to be admired with a bird's eye. Together with Jola we made a short video:
 
-<video-lazy id="zAVR4EPYZrk"></video-lazy>
+:video-lazy{id="zAVR4EPYZrk"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-8_pscz8q.jpg" padding="66.666"}
 

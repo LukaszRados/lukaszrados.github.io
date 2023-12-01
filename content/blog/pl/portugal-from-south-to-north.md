@@ -56,4 +56,4 @@ Choć mieliśmy tylko tydzień, udało nam się przejechać Portugalię od Faro,
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/114_ohgew7.jpg" padding="66.666"}
 
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/115_ym3fzs.jpg" padding="66.666"></photo-lazy
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/115_ym3fzs.jpg" padding="66.666"}

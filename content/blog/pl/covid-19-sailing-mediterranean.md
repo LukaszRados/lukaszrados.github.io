@@ -10,7 +10,7 @@ Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku p
 
 ## Gibraltar i Ceuta
 
-W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania <nuxt-link to='/blog/sailing-from-spain-to-morocco'>wpisu z 2015 roku</nuxt-link>, gdzie opisałem te zwierzęta i legendę z nimi związaną.
+W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania [wpisu z 2015 roku](/blog/sailing-from-spain-to-morocco), gdzie opisałem te zwierzęta i legendę z nimi związaną.
 
 Po wyjściu z Gibraltaru przecięliśmy (po raz trzeci) cieśninę i popłynęliśmy do Ceuty. Chcieliśmy zobaczyć tę hiszpańską enklawę w Afryce. Niestety spędziliśmy tam zaledwie jeden dzień i połynęliśmy znów w stronę Europy.
 
@@ -50,7 +50,7 @@ Od początku czerwca Hiszpania rozpoczęła wychodzenie z lockdownu. Początkowo
 
 W połowie czerwca restrykcje w przemieszczaniu się pomiędzy prowincjami zostały zniesione. Musieliśmy jeszcze tylko przeczekać szalejący na Morzu Alborańskim sztorm i połynęliśmy w stronę Balearów. Tam kotwiczyliśmy na pięknej Formenterze, Ibizie i Majorce, a także odwiedziliśmy na chwilę Minorkę. Uroki Formentery najlepiej podziwiać z powietrza na nagranym przeze mnie i Jolę filmiku:
 
-<video-lazy id="zAVR4EPYZrk"></video-lazy>
+:video-lazy{id="zAVR4EPYZrk"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583002/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-8_pscz8q.jpg" padding="66.666"}
 

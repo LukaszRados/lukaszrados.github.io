@@ -100,4 +100,4 @@ Wracając do Polski postanowiłem więc spędzić trochę czasu w górach. Choci
 
 W trakcie trzech miesięcy spędzonych w Polsce udało mi się wyskoczyć w góry łącznie 11 razy i przejść 160 km. Część z tych wypadów to szybkie wejścia na wschód lub zachód słońca, a część to całodzienne wędrówki. Ze sporej części nie przywiozłem żadnego zdjęcia, w trakcie innych trudno było oderwać oko od wizjera. Przede wszystkim była to jednak okazja do wyrwania się z zamkniętego miasta. 
 
-Więcej zdjęć polskich gór możesz znaleźć w mojej galerii - <nuxt-link to="/photography/poland-mountains">Polska - Góry</nuxt-link>.
+Więcej zdjęć polskich gór możesz znaleźć w mojej galerii - [Polska - Góry](/photography/poland-mountains).

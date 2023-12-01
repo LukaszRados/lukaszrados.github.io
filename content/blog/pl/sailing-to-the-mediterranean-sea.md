@@ -10,7 +10,7 @@ background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 
 Chcąc dostać się z Anglii do Hiszpanii zmuszeni byliśmy przekroczyć Zatokę Biskajską. Było to wyzwanie, o którym rozmawialiśmy od momentu kupienia łódki. Zatoka cieszy się ponurą sławą wśród żeglarzy i uchodzi za jeden z najtrudniejszych akwenów w Europie. W zimie potężne sztormy przetaczają się przez Zatokę przez większość miesiąca, zostawiając dla żeglarzy krótkie okna pogodowe. Na szczęście nasze okno pogodowe trafiło się dość szybko i momentalnie je wykorzystaliśmy, przepływając z Concarneau we Francji do Viveiro w Hiszpanii. Relację z przelotu można obejrzeć na naszym kanale na YouTube.
 
-<video-lazy id="kyLolriKhbI"></video-lazy>
+:video-lazy{id="kyLolriKhbI"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
 
@@ -32,7 +32,7 @@ Po dotarciu do Viveiro szczęście do pogody opuściło nas na dłuższą chwil�
 
 ## Portugalia
 
-Portugalia stała się naszym domem na kolejny miesiąc. W tym czasie przepłynęliśmy calutkie wybrzeże - zaczynając w Porto, przez Peniche, Cascais, Lizbonę, Portimão, Lagos, aż do Vila Real, z wieloma mniejszymi miasteczkami po drodze. Część z nich miałem przyjemność zobaczyć podczas <nuxt-link to="/blog/portugal-from-south-to-north">mojego wyjazdu do Portugalii w 2018 roku</nuxt-link>, ale zobaczyłem też wiele nowych miejsc. Portugalia po raz kolejny potwierdziła, że jest jednym z najpiękniejszych krajów w Europie.
+Portugalia stała się naszym domem na kolejny miesiąc. W tym czasie przepłynęliśmy calutkie wybrzeże - zaczynając w Porto, przez Peniche, Cascais, Lizbonę, Portimão, Lagos, aż do Vila Real, z wieloma mniejszymi miasteczkami po drodze. Część z nich miałem przyjemność zobaczyć podczas [mojego wyjazdu do Portugalii w 2018 roku](/blog/portugal-from-south-to-north), ale zobaczyłem też wiele nowych miejsc. Portugalia po raz kolejny potwierdziła, że jest jednym z najpiękniejszych krajów w Europie.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451366/stories/sailing-to-the-mediterranean-sea/617_xep9bq.jpg" padding="66.666"}
 
@@ -82,7 +82,7 @@ Kierując się w stronę Morza Śródziemnego po raz kolejny znaleźliśmy się 
 
 ## Maroko
 
-Po zaledwie dobie płynięcia opuściliśmy Europę i znaleźliśmy się w Maroku. Kilka lat temu, kiedy dopiero zaczynałem żeglować, <nuxt-link to="/blog/sailing-from-spain-to-morocco">wybrałem się z Malagi do Casablanki</nuxt-link>. Tym razem udało się nam zwiedzić północną część Maroka: Tanger, Meknes, Fez i Chefchauen.
+Po zaledwie dobie płynięcia opuściliśmy Europę i znaleźliśmy się w Maroku. Kilka lat temu, kiedy dopiero zaczynałem żeglować, [wybrałem się z Malagi do Casablanki](/blog/sailing-from-spain-to-morocco). Tym razem udało się nam zwiedzić północną część Maroka: Tanger, Meknes, Fez i Chefchauen.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451367/stories/sailing-to-the-mediterranean-sea/640_j0efgh.jpg" padding="66.666"}
 
