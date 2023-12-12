@@ -47,7 +47,13 @@ export default defineNuxtConfig({
       },
     ],
     lazy: true,
-    langDir: 'lang',
+    langDir: "lang",
     strategy: "prefix_except_default",
+  },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      failOnError: false,
+    },
   },
 });
