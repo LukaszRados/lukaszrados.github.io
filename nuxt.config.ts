@@ -50,10 +50,4 @@ export default defineNuxtConfig({
     langDir: "lang",
     strategy: "prefix_except_default",
   },
-  nitro: {
-    prerender: {
-      crawlLinks: true,
-      failOnError: false,
-    },
-  },
 });
