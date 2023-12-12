@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Barlow";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("/fonts/barlow-v5-latin-ext_latin-regular.woff2") format("woff2"),
+    url("/fonts/barlow-v5-latin-ext_latin-regular.woff") format("woff"),
+    url("/fonts/barlow-v5-latin-ext_latin-regular.ttf") format("truetype");
+}
+
+:root {
+  --background-color: #f0ecec;
+  --font-color: #16181b;
+  --font-color-gray: #5c5c5c;
+  --image-background-color: #dbdbdb;
+  
+  --viewport-medium: 900px;
+  --viewport-large: 1200px;
+
+  --max-width-large: 1440px;
+
+  --transition-timing: cubic-bezier(.4, 0, .2, 1);
+}
+
+.dark-mode {
+  --background-color: #16181b;
+  --image-background-color: #202328;
+  --font-color: #f8f8f8;
+  --font-color-gray: #acacac;
+}
+
+body {
+  background: var(--background-color);
+  color: var(--font-color);
+  font-family: 'Barlow', sans-serif;
+  margin: 0;
+  padding: 0;
+}

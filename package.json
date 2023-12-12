@@ -1,29 +1,25 @@
 {
-  "name": "lukaszrados-nuxt",
-  "version": "1.0.0",
+  "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
-  },
-  "dependencies": {
-    "@nuxt/content": "^1.15.1",
-    "core-js": "^3.20.0",
-    "nuxt": "^2.15.8",
-    "nuxt-i18n": "^6.28.1"
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^2.1.1",
-    "@nuxtjs/svg": "^0.1.12",
-    "@nuxtjs/tailwindcss": "^4.2.1",
-    "css-loader": "^5.0.0",
-    "postcss": "^8.1.10",
-    "postcss-import": "^13.0.0",
-    "postcss-loader": "^4.1.0",
-    "postcss-url": "^10.1.1",
-    "push-dir": "^0.4.1"
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/color-mode": "^3.3.0",
+    "@nuxtjs/i18n": "8.0.0-rc.5",
+    "nuxt": "^3.8.0",
+    "postcss-nested": "^6.0.1",
+    "postcss-nested-ancestors": "^3.0.0",
+    "vue": "^3.3.7",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.9.0"
   }
 }

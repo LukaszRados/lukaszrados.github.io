@@ -1,57 +1,63 @@
 <template>
-    <div class="mx-4 max-w-5xl md:mx-auto md:px-4 lg:px-8 lg:mt-16 lg:mb-32">
-        <fade-in-section>
-            <div class="md:grid md:grid-cols-2 md:gap-32">
-                <div
-                    v-for="post in posts"
-                    :key="post.slug"
-                    class="mb-24 md:mb-0"
-                >
-                    <nuxt-link :to="localePath(`/blog/${post.slug}`)" class="block bg-gray-300 dark:bg-gray-700 mb-5 relative">
-                        <div class="h-0 w-full" :style="`padding-bottom: 66%`"></div>
-                        <img :src="buildCoverImage(post.background, 'c_fill,h_280,w_420')" :alt="post.title" class="absolute top-0 left-0 w-full h-full">
-                    </nuxt-link>
-                    <h2 class="text-2xl leading-tight lg:text-3xl">
-                        <nuxt-link :to="localePath(`/blog/${post.slug}`)" class="hover:underline">
-                            {{ post.title }}
-                        </nuxt-link>
-                    </h2>
-                    <div class="my-5 opacity-50">
-                        {{ post.published_at }}
-                    </div>
-                    <p>{{ post.intro }}</p>
-                </div>
-            </div>
-        </fade-in-section>
-    </div>
+  <div class="list">
+    <PostListItem
+      v-for="article in articles"
+      :key="article._path"
+      :post="article"
+    />
+  </div>
 </template>
 
-<script>
-import { buildImageUrl } from '@/helpers';
+<script setup lang="ts">
+import type { BlogPostItem } from "~/types/blog";
+import { buildImageUrl } from "~/helpers/image-url";
 
-export default {
-    async asyncData ({ $content, app }) {
-        return {
-            posts: await $content(`posts/${app.i18n.locale}`).only(['background', 'title', 'published_at', 'intro', 'slug']).sortBy('published_at', 'desc').fetch()
-        }
-    },
+const { locale } = useI18n();
 
-    head () {
-        return {
-            title: this.$t('blog.title'),
-            meta: [
-                { hid: 'og:title', name: 'og:title', content: this.$t('blog.title') },
-                { hid: 'description', name: 'description', content: this.$t('blog.description') },     
-                { hid: 'og:description', name: 'og:description', content: this.$t('blog.description') },
-                { hid: 'og:url', name: 'og:url', content: this.$route.path },
-            ]
-        }
-    },
+const articles = await queryContent<BlogPostItem>(`blog/${locale.value}`)
+  .sort({ published_at: -1 })
+  .find();
 
-    methods: {
-        buildCoverImage(img, options) {
-            return buildImageUrl(img, options)
-        }
-    }
-}
+const { t } = useI18n();
+
+useSeoMeta({
+  title: `${t("blog.title")} - ${t("common.title")}`,
+  ogTitle: `${t("blog.title")} - ${t("common.title")}`,
+  description: t("blog.description"),
+  ogDescription: t("blog.description"),
+  ogImage: buildImageUrl(t("common.og_image"), "c_fill,h_630,w_1200"),
+});
 </script>
+
+<style lang="postcss" scoped>
+.list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 64px;
+  margin: 0 16px;
+}
+
+@media (min-width: 700px) {
+  .list {
+    gap: 32px;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1000px;
+    margin: 32px auto;
+    padding: 0 16px;
+  }
+}
+
+@media (min-width: 900px) {
+  .list {
+    padding: 0 32px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .list {
+    gap: 120px;
+    margin: 48px auto;
+    padding: 0 32px;
+  }
+}
+</style>
