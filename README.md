@@ -18,18 +18,6 @@ Start the development server on `http://localhost:3000`:
 pnpm run dev
 ```
 
-## Production
+## Deployment
 
-Build the application for production:
-
-```bash
-# pnpm
-pnpm run generate
-```
-
-Deploy to `gh-pages` branch:
-
-```bash
-# pnpm
-pnpm run deploy
-```
+The website is built statically and hosted on Github Pages. After pushing to `master`, manually trigger `deploy` workflow (it is _not_ triggered automatically on push).
