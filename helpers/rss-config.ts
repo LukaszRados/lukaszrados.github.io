@@ -10,11 +10,22 @@ export const rssConfigEnglish: any = {
     },
   },
   item: {
-    query: { where: { _dir: "en" } },
+    query: { where: { _dir: "en" }, sort: { published_at: -1 } },
     mapping: [
-      ["link", "_path"],
+      [
+        "link",
+        "_path",
+        (path: string) => {
+          const parts = path.split('/')
+          return `https://www.lukaszrados.pl/en/blog/${parts[parts.length - 1]}`;
+        },
+      ],
       ["description", "intro"],
-      ["published", "published_at", (value) => (value ? new Date(value) : value)],
+      [
+        "published",
+        "published_at",
+        (value: string) => (value ? new Date(value) : value),
+      ],
     ],
   },
 };
@@ -29,10 +40,22 @@ export const rssConfigPolish: any = {
     },
   },
   item: {
-    query: { where: { _dir: "pl" } },
+    query: { where: { _dir: "pl" }, sort: { published_at: -1 } },
     mapping: [
-      ["link", "_path"],
+      [
+        "link",
+        "_path",
+        (path: string) => {
+          const parts = path.split('/')
+          return `https://www.lukaszrados.pl/blog/${parts[parts.length - 1]}`;
+        },
+      ],
       ["description", "intro"],
+      [
+        "published",
+        "published_at",
+        (value: string) => (value ? new Date(value) : value),
+      ],
     ],
   },
 };
