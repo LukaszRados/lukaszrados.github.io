@@ -26,6 +26,7 @@ export const rssConfigEnglish: any = {
         "published_at",
         (value: string) => (value ? new Date(value) : value),
       ],
+      ["enclosure", "background", (path: string) => `https://res.cloudinary.com/lukaszrados/image/upload/c_fill,h_630,w_1200/${path}`]
     ],
   },
 };
@@ -56,6 +57,7 @@ export const rssConfigPolish: any = {
         "published_at",
         (value: string) => (value ? new Date(value) : value),
       ],
+      ["enclosure", "background", (path: string) => `https://res.cloudinary.com/lukaszrados/image/upload/c_fill,h_630,w_1200/${path}`]
     ],
   },
 };
