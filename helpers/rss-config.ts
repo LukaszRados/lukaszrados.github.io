@@ -14,6 +14,7 @@ export const rssConfigEnglish: any = {
     mapping: [
       ["link", "_path"],
       ["description", "intro"],
+      ["published", "published_at", (value) => (value ? new Date(value) : value)],
     ],
   },
 };
