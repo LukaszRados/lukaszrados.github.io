@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { rssConfigEnglish, rssConfigPolish } from './helpers/rss-config'
+
 export default defineNuxtConfig({
   app: {
     head: {
@@ -7,6 +9,18 @@ export default defineNuxtConfig({
           rel: "icon",
           type: "image/png",
           href: "/favicon.png",
+        },
+        {
+          rel: "alternate",
+          type: "application/rss+xml",
+          title: "Łukasz Rados - Blog (po polsku)",
+          href: "/feed.xml",
+        },
+        {
+          rel: "alternate",
+          type: "application/rss+xml",
+          title: "Łukasz Rados - Blog (in English)",
+          href: "/feed-en.xml",
         },
       ],
       meta: [
@@ -33,7 +47,12 @@ export default defineNuxtConfig({
     },
   },
   devtools: { enabled: true },
-  modules: ["@nuxtjs/color-mode", "@nuxt/content", "@nuxtjs/i18n"],
+  modules: [
+    "@nuxtjs/color-mode",
+    "@nuxt/content",
+    "@nuxtjs/i18n",
+    "nuxt-feedme",
+  ],
   i18n: {
     defaultLocale: "pl",
     locales: [
@@ -49,5 +68,24 @@ export default defineNuxtConfig({
     lazy: true,
     langDir: "lang",
     strategy: "prefix_except_default",
+  },
+  feedme: {
+    feeds: {
+      // PL
+      '/feed.json': rssConfigPolish,
+      '/feed.atom': rssConfigPolish,
+      '/feed.xml': rssConfigPolish,
+      // EN
+      '/feed-en.json': rssConfigEnglish,
+      '/feed-en.atom': rssConfigEnglish,
+      '/feed-en.xml': rssConfigEnglish,
+    },
+    content: {
+      feed: {
+        defaults: {
+          author: { email: 'lukaszrados@gmail.com', name: 'Łukasz Rados' },
+        },
+      },
+    }
   },
 });
