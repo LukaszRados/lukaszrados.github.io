@@ -4,7 +4,7 @@ export const rssConfigEnglish: any = {
   feed: {
     defaults: {
       link: "https://www.lukaszrados.pl/en/blog",
-      title: "Łukasz Rados - Blog",
+      title: "Łukasz Rados - Blog (in English)",
       description:
         "Blog about landscape photography, travelling and frontend development",
     },
@@ -36,7 +36,7 @@ export const rssConfigPolish: any = {
   feed: {
     defaults: {
       link: "https://www.lukaszrados.pl/blog",
-      title: "Łukasz Rados - Blog",
+      title: "Łukasz Rados - Blog (po polsku)",
       description: "Blog o fotografii krajobrazowej, podróżach i programowaniu",
     },
   },
