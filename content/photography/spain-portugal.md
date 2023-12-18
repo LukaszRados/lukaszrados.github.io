@@ -17,15 +17,19 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582431/photos/spain-portugal/spain-portugal-1_topofv.jpg
-    width: 800
-    height: 1200
-  -
     url: v1663341018/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-17_mq4s33.jpg
     width: 1200
     height: 800
   -
+    url: v1/photos/spain-portugal/cxs2o69i1dpmdvi7bing
+    width: 1200
+    height: 800
+  -
     url: v1620582430/photos/spain-portugal/spain-portugal-2_jzcr03.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1/photos/spain-portugal/p3e2xoimlfhg1hywgc5l
     width: 1200
     height: 800
   -
@@ -41,6 +45,10 @@ photos:
     width: 1200
     height: 900
   -
+    url: v1620582431/photos/spain-portugal/spain-portugal-1_topofv.jpg
+    width: 800
+    height: 1200
+  -
     url: v1639512053/photos/spain-portugal/spain-portugal-4_gt1e1x.jpg
     width: 1200
     height: 800
@@ -49,11 +57,23 @@ photos:
     width: 1200
     height: 800
   -
+    url: v1/photos/spain-portugal/pbc7kl6j7weysakdq538
+    width: 1200
+    height: 800
+  -
     url: v1620582430/photos/spain-portugal/spain-portugal-4_z1hlbt.jpg
     width: 1200
     height: 800
   -
+    url: v1/photos/spain-portugal/dmuifxbw8ovlk3espvqw
+    width: 1500
+    height: 800
+  -
     url: v1620582430/photos/spain-portugal/spain-portugal-6_xulna9.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1/photos/spain-portugal/b9igjomdekfuqgwko0ti
     width: 1200
     height: 800
   -
