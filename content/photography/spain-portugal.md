@@ -5,6 +5,10 @@ title_pl: Hiszpania i Portugalia
 order: "01"
 photos:
   -
+    url: v1715690675/photos/spain-portugal/xjwmn8g0vbeehzvifsb7.jpg
+    width: 1200
+    height: 800
+  -
     url: v1620582432/photos/spain-portugal/spain-portugal-15_lyxfss.jpg
     width: 1200
     height: 800
@@ -22,6 +26,10 @@ photos:
     height: 800
   -
     url: v1/photos/spain-portugal/cxs2o69i1dpmdvi7bing
+    width: 1200
+    height: 800
+  -
+    url: v1715690675/photos/spain-portugal/vvzbourj6ytvsyu3yv7x.jpg
     width: 1200
     height: 800
   -
