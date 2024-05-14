@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <NuxtLink to="/" class="back">
+    <NuxtLink :to="localePath('/')" class="back">
       <Arrow direction="left" :animate="true" />
       {{ $t("common.back") }}
     </NuxtLink>
@@ -33,6 +33,7 @@ type Props = {
 
 const props = defineProps<Props>();
 
+const localePath = useLocalePath();
 const { locale } = useI18n();
 const title = computed(() =>
   locale.value === "en" ? props.category.title_en : props.category.title_pl
