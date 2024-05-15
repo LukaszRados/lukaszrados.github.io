@@ -64,7 +64,7 @@ The day could as well have ended here: I ate dinner, took some photos of the sun
 
 ↔ 51 km | △ 500 m
 
-The third, and final, day started with an lovely sunrise. I didn’t get much sleep between photographing the northern lights and waking up for the sunrise, but the last day was far easier than the previous two. 
+The third, and final, day started with a lovely sunrise. I didn’t get much sleep between photographing the northern lights and waking up for the sunrise, but the last day was far easier than the previous two. 
 
 The original plan was to close the loop by climbing Coll de Pal and going downhill to La Molina and Puigcerdà on gravel tracks following the skiing slopes. After some consideration I decided against it: the snow had just melted and I was afraid the route would be too muddy for a pleasant ride. Instead I decided to cycle up the Llobregat river to La Pobla de Lillet, climb Coll de Merola and catch a train in Ripoll. It was finally a day with more descent than ascent! 
 
