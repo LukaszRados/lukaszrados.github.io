@@ -31,7 +31,7 @@ Znajdująca się na wysokości 2400 m n.p.m przełęcz Port d'Envalira była naj
 
 ↔ 93 km | △ 1900 m
 
-Wieczór spędzony ze znajomymi, duża pizzy i solidne osiem godzin snu sprawiło, że rano czułem się całkiem wypoczęty. Wątpliwości z poprzedniego dnia (dotyczące trasy na kolejne dni) zniknęły gdy tylko zacząłem jechać w stronę hiszpańskiej granicy. Pierwsze 30 km to zjazd do La Seu d’Urgell, ale reszta dnia oznaczała głównie podjazdy: najpierw na Coll de la Trava, a potem na Coll de Josa. Trasa biegła wzdłuż pustych asfaltowych dróg, z pięknymi widokami i małymi miasteczkami.
+Wieczór spędzony ze znajomymi, duża pizza i solidne osiem godzin snu sprawiło, że rano czułem się całkiem wypoczęty. Wątpliwości z poprzedniego dnia (dotyczące trasy na kolejne dni) zniknęły gdy tylko zacząłem jechać w stronę hiszpańskiej granicy. Pierwsze 30 km to zjazd do La Seu d’Urgell, ale reszta dnia oznaczała głównie podjazdy: najpierw na Coll de la Trava, a potem na Coll de Josa. Trasa biegła wzdłuż pustych asfaltowych dróg, z pięknymi widokami i małymi miasteczkami.
 
 Po wyjechaniu na Coll de Josa, w końcu zobaczyłem Pedraforcę. Nie jestem pewien, czy jest w Katalonii góra, która robi na mnie większe wrażenie (a konkurencja jest spora). Pedałując dalej minąłem Gósol i Saldes i dojechałem (w końcu!) do mojego hotelu z przepięknym widokiem na Pedraforcę. 
 
