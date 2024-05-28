@@ -26,7 +26,7 @@ export default {
   info: {
     title: "Info",
     description: "Strona internetowa fotografa krajobrazu i frontend developera",
-    text_1: "Nazywam się Łukasz Rados, mieszkam w Barcelonie i jestem Front End Developerem w Preply. W przeszłości pracowałem dla Glovo, Booking.com, Woblink i Brandmorning.",
+    text_1: "Nazywam się Łukasz Rados, mieszkam w Barcelonie i jestem Frontend Developerem w Preply. W przeszłości pracowałem dla Glovo, Booking.com, Woblink i Brandmorning.",
     text_2: "Kilka lat temu zakochałem się w podróżowaniu. Od tamtego czasu nie przepuszczam żadnej okazji żeby wybrać się w nowe miejsce w poszukiwaniu pięknych miejsc do sfotografowania. Pasję tę staram się łączyć z zamiłowaniem do kolarstwa i wędrówek górskich.",
     text_3: "We wrześniu 2019 roku wraz z grupą znajomych kupiliśmy jacht. Przez rok przepłynęliśmy 5000 mil morskich z Anglii do Grecji, po drodze zwiedzając europejskie wybrzeże. Nasze przygody udokumentowaliśmy {start_tag}na naszym kanale na YouTube{end_tag}.",
   },
