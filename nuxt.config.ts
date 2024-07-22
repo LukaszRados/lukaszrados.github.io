@@ -34,25 +34,31 @@ export default defineNuxtConfig({
       ],
     },
   },
+
   css: ["~/assets/css/main.css"],
+
   components: [
     {
       path: "~/components",
       pathPrefix: false,
     },
   ],
+
   postcss: {
     plugins: {
       "postcss-nested": {},
     },
   },
+
   devtools: { enabled: true },
+
   modules: [
     "@nuxtjs/color-mode",
     "@nuxt/content",
     "@nuxtjs/i18n",
     "nuxt-feedme",
   ],
+
   i18n: {
     defaultLocale: "pl",
     locales: [
@@ -69,6 +75,7 @@ export default defineNuxtConfig({
     langDir: "lang",
     strategy: "prefix_except_default",
   },
+
   feedme: {
     feeds: {
       // PL
@@ -88,4 +95,6 @@ export default defineNuxtConfig({
       },
     }
   },
+
+  compatibilityDate: "2024-07-22",
 });
