@@ -5,17 +5,13 @@ title_pl: Francja i Szwajcaria
 order: "07"
 photos:
   -
-    url: v1620582253/photos/france-switzerland/france-switzerland-1_opsug6.jpg
+    url: v1620582253/photos/france-switzerland/france-switzerland-3_bcanub.jpg
     width: 800
     height: 1200
   -
     url: v1620582253/photos/france-switzerland/france-switzerland-2_iuq7xd.jpg
     width: 1200
     height: 800
-  -
-    url: v1620582253/photos/france-switzerland/france-switzerland-3_bcanub.jpg
-    width: 800
-    height: 1200
   -
     url: v1620582253/photos/france-switzerland/france-switzerland-4_t5kjlv.jpg
     width: 792
@@ -25,9 +21,33 @@ photos:
     width: 1200
     height: 800
   -
+    url: v1620582253/photos/france-switzerland/france-switzerland-1_opsug6.jpg
+    width: 800
+    height: 1200
+  -
     url: v1620582253/photos/france-switzerland/france-switzerland-6_dfbjzh.jpg
     width: 1200
     height: 797
+  -
+    url: v1724180892/stories/weisshornhutte/weisshornhutte-21_itrpy5.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1724180894/stories/weisshornhutte/weisshornhutte-27_mlp1tr.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1724180895/stories/weisshornhutte/weisshornhutte-31_feaitf.jpg
+    width: 800
+    height: 1200
+  -
+    url: v1724180895/stories/weisshornhutte/weisshornhutte-29_ha7bao.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1724180891/stories/weisshornhutte/weisshornhutte-9_j9ptoa.jpg
+    width: 1200
+    height: 800
   -
     url: v1620582253/photos/france-switzerland/france-switzerland-7_a0crbu.jpg
     width: 1200
