@@ -14,7 +14,7 @@ background: v1724180894/stories/weisshornhutte/weisshornhutte-27_mlp1tr.jpg
 
 Day one was all about uphill. The trail starts next to the train station in Täsch and immediately goes up. The first half is pretty steep, but without any difficulties, so we gained elevation fast. 
 
-The trail flattened as we got to the main branch of the Schalibach stream. The route crosses the stream here, but we found it a bit too tricky. We decided to use the alternative route that goes around the stream. It required some scrambling, but we finally made it back to the main route. Then, another branch of Schalibach needs to be crossed. This one was way easier to cross; taking off our boots and dipping them in cold glacier waters was actually very pleasant. 
+The trail flattened as we got to the main branch of the Schalibach stream. The route crosses the stream here, but we found it a bit too tricky. We decided to use the alternative route that goes around the stream. It required some scrambling, but we finally made it back to the main route. Then, another branch of Schalibach needs to be crossed. This one was way easier to cross; taking off our boots and dipping feet in cold glacier waters was actually very pleasant. 
 
 The last bit of the route is again a steep uphill. We found ourselves accompanied by a herd of curious goats. Higher up the goats left us, but we were lucky to bump into a flock of friendly sheep. Then we finally reached the hut, right in time for the dinner.
 
