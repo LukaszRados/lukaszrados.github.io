@@ -28,7 +28,7 @@ const emit = defineEmits(["click"]);
 
 const isVertical = computed(() => photo.value.width < photo.value.height);
 const thumbnailUrl = computed(() =>
-  buildImageUrl(photo.value.url, "c_limit,h_410,w_410")
+  buildImageUrl(photo.value.url, "c_limit,h_420,w_420")
 );
 const photoUrl = computed(() => buildImageUrl(photo.value.url));
 const paddingBottom = computed(
