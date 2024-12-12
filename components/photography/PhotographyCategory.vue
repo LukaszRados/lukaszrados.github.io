@@ -93,12 +93,12 @@ function close() {
   align-items: center;
   display: grid;
   gap: 24px;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 @media (min-width: 500px) {
   .photos {
     gap: 48px;
-    grid-template-columns: repeat(2, 1fr);
   }
 }
 
