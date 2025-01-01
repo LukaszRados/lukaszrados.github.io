@@ -21,7 +21,15 @@ photos:
     width: 1200
     height: 800
   -
+    url: v1735759603/photos/poland-mountains/cf83zwgwz1tflmpjbkb8.jpg
+    width: 1200
+    height: 800
+  -
     url: v1620582414/photos/poland-mountains/poland-mountains-22_usmv93.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1735759600/photos/poland-mountains/l7rrsra5dxo9zla5rs6e.jpg
     width: 1200
     height: 800
   -
@@ -45,10 +53,6 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582414/photos/poland-mountains/poland-mountains-27_nfmvdp.jpg
-    width: 800
-    height: 1200
-  -
     url: v1620582414/photos/poland-mountains/poland-mountains-24_p9y8ut.jpg
     width: 1200
     height: 800
@@ -60,10 +64,6 @@ photos:
     url: v1620582414/photos/poland-mountains/poland-mountains-20_vr1vl7.jpg
     width: 1400
     height: 815
-  -
-    url: v1620582414/photos/poland-mountains/poland-mountains-23_lmvwmk.jpg
-    width: 1400
-    height: 719
   -
     url: v1620582415/photos/poland-mountains/poland-mountains-30_qkxj0a.jpg
     width: 951
@@ -78,10 +78,6 @@ photos:
     height: 800
   -
     url: v1620582411/photos/poland-mountains/poland-mountains-5_fbvsv4.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1620582412/photos/poland-mountains/poland-mountains-6_vjfc72.jpg
     width: 1200
     height: 800
   -
@@ -101,19 +97,11 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582412/photos/poland-mountains/poland-mountains-12_fwfqxb.jpg
-    width: 1200
-    height: 800
-  -
     url: v1620582413/photos/poland-mountains/poland-mountains-13_ewrhkz.jpg
     width: 1200
     height: 800
   -
     url: v1620582413/photos/poland-mountains/poland-mountains-17_wydb59.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1620582414/photos/poland-mountains/poland-mountains-16_xi6caz.jpg
     width: 1200
     height: 800
   -
