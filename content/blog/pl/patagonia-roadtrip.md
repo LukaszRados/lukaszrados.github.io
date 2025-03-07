@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663433039/stories/patagonia-roadtrip/517_jdnuny.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/500_rxdwmw.jpg" padding="66.666"}
+
 Kiedy pod koniec zeszłego roku kolega wysłał mi informację o promocyjnych cenach lotów z Amsterdamu do Buenos Aires, wahałem się tylko chwilę. Razem z Jolą postanowiliśmy spędzić dwa tygodnie marca w Ameryce Południowej. Plan był następujący: 10 dni w Patagonii, kilka dni w Córdobie w odwiedzinach u przyjaciół i dwa dni w Buenos Aires.
 
 ## El Chaltén
@@ -13,8 +15,6 @@ Kiedy pod koniec zeszłego roku kolega wysłał mi informację o promocyjnych ce
 Po przylocie spędziliśmy jeden dzień z przyjaciółmi w Buenos Aires, a następnie polecieliśmy do El Calafate w Patagonii. Na miejscu wypożyczyliśmy samochód i ruszyliśmy w stronę El Chaltén znanego z widoku na jeden z najpiękniejszych szczytów w Andach: Fitz Roy.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/499_yeff7y.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/500_rxdwmw.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/501_n7ysus.jpg" padding="66.666"}
 

@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663427072/stories/project-52/493_ldggb7.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/493_ldggb7.jpg" padding="66.666"}
+
 *TL;DR: below I present short description of the project together with conclusions: what I liked and what went wrong. If you are not interested in the description, scroll below to see all 52 photos.*
 
 ## Motivations and rules

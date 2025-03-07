@@ -6,11 +6,11 @@ category: 'photography'
 background: v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/1_xinzap.jpg" padding="66.666"}
+
 Pobyt rozpoczęliśmy od wycieczki samochodem dookoła wyspy. Dzięki temu zdobyliśmy rozeznanie które części wyspy podobają się nam bardziej i chcemy je jeszcze pozwiedzać, a które nieszczególnie nas interesują. W pierwszy dzień przejechaliśmy turystyczne południe (gdzie był nasz hotel), góry Anaga na północy i płaskowyż pod Pico del Teide.
 
 Najbardziej charakterystycznym punktem wyspy jest stożek wulkanu Pico del Teide, który wznosi się na wysokość 3718m. Robi to tym większe wrażenie, że oglądać go można z poziomu oceanu. Niestety wejście na szczyt jest limitowane, a darmowe pozwolenie należy załatwić dużo wcześniej przez internet. Nasz wyjazd był dość spontaniczny, więc nie byliśmy na to przygotowani, ale obiecaliśmy sobie że jeszcze tam wrócimy.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/1_xinzap.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/2_ofcnkp.jpg" padding="66.666"}
 

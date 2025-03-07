@@ -6,6 +6,8 @@ category: 'photography'
 background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/60_dtui7h.jpg" padding="66.666"}
+
 Islandia była moim największym marzeniem odkąd zobaczyłem zdjęcia na 500px.com. Z każdym obejrzanym zdjęciem (zwłaszcza od czasu erupcji Eyjafjallajökull w 2010), z każdym przeczytanym artykułem i obejrzanym filmem, zakochiwałem się w wyspie, której nie widziałem wcześniej na oczy. Co ciekawe, nie kwapiłem się jednak do wizyty. Trochę obawiałem się, że Islandia może okazać się nie aż tak magiczna jak sobie to wyobrażam (Syndrom paryski) albo pogoda popsuje moje plany. Najbardziej jednak bałem się, że z powodu braku umiejętności lub obejrzenia zbyt wielkiej liczby zdjęć, nie będę w stanie zrobić żadnych świeżych ujęć.
 
 W tym roku zdecydowałem się jednak pojechać. W końcu nie oznacza to, że już nigdy więcej tam nie wrócę (zdecydowanie)! Po 7 dniach okazało się, że Islandia jest rzeczywiście tak piękna, zjawiskowa i magiczna jak ją sobie wyobrażałem.
@@ -49,8 +51,6 @@ W trakcie planowania wycieczki miałem kilka wątpliwości związanych z autosto
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/58_wtsdzo.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/59_obrgho.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/60_dtui7h.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/61_c4ucna.jpg" padding="66.666"}
 

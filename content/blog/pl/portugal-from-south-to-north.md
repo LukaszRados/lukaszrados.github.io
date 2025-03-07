@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg" padding="66.666"}
+
 Choć mieliśmy tylko tydzień, udało nam się przejechać Portugalię od Faro, aż do położonego na północy Porto. Nasz pobyt rozpoczęliśmy w regionie Algarve znanym przede wszystkim z ciekawej linii brzegowej złożonej ze złotych klifów, ukrytych jaskiń i małych zatoczek. Następnie odwiedziliśmy Lizbonę, Coimbrę i Porto. Zwłaszcza to ostatnie miasto, położone przy ujściu Duero do Oceanu Atlantyckiego, zrobiło na mnie olbrzymie wrażenie.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/92_vdpevy.jpg" padding="66.666"}
@@ -17,8 +19,6 @@ Choć mieliśmy tylko tydzień, udało nam się przejechać Portugalię od Faro,
 ::
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/95_lelmig.jpg" padding="150"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/97_xb6id0.jpg" padding="66.666"}
 

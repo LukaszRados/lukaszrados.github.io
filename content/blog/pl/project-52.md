@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663427072/stories/project-52/493_ldggb7.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663427072/stories/project-52/493_ldggb7.jpg" padding="66.666"}
+
 *Uwaga: poniżej prezentuję krótki opis projektu, wraz z moimi wnioskami: co mi się podobało, a co poszło nie tak. Jeśli nie interesuje Cię opis, dalej prezentuję wszystkie 52 zdjęcia wraz z krótkimi opisami i linkami do mojego Instagrama.*
 
 ## Motywacje i założenia

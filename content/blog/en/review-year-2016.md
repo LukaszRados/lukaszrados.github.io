@@ -6,11 +6,11 @@ category: 'photography'
 background: v1663450371/stories/review-year-2016/245_sqdn5u.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/227_op58hs.jpg" padding="66.666"}
+
 ## December 2015: Pilsko
 
 Let's start with the very end of 2015. On Christmas Eve I was admiring sunrise from the peak of Pilsko in Polish/Slovakian Beskids. There is a belief in Poland, that what you do during the Christmas Eve, you will do the whole next year. Well, it didn't work, but still 2016 was pretty successful in terms of photos taken.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/227_op58hs.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/228_qdmtuk.jpg" padding="66.666"}
 

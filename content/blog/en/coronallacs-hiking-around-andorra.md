@@ -6,7 +6,9 @@ category: 'photography'
 background: v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg
 ---
 
-And while the hike doesn’t include the highest peaks of Andorra, it offers impressive views of almost 3000 m high peaks, including Pic de Comapedrosa, the highest point of Andorra.
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding="66.6"}
+
+While the hike doesn’t include the highest peaks of Andorra, it offers impressive views of almost 3000 m high peaks, including Pic de Comapedrosa, the highest point of Andorra.
 
 Arriving in Andorra with Flor and Jordi were both excited and anxious. None of us have done a route like this before, so we were not sure what to expect. The weather forecast was great - at least for the first few days. We had our backpacks packed with snacks, the route passports were conveniently picked up by Jordi and we were ready to set off on Saturday morning.
 
@@ -70,10 +72,7 @@ We went down again, surrounded by some of the most beautiful views of the hike. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg" padding="66.6"}
 
-::two-columns
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding="66.6"}
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-24_qsrp0r.jpg" padding="66.6"}
-::
 
 ## Stage 3: Refugi de Juclà - Refugi de Sorteny
 

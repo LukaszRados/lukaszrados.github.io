@@ -6,11 +6,11 @@ category: 'photography'
 background: v1663450371/stories/review-year-2016/245_sqdn5u.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/227_op58hs.jpg" padding="66.666"}
+
 ## Grudzień 2015: Pilsko
 
 Zacznijmy od końcówki 2015. W wigilię wybrałem się na wschód słońca na Pilsko w Beskidach. Podobno przez cały kolejny rok robi się to samo, co w dniu wigilii. Jestem nieco rozczarowany, bo nie do końca to działa, ale i tak nie zamierzam narzekać na 2016.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/227_op58hs.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450370/stories/review-year-2016/228_qdmtuk.jpg" padding="66.666"}
 

@@ -6,16 +6,15 @@ category: 'photography'
 background: v1715176636/stories/tuscany/tuscany-15_hy9uif.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176635/stories/tuscany/tuscany-2_yw2cx6.jpg" padding="66.666"}
+
 The region seems to be a paradise for gravel cycling: the network of unpaved roads is dense, the culture of cycling seems to be well alive (with events like Strade Bianche and Eroica Montalcino) and the views are definitely inviting.
 
 In the last few years I discovered that the bicycle is a nearly perfect mode for sightseeing: no need to worry about the parking spots, the pace is slower and allows enjoying the views (but not as slow when hiking) and the physical exercise creates a perfect excuse for eating local food. 
 
 This year together with Jola and Gerard we decided to spend a week in Tuscany. The idea was to disconnect a bit from busy city life, do a lot of gravel cycling and eat tons of italian food.
 
-::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176634/stories/tuscany/tuscany-1_rkmoso.jpg" padding="66.666"}
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176635/stories/tuscany/tuscany-2_yw2cx6.jpg" padding="66.666"}
-::
 
 ## Day 1: Montepulciano - Monticchiello - Pienza - San Quirico d'Orcia - Montefollonico
 

@@ -6,13 +6,13 @@ category: 'photography'
 background: v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding="66.666"}
+
 Initial plan was quite similar to what I did in 2016, but this time we decided to rent a car. This allowed us to go to Snæfellsnes peninsula which I skipped last time. We had absolutely no exceptations regarding the weather - after all the end of September is not exactly a high season on Iceland. But deep inside we really hoped to see Northern Lights.
 
 ## Hvalfjörður
 
 The plan was as follows: one or two days of exploring Snæfellsnes (which is truly a paradise for a landscape photographer), Golden Circle (to see Geysir) and then driving all the way to Jökulsárlón. The first point was a night in Hvalfjörður, around 100 kilometers from Reykjavík.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/394_dinln7.jpg" padding="56.25"}
 

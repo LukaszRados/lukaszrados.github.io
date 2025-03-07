@@ -6,11 +6,11 @@ category: 'photography'
 background: v1620583019/stories/goodbye-netherlands-top-15-photos/572_rwlp0l.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/558_oyf9mz.jpg" padding="66.666"}
+
 These three years in the Netherlands were a really intense time in terms of photography. After all most of the photos for the [Project 52 in 2018](/blog/project-52) were taken here. Sometimes photography was taking all of my free time: every spring I was spending dozens of hours taking photos of tulips. I learnt to like the Dutch coast and use frequent weather changes to my advantage; I found out that Dutch towns and villages are a perfect playground for the cityscape photography.
 
 Below I present, in no particular order, a collection of my favourite photos. I will surely come back to them each time I will miss the Netherlands.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/558_oyf9mz.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583018/stories/goodbye-netherlands-top-15-photos/559_lw1duu.jpg" padding="66.666"}
 

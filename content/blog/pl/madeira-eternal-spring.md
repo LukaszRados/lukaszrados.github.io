@@ -6,6 +6,8 @@ category: 'photography'
 background: v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_8_gsuw0w.jpg" padding="66.666"}
+
 Przez ostatnie dwa lata przeżywałem swoisty  “kryzys fotograficzny”. W trakcie naszej rocznej podróży jachtem odwiedziliśmy jedne z najpiękniejszych wybrzeży Europy. Mimo to przez większość czasu aparat pozostawał w plecaku, a zazwyczaj nie opuszczał nawet kajuty. Poza sporadycznymi zrywami (na przykład wyjazd na Azory lub podczas [pobytu zimą w Polsce](/blog/mountains-of-poland)) nie miałem motywacji do fotografowania. Bardzo mnie to męczyło, szukałem więc motywacji oglądając filmy na youtube, czytając artykuły i książki, próbując innych rodzajów fotografii i - jak chyba każdy fotograf - oglądając sprzęt. Ostatecznie stwierdziłem, że zmuszanie się do pasji nie ma sensu. Postanowiłem poczekać i mieć nadzieję, że chęć do fotografowania sama wróci. 
 
 W związku z tym, jadąc na Maderę nie poświęciłem wiele czasu na przygotowania fotograficzne. W przeciwieństwie do większości dotychczasowych wyjazdów nie nastawiałem się na robienie zdjęć, więc nie stworzyłem szczegółowej listy punktów widokowych, nie spakowałem drona i nie planowałem budzić się trzy godziny przed wschodem słońca. Do plecaka wrzuciłem aparat, dwa obiektywy, statyw i kilka filtrów (te ostatnie spokojnie mogły zostać w domu). Stwierdziłem, że jeśli zrobię ładne zdjęcia to świetnie, w innym przypadku nie będę rozczarowany. 
@@ -42,8 +44,6 @@ Las Fanal to jedno z najbardziej popularnych miejsc na wyspie. Las znany jest z 
 Klify Madery należą do jednych z najwyższych na świecie, sięgając momentami prawie 500 metrów wysokości. Wyspa jest prawdziwym rajem dla fotografów krajobrazu. Największe wrażenie zrobił na mnie [szlak PR8](https://www.visitmadeira.pt/en-gb/explore/detalhe/pr8-vereda-da-ponta-de-sao-lourenco) wiodący do Ponta de São Lourenço, poprowadzony poszarpanym wybrzeżem we wschodniej części wyspy. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_8_gsuw0w.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_7_ckbtnp.jpg" padding="150"}

@@ -6,11 +6,11 @@ category: 'photography'
 background: v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding="66.666"}
+
 ## Amsterdam
 
 Amsterdam to chyba najbardziej rozpoznawalne miasto Holandii, najczęściej kojarzone z liberalnym podejściem do miękkich narkotyków, ulicą czerwonych latarni i dziesiątkami kanałów. Jednak jest tam o wiele więcej do zobaczenia! Przez pierwszy miesiąc miałem okazję mieszkać w samym centrum (naprzeciwko budynku opery), a w kolejnych miesiącach przebywałem w Amsterdamie codziennie (to tutaj mieści się siedziba Booking.com).
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/120_yg6itj.jpg" padding="66.666"}
 

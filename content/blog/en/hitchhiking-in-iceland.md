@@ -6,6 +6,8 @@ category: 'photography'
 background: v1620583043/stories/hitchhiking-in-iceland/45_k5ykj1.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/60_dtui7h.jpg" padding="66.666"}
+
 Visiting Iceland was my biggest dream since I saw some photos on 500px.com. With every photo I've seen (especially after Eyjafjallajökull erupted in 2010), with every article read and every timelapse video watched, I was falling more and more in love to this island. But strangely, for years I have postponed my trip. Deep inside I was worried that Iceland may turn out to be not as magical as I imagine (something like Paris syndrome) or weather will spoil my plans. Also, I was a bit afraid, that I will not be able to invent any new way to picture all the wonders of Iceland, both because of lack of skills and strong competition.
 
 This year I decided to give it a try. After all, I can go there again multiple times (and for sure I will)! And after 7 days it turned out that Iceland is indeed as beutiful, phenomenal and magnific as I always imagined.
@@ -49,8 +51,6 @@ Planning this trip I was a bit worried about hitchhiking, especially that the en
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/58_wtsdzo.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583045/stories/hitchhiking-in-iceland/59_obrgho.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/60_dtui7h.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583046/stories/hitchhiking-in-iceland/61_c4ucna.jpg" padding="66.666"}
 

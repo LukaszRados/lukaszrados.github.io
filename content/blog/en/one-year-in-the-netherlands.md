@@ -6,11 +6,11 @@ category: 'photography'
 background: v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding="66.666"}
+
 ## Amsterdam
 
 It is - I believe - the most popular city of the Netherlands, usually associated with weed, red lanterns district and tons of canals. But there is so much more to see there! For the first month I was lucky enough to live right in the center (next to Opera) and in the following months I spent there quite a lot of time there (Booking.com headquarter is located in Amsterdam).
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/119_in1hll.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583228/stories/one-year-in-the-netherlands/120_yg6itj.jpg" padding="66.666"}
 

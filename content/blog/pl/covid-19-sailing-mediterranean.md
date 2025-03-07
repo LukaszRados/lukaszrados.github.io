@@ -6,6 +6,8 @@ category: 'photography'
 background: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
+
 Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku postawiliśmy żagle i popłynęliśmy w stronę Gibraltaru. Kilka lat temu pokonaliśmy z przyjaciółmi ten sam odcinek w przeciwnym kierunku, można więc powiedzieć, że znaleźliśmy się na znajomych wodach. Po przekroczeniu zatłoczonej Cieśniny Gibraltarskiej udaliśmy się do portu La Linea w Hiszpanii.
 
 ## Gibraltar i Ceuta
@@ -13,8 +15,6 @@ Zacznijmy jednak od początku. Po pełnym smaków, zapachów i przygód Maroku p
 W La Linei spędziliśmy kilka dni. Ja musiałem wykurować się po zapaleniu gardła (które napędziło nam mnóstwo stracha, bo powoli zaczynało się mówić o koronawirusie), a reszta ekipy skupiła się na zwiedzaniu i pracy. Kiedy tylko poczułem się lepiej wybrałem się na słynną Skałę Gibraltarską. Podobnie jak kilka lat temu spotkałem tam magoty gibraltarskie, czyli jedyne w Europie dziko żyjące małpki. Zapraszam do przeczytania [wpisu z 2015 roku](/blog/sailing-from-spain-to-morocco), gdzie opisałem te zwierzęta i legendę z nimi związaną.
 
 Po wyjściu z Gibraltaru przecięliśmy (po raz trzeci) cieśninę i popłynęliśmy do Ceuty. Chcieliśmy zobaczyć tę hiszpańską enklawę w Afryce. Niestety spędziliśmy tam zaledwie jeden dzień i połynęliśmy znów w stronę Europy.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-2_hiavl6.jpg" padding="66.666"}
 

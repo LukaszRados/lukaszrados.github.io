@@ -6,9 +6,9 @@ category: 'photography'
 background: v1663451006/stories/sailing-from-spain-to-morocco/303_td1y0k.jpg
 ---
 
-Pierwszym etapem naszej przygody był rejs z Malagi do Casablanki zorganizowany przez Akademicki Klub Żeglarski. Rozpoczęliśmy od przelotu z Wrocławia do Malagi by zaokrętować się w Benalmadenie. Tam niestety zatrzymał nas sztorm, który przez dwa dni nie pozwalał nam opuścić portu. Kiedy morze się uspokoiło postawiliśmy żagle i pognaliśmy w stronę Gibraltaru.
-
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451003/stories/sailing-from-spain-to-morocco/267_ou9hgr.jpg" padding="66.666"}
+
+Pierwszym etapem naszej przygody był rejs z Malagi do Casablanki zorganizowany przez Akademicki Klub Żeglarski. Rozpoczęliśmy od przelotu z Wrocławia do Malagi by zaokrętować się w Benalmadenie. Tam niestety zatrzymał nas sztorm, który przez dwa dni nie pozwalał nam opuścić portu. Kiedy morze się uspokoiło postawiliśmy żagle i pognaliśmy w stronę Gibraltaru.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451003/stories/sailing-from-spain-to-morocco/268_hfu2vs.jpg" padding="66.666"}
 

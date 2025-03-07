@@ -6,11 +6,11 @@ category: 'photography'
 background: v1620582924/stories/canary-islands-tenerife/7_a2qayq.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/1_xinzap.jpg" padding="66.666"}
+
 We started our trip by doing small 'Tour de Tenerife' after which we got some idea which parts of island are interesting for us and which ones we would rather skip. During the first day we made a roadtrip visiting touristic south, Anaga mountains in the north and desert parts around Pico del Teide.
 
 Pico del Teide volcano deserves a separate note. It's the island's highest point reaching 3718 meters. It looks really impressing especially when admired from the ocean level. Unfortunately to reach the peak you need to obtain a special permit which you need to do in advance via internet. As our trip was quite spontaneous and number of permits per day is limited, we didn't have a chance to do this. But we hope to come back soon.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/1_xinzap.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582923/stories/canary-islands-tenerife/2_ofcnkp.jpg" padding="66.666"}
 

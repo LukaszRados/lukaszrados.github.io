@@ -6,16 +6,15 @@ category: 'photography'
 background: v1715176636/stories/tuscany/tuscany-15_hy9uif.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176635/stories/tuscany/tuscany-2_yw2cx6.jpg" padding="66.666"}
+
 Na pierwszy rzut oka region wydaje się stworzony pod gravela: gęsta sieć szutrowych dróg, ciekawa kultura kolarska (z wydarzeniami w stylu Strade Bianche czy Eroica Montalcino) i wspaniałe widoki. 
 
 Przez ostatnich kilka lat coraz bardziej przekonuję się do pomysłu, że rower to idealny środek transportu do zwiedzania: odpada zamartwianie się miejscami parkingowymi, prędkość to idealny balans między zbyt szybkim samochodem a powolną pieszą wędrówką. A wysiłek fizyczny usprawiedliwia degustację lokalnych przysmaków w dużych ilościach. 
 
 W tym roku, razem z Jolą i Gerardem, zdecydowaliśmy się na tygodniowy pobyt w Toskanii. Pomysł był prosty: oderwać się od miejskiego życia, jeździć na rowerach i jeść dużo włoskiego jedzenia.
 
-::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176634/stories/tuscany/tuscany-1_rkmoso.jpg" padding="66.666"}
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715176635/stories/tuscany/tuscany-2_yw2cx6.jpg" padding="66.666"}
-::
 
 ## Dzień 1: Montepulciano - Monticchiello - Pienza - San Quirico d'Orcia - Montefollonico
 

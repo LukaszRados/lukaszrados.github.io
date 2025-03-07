@@ -6,6 +6,8 @@ category: 'photography'
 background: v1685305584/stories/menorca-weekend-gravel-cycling/menorca_23_drwev6.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_1_dmy9wa.jpg" padding="66.666"}
+
 To nasza druga wizyta na Minorce. Mieliśmy okazję odwiedzić tę wyspę w trakcie roku spędzonego na Moonshine. Była to krótka, zaledwie kilkugodzinna wizyta, i pozostawiła niedosyt.
 
 Planowanie trasy rozpocząłem od szukania informacji w internecie, przeglądania Komoot i Google Maps. Spodziewałem się, że znajdę mnóstwo informacji o dostępnych trasach drogowych / gravelowych. Na leżącą nieopodal Majorkę przyjeżdżają kolarze szosowi z całej Europy; jest to jedno z najpopularniejszych miejsc na rowerowej mapie świata. Tym bardziej zdziwił mnie brak szerszych opisów Minorki (nie licząc opisów popularnej trasy MTB dookoła wyspy). 
@@ -17,8 +19,6 @@ Po krótkich poszukiwaniach zacząłem rozumieć. Skrajne punkty Minorki: Mahón
 Nasz prom dopływa do Mahón po 10. Zostawiamy sakwy w hotelu i ruszamy w trasę. Przed nami 85 kilometrów jazdy i 800 metrów w górę po północnej części wyspy. Już pierwsze kilometry potwierdzają prognozę pogody: jest bardzo wietrznie, w porywach do 60 km/h. Poza Mahón zobaczymy Cabo de Cavalleria, plażę Binimella i miasteczko Es Macaret. Z bliska obejrzymy El Toro, najwyższy punkt wyspy. Wyjazd na wierzchołek zostawimy sobie na następny raz. 
 
 [Trasa na Komoot](https://www.komoot.com/tour/1123910116?share_token=a2n8RQQtJrVAmEAoDtphDhVwlcmaIgWIT0WhP25fGGClbXlwt8&ref=wtd)
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_1_dmy9wa.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_2_dhfosg.jpg" padding="150"}

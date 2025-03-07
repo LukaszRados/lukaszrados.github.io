@@ -6,13 +6,11 @@ category: 'photography'
 background: v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-1_ha62gq.jpg" padding="70"}
+
 Przeprowadzając się do Holandii wiedziałem, że jest to kraj słynący z wielu pięknych miejsc: stare miasta takie jak Amsterdam, Lejda czy Haarlem, skanseny pełne wiatraków, niekończące się piaszczyste plaże nad Morzem Północnym. Wiedziałem jednak także, że na pewno nie znajdę tam gór i bardzo mi ich brakowało. Przy każdej okazji zamęczałem znajomych opowieściami o tym, jak płaska jest Holandia.
 
 Wracając do Polski postanowiłem więc spędzić trochę czasu w górach. Chociaż na wszystkie wyjścia zabierałem aparat do plecaka, nie zawsze zdarzało mi się go wyjąć w plenerze. Powodem była kapryśna jesienna i zimowa pogoda - w polskich górach częstym zjawiskiem są mgły, deszcz i szara pogoda. Kiedy jednak wyjdzie słońce, ciężko nie zachwycić się pięknem Tatr, Pienin, Beskidów czy Karkonoszy. Zapraszam do obejrzenia kilku bardziej - i mniej - udanych zdjęć.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-1_ha62gq.jpg" padding="70"}
-
-*▲ Widok ze szczytu Trzech Koron w Pieninach.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-2_cfzz68.jpg" padding="133"}
 

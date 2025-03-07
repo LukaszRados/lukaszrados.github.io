@@ -6,6 +6,8 @@ category: 'photography'
 background: v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg" padding="66.666"}
+
 April and May seem like the perfect months for doing the hike. The day temperatures are already (and still) quite moderate, sun is almost guaranteed, lots of flowers are blooming and the most popular coastal towns are not crowded yet. The only minor flaw is the sea temperature (14°C, 57F) which is a bit too cold for my liking.
 
 We decided to do a two-day hike of 32 km, starting in Begur and finishing in Platja d’Aro, with a night in Calella de Palafrugell. This part of the route seems the most interesting to me and shorter distance allows slower tempo and more photo (and food) breaks. Moreover we have already covered the remaining part by bicycles. The start and the end of the route have a direct bus connection with Barcelona.
@@ -22,8 +24,6 @@ Below you can see a few photos from the two days we spent on the trail.
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05076_wc4qtg.jpg" padding="150"}
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05083_zegqse.jpg" padding="150"}
 ::
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05094_k00aw7.jpg" padding="150"}

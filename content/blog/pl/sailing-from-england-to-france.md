@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663450709/stories/sailing-from-england-to-france/578_gm7y5u.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/575_xkjhmz.jpg" padding="71.4"}
+
 ## Anglia
 
 Pierwszym krokiem było kupno odpowiedniego jachtu. W sierpniu byliśmy już trochę spóźnieni, ale w końcu udało nam się znaleźć obiecującą łódkę. Po wstępnych oględzinach i opinii rzeczoznawcy kupiliśmy Jeanneau 36.2 z 1996 roku.
@@ -13,8 +15,6 @@ Pierwszym krokiem było kupno odpowiedniego jachtu. W sierpniu byliśmy już tro
 Nie byliśmy jeszcze gotowi do wypłynięcia. Dokonanie wszystkich poprzednich napraw i dostosowanie łodzi do życia zajęło nam ponad miesiąc. Cały proces został opisany na [blogu Sailing Moonshine](https://sailingmoonshine.com). Zapraszam do przeczytania!
 
 Mimo spędzenia w Burnham on Crouch ponad miesiąca, nie udało mi się tam zrobić wielu zdjęć. Przez większość czasu byliśmy zajęci naprawami, a większość zdjęć przedstawia albo zepsute części, albo członków załogi. Miałem jednak trochę czasu na testowanie nowej zabawki - DJI Mavic Air.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/575_xkjhmz.jpg" padding="71.4"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/576_tkf8bg.jpg" padding="75"}
 

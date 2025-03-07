@@ -6,6 +6,8 @@ category: 'photography'
 background: v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg" padding="66.666"}
+
 Kwiecień i maj wydają mi się perfekcyjnymi miesiącami na przejście Camí de Ronda. Temperatury w ciągu dnia są już (i jeszcze) bardzo przyjemne, można liczyć na sporo słońca, kwitnie wiele gatunków kwiatów, a najpopularniejsze miejscowości nie są jeszcze zatłoczone. Jedyną wadą jest temperatura wody w morzu (około 14°C), która sprawia, że kąpiele uważam za zajęcie dla koneserów.
 
 Zdecydowaliśmy się na dwudniowy fragment o długości 32 km, zaczynając z Begur i kończąc w Platja d’Aro, z noclegiem w Calella de Palafrugell. Odcinek ten wydaje mi się najciekawszy, krótszy dystans pozwala na spokojną wycieczkę z licznymi przystankami na zdjęcia i posiłki. Dodatkowo pozostały odcinek mieliśmy już okazję przejechać rowerami. Początek i koniec trasy są połączone z Barceloną bezpośrednią linią autobusową.
@@ -22,8 +24,6 @@ Zapraszam do obejrzenia kilku zdjęć z dwóch dni na szlaku.
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05076_wc4qtg.jpg" padding="150"}
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05083_zegqse.jpg" padding="150"}
 ::
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05093_nlzpsu.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1681673488/stories/cami-de-ronda/cami-de-ronda-05094_k00aw7.jpg" padding="150"}

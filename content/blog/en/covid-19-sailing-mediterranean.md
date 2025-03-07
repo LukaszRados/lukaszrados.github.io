@@ -6,6 +6,8 @@ category: 'photography'
 background: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-27_hd3uqm.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
+
 Let's start from the beginning. After visiting rich in flavours and adventures Morocco we set sails and sailed towards Gibraltar. We were at known waters. Few years back we sailed with a group of friends the same route, just the other way around. After crossing the Strait of Gibraltar we moored in La Linea in Spain.
 
 ## Gibraltar & Ceuta
@@ -13,8 +15,6 @@ Let's start from the beginning. After visiting rich in flavours and adventures M
 We spent few days in La Linea. I needed to cure my throat illness (that scared us since Covid19 was slowly becoming a thing in Europe) and the rest of the crew was exploring and working. Once I felt better I immediately went for a short hike to the Rock of Gibraltar. Just like few years ago I met Barbary macaques. They are the only species of monkey living wild in Europe. If you are interested in them have a look at [the blog post I wrote back in 2015](/blog/sailing-from-spain-to-morocco). 
 
 After leaving Gibraltar we crossed the Strait for the third time and went to Ceuta. We wanted to see the enclave in Africa, but unfortunately we only spent a day there before going back to Europe.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583000/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-1_lp8b1v.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583001/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-2_hiavl6.jpg" padding="66.666"}
 

@@ -6,9 +6,9 @@ category: 'photography'
 background: v1620582911/stories/autumn-in-ardennes/457_enaiv7.jpg
 ---
 
-Our plan was as follows: on Saturday we decided to do a full-day hiking and on Sunday nothing but chill. Bouillon is located by the river Semois. Although hills around are not very high, hikers can still choose a lot of uphill trails.
-
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/455_qhei72.jpg" padding="66.666"}
+
+Our plan was as follows: on Saturday we decided to do a full-day hiking and on Sunday nothing but chill. Bouillon is located by the river Semois. Although hills around are not very high, hikers can still choose a lot of uphill trails.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582911/stories/autumn-in-ardennes/456_jtytr3.jpg" padding="66.666"}
 

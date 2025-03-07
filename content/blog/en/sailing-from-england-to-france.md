@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663450709/stories/sailing-from-england-to-france/578_gm7y5u.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/575_xkjhmz.jpg" padding="71.4"}
+
 ## England
 
 The first step was to buy the yacht. In August we were a little bit behind the planned schedule, but it looked like we have finally found the right boat. After the initial viewing we decided to proceed with the survey and as a result we purchased 1996 Jeanneau 36.2.
@@ -13,8 +15,6 @@ The first step was to buy the yacht. In August we were a little bit behind the p
 It took us over a month to make all necessary repairs and adjustments to our new home. All of these works are well described on [the Sailing Moonshine blog](https://sailingmoonshine.com/en). Make sure to check it out!
 
 Although we spent over a month there I didn't have much time for photography being busy with daily repairs on boat. Most of the photos I made are broken boat parts and crew photos. I dedicated some of the time to testing my new toy - DJI Mavic Air and getting used to a new perspective it offers.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/575_xkjhmz.jpg" padding="71.4"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663450709/stories/sailing-from-england-to-france/576_tkf8bg.jpg" padding="75"}
 

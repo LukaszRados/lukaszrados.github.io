@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-1_oow4ja.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-1_oow4ja.jpg" padding="66.6"}
+
 Pomysł wyjazdu na wyprawę rowerową rodził się w mojej głowie od jakiegoś czasu. Przeglądając [Bikepacking.com](https://bikepacking.com) i [Pedalia.cc](https://pedalia.cc) trafiłem na wiele opisów ciekawych tras, okraszonych dodatkowo pięknymi zdjęciami. Nie wiedziałem, jak zabrać się za zorganizowanie takiego wyjazdu, jednak dzięki doświadczeniu Kajtka wszystko udało się bez problemów.
 
 Planując trasę staraliśmy się korzystać z sieci dróg rowerowych EuroVelo. Niedługo po wyjeździe z Budapesztu znaleźliśmy się na początku trasy numer 14: [Wody Centralnej Europy](https://en.eurovelo.com/ev14/eurovelo-14-unmissable-sights). Podążając za EV14 ruszyliśmy nad Balaton, pierwszego dnia jadąc rekordowe 150km. Trzymając się północnego brzegu Balatonu dojechaliśmy do Keszthely, skąd skierowaliśmy się do Parku Narodowego Őrség. Na kilka godzin przekroczyliśmy granicę z Austrią, by jeszcze tego samego dnia przepłynąć promem rzecznym do Słowenii i dojechać do Mariboru.
@@ -15,8 +17,6 @@ Od granicy austriacko - słoweńskiej przerzuciliśmy się na trasę EuroVelo nu
 Pod względem fotograficznym ten wyjazd był eksperymentem. Do plecaka spakowałem aparat z obiektywem 20/2.8 (ekwiwalent 30mm). Nieco obawiałem się, że bez zooma “stracę” kadry i będę żałował.
 
 W rzeczywistości fotografowanie jedną ogniskową było niezwykle wygodne! Nie musiałem się zastanawiać nad tym, którego obiektywu użyć. Wymagało to ode mnie kreatywności i szukania ciekawych kadrów. Dzięki kompaktowemu rozmiarowi (20/2.8 jest obiektywem typu “naleśnik”) aparat miałem zawsze pod ręką i chętnie po niego sięgałem.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-1_oow4ja.jpg" padding="66.6"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663260684/stories/bike-tour-budapest-to-trieste/bike-tour-budapest-to-trieste-2_wdjemr.jpg" padding="66.6"}
 

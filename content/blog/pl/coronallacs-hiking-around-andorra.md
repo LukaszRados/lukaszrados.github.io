@@ -6,6 +6,8 @@ category: 'photography'
 background: v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding="66.6"}
+
 Choć trasa nie przechodzi przez żaden z najwyższych szczytów Andory, oferuje imponujące widoki na okoliczne trzytysięczniki, łącznie z Comapedrosą, najwyższym szczytem Andory.
 
 Przyjeżdżając do Andory z Flor i Jordim, czuliśmy mieszankę niepewności i ekscytacji. Żadne z nas nie ukończyło wcześniej takiej trasy, więc nie byliśmy pewni, czego możemy się spodziewać. Optymizmu dodawały rewelacyjne prognozy pogody na pierwszych kilka dni. Spakowaliśmy plecaki, Jordi odebrał dla nas specjalne turystyczne paszporty i byliśmy gotowi do wyruszenia na szlak w sobotę rano.
@@ -70,10 +72,7 @@ Ponownie zeszliśmy na dół. Dookoła rozciągały się najpiękniejsze widoki 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-22_ilgznv.jpg" padding="66.6"}
 
-::two-columns
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-23_ki6d9p.jpg" padding="66.6"}
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1691958841/stories/coronallacs/coronallacs-24_qsrp0r.jpg" padding="66.6"}
-::
 
 ## Etap 3: Refugi de Juclà - Refugi de Sorteny
 

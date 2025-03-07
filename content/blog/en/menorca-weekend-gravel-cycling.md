@@ -6,6 +6,8 @@ category: 'photography'
 background: v1685305584/stories/menorca-weekend-gravel-cycling/menorca_23_drwev6.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_1_dmy9wa.jpg" padding="66.666"}
+
 This is our second visit to Menorca. We visited the island during the year spent on Moonshine. It was a short, a few hours long visit that left us wanting more.
 
 Planning started with looking for information online, browsing Komoot and Google Maps. I expected to find countless articles about road / gravel routes. Located nearby Mallorca is a magnet for cyclists from all around Europe; it’s one of the most trendy cycling locations in the world. I was therefore surprised to find very little resources about Menorca (excluding some popular round-the-island MTB routes). 
@@ -17,8 +19,6 @@ Some more research helped me understand. Two extreme points of Menorca: Mahón i
 Our ferry arrives in Mahón a few minutes after 10am. We leave panniers in the hotel and hit the road. We have 85 kilometers to go with 800 meters of climbing through the northern part of the island. First few kilometers of the ride show that the weather forecast was right: it’s very windy, with gusts reaching 60 km/h. We get to see Mahón, Cabo de Cavalleria, Binimella beach and Es Macaret. We have a good look at El Toro, the highest hill of the island. We decide to tackle the climb on the next occasion. 
 
 [Route on Komoot](https://www.komoot.com/tour/1123910116?share_token=a2n8RQQtJrVAmEAoDtphDhVwlcmaIgWIT0WhP25fGGClbXlwt8&ref=wtd)
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_1_dmy9wa.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1685305582/stories/menorca-weekend-gravel-cycling/menorca_2_dhfosg.jpg" padding="150"}

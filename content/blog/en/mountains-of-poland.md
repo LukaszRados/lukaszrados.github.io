@@ -6,13 +6,11 @@ category: 'photography'
 background: v1620583199/stories/mountains-of-poland/w-polskich-gorach-19_omepn9.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-1_ha62gq.jpg" padding="70"}
+
 When I moved to the Netherlands I knew that this country is known of many beautiful places: old towns of Amsterdam, Leida and Haarlem, windmills located by rivers and lakes, endless beaches on the coast of the North Sea. I knew, however, that it lacks mountains and I knew I am going to miss them. I kept tiring my friends with stories about the Netherlands being flat. 
 
 Coming back to Poland I decided to spent some time in the mountains. I always carried my camera the backpack but sometimes there was no reason to take it out. The reason was the autumn and winter weather - volatile, full of rain and fog. But once the sun shines it's easy to fall in love with Tatras, Pieniny, Beskids and Karkonosze. Below I show a collection of photos taken recently.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-1_ha62gq.jpg" padding="70"}
-
-*▲ View from Trzy Korony (Three Crowns) in Pieniny.*
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583197/stories/mountains-of-poland/w-polskich-gorach-2_cfzz68.jpg" padding="133"}
 

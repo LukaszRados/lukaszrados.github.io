@@ -6,6 +6,8 @@ category: 'photography'
 background: v1715691364/stories/pyrenees-bikepacking/DSC04679_v3eljk.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04491_ine1jq.jpg" padding="66.666"}
+
 ## Dzień 1: Puigcerdà - Andora
 
 ↔ 76 km | △ 1980 m
@@ -15,8 +17,6 @@ Jedną z zalet mieszkania w Barcelonie jest bezpośredni pociąg jadący w Piren
 Znajdująca się na wysokości 2400 m n.p.m przełęcz Port d'Envalira była najwyższym punktem wyjazdu. Na szczycie spotkałem innych rowerzystów, sfotografowałem rower w śniegu (w rzeczywistości nie było go już tak dużo) i rozpocząłem długi zjazd. W drodze na dół minąłem kilka znanych mi miasteczek: miałem okazję je odwiedzić podczas wyjazdów na narty i podczas [zeszłorocznej trasy Coronallacs](/blog/coronallacs-hiking-around-andorra). Zjazd zakończył się w Canillo, gdzie skręciłem na drogę do przełęczy Coll d’Ordino. Kolejny podjazd nie był najdłuższym podjazdem tego dnia, ale zmęczenie w nogach dało o sobie znać; wyjechanie na niego kosztowało mnie sporo wysiłku. Nagrodą był piękny zjazd do Anyos, gdzie spędziłem noc w domu przyjaciół. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691354/stories/pyrenees-bikepacking/DSC04476_tpxhpm.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04491_ine1jq.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04497-Pano_dtorik.jpg" padding="66.666"}
 

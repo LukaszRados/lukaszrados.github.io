@@ -6,13 +6,13 @@ category: 'photography'
 background: v1663451396/stories/thailand/176_zqfnrk.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/177_i9ltle.jpg" padding="66.666"}
+
 ## Landscapes
 
 Every single blog post from Thailand needs to start from the most iconic view: paradise beach and a longboat on a foreground. But even after seeing only small piece of the country I'm sure that Thailand has so much to offer.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/176_zqfnrk.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/177_i9ltle.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/178_jo4zuq.jpg" padding="66.666"}
 

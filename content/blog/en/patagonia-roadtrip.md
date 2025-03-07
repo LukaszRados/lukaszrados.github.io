@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663433039/stories/patagonia-roadtrip/517_jdnuny.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/500_rxdwmw.jpg" padding="66.666"}
+
 In the end of 2018 a friend of mine sent me an info about discounted prices for flight tickets to Buenos Aires. Together with Jola we decided to spent two weeks of March in South America. The plan was rather simple: 10 days in Patagonia, few days in Córdoba visiting friends and two more days in Buenos Aires.
 
 ## El Chaltén
@@ -13,8 +15,6 @@ In the end of 2018 a friend of mine sent me an info about discounted prices for 
 Upon the arrival we spent one day with our friends in Buenos Aires. Then we moved further to El Calafate in Patagonia where we rented a car. Our first destination was El Chaltén known for a perfect views on Fitz Roy, one of the most beautiful peaks in Andes.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/499_yeff7y.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/500_rxdwmw.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433038/stories/patagonia-roadtrip/501_n7ysus.jpg" padding="66.666"}
 

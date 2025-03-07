@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg" padding="66.666"}
+
 Our trip started in Algarve region known recognised mostly for its interesting coastline consisting golden cliffs, caves and bays. The next stops were the cities of Lisbon, Coimbra and Porto. I was especially impressed by wonderful Porto, located right by the Atlantic Ocean by the river Douro.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433619/stories/portugal-from-south-to-north/92_vdpevy.jpg" padding="66.666"}
@@ -17,8 +19,6 @@ Our trip started in Algarve region known recognised mostly for its interesting c
 ::
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/95_lelmig.jpg" padding="150"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/96_wbduw6.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663433617/stories/portugal-from-south-to-north/97_xb6id0.jpg" padding="66.666"}
 

@@ -6,9 +6,9 @@ category: 'photography'
 background: v1663451006/stories/sailing-from-spain-to-morocco/303_td1y0k.jpg
 ---
 
-The first stage of our adventure was a cruise from Malaga to Casablanca organised by Akademicki Klub Żeglarski. We started with flight from Wrocław to Malaga to set sails in Benalmadena. Unfortunately, there was a storm raging on the sea that made it impossible to leave the harbour. After two days we finally sailed to Gibraltar.
-
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451003/stories/sailing-from-spain-to-morocco/267_ou9hgr.jpg" padding="66.666"}
+
+The first stage of our adventure was a cruise from Malaga to Casablanca organised by Akademicki Klub Żeglarski. We started with flight from Wrocław to Malaga to set sails in Benalmadena. Unfortunately, there was a storm raging on the sea that made it impossible to leave the harbour. After two days we finally sailed to Gibraltar.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451003/stories/sailing-from-spain-to-morocco/268_hfu2vs.jpg" padding="66.666"}
 

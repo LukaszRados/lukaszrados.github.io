@@ -6,6 +6,8 @@ category: 'photography'
 background: v1734035800/stories/acatenango-guatemala/r9mqgaqgy50s0fkofppl.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036740/stories/acatenango-guatemala/bn3qfbpccu0e8qdkvoir.jpg" padding="66.666"}
+
 ## Antigua Guatemala
 
 Antigua was our base for the first few days. Most of the companies organising the Acatenango hike are based here. The city has excellent connections with other parts of Guatemala. 
@@ -15,8 +17,6 @@ Antigua alone is worth a visit too: surrounded by three volcanoes (Agua, Fuego a
 A few days in the town were spent exploring the old streets, trying Guatemalan cuisine and participating in local cultural events. We started our Acatenango trip here; we also went to the Chichicastenango market.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036739/stories/acatenango-guatemala/tv9nxv9lplhggdemp19d.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036740/stories/acatenango-guatemala/bn3qfbpccu0e8qdkvoir.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036739/stories/acatenango-guatemala/ia39vxasmuqukn50dyna.jpg" padding="66.666"}
 

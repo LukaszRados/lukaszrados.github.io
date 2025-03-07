@@ -6,13 +6,13 @@ category: 'photography'
 background: v1663451396/stories/thailand/176_zqfnrk.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/177_i9ltle.jpg" padding="66.666"}
+
 ## Krajobrazy
 
 Każda relacja z Tajlandii zaczyna się od prezentowanego w tysiącach przewodników zdjęcia rajskiej plaży z łódką na pierwszym planie. Nawet po zobaczeniu małego wycinka tego kraju jasne jest dla mnie, że Tajlandia ma dużo więcej do zaoferowania.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/176_zqfnrk.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/177_i9ltle.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451396/stories/thailand/178_jo4zuq.jpg" padding="66.666"}
 

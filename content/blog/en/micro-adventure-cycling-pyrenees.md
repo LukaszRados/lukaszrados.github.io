@@ -6,6 +6,8 @@ category: 'photography'
 background: v1715691364/stories/pyrenees-bikepacking/DSC04679_v3eljk.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04491_ine1jq.jpg" padding="66.666"}
+
 ## Day 1: Puigcerdà - Andorra
 
 ↔ 76 km | △ 1980 m
@@ -15,8 +17,6 @@ One of the advantages of living in Barcelona is having a direct train to the Pyr
 At 2400m above sea level, Port d'Envalira was the highest point of the trip. I met some fellow bikepackers heading the other direction, took (slightly staged) photos of my bike in the snow and started a long descent. On the way down I passed some towns I already knew from my skiing trips and from [last year's Coronallacs hike](/en/blog/coronallacs-hiking-around-andorra). The downhill ended in Canillo, where I turned to the road leading to Coll d’Ordino. While not the longest climb of the day, tired legs were complaining a lot about it. The day ended with a beautiful downhill to Anyos where I stayed at my friends’ house for the night.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691354/stories/pyrenees-bikepacking/DSC04476_tpxhpm.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04491_ine1jq.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1715691355/stories/pyrenees-bikepacking/DSC04497-Pano_dtorik.jpg" padding="66.666"}
 

@@ -6,6 +6,8 @@ category: 'photography'
 background: v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_8_gsuw0w.jpg" padding="66.666"}
+
 For the past two years I’ve been suffering from some kind of “photography burnout”. During the gap year we’ve sailed to some of the most beautiful coasts of Europe. Despite that my camera mostly stayed either in my backpack or on the boat. Except for some short periods (like a trip to Azory or [wintertime in Poland](/blog/mountains-of-poland)) I simply couldn’t find inspiration. And it bothered me, so I kept watching youtube videos, reading articles and books, trying some other genres and - as most photographers - looking at new gear. I came to a conclusion that forcing myself to take photos is not going to take me anywhere. I decided to wait and hope that the inspiration will come back eventually. 
 
 Because of that the trip to Madeira was anything but a photography trip. Unlike my previous travels, I didn’t create a detailed map of the best viewpoints, didn’t pack my drone and had absolutely no intention to wake up every day three hours before sunrise. I took my camera, two lenses, a tripod and a few filters (turned out I didn’t really need them). I decided that coming back with nice photos will be a nice surprise, but coming back without them will not be a disappointment. 
@@ -42,8 +44,6 @@ Fanal Forest is one of the most popular spots on the island. It looks like strai
 The cliffs in Madeira are among the highest in the world, reaching up to almost 500 meters. The island is a paradise for landscape photographers, offering countless viewpoints and majestic vistas. My favorite hiking trail was [PR8 to Ponta de Sao Lourenco](https://www.visitmadeira.pt/en-gb/explore/detalhe/pr8-vereda-da-ponta-de-sao-lourenco), passing through a rocky coast in the eastern part of the island. 
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_6_egacep.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_8_gsuw0w.jpg" padding="66.666"}
 
 ::two-columns
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1639515485/stories/madeira-eternal-spring/madeira_7_ckbtnp.jpg" padding="150"}

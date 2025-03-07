@@ -6,6 +6,8 @@ category: 'photography'
 background: v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-7_gjtcjf.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-5_l9wi0c.jpg" padding="66.666"}
+
 W drodze do Asturii zatrzymaliśmy się w Saragossie. Choć naszym głównym celem było nabrać energii przed dalszą jazdą, miasto okazało się bardzo pozytywnym zaskoczeniem.
 
 Większość czasu w Asturii spędziliśmy wędrując po Parku Narodowym Picos de Europa. Mimo powierzchni niewiele większej od Tatr, Picos de Europa są jednym z najchętniej odwiedzanych miejsc w Hiszpanii. Nie bez powodu - krajobraz jest niesamowity, z pięknymi jeziorami, strzelistymi szczytami przekraczającymi 2600m n.p.m i pasącymi się wszędzie krowami. Udało nam się zobaczyć Lagos de Covadonga, Rutę del Cares, a także wybrać na rowery górskie.
@@ -19,8 +21,6 @@ Po opuszczeniu Picos de Europa skupiliśmy się na eksplorowaniu wybrzeża. Poł
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-3_wxc6yt.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-4_tf6hcb.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341016/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-5_l9wi0c.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663341017/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-6_zvw2z9.jpg" padding="66.666"}
 

@@ -6,13 +6,13 @@ category: 'photography'
 background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
+
 ## Zatoka Biskajska
 
 Chcąc dostać się z Anglii do Hiszpanii zmuszeni byliśmy przekroczyć Zatokę Biskajską. Było to wyzwanie, o którym rozmawialiśmy od momentu kupienia łódki. Zatoka cieszy się ponurą sławą wśród żeglarzy i uchodzi za jeden z najtrudniejszych akwenów w Europie. W zimie potężne sztormy przetaczają się przez Zatokę przez większość miesiąca, zostawiając dla żeglarzy krótkie okna pogodowe. Na szczęście nasze okno pogodowe trafiło się dość szybko i momentalnie je wykorzystaliśmy, przepływając z Concarneau we Francji do Viveiro w Hiszpanii. Relację z przelotu można obejrzeć na naszym kanale na YouTube.
 
 :video-lazy{id="kyLolriKhbI"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
 
 ## Galicja, Hiszpania
 

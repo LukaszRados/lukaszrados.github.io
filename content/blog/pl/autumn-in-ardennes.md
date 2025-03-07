@@ -6,9 +6,9 @@ category: 'photography'
 background: v1620582911/stories/autumn-in-ardennes/457_enaiv7.jpg
 ---
 
-Nasz plan był prosty: sobotę postanowiliśmy poświęcić na całodzienny hiking, a niedzielę na zwiedzanie okolicy. Bouillon leży w zakolu rzeki Semois. Mimo iż okoliczne pagórki nie są wysokie - zazwyczaj nie sięgają nawet 400 metrów n.p.m., to dzięki obecności rzeki można wybrać szlaki ze sporą liczbą podejść.
-
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582912/stories/autumn-in-ardennes/455_qhei72.jpg" padding="66.666"}
+
+Nasz plan był prosty: sobotę postanowiliśmy poświęcić na całodzienny hiking, a niedzielę na zwiedzanie okolicy. Bouillon leży w zakolu rzeki Semois. Mimo iż okoliczne pagórki nie są wysokie - zazwyczaj nie sięgają nawet 400 metrów n.p.m., to dzięki obecności rzeki można wybrać szlaki ze sporą liczbą podejść.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620582911/stories/autumn-in-ardennes/456_jtytr3.jpg" padding="66.666"}
 

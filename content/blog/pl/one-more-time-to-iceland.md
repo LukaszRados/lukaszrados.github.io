@@ -6,13 +6,13 @@ category: 'photography'
 background: v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding="66.666"}
+
 Plan był nieco podobny do tego z 2016, jednak tym razem postanowiliśmy wypożyczyć samochód. Dzięki temu mogliśmy dorzucić wizytę na półwyspie Snæfellsnes, na którą poprzednim razem brakło mi czasu. Nie mieliśmy większych oczekiwań wobec pogody - końcówka września to już okres poza sezonem na Islandii, ale gdzieś w głębi serc mieliśmy nadzieję chociaż raz zobaczyć zorzę.
 
 ## Hvalfjörður
 
 Plan zakładał spędzenie jednego lub dwóch dni na półwyspie Snæfellsnes, który jest prawdziwym rajem dla fotografów (a właściwie to podobnie jak cała Islandia), przejazd przez Golden Circle celem zobaczenia Geysira oraz dojazd aż do Jökulsárlón na południowym wschodzie. Pierwszy punktem był jednak nocleg w fiordzie Hvalfjörður, około 100 km od Reykjaviku.
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/391_orrmny.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1620583218/stories/one-more-time-to-iceland/394_dinln7.jpg" padding="56.25"}
 

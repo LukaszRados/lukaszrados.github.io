@@ -6,6 +6,8 @@ category: 'photography'
 background: v1734035800/stories/acatenango-guatemala/r9mqgaqgy50s0fkofppl.jpg
 ---
 
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036740/stories/acatenango-guatemala/bn3qfbpccu0e8qdkvoir.jpg" padding="66.666"}
+
 ## Antigua Guatemala
 
 Antigua stała się dla nas bazą wypadową przez kilka pierwszych dni. To tutaj mają swoje siedziby firmy oferujące wyjście na Acatenango; miasto jest też świetnie połączone z innymi częściami Gwatemali. 
@@ -15,8 +17,6 @@ Sama Antigua także zasługuje na uwagę: otoczona przez trzy wulkany (Agua, Fue
 Kilka dni w mieście upłynęło nam na spacerach starymi uliczkami, próbowaniu lokalnej kuchni i obserwacji życia nocnego. To stąd wybraliśmy się na Acatenango, a także pojechaliśmy na targ w Chichicastenango.
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036739/stories/acatenango-guatemala/tv9nxv9lplhggdemp19d.jpg" padding="66.666"}
-
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036740/stories/acatenango-guatemala/bn3qfbpccu0e8qdkvoir.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1734036739/stories/acatenango-guatemala/ia39vxasmuqukn50dyna.jpg" padding="66.666"}
 
