@@ -1,10 +1,7 @@
 <template>
   <article>
     <section class="intro">
-      <NuxtLink :to="localePath('/blog')" class="back">
-        <Arrow direction="left" :animate="true" />
-        Go back
-      </NuxtLink>
+      <p class="date">{{ post.published_at }}</p>
       <h1 class="title">{{ post.title }}</h1>
       <p class="excerpt">{{ post.intro }}</p>
     </section>
@@ -37,12 +34,18 @@ const localePath = useLocalePath();
   margin: 0 auto 32px;
   max-width: 900px;
   padding: 0 16px;
+  text-align: center;
 
   .title {
     font-size: 1.5rem;
     font-weight: normal;
     line-height: 1.375;
     margin: 16px 0;
+  }
+
+  .date {
+    color: var(--font-color-gray);
+    font-size: 1rem;
   }
 
   .excerpt {
@@ -59,6 +62,10 @@ const localePath = useLocalePath();
     .title {
       font-size: 3rem;
       margin: 24px 0;
+    }
+
+    .date {
+      font-size: 1.25rem;
     }
 
     .excerpt {

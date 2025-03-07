@@ -15,7 +15,7 @@
     grid-template-columns: repeat(2, 1fr);
     justify-content: space-between;
     margin: 16px auto;
-    max-width: 1400px;
+    max-width: 1500px;
   }
 
   @media screen and (min-width: 900px) {

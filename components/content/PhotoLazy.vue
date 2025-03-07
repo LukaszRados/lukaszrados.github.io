@@ -65,11 +65,11 @@ onUnmounted(() => {
   }
 
   &.horizontal {
-    max-width: 1200px;
+    max-width: 1500px;
   }
 
   &.vertical {
-    max-width: 900px;
+    max-width: 1000px;
   }
 
   img {
