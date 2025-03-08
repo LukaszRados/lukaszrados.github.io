@@ -21,6 +21,10 @@ photos:
     width: 800
     height: 1200
   -
+    url: v1741469499/photos/poland-baltic-lakes-forests/iwgpwdt4zsezoxdqdift.jpg
+    width: 1200
+    height: 800
+  -
     url: v1620582385/photos/poland-baltic-lakes-forests/poland-baltic-lakes-forests-3_cqxbag.jpg
     width: 1200
     height: 800
