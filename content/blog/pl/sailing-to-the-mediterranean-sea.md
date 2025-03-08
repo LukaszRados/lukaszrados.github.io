@@ -6,7 +6,7 @@ category: 'photography'
 background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 ---
 
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/c_scale,w_1400/v1741466094/stories/sailing-to-the-mediterranean-sea/rtq25oqu3ze8vh1mcbly.jpg" padding="66.666"}
 
 ## Zatoka Biskajska
 
@@ -17,6 +17,8 @@ Chcąc dostać się z Anglii do Hiszpanii zmuszeni byliśmy przekroczyć Zatokę
 ## Galicja, Hiszpania
 
 Po dotarciu do Viveiro szczęście do pogody opuściło nas na dłuższą chwilę, zmuszeni byliśmy więc spędzić w Galicji ponad dwa tygodnie. Kiedy pogoda ustabilizowała się, wypłynęliśmy z Viveiro i przez A Corunię, Muros i Muxię dopłynęliśmy do Porto, gdzie planowaliśmy spędzić Sylwestra.
+
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/609_u4sv0h.jpg" padding="66.666"}
 

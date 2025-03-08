@@ -6,7 +6,7 @@ category: 'photography'
 background: v1663451366/stories/sailing-to-the-mediterranean-sea/614_fwugcg.jpg
 ---
 
-:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/c_scale,w_1400/v1741466094/stories/sailing-to-the-mediterranean-sea/rtq25oqu3ze8vh1mcbly.jpg" padding="66.666"}
 
 ## The Bay of Biscay
 
@@ -17,6 +17,8 @@ Sailing from England to Spain indicates crossing the Bay of Biscay. It was a cha
 ## Galicia, Spain
 
 After crossing the Bay the weather worsened for a while. We spent over two weeks in Galicia. Once the weather improved we could leave Viveiro and sail to Porto for the New Year's Eve. On our way we visited cities of A Coruna, Muros and Muxia.
+
+:photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/606_r6pgkh.jpg" padding="66.666"}
 
 :photo-lazy{src="https://res.cloudinary.com/lukaszrados/image/upload/v1663451365/stories/sailing-to-the-mediterranean-sea/609_u4sv0h.jpg" padding="66.666"}
 
