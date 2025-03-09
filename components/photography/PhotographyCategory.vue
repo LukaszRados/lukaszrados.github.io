@@ -1,10 +1,12 @@
 <template>
   <div class="wrapper">
-    <NuxtLink :to="localePath('/')" class="back">
-      <Arrow direction="left" :animate="true" />
-      {{ $t("common.back") }}
-    </NuxtLink>
-    <h1 class="title">{{ title }}</h1>
+    <header class="header">
+      <NuxtLink :to="localePath('/')" class="back">
+        <Arrow direction="left" />
+        {{ $t("common.back") }}
+      </NuxtLink>
+      <h1 class="title">{{ title }}</h1>
+    </header>
 
     <div class="photos">
       <PhotoItem
@@ -40,15 +42,15 @@ const title = computed(() =>
 );
 
 const isLightboxOpen = ref(false);
-const currentPhoto = ref<PhotographyItem | undefined>(undefined)
+const currentPhoto = ref<PhotographyItem | undefined>(undefined);
 
 function open(photo: PhotographyItem) {
-  currentPhoto.value = photo
-  isLightboxOpen.value = true
+  currentPhoto.value = photo;
+  isLightboxOpen.value = true;
 }
 
 function close() {
-  isLightboxOpen.value = false
+  isLightboxOpen.value = false;
 }
 </script>
 
@@ -73,20 +75,20 @@ function close() {
 }
 
 .title {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: normal;
   margin: 16px 0 32px;
 }
 
-@media screen and (min-width: 900px) {
-  .title {
-    font-size: 1.5rem;
-    margin-bottom: 48px;
-  }
+.header {
+  text-align: center;
 }
 
-.back {
-  font-size: 0;
+@media screen and (min-width: 900px) {
+  .title {
+    font-size: 3rem;
+    margin-bottom: 64px;
+  }
 }
 
 .photos {
@@ -94,6 +96,10 @@ function close() {
   display: grid;
   gap: 24px;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.back {
+  font-size: 0;
 }
 
 @media (min-width: 500px) {

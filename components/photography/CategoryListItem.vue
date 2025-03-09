@@ -6,7 +6,7 @@
     <h2 class="title">
       <NuxtLink :to="localePath(path)" class="link">
         <span>{{ title }}</span>
-        <Arrow direction="right" :animate="true" />
+        <Arrow direction="right" />
       </NuxtLink>
     </h2>
   </div>

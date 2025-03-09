@@ -1,5 +1,5 @@
 <template>
-  <span class="arrow" :class="{ animate }">
+  <span class="arrow">
     <span class="shape" :class="direction"></span>
   </span>
 </template>
@@ -7,14 +7,12 @@
 <script lang="ts" setup>
 type Props = {
   direction: "left" | "right";
-  animate?: boolean
 };
 
 const props = withDefaults(defineProps<Props>(), {
   direction: "right",
-  animate: false,
 });
-const { direction, animate } = toRefs(props);
+const { direction } = toRefs(props);
 </script>
 
 <style lang="postcss" scoped>
@@ -22,7 +20,7 @@ const { direction, animate } = toRefs(props);
   display: inline-block;
   height: 35px;
   position: relative;
-  width: 80px;
+  width: 48px;
 }
 
 .shape {
@@ -30,7 +28,6 @@ const { direction, animate } = toRefs(props);
   display: block;
   height: 1px;
   position: absolute;
-  transition: width 300ms var(--transition-timing);
   top: 17px;
   width: 48px;
 
@@ -50,12 +47,12 @@ const { direction, animate } = toRefs(props);
 
     &:before {
       transform-origin: left center;
-      transform: rotate(-45deg)
+      transform: rotate(-45deg);
     }
 
     &:after {
       transform-origin: left center;
-      transform: rotate(45deg)
+      transform: rotate(45deg);
     }
   }
 
@@ -65,18 +62,14 @@ const { direction, animate } = toRefs(props);
     &:before {
       right: 0;
       transform-origin: right center;
-      transform: rotate(-45deg)
+      transform: rotate(-45deg);
     }
 
     &:after {
       right: 0;
       transform-origin: right center;
-      transform: rotate(45deg)
+      transform: rotate(45deg);
     }
   }
-}
-
-.arrow.animate:hover .shape {
-  width: 100%;
 }
 </style>

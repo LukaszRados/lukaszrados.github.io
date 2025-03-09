@@ -30,7 +30,7 @@
       @click="navigate(-1)"
       :aria-label="$t('lightbox.prev')"
     >
-      <Arrow direction="left" :animate="false" />
+      <Arrow direction="left" />
     </button>
     <button
       type="button"
@@ -38,7 +38,7 @@
       @click="navigate(1)"
       :aria-label="$t('lightbox.next')"
     >
-      <Arrow direction="right" :animate="false" />
+      <Arrow direction="right" />
     </button>
   </div>
 </template>
