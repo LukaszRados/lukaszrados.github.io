@@ -13,7 +13,7 @@
         v-for="(photo, index) in surroundingPhotos"
         :key="photo.url"
       >
-        <img :src="buildImageUrl(photo.url)" />
+        <img :src="buildImageUrl(photo.url, 'c_limit,h_1400,w_1400')" />
       </div>
     </div>
     <button
@@ -62,7 +62,7 @@ const translate = ref("0");
 const touchDelta = ref(0);
 const touchInitial = ref<number | undefined>(undefined);
 const loadedPhotoUrls = ref<string[]>([]);
-const allPhotoUrls = computed(() => photos.value.map((photo) => photo.url))
+const allPhotoUrls = computed(() => photos.value.map((photo) => photo.url));
 
 const surroundingPhotos = computed(() => {
   return [
@@ -151,7 +151,7 @@ function preloadPhoto(photo: PhotographyItem) {
   image.addEventListener("load", () => {
     loadedPhotoUrls.value.push(photo.url);
   });
-  image.src = buildImageUrl(photo.url);
+  image.src = buildImageUrl(photo.url, "c_limit,h_1400,w_1400");
 }
 
 onMounted(() => {

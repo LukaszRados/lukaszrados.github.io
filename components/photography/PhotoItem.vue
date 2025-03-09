@@ -30,7 +30,9 @@ const isVertical = computed(() => photo.value.width < photo.value.height);
 const thumbnailUrl = computed(() =>
   buildImageUrl(photo.value.url, "c_limit,h_450,w_450")
 );
-const photoUrl = computed(() => buildImageUrl(photo.value.url));
+const photoUrl = computed(() =>
+  buildImageUrl(photo.value.url, "c_limit,h_1400,w_1400")
+);
 const paddingBottom = computed(
   () =>
     `padding-bottom: ${Math.round(

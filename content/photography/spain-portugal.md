@@ -81,10 +81,6 @@ photos:
     width: 1500
     height: 800
   -
-    url: v1620582430/photos/spain-portugal/spain-portugal-6_xulna9.jpg
-    width: 1200
-    height: 800
-  -
     url: v1/photos/spain-portugal/b9igjomdekfuqgwko0ti
     width: 1200
     height: 800

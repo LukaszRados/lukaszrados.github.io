@@ -80,4 +80,8 @@ photos:
     url: v1734036747/stories/acatenango-guatemala/d81uyfjwahyr2tp3jm6o.jpg
     width: 800
     height: 1200
+  -
+    url: v1734036740/stories/acatenango-guatemala/iqealwvmz1ecqwyklerm.jpg
+    width: 800
+    height: 1200
 ---

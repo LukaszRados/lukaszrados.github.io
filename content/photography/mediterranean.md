@@ -5,11 +5,15 @@ title_pl: Morze Śródziemne
 order: "08"
 photos:
   -
-    url: v1620582312/photos/mediterranean/mediterranean-11_ciw8ku.jpg
-    width: 800
-    height: 1200
+    url: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24_r0l8x7.jpg
+    width: 1200
+    height: 900
   -
-    url: v1620582312/photos/mediterranean/mediterranean-12_lbopml.jpg
+    url: v1620582312/photos/mediterranean/mediterranean-13_t8aqzr.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
     width: 1200
     height: 800
   -
@@ -21,25 +25,9 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582312/photos/mediterranean/mediterranean-9_vnnqzj.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1620582312/photos/mediterranean/mediterranean-10_uwsb2b.jpg
-    width: 800
-    height: 1200
-  -
-    url: v1620582312/photos/mediterranean/mediterranean-13_t8aqzr.jpg
-    width: 1200
-    height: 800
-  -
     url: v1620582313/photos/mediterranean/mediterranean-14_osoa0w.jpg
     width: 1200
     height: 900
-  -
-    url: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
-    width: 1200
-    height: 800
   -
     url: v1620582312/photos/mediterranean/mediterranean-3_zbxqff.jpg
     width: 1200
@@ -53,15 +41,7 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582312/photos/mediterranean/mediterranean-6_nlav6n.jpg
-    width: 1200
-    height: 800
-  -
     url: v1620582312/photos/mediterranean/mediterranean-7_bpygui.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1620582312/photos/mediterranean/mediterranean-8_poobxe.jpg
     width: 1200
     height: 800
 ---

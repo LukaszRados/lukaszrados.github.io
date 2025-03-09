@@ -77,10 +77,6 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1620582538/photos/the-netherlands-belgium/the-netherlands-belgium-14_kfkqyc.jpg
-    width: 1200
-    height: 800
-  -
     url: v1620582538/photos/the-netherlands-belgium/the-netherlands-belgium-16_pzo2n9.jpg
     width: 800
     height: 1200

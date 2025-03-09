@@ -61,10 +61,6 @@ photos:
     width: 800
     height: 1200
   -
-    url: v1620582414/photos/poland-mountains/poland-mountains-20_vr1vl7.jpg
-    width: 1400
-    height: 815
-  -
     url: v1620582415/photos/poland-mountains/poland-mountains-30_qkxj0a.jpg
     width: 951
     height: 1200
