@@ -18,9 +18,16 @@ const { direction } = toRefs(props);
 <style lang="postcss" scoped>
 .arrow {
   display: inline-block;
-  height: 35px;
+  height: 24px;
   position: relative;
-  width: 48px;
+  width: 32px;
+}
+
+@media (min-width: 900px) {
+  .arrow {
+    height: 35px;
+    width: 48px;
+  }
 }
 
 .shape {
@@ -28,8 +35,13 @@ const { direction } = toRefs(props);
   display: block;
   height: 1px;
   position: absolute;
-  top: 17px;
-  width: 48px;
+  top: 12px;
+  width: 32px;
+
+  @media (min-width: 900px) {
+    top: 17px;
+    width: 48px;
+  }
 
   &:before,
   &:after {
@@ -39,7 +51,11 @@ const { direction } = toRefs(props);
     height: 1px;
     position: absolute;
     top: 0;
-    width: 16px;
+    width: 12px;
+
+    @media (min-width: 900px) {
+      width: 16px;
+    }
   }
 
   &.left {
