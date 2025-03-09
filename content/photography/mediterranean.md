@@ -2,7 +2,7 @@
 background: v1620582313/photos/mediterranean/mediterranean-15_gbkvpz.jpg
 title_en: Mediterranean Sea
 title_pl: Morze Śródziemne
-order: "08"
+order: "09"
 photos:
   -
     url: v1620583004/stories/covid-19-sailing-mediterranean/covid-19-sailing-mediterranean-24_r0l8x7.jpg

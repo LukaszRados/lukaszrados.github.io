@@ -2,7 +2,7 @@
 background: v1734043793/stories/acatenango-guatemala/t6mnauxs3rpexgxvr6md.jpg
 title_en: Guatemala
 title_pl: Gwatemala
-order: "09"
+order: "08"
 photos:
   -
     url: v1734036739/stories/acatenango-guatemala/tv9nxv9lplhggdemp19d.jpg
