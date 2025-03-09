@@ -66,7 +66,7 @@ photos:
     height: 800
   -
     url: v1741538943/photos/spain/tlmvzawrcilvml8zwbdv.jpg
-    width: 1200
+    width: 1400
     height: 875
   -
     url: v1741538942/photos/spain/uaojtxzduf1gdcber3en.jpg
