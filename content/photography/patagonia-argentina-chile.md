@@ -45,6 +45,14 @@ photos:
     width: 800
     height: 1200
   -
+    url: v1663433041/stories/patagonia-roadtrip/537_rbaisf.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1663433039/stories/patagonia-roadtrip/513_aelsmf.jpg
+    width: 900
+    height: 1200
+  -
     url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-10_efqkcm.jpg
     width: 1200
     height: 800
@@ -60,6 +68,10 @@ photos:
     url: v1620582356/photos/patagonia-argentina-chile/patagonia-argentina-chile-2_f5pwzf.jpg
     width: 1200
     height: 800
+  -
+    url: v1663433042/stories/patagonia-roadtrip/550_pk2lww.jpg
+    width: 1200
+    height: 706
   -
     url: v1620582357/photos/patagonia-argentina-chile/patagonia-argentina-chile-15_fox0tn.jpg
     width: 1200
