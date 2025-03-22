@@ -5,11 +5,13 @@
     ref="element"
   >
     <div class="spacing" :style="`padding-bottom: ${padding}%`"></div>
-    <img v-if="isLoaded" :src="src" alt="" />
+    <img v-if="isLoaded" :src="photoUrl" alt="" />
   </picture>
 </template>
 
 <script lang="ts" setup>
+import { buildImageUrl } from "@/helpers/image-url";
+
 type Props = {
   src: string;
   padding: string;
@@ -20,6 +22,14 @@ const { padding, src } = toRefs(props);
 
 const isLoaded = ref(false);
 const isHorizontal = computed(() => Number(padding.value) < 100);
+const resizeParams = computed(() =>
+  isHorizontal.value ? "f_auto,w_1400" : "f_auto,h_1400"
+);
+const photoUrl = computed(() =>
+  src.value.startsWith("https://")
+    ? src.value
+    : buildImageUrl(src.value, resizeParams.value)
+);
 
 const element = ref<HTMLDivElement>();
 
