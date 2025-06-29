@@ -23,7 +23,7 @@ type Props = {
 const props = defineProps<Props>();
 
 const imageUrl = computed(() =>
-  buildImageUrl(props.post.background, "c_fill,h_330,w_500")
+  buildImageUrl(props.post.background, "c_fill,h_350,w_600")
 );
 
 const localePath = useLocalePath();
@@ -37,7 +37,7 @@ const postUrl = localePath(`/blog/${slug}`);
   display: block;
   margin-bottom: 24px;
   overflow: hidden;
-  padding-bottom: 66%;
+  padding-bottom: 58%;
   position: relative;
 
   img {

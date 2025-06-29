@@ -16,7 +16,7 @@ export default {
     button: "Back to the homepage",
   },
   home: {
-    title: "Landscape Photographer & Frontend Developer",
+    title: "Photography",
     description: "Personal website of Landscape Photographer & Frontend Developer",
   },
   blog: {

@@ -33,13 +33,12 @@ useSeoMeta({
 .list {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 64px;
+  gap: 32px;
   margin: 0 16px;
 }
 
 @media (min-width: 700px) {
   .list {
-    gap: 32px;
     grid-template-columns: repeat(2, 1fr);
     max-width: 1000px;
     margin: 32px auto;
@@ -55,7 +54,7 @@ useSeoMeta({
 
 @media (min-width: 1200px) {
   .list {
-    gap: 120px;
+    gap: 120px 48px;
     margin: 48px auto;
     padding: 0 32px;
   }

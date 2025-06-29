@@ -16,7 +16,7 @@ export default {
     button: "Wróc do strony głównej",
   },
   home: {
-    title: "Fotograf Krajobrazu i Frontend Developer",
+    title: "Fotografia",
     description: "Strona internetowa fotografa krajobrazu i frontend developera",
   },
   blog: {
