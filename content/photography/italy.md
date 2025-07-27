@@ -21,7 +21,7 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1753625895/photos/italy/DSC08687_bt3os7.jpg
+    url: v1753626564/photos/italy/DSC08687_niubat.jpg
     width: 1200
     height: 800
   -
