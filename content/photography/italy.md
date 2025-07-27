@@ -5,7 +5,23 @@ title_pl: Włochy
 order: "065"
 photos:
   -
+    url: v1741535375/photos/italy/fphhm1sn1qnzdmjkg8zz.jpg
+    width: 2000
+    height: 1250
+  -
+    url: v1741535375/photos/italy/ykhtmn1n01mhrvv8hjca.jpg
+    width: 800
+    height: 1200
+  -
     url: v1741535375/photos/italy/e7bbkma7qpknmaau6jxg.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1753625895/photos/italy/DSC08977_h1fnp2.jpg
+    width: 1200
+    height: 800
+  -
+    url: v1753625895/photos/italy/DSC08687_bt3os7.jpg
     width: 1200
     height: 800
   -
@@ -16,14 +32,6 @@ photos:
     url: v1741535376/photos/italy/zmuxt1zzmaeobyfsqvmh.jpg
     width: 1200
     height: 800
-  -
-    url: v1741535375/photos/italy/ykhtmn1n01mhrvv8hjca.jpg
-    width: 800
-    height: 1200
-  -
-    url: v1741535375/photos/italy/fphhm1sn1qnzdmjkg8zz.jpg
-    width: 2000
-    height: 1250
   -
     url: v1741535377/photos/italy/zdctsomqlfamgfsqnolu.jpg
     width: 800
@@ -38,10 +46,6 @@ photos:
     height: 800
   -
     url: v1741535377/photos/italy/r4dv2jt8mati9wynozcs.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1741535377/photos/italy/gdnvpnpa5vfejmkiy8sk.jpg
     width: 1200
     height: 800
   -
@@ -65,15 +69,7 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1741535376/photos/italy/xscpvejndjcu5xa8sa1l.jpg
-    width: 1200
-    height: 800
-  -
     url: v1741535376/photos/italy/s9jm76kokgnkjcyzthay.jpg
-    width: 1200
-    height: 800
-  -
-    url: v1741535376/photos/italy/yysiexrdmzmn3vc9gyj0.jpg
     width: 1200
     height: 800
   -
