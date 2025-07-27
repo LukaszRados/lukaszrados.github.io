@@ -15,7 +15,7 @@
     "@nuxtjs/i18n": "8.3.1",
     "nuxt": "3.15.0",
     "nuxt-feedme": "1.0.0",
-    "postcss-nested": "^6.0.1",
+    "postcss-nested": "^6.2.0",
     "postcss-nested-ancestors": "^3.0.0",
     "vue": "3.5.13",
     "vue-router": "4.5.0"
