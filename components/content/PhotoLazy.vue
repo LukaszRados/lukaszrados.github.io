@@ -23,7 +23,7 @@ const { padding, src } = toRefs(props);
 const isLoaded = ref(false);
 const isHorizontal = computed(() => Number(padding.value) < 100);
 const resizeParams = computed(() =>
-  isHorizontal.value ? "f_auto,w_1400" : "f_auto,h_1400"
+  isHorizontal.value ? "f_auto,w_1500" : "f_auto,h_1200"
 );
 const photoUrl = computed(() =>
   src.value.startsWith("https://")
