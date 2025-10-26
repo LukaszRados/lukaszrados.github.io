@@ -53,7 +53,7 @@ useSeoMeta({
   .list {
     grid-template-columns: repeat(3, 1fr);
     margin: 48px auto;
-    gap: 48px 24px;
+    gap: 64px 48px;
   }
 }
 </style>
