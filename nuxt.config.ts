@@ -53,7 +53,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   modules: [
-    "@nuxtjs/color-mode",
     "@nuxt/content",
     "@nuxtjs/i18n",
     "nuxt-feedme",
