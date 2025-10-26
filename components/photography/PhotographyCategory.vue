@@ -70,7 +70,7 @@ function close() {
 @media (min-width: 1200px) {
   .wrapper {
     margin: 48px auto;
-    max-width: var(--max-width-large);
+    max-width: 1700px;
   }
 }
 
@@ -117,7 +117,6 @@ function close() {
 
 @media (min-width: 1200px) {
   .photos {
-    gap: 96px;
     grid-template-columns: repeat(3, 1fr);
   }
 }

@@ -7,7 +7,7 @@
         :style="paddingBottom"
         @click.prevent="onClick"
       >
-        <img :src="thumbnailUrl" alt="" />
+        <img :src="thumbnailUrl" alt="" loading="lazy" />
       </a>
     </div>
   </div>
@@ -28,7 +28,7 @@ const emit = defineEmits(["click"]);
 
 const isVertical = computed(() => photo.value.width < photo.value.height);
 const thumbnailUrl = computed(() =>
-  buildImageUrl(photo.value.url, "c_limit,h_450,w_450")
+  buildImageUrl(photo.value.url, "c_limit,h_550,w_550")
 );
 const photoUrl = computed(() =>
   buildImageUrl(photo.value.url, "c_limit,h_1400,w_1400")
