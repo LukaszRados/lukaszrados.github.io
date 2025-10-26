@@ -34,10 +34,9 @@ const localePath = useLocalePath();
   margin: 0 auto 32px;
   max-width: 900px;
   padding: 0 16px;
-  text-align: center;
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: normal;
     line-height: 1.375;
     margin: 16px 0;
