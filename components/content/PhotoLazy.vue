@@ -1,12 +1,14 @@
 <template>
-  <picture
-    class="photo"
-    :class="isHorizontal ? 'horizontal' : 'vertical'"
-    ref="element"
-  >
-    <div class="spacing" :style="`padding-bottom: ${padding}%`"></div>
-    <img v-if="isLoaded" :src="photoUrl" alt="" />
-  </picture>
+  <div class="wrapper" :class="border ? 'border' : ''">
+    <picture
+      class="photo"
+      :class="isHorizontal ? 'horizontal' : 'vertical'"
+      ref="element"
+    >
+      <div class="spacing" :style="`padding-bottom: ${padding}%`"></div>
+      <img v-if="isLoaded" :src="photoUrl" alt="" />
+    </picture>
+  </div>
 </template>
 
 <script lang="ts" setup>
@@ -15,15 +17,16 @@ import { buildImageUrl } from "@/helpers/image-url";
 type Props = {
   src: string;
   padding: string;
+  border?: boolean;
 };
 
 const props = defineProps<Props>();
-const { padding, src } = toRefs(props);
+const { padding, src, border } = toRefs(props);
 
 const isLoaded = ref(false);
 const isHorizontal = computed(() => Number(padding.value) < 100);
 const resizeParams = computed(() =>
-  isHorizontal.value ? "f_auto,w_1500" : "f_auto,h_1200"
+  isHorizontal.value ? "w_2000" : "h_1400"
 );
 const photoUrl = computed(() =>
   src.value.startsWith("https://")
@@ -55,6 +58,16 @@ onUnmounted(() => {
 </script>
 
 <style lang="postcss" scoped>
+.wrapper.border {
+  @media screen and (min-width: 700px) {
+    padding: 32px;
+  }
+
+  @media screen and (min-width: 1200px) {
+    padding: 64px;
+  }
+}
+
 .photo {
   background-color: var(--image-background-color);
   display: block;

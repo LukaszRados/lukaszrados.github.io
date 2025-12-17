@@ -11,7 +11,7 @@
   margin: 0 auto;
 
   @media screen and (min-width: 700px) {
-    align-items: flex-start;
+    align-items: center;
     grid-template-columns: repeat(2, 1fr);
     justify-content: space-between;
     margin: 16px auto;
