@@ -25,9 +25,9 @@ photos:
     width: 1200
     height: 800
   -
-    url: v1715690675/photos/spain-portugal/vvzbourj6ytvsyu3yv7x.jpg
-    width: 1200
-    height: 800
+    url: v1778959535/photos/spain/costa-brava-100_pi6rqk.jpg
+    width: 2000
+    height: 1333
   -
     url: v1/photos/spain-portugal/p3e2xoimlfhg1hywgc5l
     width: 1200
@@ -38,6 +38,10 @@ photos:
     height: 1200
   -
     url: v1/photos/spain-portugal/pbc7kl6j7weysakdq538
+    width: 1200
+    height: 800
+  -
+    url: v1715690675/photos/spain-portugal/vvzbourj6ytvsyu3yv7x.jpg
     width: 1200
     height: 800
   -
@@ -72,10 +76,6 @@ photos:
     url: v1741538943/photos/spain/tlmvzawrcilvml8zwbdv.jpg
     width: 1400
     height: 875
-  -
-    url: v1741538942/photos/spain/uaojtxzduf1gdcber3en.jpg
-    width: 1200
-    height: 800
   -
     url: v1741538942/photos/spain/eurhqlnjdd2sefnxqufb.jpg
     width: 1200
