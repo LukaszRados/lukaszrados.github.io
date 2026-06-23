@@ -40,7 +40,7 @@ useSeoMeta({
 @media (min-width: 700px) {
   .list {
     grid-template-columns: repeat(2, 1fr);
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 32px auto;
     padding: 0 16px;
   }
@@ -54,7 +54,7 @@ useSeoMeta({
 
 @media (min-width: 1200px) {
   .list {
-    gap: 120px 48px;
+    gap: 120px 64px;
     margin: 48px auto;
     padding: 0 32px;
   }

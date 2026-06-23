@@ -23,7 +23,7 @@ type Props = {
 const props = defineProps<Props>();
 
 const imageUrl = computed(() =>
-  buildImageUrl(props.post.background, "c_fill,h_350,w_600")
+  buildImageUrl(props.post.background, "c_fill,h_410,w_700")
 );
 
 const localePath = useLocalePath();
