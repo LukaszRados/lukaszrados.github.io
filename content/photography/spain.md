@@ -13,6 +13,10 @@ photos:
     width: 1200
     height: 800
   -
+    url: v1791148674/photos/spain/DSC06274_kqy8np.jpg
+    width: 2000
+    height: 1333
+  -
     url: v1663341018/stories/asturias-cantabria-basque-country/asturias-cantabria-basque-country-17_mq4s33.jpg
     width: 1200
     height: 800
@@ -29,9 +33,17 @@ photos:
     width: 2000
     height: 1333
   -
+    url: v1791148674/photos/spain/DSC06693_z0chew.jpg
+    width: 2000
+    height: 1333
+  -
     url: v1/photos/spain-portugal/p3e2xoimlfhg1hywgc5l
     width: 1200
     height: 800
+  -
+    url: v1791148733/photos/spain/DSC06058_fntbzf.jpg
+    width: 2000
+    height: 1333
   -
     url: v1741540202/photos/andorra/q1i3ooslzwfvprzgn4i3.jpg
     width: 800
