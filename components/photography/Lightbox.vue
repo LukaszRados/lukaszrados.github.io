@@ -178,11 +178,11 @@ onUnmounted(() => {
 <style lang="postcss" scoped>
 .lightbox {
   background: var(--background-color);
-  height: 100%;
+  height: 100dvh;
   left: 0;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 100dvw;
   z-index: 30;
 }
 
@@ -212,8 +212,15 @@ onUnmounted(() => {
   }
 
   img {
-    max-width: 100vw;
-    max-height: 100vh;
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  @media (hover) {
+    img {
+      max-width: calc(100% - 32px);
+      max-height: calc(100% - 32px);
+    }
   }
 }
 
